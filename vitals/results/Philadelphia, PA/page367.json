@@ -1,0 +1,2248 @@
+{
+    "took": 61,
+    "timed_out": false,
+    "_shards": {
+        "total": 2,
+        "successful": 2,
+        "skipped": 0,
+        "failed": 0
+    },
+    "hits": {
+        "total": 9616,
+        "max_score": null,
+        "hits": [
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1tp2zg_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1tp2zg",
+                    "city_state": "Norristown, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Dalia A Mohammed",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1693567\/photo.jpg"
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Family Medicine"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Dalia_Mohammed.html",
+                            "slug": "Dr_Dalia_Mohammed.html"
+                        }
+                    },
+                    "number_of_ratings": 1,
+                    "locations": [
+                        {
+                            "city_state": "Emmaus, PA",
+                            "city": "Emmaus",
+                            "address1": "619 Dalton St",
+                            "_geoloc": {
+                                "lng": -75.486505,
+                                "lat": 40.551722
+                            },
+                            "state": "PA"
+                        },
+                        {
+                            "city_state": "Norristown, PA",
+                            "city": "Norristown",
+                            "address1": "1330 Powell St Ste 409",
+                            "_geoloc": {
+                                "lng": -75.336357,
+                                "lat": 40.123425
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 1,
+                    "url": "\/doctors\/Dr_Dalia_Mohammed.html",
+                    "slug": "Dr_Dalia_Mohammed.html"
+                },
+                "fields": {
+                    "distance": 14.972423188055405
+                },
+                "sort": [
+                    14.973164877919713
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "zxq8hn_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "zxq8hn",
+                    "years_experience": 38,
+                    "city_state": "Norristown, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Jill Schneider",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Ophthalmology"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Jill_Schneider.html",
+                            "slug": "Dr_Jill_Schneider.html"
+                        }
+                    },
+                    "number_of_ratings": 13,
+                    "locations": [
+                        {
+                            "city_state": "Norristown, PA",
+                            "city": "Norristown",
+                            "address1": "1330 Powell St Ste 301",
+                            "_geoloc": {
+                                "lng": -75.336357,
+                                "lat": 40.123425
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 4.461538461538462,
+                    "url": "\/doctors\/Dr_Jill_Schneider.html",
+                    "slug": "Dr_Jill_Schneider.html"
+                },
+                "fields": {
+                    "distance": 14.972423188055405
+                },
+                "sort": [
+                    14.973164877919713
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1zx8t1_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1zx8t1",
+                    "years_experience": 37,
+                    "city_state": "Norristown, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Robert F Schiowitz",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Surgery"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Robert_Schiowitz.html",
+                            "slug": "Dr_Robert_Schiowitz.html"
+                        }
+                    },
+                    "number_of_ratings": 14,
+                    "locations": [
+                        {
+                            "city_state": "Norristown, PA",
+                            "city": "Norristown",
+                            "address1": "1330 Powell St Ste 603",
+                            "_geoloc": {
+                                "lng": -75.336357,
+                                "lat": 40.123425
+                            },
+                            "state": "PA"
+                        },
+                        {
+                            "city_state": "Norristown, PA",
+                            "city": "Norristown",
+                            "address1": "609 W Germantown Pike Ste 140",
+                            "_geoloc": {
+                                "lng": -75.347154,
+                                "lat": 40.151994
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 3.9285714285714284,
+                    "url": "\/doctors\/Dr_Robert_Schiowitz.html",
+                    "slug": "Dr_Robert_Schiowitz.html"
+                },
+                "fields": {
+                    "distance": 14.972423188055405
+                },
+                "sort": [
+                    14.973164877919713
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1ty7t0_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1ty7t0",
+                    "years_experience": 28,
+                    "city_state": "Norristown, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Mahalakshmi Srinivasan",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1482119\/photo.jpg"
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Family Medicine"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Mahalakshmi_Srinivasan.html",
+                            "slug": "Dr_Mahalakshmi_Srinivasan.html"
+                        }
+                    },
+                    "number_of_ratings": 5,
+                    "locations": [
+                        {
+                            "city_state": "Norristown, PA",
+                            "city": "Norristown",
+                            "address1": "342 W Germantown Pike Ste 200",
+                            "_geoloc": {
+                                "lng": -75.331482,
+                                "lat": 40.148056
+                            },
+                            "state": "PA"
+                        },
+                        {
+                            "city_state": "Norristown, PA",
+                            "city": "Norristown",
+                            "address1": "1330 Powell St Ste 409",
+                            "_geoloc": {
+                                "lng": -75.336357,
+                                "lat": 40.123425
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 4.733333333333336,
+                    "url": "\/doctors\/Dr_Mahalakshmi_Srinivasan.html",
+                    "slug": "Dr_Mahalakshmi_Srinivasan.html"
+                },
+                "fields": {
+                    "distance": 14.972423188055405
+                },
+                "sort": [
+                    14.973164877919713
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "ztdyty_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "ztdyty",
+                    "years_experience": 40,
+                    "city_state": "Norristown, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Arthur D Belber",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Cardiovascular Disease",
+                        "Internal Medicine"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Arthur_Belber.html",
+                            "slug": "Dr_Arthur_Belber.html"
+                        }
+                    },
+                    "number_of_ratings": 9,
+                    "locations": [
+                        {
+                            "city_state": "Norristown, PA",
+                            "city": "Norristown",
+                            "address1": "1330 Powell St Ste 301",
+                            "_geoloc": {
+                                "lng": -75.336357,
+                                "lat": 40.123425
+                            },
+                            "state": "PA"
+                        },
+                        {
+                            "city_state": "Norristown, PA",
+                            "city": "Norristown",
+                            "address1": "609 W Germantown Pike Ste 120",
+                            "_geoloc": {
+                                "lng": -75.347154,
+                                "lat": 40.151994
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 4.777777777777778,
+                    "url": "\/doctors\/Dr_Arthur_Belber.html",
+                    "slug": "Dr_Arthur_Belber.html"
+                },
+                "fields": {
+                    "distance": 14.972423188055405
+                },
+                "sort": [
+                    14.973164877919713
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1qfy5b_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1qfy5b",
+                    "years_experience": 38,
+                    "city_state": "Norristown, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Jill Schneider",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Ophthalmology"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Jill_Schneider.html",
+                            "slug": "Dr_Jill_Schneider.html"
+                        }
+                    },
+                    "number_of_ratings": 13,
+                    "locations": [
+                        {
+                            "city_state": "Norristown, PA",
+                            "city": "Norristown",
+                            "address1": "1330 Powell St Ste 301",
+                            "_geoloc": {
+                                "lng": -75.336357,
+                                "lat": 40.123425
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 4.461538461538462,
+                    "url": "\/doctors\/Dr_Jill_Schneider.html",
+                    "slug": "Dr_Jill_Schneider.html"
+                },
+                "fields": {
+                    "distance": 14.972423188055405
+                },
+                "sort": [
+                    14.973164877919713
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1zm4c9_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1zm4c9",
+                    "years_experience": 46,
+                    "city_state": "Norristown, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Robert N Belasco",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Cardiovascular Disease",
+                        "Internal Medicine"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Robert_Belasco.html",
+                            "slug": "Dr_Robert_Belasco.html"
+                        }
+                    },
+                    "number_of_ratings": 11,
+                    "locations": [
+                        {
+                            "city_state": "Norristown, PA",
+                            "city": "Norristown",
+                            "address1": "1330 Powell St Ste 301",
+                            "_geoloc": {
+                                "lng": -75.336357,
+                                "lat": 40.123425
+                            },
+                            "state": "PA"
+                        },
+                        {
+                            "city_state": "Norristown, PA",
+                            "city": "Norristown",
+                            "address1": "609 W Germantown Pike Ste 120",
+                            "_geoloc": {
+                                "lng": -75.347154,
+                                "lat": 40.151994
+                            },
+                            "state": "PA"
+                        },
+                        {
+                            "city_state": "Norristown, PA",
+                            "city": "Norristown",
+                            "address1": "559 W Germantown Pike",
+                            "_geoloc": {
+                                "lng": -75.34324,
+                                "lat": 40.15337
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 4.757575757575757,
+                    "url": "\/doctors\/Dr_Robert_Belasco.html",
+                    "slug": "Dr_Robert_Belasco.html"
+                },
+                "fields": {
+                    "distance": 14.972423188055405
+                },
+                "sort": [
+                    14.973164877919713
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1tcp6p_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1tcp6p",
+                    "years_experience": 25,
+                    "city_state": "Norristown, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Adil Shakir",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Geriatric Medicine",
+                        "Family Medicine"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Adil_Shakir.html",
+                            "slug": "Dr_Adil_Shakir.html"
+                        }
+                    },
+                    "number_of_ratings": 5,
+                    "locations": [
+                        {
+                            "city_state": "Norristown, PA",
+                            "city": "Norristown",
+                            "address1": "1330 Powell St Ste 409",
+                            "_geoloc": {
+                                "lng": -75.336357,
+                                "lat": 40.123425
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 4.4,
+                    "url": "\/doctors\/Dr_Adil_Shakir.html",
+                    "slug": "Dr_Adil_Shakir.html"
+                },
+                "fields": {
+                    "distance": 14.972423188055405
+                },
+                "sort": [
+                    14.973164877919713
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1s30hz_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1s30hz",
+                    "years_experience": 24,
+                    "city_state": "Norristown, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Malek G Numeir",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Internal Medicine"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Malek_Numeir.html",
+                            "slug": "Dr_Malek_Numeir.html"
+                        }
+                    },
+                    "number_of_ratings": 1,
+                    "locations": [
+                        {
+                            "city_state": "Norristown, PA",
+                            "city": "Norristown",
+                            "address1": "1330 Powell St",
+                            "_geoloc": {
+                                "lng": -75.336357,
+                                "lat": 40.123425
+                            },
+                            "state": "PA"
+                        },
+                        {
+                            "city_state": "Norristown, PA",
+                            "city": "Norristown",
+                            "address1": "559 W Germantown Pike # 4136",
+                            "_geoloc": {
+                                "lng": -75.34324,
+                                "lat": 40.15337
+                            },
+                            "state": "PA"
+                        },
+                        {
+                            "city_state": "Bethlehem, PA",
+                            "city": "Bethlehem",
+                            "address1": "709 Delaware Ave",
+                            "_geoloc": {
+                                "lng": -75.390774,
+                                "lat": 40.609063
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 5,
+                    "url": "\/doctors\/Dr_Malek_Numeir.html",
+                    "slug": "Dr_Malek_Numeir.html"
+                },
+                "fields": {
+                    "distance": 14.972423188055405
+                },
+                "sort": [
+                    14.973164877919713
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1tkgc7_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1tkgc7",
+                    "years_experience": 12,
+                    "city_state": "Norristown, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Ann D George",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Family Medicine"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Ann_George.html",
+                            "slug": "Dr_Ann_George.html"
+                        }
+                    },
+                    "number_of_ratings": 7,
+                    "locations": [
+                        {
+                            "city_state": "Norristown, PA",
+                            "city": "Norristown",
+                            "address1": "1330 Powell St",
+                            "_geoloc": {
+                                "lng": -75.336357,
+                                "lat": 40.123425
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 4.285714285714286,
+                    "url": "\/doctors\/Dr_Ann_George.html",
+                    "slug": "Dr_Ann_George.html"
+                },
+                "fields": {
+                    "distance": 14.972423188055405
+                },
+                "sort": [
+                    14.973164877919713
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "ztynxf_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "ztynxf",
+                    "years_experience": 46,
+                    "city_state": "Norristown, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Robert N Belasco",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Cardiovascular Disease",
+                        "Internal Medicine"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Robert_Belasco.html",
+                            "slug": "Dr_Robert_Belasco.html"
+                        }
+                    },
+                    "number_of_ratings": 11,
+                    "locations": [
+                        {
+                            "city_state": "Norristown, PA",
+                            "city": "Norristown",
+                            "address1": "1330 Powell St Ste 301",
+                            "_geoloc": {
+                                "lng": -75.336357,
+                                "lat": 40.123425
+                            },
+                            "state": "PA"
+                        },
+                        {
+                            "city_state": "Norristown, PA",
+                            "city": "Norristown",
+                            "address1": "559 W Germantown Pike",
+                            "_geoloc": {
+                                "lng": -75.34324,
+                                "lat": 40.15337
+                            },
+                            "state": "PA"
+                        },
+                        {
+                            "city_state": "Norristown, PA",
+                            "city": "Norristown",
+                            "address1": "609 W Germantown Pike Ste 120",
+                            "_geoloc": {
+                                "lng": -75.347154,
+                                "lat": 40.151994
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 4.757575757575757,
+                    "url": "\/doctors\/Dr_Robert_Belasco.html",
+                    "slug": "Dr_Robert_Belasco.html"
+                },
+                "fields": {
+                    "distance": 14.972423188055405
+                },
+                "sort": [
+                    14.973164877919713
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1z69q8_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1z69q8",
+                    "years_experience": 24,
+                    "city_state": "King Of Prussia, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Weiguo V Li",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1575771\/photo.jpg"
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Family Medicine"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Weiguo_Li.html",
+                            "slug": "Dr_Weiguo_Li.html"
+                        }
+                    },
+                    "number_of_ratings": 2,
+                    "locations": [
+                        {
+                            "city_state": "King Of Prussia, PA",
+                            "city": "King Of Prussia",
+                            "address1": "677 W Dekalb Pike",
+                            "_geoloc": {
+                                "lng": -75.385536,
+                                "lat": 40.086399
+                            },
+                            "state": "PA"
+                        },
+                        {
+                            "city_state": "King Of Prussia, PA",
+                            "city": "King Of Prussia",
+                            "address1": "625 Clark Ave Ste 17A",
+                            "_geoloc": {
+                                "lng": -75.402981,
+                                "lat": 40.097507
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 4,
+                    "url": "\/doctors\/Dr_Weiguo_Li.html",
+                    "slug": "Dr_Weiguo_Li.html"
+                },
+                "fields": {
+                    "distance": 14.977453328166607
+                },
+                "sort": [
+                    14.978194052095622
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1pj9dq_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1pj9dq",
+                    "city_state": "Philadelphia, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Richard A Koff",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Family Medicine"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Richard_Koff.html",
+                            "slug": "Dr_Richard_Koff.html"
+                        }
+                    },
+                    "number_of_ratings": 34,
+                    "locations": [
+                        {
+                            "city_state": "Richboro, PA",
+                            "city": "Richboro",
+                            "address1": "130 Almshouse Rd Ste 600A",
+                            "_geoloc": {
+                                "lng": -75.016545,
+                                "lat": 40.2164
+                            },
+                            "state": "PA"
+                        },
+                        {
+                            "city_state": "Philadelphia, PA",
+                            "city": "Philadelphia",
+                            "address1": "15200 Bustleton Ave",
+                            "_geoloc": {
+                                "lng": -75.00991,
+                                "lat": 40.13381
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 4.166666666666666,
+                    "url": "\/doctors\/Dr_Richard_Koff.html",
+                    "slug": "Dr_Richard_Koff.html"
+                },
+                "fields": {
+                    "distance": 14.989111514033588
+                },
+                "sort": [
+                    14.989849414786068
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1xh8gy_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1xh8gy",
+                    "years_experience": 29,
+                    "city_state": "Norristown, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Susan B Ginsberg",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Internal Medicine"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Susan_B_Ginsberg.html",
+                            "slug": "Dr_Susan_B_Ginsberg.html"
+                        }
+                    },
+                    "number_of_ratings": 4,
+                    "locations": [
+                        {
+                            "city_state": "Norristown, PA",
+                            "city": "Norristown",
+                            "address1": "1301 Powell St Rm 123",
+                            "_geoloc": {
+                                "lng": -75.33701,
+                                "lat": 40.12351
+                            },
+                            "state": "PA"
+                        },
+                        {
+                            "city_state": "Norristown, PA",
+                            "city": "Norristown",
+                            "address1": "559 W Germantown Pike",
+                            "_geoloc": {
+                                "lng": -75.34324,
+                                "lat": 40.15337
+                            },
+                            "state": "PA"
+                        },
+                        {
+                            "city_state": "Exton, PA",
+                            "city": "Exton",
+                            "address1": "501 Thomas Jones Way",
+                            "_geoloc": {
+                                "lng": -75.654827,
+                                "lat": 40.021985
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 4.75,
+                    "url": "\/doctors\/Dr_Susan_B_Ginsberg.html",
+                    "slug": "Dr_Susan_B_Ginsberg.html"
+                },
+                "fields": {
+                    "distance": 14.998150672315324
+                },
+                "sort": [
+                    14.998894328635028
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1qpc0q_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1qpc0q",
+                    "years_experience": 41,
+                    "city_state": "Norristown, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Steven D Morse",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1552911\/photo.jpg"
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Emergency Medicine"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Steven_D_Morse.html",
+                            "slug": "Dr_Steven_D_Morse.html"
+                        }
+                    },
+                    "number_of_ratings": 5,
+                    "locations": [
+                        {
+                            "city_state": "Norristown, PA",
+                            "city": "Norristown",
+                            "address1": "1301 Powell St",
+                            "_geoloc": {
+                                "lng": -75.33701,
+                                "lat": 40.12351
+                            },
+                            "state": "PA"
+                        },
+                        {
+                            "city_state": "Newtown, PA",
+                            "city": "Newtown",
+                            "address1": "2873 S Eagle Rd",
+                            "_geoloc": {
+                                "lng": -74.941484,
+                                "lat": 40.235048
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 4.266666666666664,
+                    "url": "\/doctors\/Dr_Steven_D_Morse.html",
+                    "slug": "Dr_Steven_D_Morse.html"
+                },
+                "fields": {
+                    "distance": 14.998150672315324
+                },
+                "sort": [
+                    14.998894328635028
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1s2mr5_doctor",
+                "_score": null,
+                "_source": {
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Diagnostic Radiology",
+                        "Radiology"
+                    ],
+                    "vpid": "1s2mr5",
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Delaine_Mandell.html",
+                            "slug": "Dr_Delaine_Mandell.html"
+                        }
+                    },
+                    "years_experience": 36,
+                    "city_state": "Norristown, PA",
+                    "degree": "MD",
+                    "locations": [
+                        {
+                            "city_state": "Norristown, PA",
+                            "city": "Norristown",
+                            "address1": "1301 Powell St",
+                            "_geoloc": {
+                                "lng": -75.33701,
+                                "lat": 40.12351
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "type": "doctor",
+                    "display_name": "Dr. Delaine M Mandell",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "url": "\/doctors\/Dr_Delaine_Mandell.html",
+                    "slug": "Dr_Delaine_Mandell.html"
+                },
+                "fields": {
+                    "distance": 14.998150672315324
+                },
+                "sort": [
+                    14.998894328635028
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1pnwqt_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1pnwqt",
+                    "years_experience": 22,
+                    "city_state": "Norristown, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Srinivasa R Tirumalareddy",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Internal Medicine"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Srinivasa_Tirumalareddy.html",
+                            "slug": "Dr_Srinivasa_Tirumalareddy.html"
+                        }
+                    },
+                    "number_of_ratings": 1,
+                    "locations": [
+                        {
+                            "city_state": "Norristown, PA",
+                            "city": "Norristown",
+                            "address1": "1301 Powell St Rm 123",
+                            "_geoloc": {
+                                "lng": -75.33701,
+                                "lat": 40.12351
+                            },
+                            "state": "PA"
+                        },
+                        {
+                            "city_state": "Norristown, PA",
+                            "city": "Norristown",
+                            "address1": "559 W Germantown Pike # 4136",
+                            "_geoloc": {
+                                "lng": -75.34324,
+                                "lat": 40.15337
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 5,
+                    "url": "\/doctors\/Dr_Srinivasa_Tirumalareddy.html",
+                    "slug": "Dr_Srinivasa_Tirumalareddy.html"
+                },
+                "fields": {
+                    "distance": 14.998150672315324
+                },
+                "sort": [
+                    14.998894328635028
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1qtjs9_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1qtjs9",
+                    "years_experience": 32,
+                    "city_state": "Ambler, PA",
+                    "degree": "DO",
+                    "type": "doctor",
+                    "display_name": "Dr. Carol D Bowes-Lawlor",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1889532\/photo.jpg"
+                        }
+                    },
+                    "degrees": [
+                        "DO"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Family Medicine"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Carol_Bowes-Lawlor.html",
+                            "slug": "Dr_Carol_Bowes-Lawlor.html"
+                        }
+                    },
+                    "number_of_ratings": 30,
+                    "locations": [
+                        {
+                            "city_state": "Ambler, PA",
+                            "city": "Ambler",
+                            "address1": "500 Willow Ave",
+                            "_geoloc": {
+                                "lng": -75.217862,
+                                "lat": 40.164899
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 4.655555555555556,
+                    "url": "\/doctors\/Dr_Carol_Bowes-Lawlor.html",
+                    "slug": "Dr_Carol_Bowes-Lawlor.html"
+                },
+                "fields": {
+                    "distance": 15.00883809465033
+                },
+                "sort": [
+                    15.009580703708991
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1s70x8_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1s70x8",
+                    "city_state": "Philadelphia, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Zena M Zingerman",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Physical Medicine and Rehabilitation"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Zena_Zingerman.html",
+                            "slug": "Dr_Zena_Zingerman.html"
+                        }
+                    },
+                    "number_of_ratings": 2,
+                    "locations": [
+                        {
+                            "city_state": "Philadelphia, PA",
+                            "city": "Philadelphia",
+                            "address1": "15501 Bustleton Ave Ste 1",
+                            "_geoloc": {
+                                "lng": -75.00928,
+                                "lat": 40.13404
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 5,
+                    "url": "\/doctors\/Dr_Zena_Zingerman.html",
+                    "slug": "Dr_Zena_Zingerman.html"
+                },
+                "fields": {
+                    "distance": 15.020556048754342
+                },
+                "sort": [
+                    15.021295005334444
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1qczzp_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1qczzp",
+                    "years_experience": 45,
+                    "city_state": "Norristown, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Charles Cutler",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Internal Medicine"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Charles_Cutler_2.html",
+                            "slug": "Dr_Charles_Cutler_2.html"
+                        }
+                    },
+                    "number_of_ratings": 8,
+                    "locations": [
+                        {
+                            "city_state": "Norristown, PA",
+                            "city": "Norristown",
+                            "address1": "342 W Germantown Pike Ste 200",
+                            "_geoloc": {
+                                "lng": -75.331482,
+                                "lat": 40.148056
+                            },
+                            "state": "PA"
+                        },
+                        {
+                            "city_state": "Norristown, PA",
+                            "city": "Norristown",
+                            "address1": "1411 Powell St",
+                            "_geoloc": {
+                                "lng": -75.33521,
+                                "lat": 40.12498
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 4.208333333333334,
+                    "url": "\/doctors\/Dr_Charles_Cutler_2.html",
+                    "slug": "Dr_Charles_Cutler_2.html"
+                },
+                "fields": {
+                    "distance": 15.020967751248007
+                },
+                "sort": [
+                    15.021710763908183
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1tx1rc_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1tx1rc",
+                    "years_experience": 45,
+                    "city_state": "Norristown, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Arthur R Ersner",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Internal Medicine"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Arthur_Ersner.html",
+                            "slug": "Dr_Arthur_Ersner.html"
+                        }
+                    },
+                    "number_of_ratings": 10,
+                    "locations": [
+                        {
+                            "city_state": "Norristown, PA",
+                            "city": "Norristown",
+                            "address1": "342 W Germantown Pike Ste 200",
+                            "_geoloc": {
+                                "lng": -75.331482,
+                                "lat": 40.148056
+                            },
+                            "state": "PA"
+                        },
+                        {
+                            "city_state": "Norristown, PA",
+                            "city": "Norristown",
+                            "address1": "1411 Powell St",
+                            "_geoloc": {
+                                "lng": -75.33521,
+                                "lat": 40.12498
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 2.233333333333332,
+                    "url": "\/doctors\/Dr_Arthur_Ersner.html",
+                    "slug": "Dr_Arthur_Ersner.html"
+                },
+                "fields": {
+                    "distance": 15.020967751248007
+                },
+                "sort": [
+                    15.021710763908183
+                ]
+            }
+        ]
+    },
+    "aggregations": {
+        "satisfaction.accurate_diagnosis": {
+            "buckets": {
+                "good": {
+                    "from": 3.5,
+                    "doc_count": 0
+                }
+            }
+        },
+        "overall_range": {
+            "doc_count": 7275
+        },
+        "satisfaction.bedside_manner": {
+            "buckets": {
+                "good": {
+                    "from": 3.5,
+                    "doc_count": 0
+                }
+            }
+        },
+        "satisfaction.punctuality": {
+            "buckets": {
+                "good": {
+                    "from": 3.5,
+                    "doc_count": 0
+                }
+            }
+        },
+        "display_types": {
+            "doc_count_error_upper_bound": 0,
+            "sum_other_doc_count": 0,
+            "buckets": [
+                {
+                    "key": "Doctor",
+                    "doc_count": 9616
+                },
+                {
+                    "key": "Group Practice",
+                    "doc_count": 680
+                },
+                {
+                    "key": "Chiropractor",
+                    "doc_count": 371
+                },
+                {
+                    "key": "Podiatrist",
+                    "doc_count": 310
+                },
+                {
+                    "key": "Optometrist",
+                    "doc_count": 292
+                },
+                {
+                    "key": "Psychologist",
+                    "doc_count": 279
+                },
+                {
+                    "key": "Dentist",
+                    "doc_count": 60
+                },
+                {
+                    "key": "Hospital",
+                    "doc_count": 26
+                },
+                {
+                    "key": "Nursing Home",
+                    "doc_count": 2
+                },
+                {
+                    "key": "Cancer Center",
+                    "doc_count": 1
+                },
+                {
+                    "key": "Pharmacy",
+                    "doc_count": 1
+                }
+            ]
+        },
+        "insurance_companies": {
+            "doc_count_error_upper_bound": 0,
+            "sum_other_doc_count": 0,
+            "buckets": [
+                {
+                    "key": "Aetna",
+                    "doc_count": 11304
+                },
+                {
+                    "key": "United Healthcare",
+                    "doc_count": 10301
+                },
+                {
+                    "key": "BCBS Blue Card",
+                    "doc_count": 9724
+                },
+                {
+                    "key": "IBC",
+                    "doc_count": 9616
+                },
+                {
+                    "key": "Cigna",
+                    "doc_count": 8995
+                },
+                {
+                    "key": "Coventry Health Care",
+                    "doc_count": 8567
+                },
+                {
+                    "key": "Multiplan",
+                    "doc_count": 7792
+                },
+                {
+                    "key": "Humana",
+                    "doc_count": 5854
+                },
+                {
+                    "key": "Capital Blue Cross",
+                    "doc_count": 5649
+                },
+                {
+                    "key": "Horizon BCBS",
+                    "doc_count": 5553
+                },
+                {
+                    "key": "First Health",
+                    "doc_count": 5330
+                },
+                {
+                    "key": "QualCare",
+                    "doc_count": 4110
+                },
+                {
+                    "key": "Geisinger Health Plan",
+                    "doc_count": 2742
+                },
+                {
+                    "key": "Oxford Health",
+                    "doc_count": 1840
+                },
+                {
+                    "key": "HIP of NY",
+                    "doc_count": 1484
+                },
+                {
+                    "key": "UPMC Health Plan",
+                    "doc_count": 320
+                },
+                {
+                    "key": "CareFirst BCBS",
+                    "doc_count": 288
+                },
+                {
+                    "key": "Highmark BCBS",
+                    "doc_count": 265
+                },
+                {
+                    "key": "Empire BCBS",
+                    "doc_count": 140
+                },
+                {
+                    "key": "Anthem",
+                    "doc_count": 115
+                },
+                {
+                    "key": "Capital District Physicians Health Plan",
+                    "doc_count": 104
+                },
+                {
+                    "key": "BCBS Massachusetts",
+                    "doc_count": 90
+                },
+                {
+                    "key": "Connecticare",
+                    "doc_count": 69
+                },
+                {
+                    "key": "BCBS Illinois",
+                    "doc_count": 62
+                },
+                {
+                    "key": "Assurant",
+                    "doc_count": 56
+                },
+                {
+                    "key": "Guardian Dental",
+                    "doc_count": 55
+                },
+                {
+                    "key": "Principal Dental",
+                    "doc_count": 53
+                },
+                {
+                    "key": "Cigna Dental",
+                    "doc_count": 51
+                },
+                {
+                    "key": "Delta Dental",
+                    "doc_count": 51
+                },
+                {
+                    "key": "United Concordia",
+                    "doc_count": 51
+                },
+                {
+                    "key": "Ameritas",
+                    "doc_count": 49
+                },
+                {
+                    "key": "Dental Network of America",
+                    "doc_count": 49
+                },
+                {
+                    "key": "MetLife",
+                    "doc_count": 47
+                },
+                {
+                    "key": "DenteMax",
+                    "doc_count": 44
+                },
+                {
+                    "key": "MVP Health Plan",
+                    "doc_count": 44
+                },
+                {
+                    "key": "United Healthcare Dental",
+                    "doc_count": 44
+                },
+                {
+                    "key": "CompBenefits",
+                    "doc_count": 39
+                },
+                {
+                    "key": "Harvard Pilgrim",
+                    "doc_count": 39
+                },
+                {
+                    "key": "Humana Dental",
+                    "doc_count": 38
+                },
+                {
+                    "key": "HealthFirst NY",
+                    "doc_count": 36
+                },
+                {
+                    "key": "Blue Cross California",
+                    "doc_count": 31
+                },
+                {
+                    "key": "BCBS Florida",
+                    "doc_count": 28
+                },
+                {
+                    "key": "Medical Mutual of Ohio",
+                    "doc_count": 28
+                },
+                {
+                    "key": "Health Net",
+                    "doc_count": 26
+                },
+                {
+                    "key": "Tufts Health Plan",
+                    "doc_count": 26
+                },
+                {
+                    "key": "Emblem Health",
+                    "doc_count": 23
+                },
+                {
+                    "key": "Excellus BCBS",
+                    "doc_count": 23
+                },
+                {
+                    "key": "AvMed Health",
+                    "doc_count": 17
+                },
+                {
+                    "key": "Regence Health Plans",
+                    "doc_count": 17
+                },
+                {
+                    "key": "Sagamore Health",
+                    "doc_count": 17
+                },
+                {
+                    "key": "UHC of the River Valley",
+                    "doc_count": 17
+                },
+                {
+                    "key": "Blue Shield California",
+                    "doc_count": 16
+                },
+                {
+                    "key": "ODS",
+                    "doc_count": 14
+                },
+                {
+                    "key": "Premera",
+                    "doc_count": 14
+                },
+                {
+                    "key": "Independent Health",
+                    "doc_count": 13
+                },
+                {
+                    "key": "BCBS Texas",
+                    "doc_count": 12
+                },
+                {
+                    "key": "SIHO Insurance Services",
+                    "doc_count": 12
+                },
+                {
+                    "key": "HealthSpan",
+                    "doc_count": 11
+                },
+                {
+                    "key": "BCBS North Carolina",
+                    "doc_count": 10
+                },
+                {
+                    "key": "Optima Health",
+                    "doc_count": 10
+                },
+                {
+                    "key": "BCBS Georgia",
+                    "doc_count": 9
+                },
+                {
+                    "key": "Centene",
+                    "doc_count": 9
+                },
+                {
+                    "key": "HealthLink",
+                    "doc_count": 9
+                },
+                {
+                    "key": "BCBS Michigan",
+                    "doc_count": 8
+                },
+                {
+                    "key": "Encore Health Network",
+                    "doc_count": 8
+                },
+                {
+                    "key": "Ambetter Superior Health Plan",
+                    "doc_count": 7
+                },
+                {
+                    "key": "BCBS Rhode Island",
+                    "doc_count": 7
+                },
+                {
+                    "key": "PriorityHealth",
+                    "doc_count": 7
+                },
+                {
+                    "key": "Aetna Innovation Health",
+                    "doc_count": 6
+                },
+                {
+                    "key": "Health Alliance",
+                    "doc_count": 6
+                },
+                {
+                    "key": "Premier Health Plan",
+                    "doc_count": 6
+                },
+                {
+                    "key": "Wellmark",
+                    "doc_count": 6
+                },
+                {
+                    "key": "BCBS South Carolina",
+                    "doc_count": 5
+                },
+                {
+                    "key": "Healthy Connecticut",
+                    "doc_count": 5
+                },
+                {
+                    "key": "PHP Northern IN",
+                    "doc_count": 5
+                },
+                {
+                    "key": "SummaCare",
+                    "doc_count": 5
+                },
+                {
+                    "key": "WPS",
+                    "doc_count": 5
+                },
+                {
+                    "key": "Altius",
+                    "doc_count": 4
+                },
+                {
+                    "key": "BCBS Kansas City",
+                    "doc_count": 4
+                },
+                {
+                    "key": "BCBS Minnesota",
+                    "doc_count": 4
+                },
+                {
+                    "key": "Common Ground",
+                    "doc_count": 4
+                },
+                {
+                    "key": "HAP",
+                    "doc_count": 4
+                },
+                {
+                    "key": "Molina Healthcare",
+                    "doc_count": 4
+                },
+                {
+                    "key": "PacificSource",
+                    "doc_count": 4
+                },
+                {
+                    "key": "SelectHealth",
+                    "doc_count": 4
+                },
+                {
+                    "key": "BCBS Tennessee",
+                    "doc_count": 3
+                },
+                {
+                    "key": "Providence Health System",
+                    "doc_count": 3
+                },
+                {
+                    "key": "The Health Plan of Upper OH",
+                    "doc_count": 3
+                },
+                {
+                    "key": "BCBS Alabama",
+                    "doc_count": 2
+                },
+                {
+                    "key": "BCBS New Mexico",
+                    "doc_count": 2
+                },
+                {
+                    "key": "HealthPartners - MN",
+                    "doc_count": 2
+                },
+                {
+                    "key": "Indiana University",
+                    "doc_count": 2
+                },
+                {
+                    "key": "Preferred One",
+                    "doc_count": 2
+                },
+                {
+                    "key": "Presbyterian",
+                    "doc_count": 2
+                },
+                {
+                    "key": "Aultcare",
+                    "doc_count": 1
+                },
+                {
+                    "key": "BCBS Louisiana",
+                    "doc_count": 1
+                },
+                {
+                    "key": "BCBS Oklahoma",
+                    "doc_count": 1
+                },
+                {
+                    "key": "FirstCare",
+                    "doc_count": 1
+                },
+                {
+                    "key": "FrontPath Health Coalition",
+                    "doc_count": 1
+                },
+                {
+                    "key": "Group Health Coop",
+                    "doc_count": 1
+                },
+                {
+                    "key": "Gundersen Health Plan",
+                    "doc_count": 1
+                },
+                {
+                    "key": "Health Plan of Nevada",
+                    "doc_count": 1
+                },
+                {
+                    "key": "Kaiser - MidAtlantic",
+                    "doc_count": 1
+                },
+                {
+                    "key": "LA Care Health",
+                    "doc_count": 1
+                },
+                {
+                    "key": "Network Health Plan",
+                    "doc_count": 1
+                },
+                {
+                    "key": "One Health Network",
+                    "doc_count": 1
+                },
+                {
+                    "key": "Paramount",
+                    "doc_count": 1
+                },
+                {
+                    "key": "Qualchoice",
+                    "doc_count": 1
+                },
+                {
+                    "key": "Scion Dental",
+                    "doc_count": 1
+                },
+                {
+                    "key": "Sierra Health",
+                    "doc_count": 1
+                }
+            ]
+        },
+        "ratings": {
+            "buckets": [
+                {
+                    "key": "any",
+                    "doc_count": 9616
+                },
+                {
+                    "key": "3",
+                    "from": 3,
+                    "doc_count": 6688
+                },
+                {
+                    "key": "4",
+                    "from": 4,
+                    "doc_count": 4779
+                },
+                {
+                    "key": "5",
+                    "from": 5,
+                    "doc_count": 1531
+                }
+            ]
+        },
+        "experience_range": {
+            "buckets": [
+                {
+                    "key": "Any",
+                    "doc_count": 9616
+                },
+                {
+                    "key": "0 - 5",
+                    "from": 0,
+                    "to": 6,
+                    "doc_count": 0
+                },
+                {
+                    "key": "5 - 10",
+                    "from": 5,
+                    "to": 11,
+                    "doc_count": 608
+                },
+                {
+                    "key": "11 - 15",
+                    "from": 11,
+                    "to": 16,
+                    "doc_count": 921
+                },
+                {
+                    "key": "16 - 20",
+                    "from": 16,
+                    "to": 21,
+                    "doc_count": 1028
+                },
+                {
+                    "key": "21 - 25",
+                    "from": 21,
+                    "to": 26,
+                    "doc_count": 883
+                },
+                {
+                    "key": "26 - 30",
+                    "from": 26,
+                    "to": 31,
+                    "doc_count": 760
+                },
+                {
+                    "key": "30+",
+                    "from": 30,
+                    "doc_count": 2900
+                }
+            ]
+        }
+    },
+    "status": 200,
+    "distanceLimitedNothingFound": false,
+    "query": "",
+    "radiusUsed": 25,
+    "reqNo": "1",
+    "sponsors": [
+        {
+            "campaign_name": "webmd_ep",
+            "targeting": {
+                "locations": [
+                    {
+                        "city_state": "Philadelphia, PA",
+                        "geopoint": [
+                            [
+                                -75.160429,
+                                39.94866
+                            ]
+                        ]
+                    }
+                ],
+                "sponsor_id": "xx"
+            },
+            "search": {
+                "search_city_state": "Philadelphia, PA",
+                "search_specialties": "General Dentistry",
+                "locations": [
+                    {
+                        "city_state": "Philadelphia, PA",
+                        "geopoint": [
+                            [
+                                -75.160429,
+                                39.94866
+                            ]
+                        ]
+                    }
+                ],
+                "display_name": "Shireen  Malik"
+            },
+            "npi": "1518135805",
+            "external_id": "D83325",
+            "campaign_features": [
+                {
+                    "feature_name": "serp",
+                    "feature_config": {
+                        "specialty": "General Dentistry",
+                        "webmdSpecialtyId": [
+                            29245
+                        ],
+                        "city_state": "Philadelphia, PA",
+                        "profile_url": "\/dentists\/Dr_Shireen_Malik",
+                        "type": "dentist",
+                        "display_name": "Shireen  Malik",
+                        "photos": {
+                            "host": null,
+                            "uri": null
+                        },
+                        "ctas": {
+                            "appointment_url": "https:\/\/appointments.webmd.com\/path\/wmd-path1\/61fbb52a-c844-4904-ad23-dcc296781461"
+                        },
+                        "degrees": [
+                            "DDS"
+                        ],
+                        "display_type": "Dentist",
+                        "vitalsSpecialtyId": [
+                            294,
+                            296,
+                            297,
+                            300,
+                            303,
+                            306,
+                            307
+                        ],
+                        "specialties": [
+                            "General Dentistry"
+                        ],
+                        "number_of_ratings": 13,
+                        "company_name": null,
+                        "overall_rating": 4.3076923076923075
+                    }
+                }
+            ],
+            "url": "\/dentists\/Dr_Shireen_Malik",
+            "city_state": "Philadelphia, PA",
+            "geopoint": [
+                [
+                    -75.160429,
+                    39.94866
+                ]
+            ],
+            "geo_points": [
+                -75.160429,
+                39.94866
+            ],
+            "distance": 0.3
+        },
+        {
+            "campaign_name": "webmd_ep",
+            "targeting": {
+                "locations": [
+                    {
+                        "city_state": "Philadelphia, PA",
+                        "geopoint": [
+                            [
+                                -75.1741,
+                                39.9527
+                            ]
+                        ]
+                    },
+                    {
+                        "city_state": "Upper Darby, PA",
+                        "geopoint": [
+                            [
+                                -75.2629,
+                                39.9591
+                            ]
+                        ]
+                    }
+                ],
+                "sponsor_id": "xx"
+            },
+            "search": {
+                "search_city_state": "Philadelphia, PA Upper Darby, PA",
+                "search_specialties": "Addiction Medicine Physical Medicine\/Rehab Spec",
+                "locations": [
+                    {
+                        "city_state": "Philadelphia, PA",
+                        "geopoint": [
+                            [
+                                -75.1741,
+                                39.9527
+                            ]
+                        ]
+                    },
+                    {
+                        "city_state": "Upper Darby, PA",
+                        "geopoint": [
+                            [
+                                -75.2629,
+                                39.9591
+                            ]
+                        ]
+                    }
+                ],
+                "display_name": "Denis A Boyle Jr"
+            },
+            "npi": "1205920287",
+            "external_id": "153875",
+            "campaign_features": [
+                {
+                    "feature_name": "serp",
+                    "feature_config": {
+                        "specialty": "Addiction Medicine",
+                        "webmdSpecialtyId": [
+                            29230,
+                            29309
+                        ],
+                        "city_state": "Philadelphia, PA",
+                        "profile_url": "\/doctors\/Dr_Denis_Boyle.html",
+                        "type": "doctor",
+                        "display_name": "Denis A Boyle Jr",
+                        "photos": {
+                            "host": null,
+                            "uri": null
+                        },
+                        "ctas": {
+                            "appointment_url": "https:\/\/appointments.webmd.com\/path\/wmd-path1\/fb31da85-feb0-4bf4-9dc3-01678cfc8276"
+                        },
+                        "degrees": [
+                            "MD"
+                        ],
+                        "display_type": "Doctor",
+                        "vitalsSpecialtyId": [
+                            5,
+                            23,
+                            31,
+                            141,
+                            124,
+                            126,
+                            127,
+                            2018
+                        ],
+                        "specialties": [
+                            "Addiction Medicine",
+                            "Physical Medicine\/Rehab Spec"
+                        ],
+                        "number_of_ratings": 4,
+                        "company_name": null,
+                        "overall_rating": 5
+                    }
+                }
+            ],
+            "url": "\/doctors\/Dr_Denis_Boyle.html",
+            "city_state": "Philadelphia, PA",
+            "geopoint": [
+                [
+                    -75.1741,
+                    39.9527
+                ]
+            ],
+            "geo_points": [
+                -75.1741,
+                39.9527
+            ],
+            "distance": 0.6
+        },
+        {
+            "campaign_name": "webmd_ep",
+            "targeting": {
+                "locations": [
+                    {
+                        "city_state": "Ridley Park, PA",
+                        "geopoint": [
+                            [
+                                -75.3212,
+                                39.8791
+                            ]
+                        ]
+                    }
+                ],
+                "sponsor_id": "xx"
+            },
+            "search": {
+                "search_city_state": "Ridley Park, PA",
+                "search_specialties": "Family Practitioner Internal Medicine",
+                "locations": [
+                    {
+                        "city_state": "Ridley Park, PA",
+                        "geopoint": [
+                            [
+                                -75.3212,
+                                39.8791
+                            ]
+                        ]
+                    }
+                ],
+                "display_name": "Neeraj Tripathy"
+            },
+            "npi": "1972660975",
+            "external_id": "6302324",
+            "campaign_features": [
+                {
+                    "feature_name": "serp",
+                    "feature_config": {
+                        "specialty": "Family Practitioner",
+                        "webmdSpecialtyId": [
+                            29259,
+                            29277
+                        ],
+                        "city_state": "Ridley Park, PA",
+                        "profile_url": "\/doctors\/Dr_Neeraj_Tripathy.html",
+                        "type": "doctor",
+                        "display_name": "Neeraj Tripathy",
+                        "photos": {
+                            "host": null,
+                            "uri": null
+                        },
+                        "ctas": {
+                            "appointment_url": "https:\/\/appointments.webmd.com\/path\/wmd-path1\/e5a7bcd3-e5c7-416a-b7ab-65f40d7e3015"
+                        },
+                        "degrees": [
+                            "MD"
+                        ],
+                        "display_type": "Doctor",
+                        "vitalsSpecialtyId": [
+                            22,
+                            25,
+                            26,
+                            479,
+                            667,
+                            30,
+                            36,
+                            42,
+                            672,
+                            2005
+                        ],
+                        "specialties": [
+                            "Family Practitioner",
+                            "Internal Medicine"
+                        ],
+                        "number_of_ratings": 12,
+                        "company_name": null,
+                        "overall_rating": 4.63888888888889
+                    }
+                }
+            ],
+            "url": "\/doctors\/Dr_Neeraj_Tripathy.html",
+            "city_state": "Ridley Park, PA",
+            "geopoint": [
+                [
+                    -75.3212,
+                    39.8791
+                ]
+            ],
+            "geo_points": [
+                -75.3212,
+                39.8791
+            ],
+            "distance": 9.7
+        }
+    ]
+}

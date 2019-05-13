@@ -1,0 +1,2302 @@
+{
+    "took": 86,
+    "timed_out": false,
+    "_shards": {
+        "total": 2,
+        "successful": 2,
+        "skipped": 0,
+        "failed": 0
+    },
+    "hits": {
+        "total": 9616,
+        "max_score": null,
+        "hits": [
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1q6ssg_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1q6ssg",
+                    "city_state": "Philadelphia, PA",
+                    "degree": "",
+                    "type": "doctor",
+                    "display_name": "Robert H Rosenwasser",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1845677\/photo.jpg"
+                        }
+                    },
+                    "degrees": [],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Neurological Surgery"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Robert_Rosenwasser.html",
+                            "slug": "Dr_Robert_Rosenwasser.html"
+                        }
+                    },
+                    "number_of_ratings": 26,
+                    "locations": [
+                        {
+                            "city_state": "Philadelphia, PA",
+                            "city": "Philadelphia",
+                            "address1": "909 Walnut St",
+                            "_geoloc": {
+                                "lng": -75.15624,
+                                "lat": 39.94859
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 4.179487179487178,
+                    "url": "\/doctors\/Dr_Robert_Rosenwasser.html",
+                    "slug": "Dr_Robert_Rosenwasser.html"
+                },
+                "fields": {
+                    "distance": 0.4528196330716511
+                },
+                "sort": [
+                    0.4528393469231436
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1x29z7_doctor",
+                "_score": null,
+                "_source": {
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Neurology",
+                        "Psychiatry"
+                    ],
+                    "vpid": "1x29z7",
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Nina_Martinez.html",
+                            "slug": "Dr_Nina_Martinez.html"
+                        }
+                    },
+                    "years_experience": 12,
+                    "city_state": "Philadelphia, PA",
+                    "degree": "MD",
+                    "locations": [
+                        {
+                            "city_state": "Philadelphia, PA",
+                            "city": "Philadelphia",
+                            "address1": "909 Walnut St",
+                            "_geoloc": {
+                                "lng": -75.15624,
+                                "lat": 39.94859
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "type": "doctor",
+                    "display_name": "Dr. Nina L Martinez",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "url": "\/doctors\/Dr_Nina_Martinez.html",
+                    "slug": "Dr_Nina_Martinez.html"
+                },
+                "fields": {
+                    "distance": 0.4528196330716511
+                },
+                "sort": [
+                    0.4528393469231436
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1q3hyq_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1q3hyq",
+                    "years_experience": 14,
+                    "city_state": "Philadelphia, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Jacqueline S Urtecho",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Neurology",
+                        "Psychiatry"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Jacqueline_Urtecho.html",
+                            "slug": "Dr_Jacqueline_Urtecho.html"
+                        }
+                    },
+                    "number_of_ratings": 1,
+                    "locations": [
+                        {
+                            "city_state": "Philadelphia, PA",
+                            "city": "Philadelphia",
+                            "address1": "909 Walnut St",
+                            "_geoloc": {
+                                "lng": -75.15624,
+                                "lat": 39.94859
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 5,
+                    "url": "\/doctors\/Dr_Jacqueline_Urtecho.html",
+                    "slug": "Dr_Jacqueline_Urtecho.html"
+                },
+                "fields": {
+                    "distance": 0.4528196330716511
+                },
+                "sort": [
+                    0.4528393469231436
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1rnn22_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1rnn22",
+                    "years_experience": 21,
+                    "city_state": "Philadelphia, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Pascal M Jabbour",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1502816\/photo.jpg"
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Neurological Surgery"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Pascal_Jabbour.html",
+                            "slug": "Dr_Pascal_Jabbour.html"
+                        }
+                    },
+                    "number_of_ratings": 37,
+                    "locations": [
+                        {
+                            "city_state": "Wilmington, DE",
+                            "city": "Wilmington",
+                            "address1": "1600 Rockland Rd",
+                            "_geoloc": {
+                                "lng": -75.556768,
+                                "lat": 39.776825
+                            },
+                            "state": "DE"
+                        },
+                        {
+                            "city_state": "Sewell, NJ",
+                            "city": "Sewell",
+                            "address1": "445 Hurffville Crosskeys Rd Ste B16",
+                            "_geoloc": {
+                                "lng": -75.066073,
+                                "lat": 39.735687
+                            },
+                            "state": "NJ"
+                        },
+                        {
+                            "city_state": "Philadelphia, PA",
+                            "city": "Philadelphia",
+                            "address1": "909 Walnut St",
+                            "_geoloc": {
+                                "lng": -75.15624,
+                                "lat": 39.94859
+                            },
+                            "state": "PA"
+                        },
+                        {
+                            "city_state": "Philadelphia, PA",
+                            "city": "Philadelphia",
+                            "address1": "9 N 9th St",
+                            "_geoloc": {
+                                "lng": -75.155118,
+                                "lat": 39.951945
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 4.702702702702703,
+                    "url": "\/doctors\/Dr_Pascal_Jabbour.html",
+                    "slug": "Dr_Pascal_Jabbour.html"
+                },
+                "fields": {
+                    "distance": 0.4528196330716511
+                },
+                "sort": [
+                    0.4528393469231436
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1z6p94_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1z6p94",
+                    "city_state": "Philadelphia, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Eddy O Garrido",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Neurological Surgery"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Eddy_Garrido.html",
+                            "slug": "Dr_Eddy_Garrido.html"
+                        }
+                    },
+                    "number_of_ratings": 10,
+                    "locations": [
+                        {
+                            "city_state": "Sewell, NJ",
+                            "city": "Sewell",
+                            "address1": "445 Hurffville Crosskeys Rd Ste B16",
+                            "_geoloc": {
+                                "lng": -75.066073,
+                                "lat": 39.735687
+                            },
+                            "state": "NJ"
+                        },
+                        {
+                            "city_state": "Philadelphia, PA",
+                            "city": "Philadelphia",
+                            "address1": "909 Walnut St",
+                            "_geoloc": {
+                                "lng": -75.15624,
+                                "lat": 39.94859
+                            },
+                            "state": "PA"
+                        },
+                        {
+                            "city_state": "Lancaster, PA",
+                            "city": "Lancaster",
+                            "address1": "1671 Crooked Oak Dr Ofc",
+                            "_geoloc": {
+                                "lng": -76.291624,
+                                "lat": 40.069505
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 3.833333333333332,
+                    "url": "\/doctors\/Dr_Eddy_Garrido.html",
+                    "slug": "Dr_Eddy_Garrido.html"
+                },
+                "fields": {
+                    "distance": 0.4528196330716511
+                },
+                "sort": [
+                    0.4528393469231436
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1xg0zx_doctor",
+                "_score": null,
+                "_source": {
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Neurology",
+                        "Psychiatry"
+                    ],
+                    "vpid": "1xg0zx",
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/1xg0zx\/syed-shah",
+                            "slug": "1xg0zx\/syed-shah"
+                        }
+                    },
+                    "city_state": "Philadelphia, PA",
+                    "degree": "MD",
+                    "locations": [
+                        {
+                            "city_state": "Sewell, NJ",
+                            "city": "Sewell",
+                            "address1": "445 Hurffville Crosskeys Rd Ste B16",
+                            "_geoloc": {
+                                "lng": -75.066073,
+                                "lat": 39.735687
+                            },
+                            "state": "NJ"
+                        },
+                        {
+                            "city_state": "Philadelphia, PA",
+                            "city": "Philadelphia",
+                            "address1": "909 Walnut St",
+                            "_geoloc": {
+                                "lng": -75.15624,
+                                "lat": 39.94859
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "type": "doctor",
+                    "display_name": "Dr. Syed O Shah",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "url": "\/doctors\/1xg0zx\/syed-shah",
+                    "slug": "1xg0zx\/syed-shah"
+                },
+                "fields": {
+                    "distance": 0.4528196330716511
+                },
+                "sort": [
+                    0.4528393469231436
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1qtwz5_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1qtwz5",
+                    "years_experience": 9,
+                    "city_state": "Philadelphia, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Jeffrey B Ratliff",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Neurology",
+                        "Psychiatry"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Jeffrey_Ratliff.html",
+                            "slug": "Dr_Jeffrey_Ratliff.html"
+                        }
+                    },
+                    "number_of_ratings": 2,
+                    "locations": [
+                        {
+                            "city_state": "Philadelphia, PA",
+                            "city": "Philadelphia",
+                            "address1": "909 Walnut St",
+                            "_geoloc": {
+                                "lng": -75.15624,
+                                "lat": 39.94859
+                            },
+                            "state": "PA"
+                        },
+                        {
+                            "city_state": "Philadelphia, PA",
+                            "city": "Philadelphia",
+                            "address1": "901 Walnut St Fl 4",
+                            "_geoloc": {
+                                "lng": -75.155943,
+                                "lat": 39.948555
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 5,
+                    "url": "\/doctors\/Dr_Jeffrey_Ratliff.html",
+                    "slug": "Dr_Jeffrey_Ratliff.html"
+                },
+                "fields": {
+                    "distance": 0.4528196330716511
+                },
+                "sort": [
+                    0.4528393469231436
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1z098f_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1z098f",
+                    "years_experience": 24,
+                    "city_state": "Philadelphia, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. James J Evans",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1506896\/photo.jpg"
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Neurological Surgery"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_James_J_Evans.html",
+                            "slug": "Dr_James_J_Evans.html"
+                        }
+                    },
+                    "number_of_ratings": 42,
+                    "locations": [
+                        {
+                            "city_state": "Philadelphia, PA",
+                            "city": "Philadelphia",
+                            "address1": "909 Walnut St",
+                            "_geoloc": {
+                                "lng": -75.15624,
+                                "lat": 39.94859
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 4.603174603174604,
+                    "url": "\/doctors\/Dr_James_J_Evans.html",
+                    "slug": "Dr_James_J_Evans.html"
+                },
+                "fields": {
+                    "distance": 0.4528196330716511
+                },
+                "sort": [
+                    0.4528393469231436
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1tt5pw_doctor",
+                "_score": null,
+                "_source": {
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Vascular Neurology",
+                        "Internal Medicine",
+                        "Critical Care Medicine",
+                        "Neurology"
+                    ],
+                    "vpid": "1tt5pw",
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Fred_Rincon.html",
+                            "slug": "Dr_Fred_Rincon.html"
+                        }
+                    },
+                    "years_experience": 23,
+                    "city_state": "Philadelphia, PA",
+                    "degree": "MD",
+                    "locations": [
+                        {
+                            "city_state": "Allentown, NJ",
+                            "city": "Allentown",
+                            "address1": "1 Becca Way",
+                            "_geoloc": {
+                                "lng": -74.526336,
+                                "lat": 40.182544
+                            },
+                            "state": "NJ"
+                        },
+                        {
+                            "city_state": "Philadelphia, PA",
+                            "city": "Philadelphia",
+                            "address1": "909 Walnut St",
+                            "_geoloc": {
+                                "lng": -75.15624,
+                                "lat": 39.94859
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "type": "doctor",
+                    "display_name": "Dr. Fred Rincon",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1518227\/photo.jpg"
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "url": "\/doctors\/Dr_Fred_Rincon.html",
+                    "slug": "Dr_Fred_Rincon.html"
+                },
+                "fields": {
+                    "distance": 0.4528196330716511
+                },
+                "sort": [
+                    0.4528393469231436
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1xq86f_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1xq86f",
+                    "years_experience": 36,
+                    "city_state": "Philadelphia, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. David W Andrews",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1505208\/photo.jpg"
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Neurological Surgery"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_David_W_Andrews.html",
+                            "slug": "Dr_David_W_Andrews.html"
+                        }
+                    },
+                    "number_of_ratings": 20,
+                    "locations": [
+                        {
+                            "city_state": "Sewell, NJ",
+                            "city": "Sewell",
+                            "address1": "445 Hurffville Crosskeys Rd",
+                            "_geoloc": {
+                                "lng": -75.066073,
+                                "lat": 39.735687
+                            },
+                            "state": "NJ"
+                        },
+                        {
+                            "city_state": "Philadelphia, PA",
+                            "city": "Philadelphia",
+                            "address1": "909 Walnut St",
+                            "_geoloc": {
+                                "lng": -75.15624,
+                                "lat": 39.94859
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 3.966666666666666,
+                    "url": "\/doctors\/Dr_David_W_Andrews.html",
+                    "slug": "Dr_David_W_Andrews.html"
+                },
+                "fields": {
+                    "distance": 0.4528196330716511
+                },
+                "sort": [
+                    0.4528393469231436
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1swb7r_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1swb7r",
+                    "years_experience": 17,
+                    "city_state": "Philadelphia, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Christopher J Farrell",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Neurological Surgery"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Christopher_J_Farrell.html",
+                            "slug": "Dr_Christopher_J_Farrell.html"
+                        }
+                    },
+                    "number_of_ratings": 19,
+                    "locations": [
+                        {
+                            "city_state": "Voorhees, NJ",
+                            "city": "Voorhees",
+                            "address1": "443 Laurel Oak Rd Ste 130",
+                            "_geoloc": {
+                                "lng": -74.984445,
+                                "lat": 39.843642
+                            },
+                            "state": "NJ"
+                        },
+                        {
+                            "city_state": "Philadelphia, PA",
+                            "city": "Philadelphia",
+                            "address1": "909 Walnut St",
+                            "_geoloc": {
+                                "lng": -75.15624,
+                                "lat": 39.94859
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 4.2105263157894735,
+                    "url": "\/doctors\/Dr_Christopher_J_Farrell.html",
+                    "slug": "Dr_Christopher_J_Farrell.html"
+                },
+                "fields": {
+                    "distance": 0.4528196330716511
+                },
+                "sort": [
+                    0.4528393469231436
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1wp5pq_doctor",
+                "_score": null,
+                "_source": {
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Internal Medicine"
+                    ],
+                    "vpid": "1wp5pq",
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/1wp5pq\/gregoris-komodikis",
+                            "slug": "1wp5pq\/gregoris-komodikis"
+                        }
+                    },
+                    "years_experience": 12,
+                    "city_state": "Philadelphia, PA",
+                    "degree": "MD",
+                    "locations": [
+                        {
+                            "city_state": "New Brunswick, NJ",
+                            "city": "New Brunswick",
+                            "address1": "254 Easton Ave",
+                            "_geoloc": {
+                                "lng": -74.460152,
+                                "lat": 40.500664
+                            },
+                            "state": "NJ"
+                        },
+                        {
+                            "city_state": "Philadelphia, PA",
+                            "city": "Philadelphia",
+                            "address1": "909 Walnut St",
+                            "_geoloc": {
+                                "lng": -75.15624,
+                                "lat": 39.94859
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "type": "doctor",
+                    "display_name": "Dr. Gregoris Komodikis",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "url": "\/doctors\/1wp5pq\/gregoris-komodikis",
+                    "slug": "1wp5pq\/gregoris-komodikis"
+                },
+                "fields": {
+                    "distance": 0.4528196330716511
+                },
+                "sort": [
+                    0.4528393469231436
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1xdp4f_doctor",
+                "_score": null,
+                "_source": {
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Neurology"
+                    ],
+                    "vpid": "1xdp4f",
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Sara_Hefton.html",
+                            "slug": "Dr_Sara_Hefton.html"
+                        }
+                    },
+                    "years_experience": 9,
+                    "city_state": "Philadelphia, PA",
+                    "degree": "MD",
+                    "locations": [
+                        {
+                            "city_state": "Sewell, NJ",
+                            "city": "Sewell",
+                            "address1": "445 Hurffville Crosskeys Rd Ste B16",
+                            "_geoloc": {
+                                "lng": -75.066073,
+                                "lat": 39.735687
+                            },
+                            "state": "NJ"
+                        },
+                        {
+                            "city_state": "Philadelphia, PA",
+                            "city": "Philadelphia",
+                            "address1": "909 Walnut St Fl 2",
+                            "_geoloc": {
+                                "lng": -75.15624,
+                                "lat": 39.94859
+                            },
+                            "state": "PA"
+                        },
+                        {
+                            "city_state": "New York, NY",
+                            "city": "New York",
+                            "address1": "1 Gustave L Levy Pl",
+                            "_geoloc": {
+                                "lng": -73.953817,
+                                "lat": 40.790455
+                            },
+                            "state": "NY"
+                        },
+                        {
+                            "city_state": "Philadelphia, PA",
+                            "city": "Philadelphia",
+                            "address1": "909 Walnut St",
+                            "_geoloc": {
+                                "lng": -75.15624,
+                                "lat": 39.94859
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "type": "doctor",
+                    "display_name": "Dr. Sara R Hefton",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "url": "\/doctors\/Dr_Sara_Hefton.html",
+                    "slug": "Dr_Sara_Hefton.html"
+                },
+                "fields": {
+                    "distance": 0.4528196330716511
+                },
+                "sort": [
+                    0.4528393469231436
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1sgwy8_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1sgwy8",
+                    "years_experience": 22,
+                    "city_state": "Philadelphia, PA",
+                    "degree": "DDS",
+                    "type": "doctor",
+                    "display_name": "Dr. Daniel I Taub",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [
+                        "DDS"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Oral and Maxillofacial Surgery"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Daniel_Taub.html",
+                            "slug": "Dr_Daniel_Taub.html"
+                        }
+                    },
+                    "number_of_ratings": 22,
+                    "locations": [
+                        {
+                            "city_state": "Philadelphia, PA",
+                            "city": "Philadelphia",
+                            "address1": "909 Walnut St",
+                            "_geoloc": {
+                                "lng": -75.15624,
+                                "lat": 39.94859
+                            },
+                            "state": "PA"
+                        },
+                        {
+                            "city_state": "Bryn Mawr, PA",
+                            "city": "Bryn Mawr",
+                            "address1": "950 E Haverford Rd",
+                            "_geoloc": {
+                                "lng": -75.32073,
+                                "lat": 40.015972
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 4.575757575757577,
+                    "url": "\/doctors\/Dr_Daniel_Taub.html",
+                    "slug": "Dr_Daniel_Taub.html"
+                },
+                "fields": {
+                    "distance": 0.4528196330716511
+                },
+                "sort": [
+                    0.4528393469231436
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1xbfqw_doctor",
+                "_score": null,
+                "_source": {
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Neurological Surgery"
+                    ],
+                    "vpid": "1xbfqw",
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Michael_R_Gooch.html",
+                            "slug": "Dr_Michael_R_Gooch.html"
+                        }
+                    },
+                    "years_experience": 9,
+                    "city_state": "Philadelphia, PA",
+                    "degree": "MD",
+                    "locations": [
+                        {
+                            "city_state": "Albany, NY",
+                            "city": "Albany",
+                            "address1": "47 New Scotland Ave",
+                            "_geoloc": {
+                                "lng": -73.777867,
+                                "lat": 42.653985
+                            },
+                            "state": "NY"
+                        },
+                        {
+                            "city_state": "Philadelphia, PA",
+                            "city": "Philadelphia",
+                            "address1": "909 Walnut St Fl 2",
+                            "_geoloc": {
+                                "lng": -75.15624,
+                                "lat": 39.94859
+                            },
+                            "state": "PA"
+                        },
+                        {
+                            "city_state": "Philadelphia, PA",
+                            "city": "Philadelphia",
+                            "address1": "909 Walnut St",
+                            "_geoloc": {
+                                "lng": -75.15624,
+                                "lat": 39.94859
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "type": "doctor",
+                    "display_name": "Dr. Michael R Gooch",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "url": "\/doctors\/Dr_Michael_R_Gooch.html",
+                    "slug": "Dr_Michael_R_Gooch.html"
+                },
+                "fields": {
+                    "distance": 0.4528196330716511
+                },
+                "sort": [
+                    0.4528393469231436
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1qdb4n_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1qdb4n",
+                    "years_experience": 41,
+                    "city_state": "Philadelphia, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Michael R Sperling",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1540425\/photo.jpg"
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Clinical Neurophysiology",
+                        "Neurology",
+                        "Psychiatry"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Michael_R_Sperling.html",
+                            "slug": "Dr_Michael_R_Sperling.html"
+                        }
+                    },
+                    "number_of_ratings": 31,
+                    "locations": [
+                        {
+                            "city_state": "Philadelphia, PA",
+                            "city": "Philadelphia",
+                            "address1": "909 Walnut St",
+                            "_geoloc": {
+                                "lng": -75.15624,
+                                "lat": 39.94859
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 4.150537634408602,
+                    "url": "\/doctors\/Dr_Michael_R_Sperling.html",
+                    "slug": "Dr_Michael_R_Sperling.html"
+                },
+                "fields": {
+                    "distance": 0.4528196330716511
+                },
+                "sort": [
+                    0.4528393469231436
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1sbwr5_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1sbwr5",
+                    "city_state": "Philadelphia, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Ravi Chandra A Madineni",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Neurological Surgery"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Ravi_Chandra_Madineni.html",
+                            "slug": "Dr_Ravi_Chandra_Madineni.html"
+                        }
+                    },
+                    "number_of_ratings": 2,
+                    "locations": [
+                        {
+                            "city_state": "Philadelphia, PA",
+                            "city": "Philadelphia",
+                            "address1": "909 Walnut St",
+                            "_geoloc": {
+                                "lng": -75.15624,
+                                "lat": 39.94859
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 5,
+                    "url": "\/doctors\/Dr_Ravi_Chandra_Madineni.html",
+                    "slug": "Dr_Ravi_Chandra_Madineni.html"
+                },
+                "fields": {
+                    "distance": 0.4528196330716511
+                },
+                "sort": [
+                    0.4528393469231436
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1nkzx8_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1nkzx8",
+                    "years_experience": 29,
+                    "city_state": "Philadelphia, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Jack I Jallo",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Neurological Surgery"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Jack_Jallo.html",
+                            "slug": "Dr_Jack_Jallo.html"
+                        }
+                    },
+                    "number_of_ratings": 53,
+                    "locations": [
+                        {
+                            "city_state": "Sewell, NJ",
+                            "city": "Sewell",
+                            "address1": "445 Hurffville Crosskeys Rd",
+                            "_geoloc": {
+                                "lng": -75.066073,
+                                "lat": 39.735687
+                            },
+                            "state": "NJ"
+                        },
+                        {
+                            "city_state": "Philadelphia, PA",
+                            "city": "Philadelphia",
+                            "address1": "909 Walnut St",
+                            "_geoloc": {
+                                "lng": -75.15624,
+                                "lat": 39.94859
+                            },
+                            "state": "PA"
+                        },
+                        {
+                            "city_state": "Philadelphia, PA",
+                            "city": "Philadelphia",
+                            "address1": "2837 Southampton Rd",
+                            "_geoloc": {
+                                "lng": -74.986774,
+                                "lat": 40.111255
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 3.955974842767296,
+                    "url": "\/doctors\/Dr_Jack_Jallo.html",
+                    "slug": "Dr_Jack_Jallo.html"
+                },
+                "fields": {
+                    "distance": 0.4528196330716511
+                },
+                "sort": [
+                    0.4528393469231436
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1zqc56_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1zqc56",
+                    "years_experience": 19,
+                    "city_state": "Philadelphia, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Daniel E Kremens",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Neurology",
+                        "Psychiatry"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Daniel_Kremens.html",
+                            "slug": "Dr_Daniel_Kremens.html"
+                        }
+                    },
+                    "number_of_ratings": 14,
+                    "locations": [
+                        {
+                            "city_state": "Philadelphia, PA",
+                            "city": "Philadelphia",
+                            "address1": "900 Walnut St Fl 2",
+                            "_geoloc": {
+                                "lng": -75.156284,
+                                "lat": 39.947786
+                            },
+                            "state": "PA"
+                        },
+                        {
+                            "city_state": "Philadelphia, PA",
+                            "city": "Philadelphia",
+                            "address1": "901 Walnut St Fl 4",
+                            "_geoloc": {
+                                "lng": -75.155943,
+                                "lat": 39.948555
+                            },
+                            "state": "PA"
+                        },
+                        {
+                            "city_state": "Philadelphia, PA",
+                            "city": "Philadelphia",
+                            "address1": "909 Walnut St # 0",
+                            "_geoloc": {
+                                "lng": -75.15624,
+                                "lat": 39.94859
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 4.61904761904762,
+                    "url": "\/doctors\/Dr_Daniel_Kremens.html",
+                    "slug": "Dr_Daniel_Kremens.html"
+                },
+                "fields": {
+                    "distance": 0.4528196330716511
+                },
+                "sort": [
+                    0.4528393469231436
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1z42gh_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1z42gh",
+                    "years_experience": 33,
+                    "city_state": "Philadelphia, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Jon J Glass",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Neurology",
+                        "Psychiatry"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Jon_J_Glass.html",
+                            "slug": "Dr_Jon_J_Glass.html"
+                        }
+                    },
+                    "number_of_ratings": 11,
+                    "locations": [
+                        {
+                            "city_state": "Philadelphia, PA",
+                            "city": "Philadelphia",
+                            "address1": "909 Walnut St",
+                            "_geoloc": {
+                                "lng": -75.15624,
+                                "lat": 39.94859
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 3.272727272727273,
+                    "url": "\/doctors\/Dr_Jon_J_Glass.html",
+                    "slug": "Dr_Jon_J_Glass.html"
+                },
+                "fields": {
+                    "distance": 0.4528196330716511
+                },
+                "sort": [
+                    0.4528393469231436
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1p1ydb_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1p1ydb",
+                    "years_experience": 20,
+                    "city_state": "Philadelphia, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Tsao Wei W Liang",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Neurology",
+                        "Psychiatry"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Tsao_Wei_Liang.html",
+                            "slug": "Dr_Tsao_Wei_Liang.html"
+                        }
+                    },
+                    "number_of_ratings": 17,
+                    "locations": [
+                        {
+                            "city_state": "Philadelphia, PA",
+                            "city": "Philadelphia",
+                            "address1": "900 Walnut St Fl 2",
+                            "_geoloc": {
+                                "lng": -75.156284,
+                                "lat": 39.947786
+                            },
+                            "state": "PA"
+                        },
+                        {
+                            "city_state": "Philadelphia, PA",
+                            "city": "Philadelphia",
+                            "address1": "901 Walnut St Fl 4",
+                            "_geoloc": {
+                                "lng": -75.155943,
+                                "lat": 39.948555
+                            },
+                            "state": "PA"
+                        },
+                        {
+                            "city_state": "Philadelphia, PA",
+                            "city": "Philadelphia",
+                            "address1": "909 Walnut St Fl 2",
+                            "_geoloc": {
+                                "lng": -75.15624,
+                                "lat": 39.94859
+                            },
+                            "state": "PA"
+                        },
+                        {
+                            "city_state": "Philadelphia, PA",
+                            "city": "Philadelphia",
+                            "address1": "2837 Southampton Rd",
+                            "_geoloc": {
+                                "lng": -74.986774,
+                                "lat": 40.111255
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 3.980392156862746,
+                    "url": "\/doctors\/Dr_Tsao_Wei_Liang.html",
+                    "slug": "Dr_Tsao_Wei_Liang.html"
+                },
+                "fields": {
+                    "distance": 0.4528196330716511
+                },
+                "sort": [
+                    0.4528393469231436
+                ]
+            }
+        ]
+    },
+    "aggregations": {
+        "satisfaction.accurate_diagnosis": {
+            "buckets": {
+                "good": {
+                    "from": 3.5,
+                    "doc_count": 0
+                }
+            }
+        },
+        "overall_range": {
+            "doc_count": 7275
+        },
+        "satisfaction.bedside_manner": {
+            "buckets": {
+                "good": {
+                    "from": 3.5,
+                    "doc_count": 0
+                }
+            }
+        },
+        "satisfaction.punctuality": {
+            "buckets": {
+                "good": {
+                    "from": 3.5,
+                    "doc_count": 0
+                }
+            }
+        },
+        "display_types": {
+            "doc_count_error_upper_bound": 0,
+            "sum_other_doc_count": 0,
+            "buckets": [
+                {
+                    "key": "Doctor",
+                    "doc_count": 9616
+                },
+                {
+                    "key": "Group Practice",
+                    "doc_count": 680
+                },
+                {
+                    "key": "Chiropractor",
+                    "doc_count": 371
+                },
+                {
+                    "key": "Podiatrist",
+                    "doc_count": 310
+                },
+                {
+                    "key": "Optometrist",
+                    "doc_count": 292
+                },
+                {
+                    "key": "Psychologist",
+                    "doc_count": 279
+                },
+                {
+                    "key": "Dentist",
+                    "doc_count": 60
+                },
+                {
+                    "key": "Hospital",
+                    "doc_count": 26
+                },
+                {
+                    "key": "Nursing Home",
+                    "doc_count": 2
+                },
+                {
+                    "key": "Cancer Center",
+                    "doc_count": 1
+                },
+                {
+                    "key": "Pharmacy",
+                    "doc_count": 1
+                }
+            ]
+        },
+        "insurance_companies": {
+            "doc_count_error_upper_bound": 0,
+            "sum_other_doc_count": 0,
+            "buckets": [
+                {
+                    "key": "Aetna",
+                    "doc_count": 11304
+                },
+                {
+                    "key": "United Healthcare",
+                    "doc_count": 10301
+                },
+                {
+                    "key": "BCBS Blue Card",
+                    "doc_count": 9724
+                },
+                {
+                    "key": "IBC",
+                    "doc_count": 9616
+                },
+                {
+                    "key": "Cigna",
+                    "doc_count": 8995
+                },
+                {
+                    "key": "Coventry Health Care",
+                    "doc_count": 8567
+                },
+                {
+                    "key": "Multiplan",
+                    "doc_count": 7792
+                },
+                {
+                    "key": "Humana",
+                    "doc_count": 5854
+                },
+                {
+                    "key": "Capital Blue Cross",
+                    "doc_count": 5649
+                },
+                {
+                    "key": "Horizon BCBS",
+                    "doc_count": 5553
+                },
+                {
+                    "key": "First Health",
+                    "doc_count": 5330
+                },
+                {
+                    "key": "QualCare",
+                    "doc_count": 4110
+                },
+                {
+                    "key": "Geisinger Health Plan",
+                    "doc_count": 2742
+                },
+                {
+                    "key": "Oxford Health",
+                    "doc_count": 1840
+                },
+                {
+                    "key": "HIP of NY",
+                    "doc_count": 1484
+                },
+                {
+                    "key": "UPMC Health Plan",
+                    "doc_count": 320
+                },
+                {
+                    "key": "CareFirst BCBS",
+                    "doc_count": 288
+                },
+                {
+                    "key": "Highmark BCBS",
+                    "doc_count": 265
+                },
+                {
+                    "key": "Empire BCBS",
+                    "doc_count": 140
+                },
+                {
+                    "key": "Anthem",
+                    "doc_count": 115
+                },
+                {
+                    "key": "Capital District Physicians Health Plan",
+                    "doc_count": 104
+                },
+                {
+                    "key": "BCBS Massachusetts",
+                    "doc_count": 90
+                },
+                {
+                    "key": "Connecticare",
+                    "doc_count": 69
+                },
+                {
+                    "key": "BCBS Illinois",
+                    "doc_count": 62
+                },
+                {
+                    "key": "Assurant",
+                    "doc_count": 56
+                },
+                {
+                    "key": "Guardian Dental",
+                    "doc_count": 55
+                },
+                {
+                    "key": "Principal Dental",
+                    "doc_count": 53
+                },
+                {
+                    "key": "Cigna Dental",
+                    "doc_count": 51
+                },
+                {
+                    "key": "Delta Dental",
+                    "doc_count": 51
+                },
+                {
+                    "key": "United Concordia",
+                    "doc_count": 51
+                },
+                {
+                    "key": "Ameritas",
+                    "doc_count": 49
+                },
+                {
+                    "key": "Dental Network of America",
+                    "doc_count": 49
+                },
+                {
+                    "key": "MetLife",
+                    "doc_count": 47
+                },
+                {
+                    "key": "DenteMax",
+                    "doc_count": 44
+                },
+                {
+                    "key": "MVP Health Plan",
+                    "doc_count": 44
+                },
+                {
+                    "key": "United Healthcare Dental",
+                    "doc_count": 44
+                },
+                {
+                    "key": "CompBenefits",
+                    "doc_count": 39
+                },
+                {
+                    "key": "Harvard Pilgrim",
+                    "doc_count": 39
+                },
+                {
+                    "key": "Humana Dental",
+                    "doc_count": 38
+                },
+                {
+                    "key": "HealthFirst NY",
+                    "doc_count": 36
+                },
+                {
+                    "key": "Blue Cross California",
+                    "doc_count": 31
+                },
+                {
+                    "key": "BCBS Florida",
+                    "doc_count": 28
+                },
+                {
+                    "key": "Medical Mutual of Ohio",
+                    "doc_count": 28
+                },
+                {
+                    "key": "Health Net",
+                    "doc_count": 26
+                },
+                {
+                    "key": "Tufts Health Plan",
+                    "doc_count": 26
+                },
+                {
+                    "key": "Emblem Health",
+                    "doc_count": 23
+                },
+                {
+                    "key": "Excellus BCBS",
+                    "doc_count": 23
+                },
+                {
+                    "key": "AvMed Health",
+                    "doc_count": 17
+                },
+                {
+                    "key": "Regence Health Plans",
+                    "doc_count": 17
+                },
+                {
+                    "key": "Sagamore Health",
+                    "doc_count": 17
+                },
+                {
+                    "key": "UHC of the River Valley",
+                    "doc_count": 17
+                },
+                {
+                    "key": "Blue Shield California",
+                    "doc_count": 16
+                },
+                {
+                    "key": "ODS",
+                    "doc_count": 14
+                },
+                {
+                    "key": "Premera",
+                    "doc_count": 14
+                },
+                {
+                    "key": "Independent Health",
+                    "doc_count": 13
+                },
+                {
+                    "key": "BCBS Texas",
+                    "doc_count": 12
+                },
+                {
+                    "key": "SIHO Insurance Services",
+                    "doc_count": 12
+                },
+                {
+                    "key": "HealthSpan",
+                    "doc_count": 11
+                },
+                {
+                    "key": "BCBS North Carolina",
+                    "doc_count": 10
+                },
+                {
+                    "key": "Optima Health",
+                    "doc_count": 10
+                },
+                {
+                    "key": "BCBS Georgia",
+                    "doc_count": 9
+                },
+                {
+                    "key": "Centene",
+                    "doc_count": 9
+                },
+                {
+                    "key": "HealthLink",
+                    "doc_count": 9
+                },
+                {
+                    "key": "BCBS Michigan",
+                    "doc_count": 8
+                },
+                {
+                    "key": "Encore Health Network",
+                    "doc_count": 8
+                },
+                {
+                    "key": "Ambetter Superior Health Plan",
+                    "doc_count": 7
+                },
+                {
+                    "key": "BCBS Rhode Island",
+                    "doc_count": 7
+                },
+                {
+                    "key": "PriorityHealth",
+                    "doc_count": 7
+                },
+                {
+                    "key": "Aetna Innovation Health",
+                    "doc_count": 6
+                },
+                {
+                    "key": "Health Alliance",
+                    "doc_count": 6
+                },
+                {
+                    "key": "Premier Health Plan",
+                    "doc_count": 6
+                },
+                {
+                    "key": "Wellmark",
+                    "doc_count": 6
+                },
+                {
+                    "key": "BCBS South Carolina",
+                    "doc_count": 5
+                },
+                {
+                    "key": "Healthy Connecticut",
+                    "doc_count": 5
+                },
+                {
+                    "key": "PHP Northern IN",
+                    "doc_count": 5
+                },
+                {
+                    "key": "SummaCare",
+                    "doc_count": 5
+                },
+                {
+                    "key": "WPS",
+                    "doc_count": 5
+                },
+                {
+                    "key": "Altius",
+                    "doc_count": 4
+                },
+                {
+                    "key": "BCBS Kansas City",
+                    "doc_count": 4
+                },
+                {
+                    "key": "BCBS Minnesota",
+                    "doc_count": 4
+                },
+                {
+                    "key": "Common Ground",
+                    "doc_count": 4
+                },
+                {
+                    "key": "HAP",
+                    "doc_count": 4
+                },
+                {
+                    "key": "Molina Healthcare",
+                    "doc_count": 4
+                },
+                {
+                    "key": "PacificSource",
+                    "doc_count": 4
+                },
+                {
+                    "key": "SelectHealth",
+                    "doc_count": 4
+                },
+                {
+                    "key": "BCBS Tennessee",
+                    "doc_count": 3
+                },
+                {
+                    "key": "Providence Health System",
+                    "doc_count": 3
+                },
+                {
+                    "key": "The Health Plan of Upper OH",
+                    "doc_count": 3
+                },
+                {
+                    "key": "BCBS Alabama",
+                    "doc_count": 2
+                },
+                {
+                    "key": "BCBS New Mexico",
+                    "doc_count": 2
+                },
+                {
+                    "key": "HealthPartners - MN",
+                    "doc_count": 2
+                },
+                {
+                    "key": "Indiana University",
+                    "doc_count": 2
+                },
+                {
+                    "key": "Preferred One",
+                    "doc_count": 2
+                },
+                {
+                    "key": "Presbyterian",
+                    "doc_count": 2
+                },
+                {
+                    "key": "Aultcare",
+                    "doc_count": 1
+                },
+                {
+                    "key": "BCBS Louisiana",
+                    "doc_count": 1
+                },
+                {
+                    "key": "BCBS Oklahoma",
+                    "doc_count": 1
+                },
+                {
+                    "key": "FirstCare",
+                    "doc_count": 1
+                },
+                {
+                    "key": "FrontPath Health Coalition",
+                    "doc_count": 1
+                },
+                {
+                    "key": "Group Health Coop",
+                    "doc_count": 1
+                },
+                {
+                    "key": "Gundersen Health Plan",
+                    "doc_count": 1
+                },
+                {
+                    "key": "Health Plan of Nevada",
+                    "doc_count": 1
+                },
+                {
+                    "key": "Kaiser - MidAtlantic",
+                    "doc_count": 1
+                },
+                {
+                    "key": "LA Care Health",
+                    "doc_count": 1
+                },
+                {
+                    "key": "Network Health Plan",
+                    "doc_count": 1
+                },
+                {
+                    "key": "One Health Network",
+                    "doc_count": 1
+                },
+                {
+                    "key": "Paramount",
+                    "doc_count": 1
+                },
+                {
+                    "key": "Qualchoice",
+                    "doc_count": 1
+                },
+                {
+                    "key": "Scion Dental",
+                    "doc_count": 1
+                },
+                {
+                    "key": "Sierra Health",
+                    "doc_count": 1
+                }
+            ]
+        },
+        "ratings": {
+            "buckets": [
+                {
+                    "key": "any",
+                    "doc_count": 9616
+                },
+                {
+                    "key": "3",
+                    "from": 3,
+                    "doc_count": 6688
+                },
+                {
+                    "key": "4",
+                    "from": 4,
+                    "doc_count": 4779
+                },
+                {
+                    "key": "5",
+                    "from": 5,
+                    "doc_count": 1531
+                }
+            ]
+        },
+        "experience_range": {
+            "buckets": [
+                {
+                    "key": "Any",
+                    "doc_count": 9616
+                },
+                {
+                    "key": "0 - 5",
+                    "from": 0,
+                    "to": 6,
+                    "doc_count": 0
+                },
+                {
+                    "key": "5 - 10",
+                    "from": 5,
+                    "to": 11,
+                    "doc_count": 608
+                },
+                {
+                    "key": "11 - 15",
+                    "from": 11,
+                    "to": 16,
+                    "doc_count": 921
+                },
+                {
+                    "key": "16 - 20",
+                    "from": 16,
+                    "to": 21,
+                    "doc_count": 1028
+                },
+                {
+                    "key": "21 - 25",
+                    "from": 21,
+                    "to": 26,
+                    "doc_count": 883
+                },
+                {
+                    "key": "26 - 30",
+                    "from": 26,
+                    "to": 31,
+                    "doc_count": 760
+                },
+                {
+                    "key": "30+",
+                    "from": 30,
+                    "doc_count": 2900
+                }
+            ]
+        }
+    },
+    "status": 200,
+    "distanceLimitedNothingFound": false,
+    "query": "",
+    "radiusUsed": 25,
+    "reqNo": "1",
+    "sponsors": [
+        {
+            "campaign_name": "webmd_ep",
+            "targeting": {
+                "locations": [
+                    {
+                        "city_state": "Philadelphia, PA",
+                        "geopoint": [
+                            [
+                                -75.160429,
+                                39.94866
+                            ]
+                        ]
+                    }
+                ],
+                "sponsor_id": "xx"
+            },
+            "search": {
+                "search_city_state": "Philadelphia, PA",
+                "search_specialties": "General Dentistry",
+                "locations": [
+                    {
+                        "city_state": "Philadelphia, PA",
+                        "geopoint": [
+                            [
+                                -75.160429,
+                                39.94866
+                            ]
+                        ]
+                    }
+                ],
+                "display_name": "Shireen  Malik"
+            },
+            "npi": "1518135805",
+            "external_id": "D83325",
+            "campaign_features": [
+                {
+                    "feature_name": "serp",
+                    "feature_config": {
+                        "specialty": "General Dentistry",
+                        "webmdSpecialtyId": [
+                            29245
+                        ],
+                        "city_state": "Philadelphia, PA",
+                        "profile_url": "\/dentists\/Dr_Shireen_Malik",
+                        "type": "dentist",
+                        "display_name": "Shireen  Malik",
+                        "photos": {
+                            "host": null,
+                            "uri": null
+                        },
+                        "ctas": {
+                            "appointment_url": "https:\/\/appointments.webmd.com\/path\/wmd-path1\/61fbb52a-c844-4904-ad23-dcc296781461"
+                        },
+                        "degrees": [
+                            "DDS"
+                        ],
+                        "display_type": "Dentist",
+                        "vitalsSpecialtyId": [
+                            294,
+                            296,
+                            297,
+                            300,
+                            303,
+                            306,
+                            307
+                        ],
+                        "specialties": [
+                            "General Dentistry"
+                        ],
+                        "number_of_ratings": 13,
+                        "company_name": null,
+                        "overall_rating": 4.3076923076923075
+                    }
+                }
+            ],
+            "url": "\/dentists\/Dr_Shireen_Malik",
+            "city_state": "Philadelphia, PA",
+            "geopoint": [
+                [
+                    -75.160429,
+                    39.94866
+                ]
+            ],
+            "geo_points": [
+                -75.160429,
+                39.94866
+            ],
+            "distance": 0.3
+        },
+        {
+            "campaign_name": "webmd_ep",
+            "targeting": {
+                "locations": [
+                    {
+                        "city_state": "Philadelphia, PA",
+                        "geopoint": [
+                            [
+                                -75.1741,
+                                39.9527
+                            ]
+                        ]
+                    },
+                    {
+                        "city_state": "Upper Darby, PA",
+                        "geopoint": [
+                            [
+                                -75.2629,
+                                39.9591
+                            ]
+                        ]
+                    }
+                ],
+                "sponsor_id": "xx"
+            },
+            "search": {
+                "search_city_state": "Philadelphia, PA Upper Darby, PA",
+                "search_specialties": "Addiction Medicine Physical Medicine\/Rehab Spec",
+                "locations": [
+                    {
+                        "city_state": "Philadelphia, PA",
+                        "geopoint": [
+                            [
+                                -75.1741,
+                                39.9527
+                            ]
+                        ]
+                    },
+                    {
+                        "city_state": "Upper Darby, PA",
+                        "geopoint": [
+                            [
+                                -75.2629,
+                                39.9591
+                            ]
+                        ]
+                    }
+                ],
+                "display_name": "Denis A Boyle Jr"
+            },
+            "npi": "1205920287",
+            "external_id": "153875",
+            "campaign_features": [
+                {
+                    "feature_name": "serp",
+                    "feature_config": {
+                        "specialty": "Addiction Medicine",
+                        "webmdSpecialtyId": [
+                            29230,
+                            29309
+                        ],
+                        "city_state": "Philadelphia, PA",
+                        "profile_url": "\/doctors\/Dr_Denis_Boyle.html",
+                        "type": "doctor",
+                        "display_name": "Denis A Boyle Jr",
+                        "photos": {
+                            "host": null,
+                            "uri": null
+                        },
+                        "ctas": {
+                            "appointment_url": "https:\/\/appointments.webmd.com\/path\/wmd-path1\/fb31da85-feb0-4bf4-9dc3-01678cfc8276"
+                        },
+                        "degrees": [
+                            "MD"
+                        ],
+                        "display_type": "Doctor",
+                        "vitalsSpecialtyId": [
+                            5,
+                            23,
+                            31,
+                            141,
+                            124,
+                            126,
+                            127,
+                            2018
+                        ],
+                        "specialties": [
+                            "Addiction Medicine",
+                            "Physical Medicine\/Rehab Spec"
+                        ],
+                        "number_of_ratings": 4,
+                        "company_name": null,
+                        "overall_rating": 5
+                    }
+                }
+            ],
+            "url": "\/doctors\/Dr_Denis_Boyle.html",
+            "city_state": "Philadelphia, PA",
+            "geopoint": [
+                [
+                    -75.1741,
+                    39.9527
+                ]
+            ],
+            "geo_points": [
+                -75.1741,
+                39.9527
+            ],
+            "distance": 0.6
+        },
+        {
+            "campaign_name": "webmd_ep",
+            "targeting": {
+                "locations": [
+                    {
+                        "city_state": "Ridley Park, PA",
+                        "geopoint": [
+                            [
+                                -75.3212,
+                                39.8791
+                            ]
+                        ]
+                    }
+                ],
+                "sponsor_id": "xx"
+            },
+            "search": {
+                "search_city_state": "Ridley Park, PA",
+                "search_specialties": "Family Practitioner Internal Medicine",
+                "locations": [
+                    {
+                        "city_state": "Ridley Park, PA",
+                        "geopoint": [
+                            [
+                                -75.3212,
+                                39.8791
+                            ]
+                        ]
+                    }
+                ],
+                "display_name": "Neeraj Tripathy"
+            },
+            "npi": "1972660975",
+            "external_id": "6302324",
+            "campaign_features": [
+                {
+                    "feature_name": "serp",
+                    "feature_config": {
+                        "specialty": "Family Practitioner",
+                        "webmdSpecialtyId": [
+                            29259,
+                            29277
+                        ],
+                        "city_state": "Ridley Park, PA",
+                        "profile_url": "\/doctors\/Dr_Neeraj_Tripathy.html",
+                        "type": "doctor",
+                        "display_name": "Neeraj Tripathy",
+                        "photos": {
+                            "host": null,
+                            "uri": null
+                        },
+                        "ctas": {
+                            "appointment_url": "https:\/\/appointments.webmd.com\/path\/wmd-path1\/e5a7bcd3-e5c7-416a-b7ab-65f40d7e3015"
+                        },
+                        "degrees": [
+                            "MD"
+                        ],
+                        "display_type": "Doctor",
+                        "vitalsSpecialtyId": [
+                            22,
+                            25,
+                            26,
+                            479,
+                            667,
+                            30,
+                            36,
+                            42,
+                            672,
+                            2005
+                        ],
+                        "specialties": [
+                            "Family Practitioner",
+                            "Internal Medicine"
+                        ],
+                        "number_of_ratings": 12,
+                        "company_name": null,
+                        "overall_rating": 4.63888888888889
+                    }
+                }
+            ],
+            "url": "\/doctors\/Dr_Neeraj_Tripathy.html",
+            "city_state": "Ridley Park, PA",
+            "geopoint": [
+                [
+                    -75.3212,
+                    39.8791
+                ]
+            ],
+            "geo_points": [
+                -75.3212,
+                39.8791
+            ],
+            "distance": 9.7
+        }
+    ]
+}

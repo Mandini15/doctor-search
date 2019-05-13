@@ -1,0 +1,2271 @@
+{
+    "took": 67,
+    "timed_out": false,
+    "_shards": {
+        "total": 2,
+        "successful": 2,
+        "skipped": 0,
+        "failed": 0
+    },
+    "hits": {
+        "total": 9616,
+        "max_score": null,
+        "hits": [
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1sxdz5_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1sxdz5",
+                    "city_state": "West Chester, PA",
+                    "degree": "DO",
+                    "type": "doctor",
+                    "display_name": "Dr. Joseph D Becker",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1683407\/photo.jpg"
+                        }
+                    },
+                    "degrees": [
+                        "DO"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Pediatrics"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Joseph_Becker.html",
+                            "slug": "Dr_Joseph_Becker.html"
+                        }
+                    },
+                    "number_of_ratings": 9,
+                    "locations": [
+                        {
+                            "city_state": "West Chester, PA",
+                            "city": "West Chester",
+                            "address1": "1246 W Chester Pike Ste 303",
+                            "_geoloc": {
+                                "lng": -75.557239,
+                                "lat": 39.968067
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 4.222222222222222,
+                    "url": "\/doctors\/Dr_Joseph_Becker.html",
+                    "slug": "Dr_Joseph_Becker.html"
+                },
+                "fields": {
+                    "distance": 20.865846540895024
+                },
+                "sort": [
+                    20.866881023648393
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1ptndx_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1ptndx",
+                    "city_state": "Richboro, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Michelle A Scannapieco",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Geriatric Medicine",
+                        "Internal Medicine"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Michelle_Scannapieco.html",
+                            "slug": "Dr_Michelle_Scannapieco.html"
+                        }
+                    },
+                    "number_of_ratings": 4,
+                    "locations": [
+                        {
+                            "city_state": "Langhorne, PA",
+                            "city": "Langhorne",
+                            "address1": "1205 Langhorne Newtown Rd Ste 400",
+                            "_geoloc": {
+                                "lng": -74.929469,
+                                "lat": 40.201717
+                            },
+                            "state": "PA"
+                        },
+                        {
+                            "city_state": "Richboro, PA",
+                            "city": "Richboro",
+                            "address1": "253 Twining Ford Rd",
+                            "_geoloc": {
+                                "lng": -75.001059,
+                                "lat": 40.227125
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 4,
+                    "url": "\/doctors\/Dr_Michelle_Scannapieco.html",
+                    "slug": "Dr_Michelle_Scannapieco.html"
+                },
+                "fields": {
+                    "distance": 20.887026111676278
+                },
+                "sort": [
+                    20.88805797897169
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1r9w2g_doctor",
+                "_score": null,
+                "_source": {
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Pediatrics"
+                    ],
+                    "vpid": "1r9w2g",
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Kathleen_Gallatig.html",
+                            "slug": "Dr_Kathleen_Gallatig.html"
+                        }
+                    },
+                    "years_experience": 15,
+                    "city_state": "Glen Mills, PA",
+                    "degree": "MD",
+                    "locations": [
+                        {
+                            "city_state": "Glen Mills, PA",
+                            "city": "Glen Mills",
+                            "address1": "1766 Wilmington Pike",
+                            "_geoloc": {
+                                "lng": -75.54522,
+                                "lat": 39.873024
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "type": "doctor",
+                    "display_name": "Dr. Kathleen M Gallatig",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1679586\/photo.jpg"
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "url": "\/doctors\/Dr_Kathleen_Gallatig.html",
+                    "slug": "Dr_Kathleen_Gallatig.html"
+                },
+                "fields": {
+                    "distance": 20.929549282249226
+                },
+                "sort": [
+                    20.930588465403897
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1p1k5f_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1p1k5f",
+                    "city_state": "Glen Mills, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Bethany E Kutz",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1712186\/photo.jpg"
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Pediatrics"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Bethany_Kutz.html",
+                            "slug": "Dr_Bethany_Kutz.html"
+                        }
+                    },
+                    "number_of_ratings": 14,
+                    "locations": [
+                        {
+                            "city_state": "Glen Mills, PA",
+                            "city": "Glen Mills",
+                            "address1": "1766 Wilmington Pike",
+                            "_geoloc": {
+                                "lng": -75.54522,
+                                "lat": 39.873024
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 4.452380952380952,
+                    "url": "\/doctors\/Dr_Bethany_Kutz.html",
+                    "slug": "Dr_Bethany_Kutz.html"
+                },
+                "fields": {
+                    "distance": 20.929549282249226
+                },
+                "sort": [
+                    20.930588465403897
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1x1s9f_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1x1s9f",
+                    "years_experience": 29,
+                    "city_state": "Glen Mills, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Michael S Dreyer",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1683670\/photo.jpg"
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Pediatrics"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Michael_Dreyer.html",
+                            "slug": "Dr_Michael_Dreyer.html"
+                        }
+                    },
+                    "number_of_ratings": 3,
+                    "locations": [
+                        {
+                            "city_state": "Glen Mills, PA",
+                            "city": "Glen Mills",
+                            "address1": "1766 Wilmington Pike",
+                            "_geoloc": {
+                                "lng": -75.54522,
+                                "lat": 39.873024
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 3.6666666666666665,
+                    "url": "\/doctors\/Dr_Michael_Dreyer.html",
+                    "slug": "Dr_Michael_Dreyer.html"
+                },
+                "fields": {
+                    "distance": 20.929549282249226
+                },
+                "sort": [
+                    20.930588465403897
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1t6pfb_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1t6pfb",
+                    "city_state": "Glen Mills, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Una E Brewer",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1704631\/photo.jpg"
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Pediatrics"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Una_Brewer.html",
+                            "slug": "Dr_Una_Brewer.html"
+                        }
+                    },
+                    "number_of_ratings": 5,
+                    "locations": [
+                        {
+                            "city_state": "Glen Mills, PA",
+                            "city": "Glen Mills",
+                            "address1": "1766 Wilmington Pike",
+                            "_geoloc": {
+                                "lng": -75.54522,
+                                "lat": 39.873024
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 5,
+                    "url": "\/doctors\/Dr_Una_Brewer.html",
+                    "slug": "Dr_Una_Brewer.html"
+                },
+                "fields": {
+                    "distance": 20.929549282249226
+                },
+                "sort": [
+                    20.930588465403897
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1wbkm7_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1wbkm7",
+                    "years_experience": 37,
+                    "city_state": "Warrington, PA",
+                    "degree": "DO",
+                    "type": "doctor",
+                    "display_name": "Dr. Robert M Cherrey",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1515449\/photo.jpg"
+                        }
+                    },
+                    "degrees": [
+                        "DO"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Internal Medicine"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Robert_Cherrey.html",
+                            "slug": "Dr_Robert_Cherrey.html"
+                        }
+                    },
+                    "number_of_ratings": 16,
+                    "locations": [
+                        {
+                            "city_state": "Warrington, PA",
+                            "city": "Warrington",
+                            "address1": "1432 Easton Rd Ste 2E",
+                            "_geoloc": {
+                                "lng": -75.134177,
+                                "lat": 40.254281
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 4.833333333333332,
+                    "url": "\/doctors\/Dr_Robert_Cherrey.html",
+                    "slug": "Dr_Robert_Cherrey.html"
+                },
+                "fields": {
+                    "distance": 20.968086691075833
+                },
+                "sort": [
+                    20.969121619006824
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1x7wdh_doctor",
+                "_score": null,
+                "_source": {
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Addiction Medicine"
+                    ],
+                    "vpid": "1x7wdh",
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/1x7wdh\/laura-otto",
+                            "slug": "1x7wdh\/laura-otto"
+                        }
+                    },
+                    "city_state": "Warrington, PA",
+                    "degree": "MD",
+                    "locations": [
+                        {
+                            "city_state": "Buffalo, NY",
+                            "city": "Buffalo",
+                            "address1": "1526 Walden Ave Ste 400",
+                            "_geoloc": {
+                                "lng": -78.78178,
+                                "lat": 42.90759
+                            },
+                            "state": "NY"
+                        },
+                        {
+                            "city_state": "Jamison, PA",
+                            "city": "Jamison",
+                            "address1": "2370 York Rd Ste D4",
+                            "_geoloc": {
+                                "lng": -75.088925,
+                                "lat": 40.257528
+                            },
+                            "state": "PA"
+                        },
+                        {
+                            "city_state": "Warrington, PA",
+                            "city": "Warrington",
+                            "address1": "1432 Easton Rd",
+                            "_geoloc": {
+                                "lng": -75.134177,
+                                "lat": 40.254281
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "type": "doctor",
+                    "display_name": "Dr. Laura L Otto",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "url": "\/doctors\/1x7wdh\/laura-otto",
+                    "slug": "1x7wdh\/laura-otto"
+                },
+                "fields": {
+                    "distance": 20.968086691075833
+                },
+                "sort": [
+                    20.969121619006824
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1q2zqx_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1q2zqx",
+                    "city_state": "Warrington, PA",
+                    "degree": "DO",
+                    "type": "doctor",
+                    "display_name": "Dr. Sharon M Sowinski-Mueller",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1908149\/photo.jpg"
+                        }
+                    },
+                    "degrees": [
+                        "DO"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Pediatrics"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Sharon_Sowinski.html",
+                            "slug": "Dr_Sharon_Sowinski.html"
+                        }
+                    },
+                    "number_of_ratings": 2,
+                    "locations": [
+                        {
+                            "city_state": "Warrington, PA",
+                            "city": "Warrington",
+                            "address1": "1432 Easton Rd Ste 4E",
+                            "_geoloc": {
+                                "lng": -75.134177,
+                                "lat": 40.254281
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 3,
+                    "url": "\/doctors\/Dr_Sharon_Sowinski.html",
+                    "slug": "Dr_Sharon_Sowinski.html"
+                },
+                "fields": {
+                    "distance": 20.968086691075833
+                },
+                "sort": [
+                    20.969121619006824
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1xt9yz_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1xt9yz",
+                    "city_state": "Warrington, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Karen W David",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1908147\/photo.jpg"
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Pediatrics"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Karen_W_David.html",
+                            "slug": "Dr_Karen_W_David.html"
+                        }
+                    },
+                    "number_of_ratings": 1,
+                    "locations": [
+                        {
+                            "city_state": "Warrington, PA",
+                            "city": "Warrington",
+                            "address1": "1432 Easton Rd Ste 4E",
+                            "_geoloc": {
+                                "lng": -75.134177,
+                                "lat": 40.254281
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 5,
+                    "url": "\/doctors\/Dr_Karen_W_David.html",
+                    "slug": "Dr_Karen_W_David.html"
+                },
+                "fields": {
+                    "distance": 20.968086691075833
+                },
+                "sort": [
+                    20.969121619006824
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1t7zg6_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1t7zg6",
+                    "city_state": "Warrington, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Susan J Kressly",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1908148\/photo.jpg"
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Clinical Informatics",
+                        "Pediatrics"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Susan_Kressly.html",
+                            "slug": "Dr_Susan_Kressly.html"
+                        }
+                    },
+                    "number_of_ratings": 8,
+                    "locations": [
+                        {
+                            "city_state": "Warrington, PA",
+                            "city": "Warrington",
+                            "address1": "1432 Easton Rd Ste 4E",
+                            "_geoloc": {
+                                "lng": -75.134177,
+                                "lat": 40.254281
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 4.5,
+                    "url": "\/doctors\/Dr_Susan_Kressly.html",
+                    "slug": "Dr_Susan_Kressly.html"
+                },
+                "fields": {
+                    "distance": 20.968086691075833
+                },
+                "sort": [
+                    20.969121619006824
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1nm4sx_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1nm4sx",
+                    "years_experience": 22,
+                    "city_state": "Glen Mills, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Nehal S Gandhi",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1832013\/photo.jpg"
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Rheumatology",
+                        "Internal Medicine"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Nehal_Gandhi.html",
+                            "slug": "Dr_Nehal_Gandhi.html"
+                        }
+                    },
+                    "number_of_ratings": 58,
+                    "locations": [
+                        {
+                            "city_state": "Glen Mills, PA",
+                            "city": "Glen Mills",
+                            "address1": "1786 Wilmington Pike Ste 100B",
+                            "_geoloc": {
+                                "lng": -75.545369,
+                                "lat": 39.871144
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 4.3275862068965525,
+                    "url": "\/doctors\/Dr_Nehal_Gandhi.html",
+                    "slug": "Dr_Nehal_Gandhi.html"
+                },
+                "fields": {
+                    "distance": 20.97151322314438
+                },
+                "sort": [
+                    20.972552099039383
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1q6jb1_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1q6jb1",
+                    "years_experience": 49,
+                    "city_state": "Malvern, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. John H Chidester",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1709651\/photo.jpg"
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Orthopaedic Surgery"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_John_Chidester.html",
+                            "slug": "Dr_John_Chidester.html"
+                        }
+                    },
+                    "number_of_ratings": 20,
+                    "locations": [
+                        {
+                            "city_state": "Malvern, PA",
+                            "city": "Malvern",
+                            "address1": "254 Lancaster Ave Ste 2",
+                            "_geoloc": {
+                                "lng": -75.543411,
+                                "lat": 40.040076
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 4.6833333333333345,
+                    "url": "\/doctors\/Dr_John_Chidester.html",
+                    "slug": "Dr_John_Chidester.html"
+                },
+                "fields": {
+                    "distance": 21.000589083971008
+                },
+                "sort": [
+                    21.001631840478517
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1rfz05_doctor",
+                "_score": null,
+                "_source": {
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Optometry"
+                    ],
+                    "vpid": "1rfz05",
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/1rfz05\/paul-forrest",
+                            "slug": "1rfz05\/paul-forrest"
+                        }
+                    },
+                    "years_experience": 29,
+                    "city_state": "Glen Mills, PA",
+                    "degree": "OD",
+                    "locations": [
+                        {
+                            "city_state": "Harleysville, PA",
+                            "city": "Harleysville",
+                            "address1": "426 Main St",
+                            "_geoloc": {
+                                "lng": -75.384209,
+                                "lat": 40.277022
+                            },
+                            "state": "PA"
+                        },
+                        {
+                            "city_state": "Colmar, PA",
+                            "city": "Colmar",
+                            "address1": "2339 N Broad St",
+                            "_geoloc": {
+                                "lng": -75.258634,
+                                "lat": 40.263183
+                            },
+                            "state": "PA"
+                        },
+                        {
+                            "city_state": "Glen Mills, PA",
+                            "city": "Glen Mills",
+                            "address1": "1810 Wilmington Pike",
+                            "_geoloc": {
+                                "lng": -75.545404,
+                                "lat": 39.86858
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "type": "doctor",
+                    "display_name": "Dr. Paul T Forrest",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [
+                        "OD"
+                    ],
+                    "url": "\/doctors\/1rfz05\/paul-forrest",
+                    "slug": "1rfz05\/paul-forrest"
+                },
+                "fields": {
+                    "distance": 21.02133260143491
+                },
+                "sort": [
+                    21.022375480934365
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1sxrkq_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1sxrkq",
+                    "years_experience": 47,
+                    "city_state": "Chadds Ford, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Edward M Goldenberg",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1704558\/photo.jpg"
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Cardiovascular Disease",
+                        "Internal Medicine"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Edward_Goldenberg.html",
+                            "slug": "Dr_Edward_Goldenberg.html"
+                        }
+                    },
+                    "number_of_ratings": 6,
+                    "locations": [
+                        {
+                            "city_state": "Newark, DE",
+                            "city": "Newark",
+                            "address1": "252 Chapman Rd Ste 150",
+                            "_geoloc": {
+                                "lng": -75.677529,
+                                "lat": 39.668926
+                            },
+                            "state": "DE"
+                        },
+                        {
+                            "city_state": "Newark, DE",
+                            "city": "Newark",
+                            "address1": "86 Omega Dr",
+                            "_geoloc": {
+                                "lng": -75.676982,
+                                "lat": 39.69215
+                            },
+                            "state": "DE"
+                        },
+                        {
+                            "city_state": "Newark, DE",
+                            "city": "Newark",
+                            "address1": "2600 Glasgow Ave Ste 220",
+                            "_geoloc": {
+                                "lng": -75.74517,
+                                "lat": 39.599134
+                            },
+                            "state": "DE"
+                        },
+                        {
+                            "city_state": "Newark, DE",
+                            "city": "Newark",
+                            "address1": "200 Hygeia Dr",
+                            "_geoloc": {
+                                "lng": -75.674891,
+                                "lat": 39.69242
+                            },
+                            "state": "DE"
+                        },
+                        {
+                            "city_state": "Chadds Ford, PA",
+                            "city": "Chadds Ford",
+                            "address1": "161 Wilmington W Chester Pike",
+                            "_geoloc": {
+                                "lng": -75.53652,
+                                "lat": 39.846799
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 4,
+                    "url": "\/doctors\/Dr_Edward_Goldenberg.html",
+                    "slug": "Dr_Edward_Goldenberg.html"
+                },
+                "fields": {
+                    "distance": 21.0412812922247
+                },
+                "sort": [
+                    21.042326353999663
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1rsqnp_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1rsqnp",
+                    "years_experience": 38,
+                    "city_state": "Chadds Ford, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Ronald L Lewis Jr",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1757916\/photo.jpg"
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Cardiovascular Disease",
+                        "Internal Medicine"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Ronald_L_Lewis.html",
+                            "slug": "Dr_Ronald_L_Lewis.html"
+                        }
+                    },
+                    "number_of_ratings": 5,
+                    "locations": [
+                        {
+                            "city_state": "Chadds Ford, PA",
+                            "city": "Chadds Ford",
+                            "address1": "161 Wilmington W Chester Pike",
+                            "_geoloc": {
+                                "lng": -75.53652,
+                                "lat": 39.846799
+                            },
+                            "state": "PA"
+                        },
+                        {
+                            "city_state": "Newark, DE",
+                            "city": "Newark",
+                            "address1": "252 Chapman Rd",
+                            "_geoloc": {
+                                "lng": -75.677529,
+                                "lat": 39.668926
+                            },
+                            "state": "DE"
+                        },
+                        {
+                            "city_state": "Wilmington, DE",
+                            "city": "Wilmington",
+                            "address1": "3521 Silverside Rd Ste 1C",
+                            "_geoloc": {
+                                "lng": -75.545093,
+                                "lat": 39.809044
+                            },
+                            "state": "DE"
+                        }
+                    ],
+                    "overall_rating": 5,
+                    "url": "\/doctors\/Dr_Ronald_L_Lewis.html",
+                    "slug": "Dr_Ronald_L_Lewis.html"
+                },
+                "fields": {
+                    "distance": 21.0412812922247
+                },
+                "sort": [
+                    21.042326353999663
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1pg5h1_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1pg5h1",
+                    "years_experience": 10,
+                    "city_state": "Chadds Ford, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Kelly E Billig-Figura",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1784758\/photo.jpg"
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Internal Medicine",
+                        "Pediatrics"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Kelly_Billig-Figura.html",
+                            "slug": "Dr_Kelly_Billig-Figura.html"
+                        }
+                    },
+                    "number_of_ratings": 4,
+                    "locations": [
+                        {
+                            "city_state": "Newark, DE",
+                            "city": "Newark",
+                            "address1": "4755 Ogletown Stanton Rd",
+                            "_geoloc": {
+                                "lng": -75.669306,
+                                "lat": 39.687711
+                            },
+                            "state": "DE"
+                        },
+                        {
+                            "city_state": "Chadds Ford, PA",
+                            "city": "Chadds Ford",
+                            "address1": "161 Wilmington W Chester Pike",
+                            "_geoloc": {
+                                "lng": -75.53652,
+                                "lat": 39.846799
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 3.75,
+                    "url": "\/doctors\/Dr_Kelly_Billig-Figura.html",
+                    "slug": "Dr_Kelly_Billig-Figura.html"
+                },
+                "fields": {
+                    "distance": 21.0412812922247
+                },
+                "sort": [
+                    21.042326353999663
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1wrj2f_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1wrj2f",
+                    "years_experience": 46,
+                    "city_state": "Chadds Ford, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Arthur W Colbourn",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1686755\/photo.jpg"
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Cardiovascular Disease",
+                        "Internal Medicine"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Arthur_Colbourn.html",
+                            "slug": "Dr_Arthur_Colbourn.html"
+                        }
+                    },
+                    "number_of_ratings": 2,
+                    "locations": [
+                        {
+                            "city_state": "Wilmington, DE",
+                            "city": "Wilmington",
+                            "address1": "2700 Silverside Rd Ste 3A",
+                            "_geoloc": {
+                                "lng": -75.520043,
+                                "lat": 39.810452
+                            },
+                            "state": "DE"
+                        },
+                        {
+                            "city_state": "Newark, DE",
+                            "city": "Newark",
+                            "address1": "252 Chapman Rd Ste 150",
+                            "_geoloc": {
+                                "lng": -75.677529,
+                                "lat": 39.668926
+                            },
+                            "state": "DE"
+                        },
+                        {
+                            "city_state": "Newark, DE",
+                            "city": "Newark",
+                            "address1": "254 Chapman Rd Ste 100",
+                            "_geoloc": {
+                                "lng": -75.677585,
+                                "lat": 39.667922
+                            },
+                            "state": "DE"
+                        },
+                        {
+                            "city_state": "Chadds Ford, PA",
+                            "city": "Chadds Ford",
+                            "address1": "161 Wilmington W Chester Pike",
+                            "_geoloc": {
+                                "lng": -75.53652,
+                                "lat": 39.846799
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 3,
+                    "url": "\/doctors\/Dr_Arthur_Colbourn.html",
+                    "slug": "Dr_Arthur_Colbourn.html"
+                },
+                "fields": {
+                    "distance": 21.0412812922247
+                },
+                "sort": [
+                    21.042326353999663
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1tsppf_doctor",
+                "_score": null,
+                "_source": {
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Radiation Oncology"
+                    ],
+                    "vpid": "1tsppf",
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Lana_Desouza.html",
+                            "slug": "Dr_Lana_Desouza.html"
+                        }
+                    },
+                    "years_experience": 11,
+                    "city_state": "Chadds Ford, PA",
+                    "degree": "MD",
+                    "locations": [
+                        {
+                            "city_state": "Baltimore, MD",
+                            "city": "Baltimore",
+                            "address1": "22 S Greene St",
+                            "_geoloc": {
+                                "lng": -76.6247,
+                                "lat": 39.288163
+                            },
+                            "state": "MD"
+                        },
+                        {
+                            "city_state": "Newark, DE",
+                            "city": "Newark",
+                            "address1": "4701 Ogletown Stanton Rd Ste 1110",
+                            "_geoloc": {
+                                "lng": -75.678713,
+                                "lat": 39.686916
+                            },
+                            "state": "DE"
+                        },
+                        {
+                            "city_state": "Chadds Ford, PA",
+                            "city": "Chadds Ford",
+                            "address1": "161 Wilmington W Chester Pike",
+                            "_geoloc": {
+                                "lng": -75.53652,
+                                "lat": 39.846799
+                            },
+                            "state": "PA"
+                        },
+                        {
+                            "city_state": "Baltimore, MD",
+                            "city": "Baltimore",
+                            "address1": "1800 Orleans St",
+                            "_geoloc": {
+                                "lng": -76.59345,
+                                "lat": 39.2973
+                            },
+                            "state": "MD"
+                        }
+                    ],
+                    "type": "doctor",
+                    "display_name": "Dr. Lana M De Souza Lawrence",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "url": "\/doctors\/Dr_Lana_Desouza.html",
+                    "slug": "Dr_Lana_Desouza.html"
+                },
+                "fields": {
+                    "distance": 21.0412812922247
+                },
+                "sort": [
+                    21.042326353999663
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1r9zrq_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1r9zrq",
+                    "years_experience": 19,
+                    "city_state": "Chadds Ford, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Jon F Strasser",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1922119\/photo.jpg"
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Radiation Oncology",
+                        "Radiology"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Jon_Strasser.html",
+                            "slug": "Dr_Jon_Strasser.html"
+                        }
+                    },
+                    "number_of_ratings": 6,
+                    "locations": [
+                        {
+                            "city_state": "Newark, DE",
+                            "city": "Newark",
+                            "address1": "4701 Ogletown Stanton Rd Ste 1110",
+                            "_geoloc": {
+                                "lng": -75.678713,
+                                "lat": 39.686916
+                            },
+                            "state": "DE"
+                        },
+                        {
+                            "city_state": "Chadds Ford, PA",
+                            "city": "Chadds Ford",
+                            "address1": "161 Wilmington W Chester Pike",
+                            "_geoloc": {
+                                "lng": -75.53652,
+                                "lat": 39.846799
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 3.6666666666666665,
+                    "url": "\/doctors\/Dr_Jon_Strasser.html",
+                    "slug": "Dr_Jon_Strasser.html"
+                },
+                "fields": {
+                    "distance": 21.0412812922247
+                },
+                "sort": [
+                    21.042326353999663
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1wmf00_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1wmf00",
+                    "city_state": "Chadds Ford, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Viroon Donavanik",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1713716\/photo.jpg"
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Therapeutic Radiology",
+                        "Radiation Oncology",
+                        "Radiology"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Viroon_Donavanik.html",
+                            "slug": "Dr_Viroon_Donavanik.html"
+                        }
+                    },
+                    "number_of_ratings": 5,
+                    "locations": [
+                        {
+                            "city_state": "Newark, DE",
+                            "city": "Newark",
+                            "address1": "4701 Ogletown Stanton Rd Ste 1110",
+                            "_geoloc": {
+                                "lng": -75.678713,
+                                "lat": 39.686916
+                            },
+                            "state": "DE"
+                        },
+                        {
+                            "city_state": "Newark, DE",
+                            "city": "Newark",
+                            "address1": "4755 Stanton Ogletwn Rm",
+                            "_geoloc": {
+                                "lng": -75.6724,
+                                "lat": 39.6907
+                            },
+                            "state": "DE"
+                        },
+                        {
+                            "city_state": "Chadds Ford, PA",
+                            "city": "Chadds Ford",
+                            "address1": "161 Wilmington W Chester Pike",
+                            "_geoloc": {
+                                "lng": -75.53652,
+                                "lat": 39.846799
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 5,
+                    "url": "\/doctors\/Dr_Viroon_Donavanik.html",
+                    "slug": "Dr_Viroon_Donavanik.html"
+                },
+                "fields": {
+                    "distance": 21.0412812922247
+                },
+                "sort": [
+                    21.042326353999663
+                ]
+            }
+        ]
+    },
+    "aggregations": {
+        "satisfaction.accurate_diagnosis": {
+            "buckets": {
+                "good": {
+                    "from": 3.5,
+                    "doc_count": 0
+                }
+            }
+        },
+        "overall_range": {
+            "doc_count": 7275
+        },
+        "satisfaction.bedside_manner": {
+            "buckets": {
+                "good": {
+                    "from": 3.5,
+                    "doc_count": 0
+                }
+            }
+        },
+        "satisfaction.punctuality": {
+            "buckets": {
+                "good": {
+                    "from": 3.5,
+                    "doc_count": 0
+                }
+            }
+        },
+        "display_types": {
+            "doc_count_error_upper_bound": 0,
+            "sum_other_doc_count": 0,
+            "buckets": [
+                {
+                    "key": "Doctor",
+                    "doc_count": 9616
+                },
+                {
+                    "key": "Group Practice",
+                    "doc_count": 680
+                },
+                {
+                    "key": "Chiropractor",
+                    "doc_count": 371
+                },
+                {
+                    "key": "Podiatrist",
+                    "doc_count": 310
+                },
+                {
+                    "key": "Optometrist",
+                    "doc_count": 292
+                },
+                {
+                    "key": "Psychologist",
+                    "doc_count": 279
+                },
+                {
+                    "key": "Dentist",
+                    "doc_count": 60
+                },
+                {
+                    "key": "Hospital",
+                    "doc_count": 26
+                },
+                {
+                    "key": "Nursing Home",
+                    "doc_count": 2
+                },
+                {
+                    "key": "Cancer Center",
+                    "doc_count": 1
+                },
+                {
+                    "key": "Pharmacy",
+                    "doc_count": 1
+                }
+            ]
+        },
+        "insurance_companies": {
+            "doc_count_error_upper_bound": 0,
+            "sum_other_doc_count": 0,
+            "buckets": [
+                {
+                    "key": "Aetna",
+                    "doc_count": 11304
+                },
+                {
+                    "key": "United Healthcare",
+                    "doc_count": 10301
+                },
+                {
+                    "key": "BCBS Blue Card",
+                    "doc_count": 9724
+                },
+                {
+                    "key": "IBC",
+                    "doc_count": 9616
+                },
+                {
+                    "key": "Cigna",
+                    "doc_count": 8995
+                },
+                {
+                    "key": "Coventry Health Care",
+                    "doc_count": 8567
+                },
+                {
+                    "key": "Multiplan",
+                    "doc_count": 7792
+                },
+                {
+                    "key": "Humana",
+                    "doc_count": 5854
+                },
+                {
+                    "key": "Capital Blue Cross",
+                    "doc_count": 5649
+                },
+                {
+                    "key": "Horizon BCBS",
+                    "doc_count": 5553
+                },
+                {
+                    "key": "First Health",
+                    "doc_count": 5330
+                },
+                {
+                    "key": "QualCare",
+                    "doc_count": 4110
+                },
+                {
+                    "key": "Geisinger Health Plan",
+                    "doc_count": 2742
+                },
+                {
+                    "key": "Oxford Health",
+                    "doc_count": 1840
+                },
+                {
+                    "key": "HIP of NY",
+                    "doc_count": 1484
+                },
+                {
+                    "key": "UPMC Health Plan",
+                    "doc_count": 320
+                },
+                {
+                    "key": "CareFirst BCBS",
+                    "doc_count": 288
+                },
+                {
+                    "key": "Highmark BCBS",
+                    "doc_count": 265
+                },
+                {
+                    "key": "Empire BCBS",
+                    "doc_count": 140
+                },
+                {
+                    "key": "Anthem",
+                    "doc_count": 115
+                },
+                {
+                    "key": "Capital District Physicians Health Plan",
+                    "doc_count": 104
+                },
+                {
+                    "key": "BCBS Massachusetts",
+                    "doc_count": 90
+                },
+                {
+                    "key": "Connecticare",
+                    "doc_count": 69
+                },
+                {
+                    "key": "BCBS Illinois",
+                    "doc_count": 62
+                },
+                {
+                    "key": "Assurant",
+                    "doc_count": 56
+                },
+                {
+                    "key": "Guardian Dental",
+                    "doc_count": 55
+                },
+                {
+                    "key": "Principal Dental",
+                    "doc_count": 53
+                },
+                {
+                    "key": "Cigna Dental",
+                    "doc_count": 51
+                },
+                {
+                    "key": "Delta Dental",
+                    "doc_count": 51
+                },
+                {
+                    "key": "United Concordia",
+                    "doc_count": 51
+                },
+                {
+                    "key": "Ameritas",
+                    "doc_count": 49
+                },
+                {
+                    "key": "Dental Network of America",
+                    "doc_count": 49
+                },
+                {
+                    "key": "MetLife",
+                    "doc_count": 47
+                },
+                {
+                    "key": "DenteMax",
+                    "doc_count": 44
+                },
+                {
+                    "key": "MVP Health Plan",
+                    "doc_count": 44
+                },
+                {
+                    "key": "United Healthcare Dental",
+                    "doc_count": 44
+                },
+                {
+                    "key": "CompBenefits",
+                    "doc_count": 39
+                },
+                {
+                    "key": "Harvard Pilgrim",
+                    "doc_count": 39
+                },
+                {
+                    "key": "Humana Dental",
+                    "doc_count": 38
+                },
+                {
+                    "key": "HealthFirst NY",
+                    "doc_count": 36
+                },
+                {
+                    "key": "Blue Cross California",
+                    "doc_count": 31
+                },
+                {
+                    "key": "BCBS Florida",
+                    "doc_count": 28
+                },
+                {
+                    "key": "Medical Mutual of Ohio",
+                    "doc_count": 28
+                },
+                {
+                    "key": "Health Net",
+                    "doc_count": 26
+                },
+                {
+                    "key": "Tufts Health Plan",
+                    "doc_count": 26
+                },
+                {
+                    "key": "Emblem Health",
+                    "doc_count": 23
+                },
+                {
+                    "key": "Excellus BCBS",
+                    "doc_count": 23
+                },
+                {
+                    "key": "AvMed Health",
+                    "doc_count": 17
+                },
+                {
+                    "key": "Regence Health Plans",
+                    "doc_count": 17
+                },
+                {
+                    "key": "Sagamore Health",
+                    "doc_count": 17
+                },
+                {
+                    "key": "UHC of the River Valley",
+                    "doc_count": 17
+                },
+                {
+                    "key": "Blue Shield California",
+                    "doc_count": 16
+                },
+                {
+                    "key": "ODS",
+                    "doc_count": 14
+                },
+                {
+                    "key": "Premera",
+                    "doc_count": 14
+                },
+                {
+                    "key": "Independent Health",
+                    "doc_count": 13
+                },
+                {
+                    "key": "BCBS Texas",
+                    "doc_count": 12
+                },
+                {
+                    "key": "SIHO Insurance Services",
+                    "doc_count": 12
+                },
+                {
+                    "key": "HealthSpan",
+                    "doc_count": 11
+                },
+                {
+                    "key": "BCBS North Carolina",
+                    "doc_count": 10
+                },
+                {
+                    "key": "Optima Health",
+                    "doc_count": 10
+                },
+                {
+                    "key": "BCBS Georgia",
+                    "doc_count": 9
+                },
+                {
+                    "key": "Centene",
+                    "doc_count": 9
+                },
+                {
+                    "key": "HealthLink",
+                    "doc_count": 9
+                },
+                {
+                    "key": "BCBS Michigan",
+                    "doc_count": 8
+                },
+                {
+                    "key": "Encore Health Network",
+                    "doc_count": 8
+                },
+                {
+                    "key": "Ambetter Superior Health Plan",
+                    "doc_count": 7
+                },
+                {
+                    "key": "BCBS Rhode Island",
+                    "doc_count": 7
+                },
+                {
+                    "key": "PriorityHealth",
+                    "doc_count": 7
+                },
+                {
+                    "key": "Aetna Innovation Health",
+                    "doc_count": 6
+                },
+                {
+                    "key": "Health Alliance",
+                    "doc_count": 6
+                },
+                {
+                    "key": "Premier Health Plan",
+                    "doc_count": 6
+                },
+                {
+                    "key": "Wellmark",
+                    "doc_count": 6
+                },
+                {
+                    "key": "BCBS South Carolina",
+                    "doc_count": 5
+                },
+                {
+                    "key": "Healthy Connecticut",
+                    "doc_count": 5
+                },
+                {
+                    "key": "PHP Northern IN",
+                    "doc_count": 5
+                },
+                {
+                    "key": "SummaCare",
+                    "doc_count": 5
+                },
+                {
+                    "key": "WPS",
+                    "doc_count": 5
+                },
+                {
+                    "key": "Altius",
+                    "doc_count": 4
+                },
+                {
+                    "key": "BCBS Kansas City",
+                    "doc_count": 4
+                },
+                {
+                    "key": "BCBS Minnesota",
+                    "doc_count": 4
+                },
+                {
+                    "key": "Common Ground",
+                    "doc_count": 4
+                },
+                {
+                    "key": "HAP",
+                    "doc_count": 4
+                },
+                {
+                    "key": "Molina Healthcare",
+                    "doc_count": 4
+                },
+                {
+                    "key": "PacificSource",
+                    "doc_count": 4
+                },
+                {
+                    "key": "SelectHealth",
+                    "doc_count": 4
+                },
+                {
+                    "key": "BCBS Tennessee",
+                    "doc_count": 3
+                },
+                {
+                    "key": "Providence Health System",
+                    "doc_count": 3
+                },
+                {
+                    "key": "The Health Plan of Upper OH",
+                    "doc_count": 3
+                },
+                {
+                    "key": "BCBS Alabama",
+                    "doc_count": 2
+                },
+                {
+                    "key": "BCBS New Mexico",
+                    "doc_count": 2
+                },
+                {
+                    "key": "HealthPartners - MN",
+                    "doc_count": 2
+                },
+                {
+                    "key": "Indiana University",
+                    "doc_count": 2
+                },
+                {
+                    "key": "Preferred One",
+                    "doc_count": 2
+                },
+                {
+                    "key": "Presbyterian",
+                    "doc_count": 2
+                },
+                {
+                    "key": "Aultcare",
+                    "doc_count": 1
+                },
+                {
+                    "key": "BCBS Louisiana",
+                    "doc_count": 1
+                },
+                {
+                    "key": "BCBS Oklahoma",
+                    "doc_count": 1
+                },
+                {
+                    "key": "FirstCare",
+                    "doc_count": 1
+                },
+                {
+                    "key": "FrontPath Health Coalition",
+                    "doc_count": 1
+                },
+                {
+                    "key": "Group Health Coop",
+                    "doc_count": 1
+                },
+                {
+                    "key": "Gundersen Health Plan",
+                    "doc_count": 1
+                },
+                {
+                    "key": "Health Plan of Nevada",
+                    "doc_count": 1
+                },
+                {
+                    "key": "Kaiser - MidAtlantic",
+                    "doc_count": 1
+                },
+                {
+                    "key": "LA Care Health",
+                    "doc_count": 1
+                },
+                {
+                    "key": "Network Health Plan",
+                    "doc_count": 1
+                },
+                {
+                    "key": "One Health Network",
+                    "doc_count": 1
+                },
+                {
+                    "key": "Paramount",
+                    "doc_count": 1
+                },
+                {
+                    "key": "Qualchoice",
+                    "doc_count": 1
+                },
+                {
+                    "key": "Scion Dental",
+                    "doc_count": 1
+                },
+                {
+                    "key": "Sierra Health",
+                    "doc_count": 1
+                }
+            ]
+        },
+        "ratings": {
+            "buckets": [
+                {
+                    "key": "any",
+                    "doc_count": 9616
+                },
+                {
+                    "key": "3",
+                    "from": 3,
+                    "doc_count": 6688
+                },
+                {
+                    "key": "4",
+                    "from": 4,
+                    "doc_count": 4779
+                },
+                {
+                    "key": "5",
+                    "from": 5,
+                    "doc_count": 1531
+                }
+            ]
+        },
+        "experience_range": {
+            "buckets": [
+                {
+                    "key": "Any",
+                    "doc_count": 9616
+                },
+                {
+                    "key": "0 - 5",
+                    "from": 0,
+                    "to": 6,
+                    "doc_count": 0
+                },
+                {
+                    "key": "5 - 10",
+                    "from": 5,
+                    "to": 11,
+                    "doc_count": 608
+                },
+                {
+                    "key": "11 - 15",
+                    "from": 11,
+                    "to": 16,
+                    "doc_count": 921
+                },
+                {
+                    "key": "16 - 20",
+                    "from": 16,
+                    "to": 21,
+                    "doc_count": 1028
+                },
+                {
+                    "key": "21 - 25",
+                    "from": 21,
+                    "to": 26,
+                    "doc_count": 883
+                },
+                {
+                    "key": "26 - 30",
+                    "from": 26,
+                    "to": 31,
+                    "doc_count": 760
+                },
+                {
+                    "key": "30+",
+                    "from": 30,
+                    "doc_count": 2900
+                }
+            ]
+        }
+    },
+    "status": 200,
+    "distanceLimitedNothingFound": false,
+    "query": "",
+    "radiusUsed": 25,
+    "reqNo": "1",
+    "sponsors": [
+        {
+            "campaign_name": "webmd_ep",
+            "targeting": {
+                "locations": [
+                    {
+                        "city_state": "Philadelphia, PA",
+                        "geopoint": [
+                            [
+                                -75.160429,
+                                39.94866
+                            ]
+                        ]
+                    }
+                ],
+                "sponsor_id": "xx"
+            },
+            "search": {
+                "search_city_state": "Philadelphia, PA",
+                "search_specialties": "General Dentistry",
+                "locations": [
+                    {
+                        "city_state": "Philadelphia, PA",
+                        "geopoint": [
+                            [
+                                -75.160429,
+                                39.94866
+                            ]
+                        ]
+                    }
+                ],
+                "display_name": "Shireen  Malik"
+            },
+            "npi": "1518135805",
+            "external_id": "D83325",
+            "campaign_features": [
+                {
+                    "feature_name": "serp",
+                    "feature_config": {
+                        "specialty": "General Dentistry",
+                        "webmdSpecialtyId": [
+                            29245
+                        ],
+                        "city_state": "Philadelphia, PA",
+                        "profile_url": "\/dentists\/Dr_Shireen_Malik",
+                        "type": "dentist",
+                        "display_name": "Shireen  Malik",
+                        "photos": {
+                            "host": null,
+                            "uri": null
+                        },
+                        "ctas": {
+                            "appointment_url": "https:\/\/appointments.webmd.com\/path\/wmd-path1\/61fbb52a-c844-4904-ad23-dcc296781461"
+                        },
+                        "degrees": [
+                            "DDS"
+                        ],
+                        "display_type": "Dentist",
+                        "vitalsSpecialtyId": [
+                            294,
+                            296,
+                            297,
+                            300,
+                            303,
+                            306,
+                            307
+                        ],
+                        "specialties": [
+                            "General Dentistry"
+                        ],
+                        "number_of_ratings": 13,
+                        "company_name": null,
+                        "overall_rating": 4.3076923076923075
+                    }
+                }
+            ],
+            "url": "\/dentists\/Dr_Shireen_Malik",
+            "city_state": "Philadelphia, PA",
+            "geopoint": [
+                [
+                    -75.160429,
+                    39.94866
+                ]
+            ],
+            "geo_points": [
+                -75.160429,
+                39.94866
+            ],
+            "distance": 0.3
+        },
+        {
+            "campaign_name": "webmd_ep",
+            "targeting": {
+                "locations": [
+                    {
+                        "city_state": "Philadelphia, PA",
+                        "geopoint": [
+                            [
+                                -75.1741,
+                                39.9527
+                            ]
+                        ]
+                    },
+                    {
+                        "city_state": "Upper Darby, PA",
+                        "geopoint": [
+                            [
+                                -75.2629,
+                                39.9591
+                            ]
+                        ]
+                    }
+                ],
+                "sponsor_id": "xx"
+            },
+            "search": {
+                "search_city_state": "Philadelphia, PA Upper Darby, PA",
+                "search_specialties": "Addiction Medicine Physical Medicine\/Rehab Spec",
+                "locations": [
+                    {
+                        "city_state": "Philadelphia, PA",
+                        "geopoint": [
+                            [
+                                -75.1741,
+                                39.9527
+                            ]
+                        ]
+                    },
+                    {
+                        "city_state": "Upper Darby, PA",
+                        "geopoint": [
+                            [
+                                -75.2629,
+                                39.9591
+                            ]
+                        ]
+                    }
+                ],
+                "display_name": "Denis A Boyle Jr"
+            },
+            "npi": "1205920287",
+            "external_id": "153875",
+            "campaign_features": [
+                {
+                    "feature_name": "serp",
+                    "feature_config": {
+                        "specialty": "Addiction Medicine",
+                        "webmdSpecialtyId": [
+                            29230,
+                            29309
+                        ],
+                        "city_state": "Philadelphia, PA",
+                        "profile_url": "\/doctors\/Dr_Denis_Boyle.html",
+                        "type": "doctor",
+                        "display_name": "Denis A Boyle Jr",
+                        "photos": {
+                            "host": null,
+                            "uri": null
+                        },
+                        "ctas": {
+                            "appointment_url": "https:\/\/appointments.webmd.com\/path\/wmd-path1\/fb31da85-feb0-4bf4-9dc3-01678cfc8276"
+                        },
+                        "degrees": [
+                            "MD"
+                        ],
+                        "display_type": "Doctor",
+                        "vitalsSpecialtyId": [
+                            5,
+                            23,
+                            31,
+                            141,
+                            124,
+                            126,
+                            127,
+                            2018
+                        ],
+                        "specialties": [
+                            "Addiction Medicine",
+                            "Physical Medicine\/Rehab Spec"
+                        ],
+                        "number_of_ratings": 4,
+                        "company_name": null,
+                        "overall_rating": 5
+                    }
+                }
+            ],
+            "url": "\/doctors\/Dr_Denis_Boyle.html",
+            "city_state": "Philadelphia, PA",
+            "geopoint": [
+                [
+                    -75.1741,
+                    39.9527
+                ]
+            ],
+            "geo_points": [
+                -75.1741,
+                39.9527
+            ],
+            "distance": 0.6
+        },
+        {
+            "campaign_name": "webmd_ep",
+            "targeting": {
+                "locations": [
+                    {
+                        "city_state": "Ridley Park, PA",
+                        "geopoint": [
+                            [
+                                -75.3212,
+                                39.8791
+                            ]
+                        ]
+                    }
+                ],
+                "sponsor_id": "xx"
+            },
+            "search": {
+                "search_city_state": "Ridley Park, PA",
+                "search_specialties": "Family Practitioner Internal Medicine",
+                "locations": [
+                    {
+                        "city_state": "Ridley Park, PA",
+                        "geopoint": [
+                            [
+                                -75.3212,
+                                39.8791
+                            ]
+                        ]
+                    }
+                ],
+                "display_name": "Neeraj Tripathy"
+            },
+            "npi": "1972660975",
+            "external_id": "6302324",
+            "campaign_features": [
+                {
+                    "feature_name": "serp",
+                    "feature_config": {
+                        "specialty": "Family Practitioner",
+                        "webmdSpecialtyId": [
+                            29259,
+                            29277
+                        ],
+                        "city_state": "Ridley Park, PA",
+                        "profile_url": "\/doctors\/Dr_Neeraj_Tripathy.html",
+                        "type": "doctor",
+                        "display_name": "Neeraj Tripathy",
+                        "photos": {
+                            "host": null,
+                            "uri": null
+                        },
+                        "ctas": {
+                            "appointment_url": "https:\/\/appointments.webmd.com\/path\/wmd-path1\/e5a7bcd3-e5c7-416a-b7ab-65f40d7e3015"
+                        },
+                        "degrees": [
+                            "MD"
+                        ],
+                        "display_type": "Doctor",
+                        "vitalsSpecialtyId": [
+                            22,
+                            25,
+                            26,
+                            479,
+                            667,
+                            30,
+                            36,
+                            42,
+                            672,
+                            2005
+                        ],
+                        "specialties": [
+                            "Family Practitioner",
+                            "Internal Medicine"
+                        ],
+                        "number_of_ratings": 12,
+                        "company_name": null,
+                        "overall_rating": 4.63888888888889
+                    }
+                }
+            ],
+            "url": "\/doctors\/Dr_Neeraj_Tripathy.html",
+            "city_state": "Ridley Park, PA",
+            "geopoint": [
+                [
+                    -75.3212,
+                    39.8791
+                ]
+            ],
+            "geo_points": [
+                -75.3212,
+                39.8791
+            ],
+            "distance": 9.7
+        }
+    ]
+}

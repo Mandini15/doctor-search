@@ -1,0 +1,2305 @@
+{
+    "took": 98,
+    "timed_out": false,
+    "_shards": {
+        "total": 2,
+        "successful": 2,
+        "skipped": 0,
+        "failed": 0
+    },
+    "hits": {
+        "total": 9616,
+        "max_score": null,
+        "hits": [
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1rtd27_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1rtd27",
+                    "city_state": "Philadelphia, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Alexander M Kanevsky",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Psychiatry",
+                        "Family Medicine"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Alexander_Kanevsky.html",
+                            "slug": "Dr_Alexander_Kanevsky.html"
+                        }
+                    },
+                    "number_of_ratings": 22,
+                    "locations": [
+                        {
+                            "city_state": "Jamison, PA",
+                            "city": "Jamison",
+                            "address1": "2370 York Rd Ste D4",
+                            "_geoloc": {
+                                "lng": -75.088925,
+                                "lat": 40.257528
+                            },
+                            "state": "PA"
+                        },
+                        {
+                            "city_state": "Philadelphia, PA",
+                            "city": "Philadelphia",
+                            "address1": "6722 Bustleton Ave Ste 2",
+                            "_geoloc": {
+                                "lng": -75.066481,
+                                "lat": 40.040023
+                            },
+                            "state": "PA"
+                        },
+                        {
+                            "city_state": "Princeton, NJ",
+                            "city": "Princeton",
+                            "address1": "366 Nassau St",
+                            "_geoloc": {
+                                "lng": -74.644351,
+                                "lat": 40.354905
+                            },
+                            "state": "NJ"
+                        }
+                    ],
+                    "overall_rating": 3,
+                    "url": "\/doctors\/Dr_Alexander_Kanevsky.html",
+                    "slug": "Dr_Alexander_Kanevsky.html"
+                },
+                "fields": {
+                    "distance": 7.9891237330683715
+                },
+                "sort": [
+                    7.989515931560757
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "zx5ht4_doctor",
+                "_score": null,
+                "_source": {
+                    "display_type": "Doctor",
+                    "vpid": "zx5ht4",
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Michael_P_Weingarten.html",
+                            "slug": "Dr_Michael_P_Weingarten.html"
+                        }
+                    },
+                    "city_state": "Cherry Hill, NJ",
+                    "degree": "",
+                    "locations": [
+                        {
+                            "city_state": "Cherry Hill, NJ",
+                            "city": "Cherry Hill",
+                            "address1": "2250 Chapel Ave W Ste 110",
+                            "_geoloc": {
+                                "lng": -75.015622,
+                                "lat": 39.929126
+                            },
+                            "state": "NJ"
+                        }
+                    ],
+                    "type": "doctor",
+                    "display_name": "Michael P Weingarten",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [],
+                    "url": "\/doctors\/Dr_Michael_P_Weingarten.html",
+                    "slug": "Dr_Michael_P_Weingarten.html"
+                },
+                "fields": {
+                    "distance": 8.002355821049775
+                },
+                "sort": [
+                    8.002747946444881
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1rxrsw_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1rxrsw",
+                    "years_experience": 15,
+                    "city_state": "Woodbury, NJ",
+                    "degree": "DO",
+                    "type": "doctor",
+                    "display_name": "Dr. Michael E Monte Carlo",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [
+                        "DO"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Family Medicine"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Michael_Monte_Carlo.html",
+                            "slug": "Dr_Michael_Monte_Carlo.html"
+                        }
+                    },
+                    "number_of_ratings": 30,
+                    "locations": [
+                        {
+                            "city_state": "Woodbury, NJ",
+                            "city": "Woodbury",
+                            "address1": "165 Princeton Ave",
+                            "_geoloc": {
+                                "lng": -75.16596,
+                                "lat": 39.82781
+                            },
+                            "state": "NJ"
+                        },
+                        {
+                            "city_state": "Woodbury, NJ",
+                            "city": "Woodbury",
+                            "address1": "159 S Broad St",
+                            "_geoloc": {
+                                "lng": -75.155674,
+                                "lat": 39.83595
+                            },
+                            "state": "NJ"
+                        }
+                    ],
+                    "overall_rating": 4.3888888888888875,
+                    "url": "\/doctors\/Dr_Michael_Monte_Carlo.html",
+                    "slug": "Dr_Michael_Monte_Carlo.html"
+                },
+                "fields": {
+                    "distance": 8.00457396459307
+                },
+                "sort": [
+                    8.004971196756753
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1tfbps_doctor",
+                "_score": null,
+                "_source": {
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Family Medicine"
+                    ],
+                    "vpid": "1tfbps",
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Jacqueline_Riedel.html",
+                            "slug": "Dr_Jacqueline_Riedel.html"
+                        }
+                    },
+                    "years_experience": 11,
+                    "city_state": "Woodbury, NJ",
+                    "degree": "DO",
+                    "locations": [
+                        {
+                            "city_state": "Woodbury, NJ",
+                            "city": "Woodbury",
+                            "address1": "165 Princeton Ave",
+                            "_geoloc": {
+                                "lng": -75.16596,
+                                "lat": 39.82781
+                            },
+                            "state": "NJ"
+                        },
+                        {
+                            "city_state": "Voorhees, NJ",
+                            "city": "Voorhees",
+                            "address1": "1605 E Evesham Rd Ste 100",
+                            "_geoloc": {
+                                "lng": -74.976762,
+                                "lat": 39.860214
+                            },
+                            "state": "NJ"
+                        },
+                        {
+                            "city_state": "Woodbury, NJ",
+                            "city": "Woodbury",
+                            "address1": "159 S Broad St",
+                            "_geoloc": {
+                                "lng": -75.155674,
+                                "lat": 39.83595
+                            },
+                            "state": "NJ"
+                        }
+                    ],
+                    "type": "doctor",
+                    "display_name": "Dr. Jacqueline V Riedel",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1809830\/photo.jpg"
+                        }
+                    },
+                    "degrees": [
+                        "DO"
+                    ],
+                    "url": "\/doctors\/Dr_Jacqueline_Riedel.html",
+                    "slug": "Dr_Jacqueline_Riedel.html"
+                },
+                "fields": {
+                    "distance": 8.00457396459307
+                },
+                "sort": [
+                    8.004971196756753
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1pg489_doctor",
+                "_score": null,
+                "_source": {
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Pediatrics"
+                    ],
+                    "vpid": "1pg489",
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Kavita_Gupta-Shah.html",
+                            "slug": "Dr_Kavita_Gupta-Shah.html"
+                        }
+                    },
+                    "city_state": "Philadelphia, PA",
+                    "degree": "MD",
+                    "locations": [
+                        {
+                            "city_state": "Philadelphia, PA",
+                            "city": "Philadelphia",
+                            "address1": "6712 Rising Sun Ave",
+                            "_geoloc": {
+                                "lng": -75.09215,
+                                "lat": 40.053868
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "type": "doctor",
+                    "display_name": "Dr. Kavita Gupta-Shah",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "url": "\/doctors\/Dr_Kavita_Gupta-Shah.html",
+                    "slug": "Dr_Kavita_Gupta-Shah.html"
+                },
+                "fields": {
+                    "distance": 8.016758815944028
+                },
+                "sort": [
+                    8.017153735008224
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "zp5qjk_doctor",
+                "_score": null,
+                "_source": {
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Pediatrics"
+                    ],
+                    "vpid": "zp5qjk",
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Kavita_Gupta-Shah.html",
+                            "slug": "Dr_Kavita_Gupta-Shah.html"
+                        }
+                    },
+                    "city_state": "Philadelphia, PA",
+                    "degree": "MD",
+                    "locations": [
+                        {
+                            "city_state": "Philadelphia, PA",
+                            "city": "Philadelphia",
+                            "address1": "6712 Rising Sun Ave",
+                            "_geoloc": {
+                                "lng": -75.09215,
+                                "lat": 40.053868
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "type": "doctor",
+                    "display_name": "Dr. Kavita Gupta-Shah",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "url": "\/doctors\/Dr_Kavita_Gupta-Shah.html",
+                    "slug": "Dr_Kavita_Gupta-Shah.html"
+                },
+                "fields": {
+                    "distance": 8.016758815944028
+                },
+                "sort": [
+                    8.017153735008224
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1zzmyc_doctor",
+                "_score": null,
+                "_source": {
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Pediatrics"
+                    ],
+                    "vpid": "1zzmyc",
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/1zzmyc\/teenu-cherian",
+                            "slug": "1zzmyc\/teenu-cherian"
+                        }
+                    },
+                    "city_state": "Philadelphia, PA",
+                    "degree": "DO",
+                    "locations": [
+                        {
+                            "city_state": "Philadelphia, PA",
+                            "city": "Philadelphia",
+                            "address1": "6712 Rising Sun Ave",
+                            "_geoloc": {
+                                "lng": -75.09215,
+                                "lat": 40.053868
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "type": "doctor",
+                    "display_name": "Dr. Teenu A Cherian",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [
+                        "DO"
+                    ],
+                    "url": "\/doctors\/1zzmyc\/teenu-cherian",
+                    "slug": "1zzmyc\/teenu-cherian"
+                },
+                "fields": {
+                    "distance": 8.016758815944028
+                },
+                "sort": [
+                    8.017153735008224
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1sp81d_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1sp81d",
+                    "years_experience": 34,
+                    "city_state": "Cherry Hill, NJ",
+                    "degree": "DO",
+                    "type": "doctor",
+                    "display_name": "Dr. David M Heyman",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [
+                        "DO"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Anesthesiology",
+                        "Pain Medicine"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_David_M_Heyman.html",
+                            "slug": "Dr_David_M_Heyman.html"
+                        }
+                    },
+                    "number_of_ratings": 3,
+                    "locations": [
+                        {
+                            "city_state": "Cherry Hill, NJ",
+                            "city": "Cherry Hill",
+                            "address1": "2201 Chapel Ave W",
+                            "_geoloc": {
+                                "lng": -75.015639,
+                                "lat": 39.927984
+                            },
+                            "state": "NJ"
+                        },
+                        {
+                            "city_state": "Norristown, PA",
+                            "city": "Norristown",
+                            "address1": "2701 Dekalb Pike",
+                            "_geoloc": {
+                                "lng": -75.315903,
+                                "lat": 40.140335
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 5,
+                    "url": "\/doctors\/Dr_David_M_Heyman.html",
+                    "slug": "Dr_David_M_Heyman.html"
+                },
+                "fields": {
+                    "distance": 8.01724785139999
+                },
+                "sort": [
+                    8.017644180333791
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1xnctj_doctor",
+                "_score": null,
+                "_source": {
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Pediatrics",
+                        "Anesthesiology"
+                    ],
+                    "vpid": "1xnctj",
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Lynda_Arai.html",
+                            "slug": "Dr_Lynda_Arai.html"
+                        }
+                    },
+                    "city_state": "Woodbury, NJ",
+                    "degree": "MD",
+                    "locations": [
+                        {
+                            "city_state": "Wilmington, DE",
+                            "city": "Wilmington",
+                            "address1": "1600 Rockland Rd",
+                            "_geoloc": {
+                                "lng": -75.556768,
+                                "lat": 39.776825
+                            },
+                            "state": "DE"
+                        },
+                        {
+                            "city_state": "Bryn Mawr, PA",
+                            "city": "Bryn Mawr",
+                            "address1": "825 Old Lancaster Rd Ste 2500",
+                            "_geoloc": {
+                                "lng": -75.320259,
+                                "lat": 40.020163
+                            },
+                            "state": "PA"
+                        },
+                        {
+                            "city_state": "Woodbury, NJ",
+                            "city": "Woodbury",
+                            "address1": "1280 Almonesson Rd",
+                            "_geoloc": {
+                                "lng": -75.104352,
+                                "lat": 39.844935
+                            },
+                            "state": "NJ"
+                        }
+                    ],
+                    "type": "doctor",
+                    "display_name": "Dr. Lynda D Arai",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1775187\/photo.jpg"
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "url": "\/doctors\/Dr_Lynda_Arai.html",
+                    "slug": "Dr_Lynda_Arai.html"
+                },
+                "fields": {
+                    "distance": 8.01752235523783
+                },
+                "sort": [
+                    8.017920034288162
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1pjq62_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1pjq62",
+                    "years_experience": 33,
+                    "city_state": "Woodbury, NJ",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Bradley W Robinson",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1825040\/photo.jpg"
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Pediatrics",
+                        "Pediatric Cardiology"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Bradley_Robinson.html",
+                            "slug": "Dr_Bradley_Robinson.html"
+                        }
+                    },
+                    "number_of_ratings": 2,
+                    "locations": [
+                        {
+                            "city_state": "Wilmington, DE",
+                            "city": "Wilmington",
+                            "address1": "1600 Rockland Rd",
+                            "_geoloc": {
+                                "lng": -75.556768,
+                                "lat": 39.776825
+                            },
+                            "state": "DE"
+                        },
+                        {
+                            "city_state": "Woodbury, NJ",
+                            "city": "Woodbury",
+                            "address1": "1280 Almonesson Rd",
+                            "_geoloc": {
+                                "lng": -75.104352,
+                                "lat": 39.844935
+                            },
+                            "state": "NJ"
+                        }
+                    ],
+                    "overall_rating": 3,
+                    "url": "\/doctors\/Dr_Bradley_Robinson.html",
+                    "slug": "Dr_Bradley_Robinson.html"
+                },
+                "fields": {
+                    "distance": 8.01752235523783
+                },
+                "sort": [
+                    8.017920034288162
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1xp5z6_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1xp5z6",
+                    "years_experience": 18,
+                    "city_state": "Woodbury, NJ",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Doyle J Lim",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Pediatric Anesthesiology",
+                        "Pediatrics",
+                        "Anesthesiology"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Doyle_Lim.html",
+                            "slug": "Dr_Doyle_Lim.html"
+                        }
+                    },
+                    "number_of_ratings": 5,
+                    "locations": [
+                        {
+                            "city_state": "Wilmington, DE",
+                            "city": "Wilmington",
+                            "address1": "1600 Rockland Rd",
+                            "_geoloc": {
+                                "lng": -75.556768,
+                                "lat": 39.776825
+                            },
+                            "state": "DE"
+                        },
+                        {
+                            "city_state": "Woodbury, NJ",
+                            "city": "Woodbury",
+                            "address1": "1280 Almonesson Rd",
+                            "_geoloc": {
+                                "lng": -75.104352,
+                                "lat": 39.844935
+                            },
+                            "state": "NJ"
+                        }
+                    ],
+                    "overall_rating": 5,
+                    "url": "\/doctors\/Dr_Doyle_Lim.html",
+                    "slug": "Dr_Doyle_Lim.html"
+                },
+                "fields": {
+                    "distance": 8.01752235523783
+                },
+                "sort": [
+                    8.017920034288162
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1nz6s2_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1nz6s2",
+                    "years_experience": 10,
+                    "city_state": "Woodbury, NJ",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Jessie J Budzinski",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1762241\/photo.jpg"
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Anesthesiology",
+                        "Pediatric Anesthesiology"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Jessie_Budzinski.html",
+                            "slug": "Dr_Jessie_Budzinski.html"
+                        }
+                    },
+                    "number_of_ratings": 1,
+                    "locations": [
+                        {
+                            "city_state": "Wilmington, DE",
+                            "city": "Wilmington",
+                            "address1": "1600 Rockland Rd",
+                            "_geoloc": {
+                                "lng": -75.556768,
+                                "lat": 39.776825
+                            },
+                            "state": "DE"
+                        },
+                        {
+                            "city_state": "Sacramento, CA",
+                            "city": "Sacramento",
+                            "address1": "2825 Capitol Ave",
+                            "_geoloc": {
+                                "lng": -121.469532,
+                                "lat": 38.57089
+                            },
+                            "state": "CA"
+                        },
+                        {
+                            "city_state": "Woodbury, NJ",
+                            "city": "Woodbury",
+                            "address1": "1280 Almonesson Rd",
+                            "_geoloc": {
+                                "lng": -75.104352,
+                                "lat": 39.844935
+                            },
+                            "state": "NJ"
+                        },
+                        {
+                            "city_state": "Bryn Mawr, PA",
+                            "city": "Bryn Mawr",
+                            "address1": "825 Old Lancaster Rd Ste 250",
+                            "_geoloc": {
+                                "lng": -75.320259,
+                                "lat": 40.020163
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 5,
+                    "url": "\/doctors\/Dr_Jessie_Budzinski.html",
+                    "slug": "Dr_Jessie_Budzinski.html"
+                },
+                "fields": {
+                    "distance": 8.01752235523783
+                },
+                "sort": [
+                    8.017920034288162
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1z5q0x_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1z5q0x",
+                    "years_experience": 13,
+                    "city_state": "Woodbury, NJ",
+                    "degree": "DO",
+                    "type": "doctor",
+                    "display_name": "Dr. Erika M Kutsch",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1772338\/photo.jpg"
+                        }
+                    },
+                    "degrees": [
+                        "DO"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Pediatric Gastroenterology",
+                        "Pediatrics"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Erika_Kutsch.html",
+                            "slug": "Dr_Erika_Kutsch.html"
+                        }
+                    },
+                    "number_of_ratings": 3,
+                    "locations": [
+                        {
+                            "city_state": "Wilmington, DE",
+                            "city": "Wilmington",
+                            "address1": "1600 Rockland Rd",
+                            "_geoloc": {
+                                "lng": -75.556768,
+                                "lat": 39.776825
+                            },
+                            "state": "DE"
+                        },
+                        {
+                            "city_state": "Woodbury, NJ",
+                            "city": "Woodbury",
+                            "address1": "1280 Almonesson Rd",
+                            "_geoloc": {
+                                "lng": -75.104352,
+                                "lat": 39.844935
+                            },
+                            "state": "NJ"
+                        }
+                    ],
+                    "overall_rating": 4.55555555555556,
+                    "url": "\/doctors\/Dr_Erika_Kutsch.html",
+                    "slug": "Dr_Erika_Kutsch.html"
+                },
+                "fields": {
+                    "distance": 8.01752235523783
+                },
+                "sort": [
+                    8.017920034288162
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "a9153f_doctor",
+                "_score": null,
+                "_source": {
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Pediatrics",
+                        "Anesthesiology"
+                    ],
+                    "vpid": "a9153f",
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Lynda_D_Arai.html",
+                            "slug": "Dr_Lynda_D_Arai.html"
+                        }
+                    },
+                    "city_state": "Woodbury, NJ",
+                    "degree": "MD",
+                    "locations": [
+                        {
+                            "city_state": "Wilmington, DE",
+                            "city": "Wilmington",
+                            "address1": "1600 Rockland Rd",
+                            "_geoloc": {
+                                "lng": -75.556768,
+                                "lat": 39.776825
+                            },
+                            "state": "DE"
+                        },
+                        {
+                            "city_state": "Bryn Mawr, PA",
+                            "city": "Bryn Mawr",
+                            "address1": "825 Old Lancaster Rd Ste 2500",
+                            "_geoloc": {
+                                "lng": -75.320259,
+                                "lat": 40.020163
+                            },
+                            "state": "PA"
+                        },
+                        {
+                            "city_state": "Woodbury, NJ",
+                            "city": "Woodbury",
+                            "address1": "1280 Almonesson Rd",
+                            "_geoloc": {
+                                "lng": -75.104352,
+                                "lat": 39.844935
+                            },
+                            "state": "NJ"
+                        }
+                    ],
+                    "type": "doctor",
+                    "display_name": "Dr. Lynda D Arai",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1775187\/photo.jpg"
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "url": "\/doctors\/Dr_Lynda_D_Arai.html",
+                    "slug": "Dr_Lynda_D_Arai.html"
+                },
+                "fields": {
+                    "distance": 8.01752235523783
+                },
+                "sort": [
+                    8.017920034288162
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1wj8rb_doctor",
+                "_score": null,
+                "_source": {
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Anesthesiology"
+                    ],
+                    "vpid": "1wj8rb",
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Malgorzata_Lutwin_Kawalec.html",
+                            "slug": "Dr_Malgorzata_Lutwin_Kawalec.html"
+                        }
+                    },
+                    "years_experience": 18,
+                    "city_state": "Woodbury, NJ",
+                    "degree": "MD",
+                    "locations": [
+                        {
+                            "city_state": "Wilmington, DE",
+                            "city": "Wilmington",
+                            "address1": "1600 Rockland Rd",
+                            "_geoloc": {
+                                "lng": -75.556768,
+                                "lat": 39.776825
+                            },
+                            "state": "DE"
+                        },
+                        {
+                            "city_state": "Woodbury, NJ",
+                            "city": "Woodbury",
+                            "address1": "1280 Almonesson Rd",
+                            "_geoloc": {
+                                "lng": -75.104352,
+                                "lat": 39.844935
+                            },
+                            "state": "NJ"
+                        }
+                    ],
+                    "type": "doctor",
+                    "display_name": "Dr. Malgorzata S Lutwin-Kawalec",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1732205\/photo.jpg"
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "url": "\/doctors\/Dr_Malgorzata_Lutwin_Kawalec.html",
+                    "slug": "Dr_Malgorzata_Lutwin_Kawalec.html"
+                },
+                "fields": {
+                    "distance": 8.01752235523783
+                },
+                "sort": [
+                    8.017920034288162
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1qb2y3_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1qb2y3",
+                    "city_state": "Woodbury, NJ",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Steven B Ritz",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1794005\/photo.jpg"
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Pediatric Cardiology",
+                        "Pediatrics"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Steven_Ritz.html",
+                            "slug": "Dr_Steven_Ritz.html"
+                        }
+                    },
+                    "number_of_ratings": 8,
+                    "locations": [
+                        {
+                            "city_state": "Wilmington, DE",
+                            "city": "Wilmington",
+                            "address1": "1600 Rockland Rd",
+                            "_geoloc": {
+                                "lng": -75.556768,
+                                "lat": 39.776825
+                            },
+                            "state": "DE"
+                        },
+                        {
+                            "city_state": "Woodbury, NJ",
+                            "city": "Woodbury",
+                            "address1": "1280 Almonesson Rd",
+                            "_geoloc": {
+                                "lng": -75.104352,
+                                "lat": 39.844935
+                            },
+                            "state": "NJ"
+                        },
+                        {
+                            "city_state": "Newtown Square, PA",
+                            "city": "Newtown Square",
+                            "address1": "3855 W Chester Pike",
+                            "_geoloc": {
+                                "lng": -75.410557,
+                                "lat": 39.987477
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 4.375,
+                    "url": "\/doctors\/Dr_Steven_Ritz.html",
+                    "slug": "Dr_Steven_Ritz.html"
+                },
+                "fields": {
+                    "distance": 8.01752235523783
+                },
+                "sort": [
+                    8.017920034288162
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1wx472_doctor",
+                "_score": null,
+                "_source": {
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Pediatrics",
+                        "Anesthesiology"
+                    ],
+                    "vpid": "1wx472",
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Mary_Theroux.html",
+                            "slug": "Dr_Mary_Theroux.html"
+                        }
+                    },
+                    "city_state": "Woodbury, NJ",
+                    "degree": "MD",
+                    "locations": [
+                        {
+                            "city_state": "Wilmington, DE",
+                            "city": "Wilmington",
+                            "address1": "1600 Rockland Rd",
+                            "_geoloc": {
+                                "lng": -75.556768,
+                                "lat": 39.776825
+                            },
+                            "state": "DE"
+                        },
+                        {
+                            "city_state": "Woodbury, NJ",
+                            "city": "Woodbury",
+                            "address1": "1280 Almonesson Rd",
+                            "_geoloc": {
+                                "lng": -75.104352,
+                                "lat": 39.844935
+                            },
+                            "state": "NJ"
+                        },
+                        {
+                            "city_state": "Bryn Mawr, PA",
+                            "city": "Bryn Mawr",
+                            "address1": "825 Old Lancaster Rd Ste 250",
+                            "_geoloc": {
+                                "lng": -75.320259,
+                                "lat": 40.020163
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "type": "doctor",
+                    "display_name": "Dr. Mary C Theroux",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1678492\/photo.jpg"
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "url": "\/doctors\/Dr_Mary_Theroux.html",
+                    "slug": "Dr_Mary_Theroux.html"
+                },
+                "fields": {
+                    "distance": 8.01752235523783
+                },
+                "sort": [
+                    8.017920034288162
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1zcj4k_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1zcj4k",
+                    "years_experience": 19,
+                    "city_state": "Woodbury, NJ",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Amanda J Shillingford",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1702215\/photo.jpg"
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Pediatrics",
+                        "Pediatric Cardiology"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Amanda_Shillingford.html",
+                            "slug": "Dr_Amanda_Shillingford.html"
+                        }
+                    },
+                    "number_of_ratings": 5,
+                    "locations": [
+                        {
+                            "city_state": "Wilmington, DE",
+                            "city": "Wilmington",
+                            "address1": "1600 Rockland Rd",
+                            "_geoloc": {
+                                "lng": -75.556768,
+                                "lat": 39.776825
+                            },
+                            "state": "DE"
+                        },
+                        {
+                            "city_state": "Woodbury, NJ",
+                            "city": "Woodbury",
+                            "address1": "1280 Almonesson Rd",
+                            "_geoloc": {
+                                "lng": -75.104352,
+                                "lat": 39.844935
+                            },
+                            "state": "NJ"
+                        },
+                        {
+                            "city_state": "Newtown Square, PA",
+                            "city": "Newtown Square",
+                            "address1": "3855 W Chester Pike",
+                            "_geoloc": {
+                                "lng": -75.410557,
+                                "lat": 39.987477
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 4.733333333333336,
+                    "url": "\/doctors\/Dr_Amanda_Shillingford.html",
+                    "slug": "Dr_Amanda_Shillingford.html"
+                },
+                "fields": {
+                    "distance": 8.01752235523783
+                },
+                "sort": [
+                    8.017920034288162
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1xygw6_doctor",
+                "_score": null,
+                "_source": {
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Pediatric Cardiology",
+                        "Pediatrics"
+                    ],
+                    "vpid": "1xygw6",
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Frances_Zappalla.html",
+                            "slug": "Dr_Frances_Zappalla.html"
+                        }
+                    },
+                    "city_state": "Woodbury, NJ",
+                    "degree": "DO",
+                    "locations": [
+                        {
+                            "city_state": "Wilmington, DE",
+                            "city": "Wilmington",
+                            "address1": "1600 Rockland Rd",
+                            "_geoloc": {
+                                "lng": -75.556768,
+                                "lat": 39.776825
+                            },
+                            "state": "DE"
+                        },
+                        {
+                            "city_state": "Woodbury, NJ",
+                            "city": "Woodbury",
+                            "address1": "1280 Almonesson Rd",
+                            "_geoloc": {
+                                "lng": -75.104352,
+                                "lat": 39.844935
+                            },
+                            "state": "NJ"
+                        },
+                        {
+                            "city_state": "Chester, PA",
+                            "city": "Chester",
+                            "address1": "1 Medical Center Blvd Ste 443",
+                            "_geoloc": {
+                                "lng": -75.369688,
+                                "lat": 39.855599
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "type": "doctor",
+                    "display_name": "Dr. Frances R Zappalla",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1755482\/photo.jpg"
+                        }
+                    },
+                    "degrees": [
+                        "DO"
+                    ],
+                    "url": "\/doctors\/Dr_Frances_Zappalla.html",
+                    "slug": "Dr_Frances_Zappalla.html"
+                },
+                "fields": {
+                    "distance": 8.01752235523783
+                },
+                "sort": [
+                    8.017920034288162
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1qh1tm_doctor",
+                "_score": null,
+                "_source": {
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Diagnostic Radiology",
+                        "Pediatric Radiology"
+                    ],
+                    "vpid": "1qh1tm",
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Leslie_Grissom.html",
+                            "slug": "Dr_Leslie_Grissom.html"
+                        }
+                    },
+                    "years_experience": 42,
+                    "city_state": "Woodbury, NJ",
+                    "degree": "MD",
+                    "locations": [
+                        {
+                            "city_state": "Woodbury, NJ",
+                            "city": "Woodbury",
+                            "address1": "1280 Almonesson Rd",
+                            "_geoloc": {
+                                "lng": -75.104352,
+                                "lat": 39.844935
+                            },
+                            "state": "NJ"
+                        }
+                    ],
+                    "type": "doctor",
+                    "display_name": "Dr. Leslie E Grissom",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1880588\/photo.jpg"
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "url": "\/doctors\/Dr_Leslie_Grissom.html",
+                    "slug": "Dr_Leslie_Grissom.html"
+                },
+                "fields": {
+                    "distance": 8.01752235523783
+                },
+                "sort": [
+                    8.017920034288162
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1xc5zg_doctor",
+                "_score": null,
+                "_source": {
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Diagnostic Radiology",
+                        "Pediatric Radiology",
+                        "Radiology"
+                    ],
+                    "vpid": "1xc5zg",
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Mary_Harty.html",
+                            "slug": "Dr_Mary_Harty.html"
+                        }
+                    },
+                    "years_experience": 34,
+                    "city_state": "Woodbury, NJ",
+                    "degree": "MD",
+                    "locations": [
+                        {
+                            "city_state": "Wilmington, DE",
+                            "city": "Wilmington",
+                            "address1": "1600 Rockland Rd",
+                            "_geoloc": {
+                                "lng": -75.556768,
+                                "lat": 39.776825
+                            },
+                            "state": "DE"
+                        },
+                        {
+                            "city_state": "Woodbury, NJ",
+                            "city": "Woodbury",
+                            "address1": "1280 Almonesson Rd",
+                            "_geoloc": {
+                                "lng": -75.104352,
+                                "lat": 39.844935
+                            },
+                            "state": "NJ"
+                        }
+                    ],
+                    "type": "doctor",
+                    "display_name": "Dr. Mary P Harty",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1765458\/photo.jpg"
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "url": "\/doctors\/Dr_Mary_Harty.html",
+                    "slug": "Dr_Mary_Harty.html"
+                },
+                "fields": {
+                    "distance": 8.01752235523783
+                },
+                "sort": [
+                    8.017920034288162
+                ]
+            }
+        ]
+    },
+    "aggregations": {
+        "satisfaction.accurate_diagnosis": {
+            "buckets": {
+                "good": {
+                    "from": 3.5,
+                    "doc_count": 0
+                }
+            }
+        },
+        "overall_range": {
+            "doc_count": 7275
+        },
+        "satisfaction.bedside_manner": {
+            "buckets": {
+                "good": {
+                    "from": 3.5,
+                    "doc_count": 0
+                }
+            }
+        },
+        "satisfaction.punctuality": {
+            "buckets": {
+                "good": {
+                    "from": 3.5,
+                    "doc_count": 0
+                }
+            }
+        },
+        "display_types": {
+            "doc_count_error_upper_bound": 0,
+            "sum_other_doc_count": 0,
+            "buckets": [
+                {
+                    "key": "Doctor",
+                    "doc_count": 9616
+                },
+                {
+                    "key": "Group Practice",
+                    "doc_count": 680
+                },
+                {
+                    "key": "Chiropractor",
+                    "doc_count": 371
+                },
+                {
+                    "key": "Podiatrist",
+                    "doc_count": 310
+                },
+                {
+                    "key": "Optometrist",
+                    "doc_count": 292
+                },
+                {
+                    "key": "Psychologist",
+                    "doc_count": 279
+                },
+                {
+                    "key": "Dentist",
+                    "doc_count": 60
+                },
+                {
+                    "key": "Hospital",
+                    "doc_count": 26
+                },
+                {
+                    "key": "Nursing Home",
+                    "doc_count": 2
+                },
+                {
+                    "key": "Cancer Center",
+                    "doc_count": 1
+                },
+                {
+                    "key": "Pharmacy",
+                    "doc_count": 1
+                }
+            ]
+        },
+        "insurance_companies": {
+            "doc_count_error_upper_bound": 0,
+            "sum_other_doc_count": 0,
+            "buckets": [
+                {
+                    "key": "Aetna",
+                    "doc_count": 11304
+                },
+                {
+                    "key": "United Healthcare",
+                    "doc_count": 10301
+                },
+                {
+                    "key": "BCBS Blue Card",
+                    "doc_count": 9724
+                },
+                {
+                    "key": "IBC",
+                    "doc_count": 9616
+                },
+                {
+                    "key": "Cigna",
+                    "doc_count": 8995
+                },
+                {
+                    "key": "Coventry Health Care",
+                    "doc_count": 8567
+                },
+                {
+                    "key": "Multiplan",
+                    "doc_count": 7792
+                },
+                {
+                    "key": "Humana",
+                    "doc_count": 5854
+                },
+                {
+                    "key": "Capital Blue Cross",
+                    "doc_count": 5649
+                },
+                {
+                    "key": "Horizon BCBS",
+                    "doc_count": 5553
+                },
+                {
+                    "key": "First Health",
+                    "doc_count": 5330
+                },
+                {
+                    "key": "QualCare",
+                    "doc_count": 4110
+                },
+                {
+                    "key": "Geisinger Health Plan",
+                    "doc_count": 2742
+                },
+                {
+                    "key": "Oxford Health",
+                    "doc_count": 1840
+                },
+                {
+                    "key": "HIP of NY",
+                    "doc_count": 1484
+                },
+                {
+                    "key": "UPMC Health Plan",
+                    "doc_count": 320
+                },
+                {
+                    "key": "CareFirst BCBS",
+                    "doc_count": 288
+                },
+                {
+                    "key": "Highmark BCBS",
+                    "doc_count": 265
+                },
+                {
+                    "key": "Empire BCBS",
+                    "doc_count": 140
+                },
+                {
+                    "key": "Anthem",
+                    "doc_count": 115
+                },
+                {
+                    "key": "Capital District Physicians Health Plan",
+                    "doc_count": 104
+                },
+                {
+                    "key": "BCBS Massachusetts",
+                    "doc_count": 90
+                },
+                {
+                    "key": "Connecticare",
+                    "doc_count": 69
+                },
+                {
+                    "key": "BCBS Illinois",
+                    "doc_count": 62
+                },
+                {
+                    "key": "Assurant",
+                    "doc_count": 56
+                },
+                {
+                    "key": "Guardian Dental",
+                    "doc_count": 55
+                },
+                {
+                    "key": "Principal Dental",
+                    "doc_count": 53
+                },
+                {
+                    "key": "Cigna Dental",
+                    "doc_count": 51
+                },
+                {
+                    "key": "Delta Dental",
+                    "doc_count": 51
+                },
+                {
+                    "key": "United Concordia",
+                    "doc_count": 51
+                },
+                {
+                    "key": "Ameritas",
+                    "doc_count": 49
+                },
+                {
+                    "key": "Dental Network of America",
+                    "doc_count": 49
+                },
+                {
+                    "key": "MetLife",
+                    "doc_count": 47
+                },
+                {
+                    "key": "DenteMax",
+                    "doc_count": 44
+                },
+                {
+                    "key": "MVP Health Plan",
+                    "doc_count": 44
+                },
+                {
+                    "key": "United Healthcare Dental",
+                    "doc_count": 44
+                },
+                {
+                    "key": "CompBenefits",
+                    "doc_count": 39
+                },
+                {
+                    "key": "Harvard Pilgrim",
+                    "doc_count": 39
+                },
+                {
+                    "key": "Humana Dental",
+                    "doc_count": 38
+                },
+                {
+                    "key": "HealthFirst NY",
+                    "doc_count": 36
+                },
+                {
+                    "key": "Blue Cross California",
+                    "doc_count": 31
+                },
+                {
+                    "key": "BCBS Florida",
+                    "doc_count": 28
+                },
+                {
+                    "key": "Medical Mutual of Ohio",
+                    "doc_count": 28
+                },
+                {
+                    "key": "Health Net",
+                    "doc_count": 26
+                },
+                {
+                    "key": "Tufts Health Plan",
+                    "doc_count": 26
+                },
+                {
+                    "key": "Emblem Health",
+                    "doc_count": 23
+                },
+                {
+                    "key": "Excellus BCBS",
+                    "doc_count": 23
+                },
+                {
+                    "key": "AvMed Health",
+                    "doc_count": 17
+                },
+                {
+                    "key": "Regence Health Plans",
+                    "doc_count": 17
+                },
+                {
+                    "key": "Sagamore Health",
+                    "doc_count": 17
+                },
+                {
+                    "key": "UHC of the River Valley",
+                    "doc_count": 17
+                },
+                {
+                    "key": "Blue Shield California",
+                    "doc_count": 16
+                },
+                {
+                    "key": "ODS",
+                    "doc_count": 14
+                },
+                {
+                    "key": "Premera",
+                    "doc_count": 14
+                },
+                {
+                    "key": "Independent Health",
+                    "doc_count": 13
+                },
+                {
+                    "key": "BCBS Texas",
+                    "doc_count": 12
+                },
+                {
+                    "key": "SIHO Insurance Services",
+                    "doc_count": 12
+                },
+                {
+                    "key": "HealthSpan",
+                    "doc_count": 11
+                },
+                {
+                    "key": "BCBS North Carolina",
+                    "doc_count": 10
+                },
+                {
+                    "key": "Optima Health",
+                    "doc_count": 10
+                },
+                {
+                    "key": "BCBS Georgia",
+                    "doc_count": 9
+                },
+                {
+                    "key": "Centene",
+                    "doc_count": 9
+                },
+                {
+                    "key": "HealthLink",
+                    "doc_count": 9
+                },
+                {
+                    "key": "BCBS Michigan",
+                    "doc_count": 8
+                },
+                {
+                    "key": "Encore Health Network",
+                    "doc_count": 8
+                },
+                {
+                    "key": "Ambetter Superior Health Plan",
+                    "doc_count": 7
+                },
+                {
+                    "key": "BCBS Rhode Island",
+                    "doc_count": 7
+                },
+                {
+                    "key": "PriorityHealth",
+                    "doc_count": 7
+                },
+                {
+                    "key": "Aetna Innovation Health",
+                    "doc_count": 6
+                },
+                {
+                    "key": "Health Alliance",
+                    "doc_count": 6
+                },
+                {
+                    "key": "Premier Health Plan",
+                    "doc_count": 6
+                },
+                {
+                    "key": "Wellmark",
+                    "doc_count": 6
+                },
+                {
+                    "key": "BCBS South Carolina",
+                    "doc_count": 5
+                },
+                {
+                    "key": "Healthy Connecticut",
+                    "doc_count": 5
+                },
+                {
+                    "key": "PHP Northern IN",
+                    "doc_count": 5
+                },
+                {
+                    "key": "SummaCare",
+                    "doc_count": 5
+                },
+                {
+                    "key": "WPS",
+                    "doc_count": 5
+                },
+                {
+                    "key": "Altius",
+                    "doc_count": 4
+                },
+                {
+                    "key": "BCBS Kansas City",
+                    "doc_count": 4
+                },
+                {
+                    "key": "BCBS Minnesota",
+                    "doc_count": 4
+                },
+                {
+                    "key": "Common Ground",
+                    "doc_count": 4
+                },
+                {
+                    "key": "HAP",
+                    "doc_count": 4
+                },
+                {
+                    "key": "Molina Healthcare",
+                    "doc_count": 4
+                },
+                {
+                    "key": "PacificSource",
+                    "doc_count": 4
+                },
+                {
+                    "key": "SelectHealth",
+                    "doc_count": 4
+                },
+                {
+                    "key": "BCBS Tennessee",
+                    "doc_count": 3
+                },
+                {
+                    "key": "Providence Health System",
+                    "doc_count": 3
+                },
+                {
+                    "key": "The Health Plan of Upper OH",
+                    "doc_count": 3
+                },
+                {
+                    "key": "BCBS Alabama",
+                    "doc_count": 2
+                },
+                {
+                    "key": "BCBS New Mexico",
+                    "doc_count": 2
+                },
+                {
+                    "key": "HealthPartners - MN",
+                    "doc_count": 2
+                },
+                {
+                    "key": "Indiana University",
+                    "doc_count": 2
+                },
+                {
+                    "key": "Preferred One",
+                    "doc_count": 2
+                },
+                {
+                    "key": "Presbyterian",
+                    "doc_count": 2
+                },
+                {
+                    "key": "Aultcare",
+                    "doc_count": 1
+                },
+                {
+                    "key": "BCBS Louisiana",
+                    "doc_count": 1
+                },
+                {
+                    "key": "BCBS Oklahoma",
+                    "doc_count": 1
+                },
+                {
+                    "key": "FirstCare",
+                    "doc_count": 1
+                },
+                {
+                    "key": "FrontPath Health Coalition",
+                    "doc_count": 1
+                },
+                {
+                    "key": "Group Health Coop",
+                    "doc_count": 1
+                },
+                {
+                    "key": "Gundersen Health Plan",
+                    "doc_count": 1
+                },
+                {
+                    "key": "Health Plan of Nevada",
+                    "doc_count": 1
+                },
+                {
+                    "key": "Kaiser - MidAtlantic",
+                    "doc_count": 1
+                },
+                {
+                    "key": "LA Care Health",
+                    "doc_count": 1
+                },
+                {
+                    "key": "Network Health Plan",
+                    "doc_count": 1
+                },
+                {
+                    "key": "One Health Network",
+                    "doc_count": 1
+                },
+                {
+                    "key": "Paramount",
+                    "doc_count": 1
+                },
+                {
+                    "key": "Qualchoice",
+                    "doc_count": 1
+                },
+                {
+                    "key": "Scion Dental",
+                    "doc_count": 1
+                },
+                {
+                    "key": "Sierra Health",
+                    "doc_count": 1
+                }
+            ]
+        },
+        "ratings": {
+            "buckets": [
+                {
+                    "key": "any",
+                    "doc_count": 9616
+                },
+                {
+                    "key": "3",
+                    "from": 3,
+                    "doc_count": 6688
+                },
+                {
+                    "key": "4",
+                    "from": 4,
+                    "doc_count": 4779
+                },
+                {
+                    "key": "5",
+                    "from": 5,
+                    "doc_count": 1531
+                }
+            ]
+        },
+        "experience_range": {
+            "buckets": [
+                {
+                    "key": "Any",
+                    "doc_count": 9616
+                },
+                {
+                    "key": "0 - 5",
+                    "from": 0,
+                    "to": 6,
+                    "doc_count": 0
+                },
+                {
+                    "key": "5 - 10",
+                    "from": 5,
+                    "to": 11,
+                    "doc_count": 608
+                },
+                {
+                    "key": "11 - 15",
+                    "from": 11,
+                    "to": 16,
+                    "doc_count": 921
+                },
+                {
+                    "key": "16 - 20",
+                    "from": 16,
+                    "to": 21,
+                    "doc_count": 1028
+                },
+                {
+                    "key": "21 - 25",
+                    "from": 21,
+                    "to": 26,
+                    "doc_count": 883
+                },
+                {
+                    "key": "26 - 30",
+                    "from": 26,
+                    "to": 31,
+                    "doc_count": 760
+                },
+                {
+                    "key": "30+",
+                    "from": 30,
+                    "doc_count": 2900
+                }
+            ]
+        }
+    },
+    "status": 200,
+    "distanceLimitedNothingFound": false,
+    "query": "",
+    "radiusUsed": 25,
+    "reqNo": "1",
+    "sponsors": [
+        {
+            "campaign_name": "webmd_ep",
+            "targeting": {
+                "locations": [
+                    {
+                        "city_state": "Philadelphia, PA",
+                        "geopoint": [
+                            [
+                                -75.160429,
+                                39.94866
+                            ]
+                        ]
+                    }
+                ],
+                "sponsor_id": "xx"
+            },
+            "search": {
+                "search_city_state": "Philadelphia, PA",
+                "search_specialties": "General Dentistry",
+                "locations": [
+                    {
+                        "city_state": "Philadelphia, PA",
+                        "geopoint": [
+                            [
+                                -75.160429,
+                                39.94866
+                            ]
+                        ]
+                    }
+                ],
+                "display_name": "Shireen  Malik"
+            },
+            "npi": "1518135805",
+            "external_id": "D83325",
+            "campaign_features": [
+                {
+                    "feature_name": "serp",
+                    "feature_config": {
+                        "specialty": "General Dentistry",
+                        "webmdSpecialtyId": [
+                            29245
+                        ],
+                        "city_state": "Philadelphia, PA",
+                        "profile_url": "\/dentists\/Dr_Shireen_Malik",
+                        "type": "dentist",
+                        "display_name": "Shireen  Malik",
+                        "photos": {
+                            "host": null,
+                            "uri": null
+                        },
+                        "ctas": {
+                            "appointment_url": "https:\/\/appointments.webmd.com\/path\/wmd-path1\/61fbb52a-c844-4904-ad23-dcc296781461"
+                        },
+                        "degrees": [
+                            "DDS"
+                        ],
+                        "display_type": "Dentist",
+                        "vitalsSpecialtyId": [
+                            294,
+                            296,
+                            297,
+                            300,
+                            303,
+                            306,
+                            307
+                        ],
+                        "specialties": [
+                            "General Dentistry"
+                        ],
+                        "number_of_ratings": 13,
+                        "company_name": null,
+                        "overall_rating": 4.3076923076923075
+                    }
+                }
+            ],
+            "url": "\/dentists\/Dr_Shireen_Malik",
+            "city_state": "Philadelphia, PA",
+            "geopoint": [
+                [
+                    -75.160429,
+                    39.94866
+                ]
+            ],
+            "geo_points": [
+                -75.160429,
+                39.94866
+            ],
+            "distance": 0.3
+        },
+        {
+            "campaign_name": "webmd_ep",
+            "targeting": {
+                "locations": [
+                    {
+                        "city_state": "Philadelphia, PA",
+                        "geopoint": [
+                            [
+                                -75.1741,
+                                39.9527
+                            ]
+                        ]
+                    },
+                    {
+                        "city_state": "Upper Darby, PA",
+                        "geopoint": [
+                            [
+                                -75.2629,
+                                39.9591
+                            ]
+                        ]
+                    }
+                ],
+                "sponsor_id": "xx"
+            },
+            "search": {
+                "search_city_state": "Philadelphia, PA Upper Darby, PA",
+                "search_specialties": "Addiction Medicine Physical Medicine\/Rehab Spec",
+                "locations": [
+                    {
+                        "city_state": "Philadelphia, PA",
+                        "geopoint": [
+                            [
+                                -75.1741,
+                                39.9527
+                            ]
+                        ]
+                    },
+                    {
+                        "city_state": "Upper Darby, PA",
+                        "geopoint": [
+                            [
+                                -75.2629,
+                                39.9591
+                            ]
+                        ]
+                    }
+                ],
+                "display_name": "Denis A Boyle Jr"
+            },
+            "npi": "1205920287",
+            "external_id": "153875",
+            "campaign_features": [
+                {
+                    "feature_name": "serp",
+                    "feature_config": {
+                        "specialty": "Addiction Medicine",
+                        "webmdSpecialtyId": [
+                            29230,
+                            29309
+                        ],
+                        "city_state": "Philadelphia, PA",
+                        "profile_url": "\/doctors\/Dr_Denis_Boyle.html",
+                        "type": "doctor",
+                        "display_name": "Denis A Boyle Jr",
+                        "photos": {
+                            "host": null,
+                            "uri": null
+                        },
+                        "ctas": {
+                            "appointment_url": "https:\/\/appointments.webmd.com\/path\/wmd-path1\/fb31da85-feb0-4bf4-9dc3-01678cfc8276"
+                        },
+                        "degrees": [
+                            "MD"
+                        ],
+                        "display_type": "Doctor",
+                        "vitalsSpecialtyId": [
+                            5,
+                            23,
+                            31,
+                            141,
+                            124,
+                            126,
+                            127,
+                            2018
+                        ],
+                        "specialties": [
+                            "Addiction Medicine",
+                            "Physical Medicine\/Rehab Spec"
+                        ],
+                        "number_of_ratings": 4,
+                        "company_name": null,
+                        "overall_rating": 5
+                    }
+                }
+            ],
+            "url": "\/doctors\/Dr_Denis_Boyle.html",
+            "city_state": "Philadelphia, PA",
+            "geopoint": [
+                [
+                    -75.1741,
+                    39.9527
+                ]
+            ],
+            "geo_points": [
+                -75.1741,
+                39.9527
+            ],
+            "distance": 0.6
+        },
+        {
+            "campaign_name": "webmd_ep",
+            "targeting": {
+                "locations": [
+                    {
+                        "city_state": "Ridley Park, PA",
+                        "geopoint": [
+                            [
+                                -75.3212,
+                                39.8791
+                            ]
+                        ]
+                    }
+                ],
+                "sponsor_id": "xx"
+            },
+            "search": {
+                "search_city_state": "Ridley Park, PA",
+                "search_specialties": "Family Practitioner Internal Medicine",
+                "locations": [
+                    {
+                        "city_state": "Ridley Park, PA",
+                        "geopoint": [
+                            [
+                                -75.3212,
+                                39.8791
+                            ]
+                        ]
+                    }
+                ],
+                "display_name": "Neeraj Tripathy"
+            },
+            "npi": "1972660975",
+            "external_id": "6302324",
+            "campaign_features": [
+                {
+                    "feature_name": "serp",
+                    "feature_config": {
+                        "specialty": "Family Practitioner",
+                        "webmdSpecialtyId": [
+                            29259,
+                            29277
+                        ],
+                        "city_state": "Ridley Park, PA",
+                        "profile_url": "\/doctors\/Dr_Neeraj_Tripathy.html",
+                        "type": "doctor",
+                        "display_name": "Neeraj Tripathy",
+                        "photos": {
+                            "host": null,
+                            "uri": null
+                        },
+                        "ctas": {
+                            "appointment_url": "https:\/\/appointments.webmd.com\/path\/wmd-path1\/e5a7bcd3-e5c7-416a-b7ab-65f40d7e3015"
+                        },
+                        "degrees": [
+                            "MD"
+                        ],
+                        "display_type": "Doctor",
+                        "vitalsSpecialtyId": [
+                            22,
+                            25,
+                            26,
+                            479,
+                            667,
+                            30,
+                            36,
+                            42,
+                            672,
+                            2005
+                        ],
+                        "specialties": [
+                            "Family Practitioner",
+                            "Internal Medicine"
+                        ],
+                        "number_of_ratings": 12,
+                        "company_name": null,
+                        "overall_rating": 4.63888888888889
+                    }
+                }
+            ],
+            "url": "\/doctors\/Dr_Neeraj_Tripathy.html",
+            "city_state": "Ridley Park, PA",
+            "geopoint": [
+                [
+                    -75.3212,
+                    39.8791
+                ]
+            ],
+            "geo_points": [
+                -75.3212,
+                39.8791
+            ],
+            "distance": 9.7
+        }
+    ]
+}

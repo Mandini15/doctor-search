@@ -1,0 +1,2165 @@
+{
+    "took": 95,
+    "timed_out": false,
+    "_shards": {
+        "total": 2,
+        "successful": 2,
+        "skipped": 0,
+        "failed": 0
+    },
+    "hits": {
+        "total": 9616,
+        "max_score": null,
+        "hits": [
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "zpn0wc_doctor",
+                "_score": null,
+                "_source": {
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Pediatrics"
+                    ],
+                    "vpid": "zpn0wc",
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Sarah_S_Kim.html",
+                            "slug": "Dr_Sarah_S_Kim.html"
+                        }
+                    },
+                    "years_experience": 19,
+                    "city_state": "Bryn Mawr, PA",
+                    "degree": "MD",
+                    "locations": [
+                        {
+                            "city_state": "Bryn Mawr, PA",
+                            "city": "Bryn Mawr",
+                            "address1": "130 S Bryn Mawr Ave",
+                            "_geoloc": {
+                                "lng": -75.321043,
+                                "lat": 40.018952
+                            },
+                            "state": "PA"
+                        },
+                        {
+                            "city_state": "Collegeville, PA",
+                            "city": "Collegeville",
+                            "address1": "100 Campus Dr",
+                            "_geoloc": {
+                                "lng": -75.467504,
+                                "lat": 40.159636
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "type": "doctor",
+                    "display_name": "Dr. Sarah S Kim",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "url": "\/doctors\/Dr_Sarah_S_Kim.html",
+                    "slug": "Dr_Sarah_S_Kim.html"
+                },
+                "fields": {
+                    "distance": 9.534730494300181
+                },
+                "sort": [
+                    9.53520393011586
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "ae0290_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "ae0290",
+                    "years_experience": 22,
+                    "city_state": "Bryn Mawr, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Maryam S Khorrami",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1775397\/photo.jpg"
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Hospitalist"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Maryam_Khorrami.html",
+                            "slug": "Dr_Maryam_Khorrami.html"
+                        }
+                    },
+                    "number_of_ratings": 2,
+                    "locations": [
+                        {
+                            "city_state": "Bryn Mawr, PA",
+                            "city": "Bryn Mawr",
+                            "address1": "130 S Bryn Mawr Ave",
+                            "_geoloc": {
+                                "lng": -75.321043,
+                                "lat": 40.018952
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 4.5,
+                    "url": "\/doctors\/Dr_Maryam_Khorrami.html",
+                    "slug": "Dr_Maryam_Khorrami.html"
+                },
+                "fields": {
+                    "distance": 9.534730494300181
+                },
+                "sort": [
+                    9.53520393011586
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1t95zk_doctor",
+                "_score": null,
+                "_source": {
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Family Medicine"
+                    ],
+                    "vpid": "1t95zk",
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/1t95zk\/john-styczynski",
+                            "slug": "1t95zk\/john-styczynski"
+                        }
+                    },
+                    "city_state": "Bryn Mawr, PA",
+                    "degree": "MD",
+                    "locations": [
+                        {
+                            "city_state": "Bryn Mawr, PA",
+                            "city": "Bryn Mawr",
+                            "address1": "130 S Bryn Mawr Ave",
+                            "_geoloc": {
+                                "lng": -75.321043,
+                                "lat": 40.018952
+                            },
+                            "state": "PA"
+                        },
+                        {
+                            "city_state": "Broomall, PA",
+                            "city": "Broomall",
+                            "address1": "1991 Sproul Rd Ste 300",
+                            "_geoloc": {
+                                "lng": -75.355167,
+                                "lat": 39.961584
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "type": "doctor",
+                    "display_name": "Dr. John R Styczynski",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "url": "\/doctors\/1t95zk\/john-styczynski",
+                    "slug": "1t95zk\/john-styczynski"
+                },
+                "fields": {
+                    "distance": 9.534730494300181
+                },
+                "sort": [
+                    9.53520393011586
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1xxqg9_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1xxqg9",
+                    "city_state": "Bryn Mawr, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Nuzhat A Khan",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1518071\/photo.jpg"
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Hospitalist"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Nuzhat_Khan.html",
+                            "slug": "Dr_Nuzhat_Khan.html"
+                        }
+                    },
+                    "number_of_ratings": 1,
+                    "locations": [
+                        {
+                            "city_state": "Bryn Mawr, PA",
+                            "city": "Bryn Mawr",
+                            "address1": "130 S Bryn Mawr Ave",
+                            "_geoloc": {
+                                "lng": -75.321043,
+                                "lat": 40.018952
+                            },
+                            "state": "PA"
+                        },
+                        {
+                            "city_state": "Paoli, PA",
+                            "city": "Paoli",
+                            "address1": "255 W Lancaster Ave",
+                            "_geoloc": {
+                                "lng": -75.502112,
+                                "lat": 40.044009
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 2.3333333333333197,
+                    "url": "\/doctors\/Dr_Nuzhat_Khan.html",
+                    "slug": "Dr_Nuzhat_Khan.html"
+                },
+                "fields": {
+                    "distance": 9.534730494300181
+                },
+                "sort": [
+                    9.53520393011586
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1sxgph_doctor",
+                "_score": null,
+                "_source": {
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Internal Medicine",
+                        "Hospitalist"
+                    ],
+                    "vpid": "1sxgph",
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Padmaja_Mamillapalli.html",
+                            "slug": "Dr_Padmaja_Mamillapalli.html"
+                        }
+                    },
+                    "years_experience": 25,
+                    "city_state": "Bryn Mawr, PA",
+                    "degree": "MD",
+                    "locations": [
+                        {
+                            "city_state": "Bryn Mawr, PA",
+                            "city": "Bryn Mawr",
+                            "address1": "130 S Bryn Mawr Ave",
+                            "_geoloc": {
+                                "lng": -75.321043,
+                                "lat": 40.018952
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "type": "doctor",
+                    "display_name": "Dr. Padmaja D Mamillapalli",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1766759\/photo.jpg"
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "url": "\/doctors\/Dr_Padmaja_Mamillapalli.html",
+                    "slug": "Dr_Padmaja_Mamillapalli.html"
+                },
+                "fields": {
+                    "distance": 9.534730494300181
+                },
+                "sort": [
+                    9.53520393011586
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1q4mb5_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1q4mb5",
+                    "years_experience": 39,
+                    "city_state": "Bryn Mawr, PA",
+                    "degree": "DO",
+                    "type": "doctor",
+                    "display_name": "Dr. Raymond B Attolino",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1701491\/photo.jpg"
+                        }
+                    },
+                    "degrees": [
+                        "DO"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Pulmonary Disease",
+                        "Critical Care Medicine",
+                        "Emergency Medicine",
+                        "Internal Medicine",
+                        "Hospitalist"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Raymond_Attolino.html",
+                            "slug": "Dr_Raymond_Attolino.html"
+                        }
+                    },
+                    "number_of_ratings": 3,
+                    "locations": [
+                        {
+                            "city_state": "New Hyde Park, NY",
+                            "city": "New Hyde Park",
+                            "address1": "157 Hillside Blvd",
+                            "_geoloc": {
+                                "lng": -73.692206,
+                                "lat": 40.733527
+                            },
+                            "state": "NY"
+                        },
+                        {
+                            "city_state": "Bryn Mawr, PA",
+                            "city": "Bryn Mawr",
+                            "address1": "130 S Bryn Mawr Ave",
+                            "_geoloc": {
+                                "lng": -75.321043,
+                                "lat": 40.018952
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 3.6666666666666665,
+                    "url": "\/doctors\/Dr_Raymond_Attolino.html",
+                    "slug": "Dr_Raymond_Attolino.html"
+                },
+                "fields": {
+                    "distance": 9.534730494300181
+                },
+                "sort": [
+                    9.53520393011586
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1psz7c_doctor",
+                "_score": null,
+                "_source": {
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Emergency Medicine"
+                    ],
+                    "vpid": "1psz7c",
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Kaynan_Doctor.html",
+                            "slug": "Dr_Kaynan_Doctor.html"
+                        }
+                    },
+                    "city_state": "Bryn Mawr, PA",
+                    "degree": "MD",
+                    "locations": [
+                        {
+                            "city_state": "Wilmington, DE",
+                            "city": "Wilmington",
+                            "address1": "1600 Rockland Rd",
+                            "_geoloc": {
+                                "lng": -75.556768,
+                                "lat": 39.776825
+                            },
+                            "state": "DE"
+                        },
+                        {
+                            "city_state": "Bryn Mawr, PA",
+                            "city": "Bryn Mawr",
+                            "address1": "130 S Bryn Mawr Ave",
+                            "_geoloc": {
+                                "lng": -75.321043,
+                                "lat": 40.018952
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "type": "doctor",
+                    "display_name": "Dr. Kaynan A <em>Doctor<\/em>",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1726976\/photo.jpg"
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "url": "\/doctors\/Dr_Kaynan_Doctor.html",
+                    "slug": "Dr_Kaynan_Doctor.html"
+                },
+                "fields": {
+                    "distance": 9.534730494300181
+                },
+                "highlight": {
+                    "display_name": [
+                        "Dr. Kaynan A <em>Doctor<\/em>"
+                    ]
+                },
+                "sort": [
+                    9.53520393011586
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1stzrj_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1stzrj",
+                    "city_state": "Bryn Mawr, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. William S Enochs",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1553170\/photo.jpg"
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Diagnostic Radiology",
+                        "Neuroradiology",
+                        "Radiology"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_William_Enochs.html",
+                            "slug": "Dr_William_Enochs.html"
+                        }
+                    },
+                    "number_of_ratings": 1,
+                    "locations": [
+                        {
+                            "city_state": "Kansas City, MO",
+                            "city": "Kansas City",
+                            "address1": "1000 E 24th St",
+                            "_geoloc": {
+                                "lng": -94.572194,
+                                "lat": 39.084986
+                            },
+                            "state": "MO"
+                        },
+                        {
+                            "city_state": "Bryn Mawr, PA",
+                            "city": "Bryn Mawr",
+                            "address1": "130 S Bryn Mawr Ave",
+                            "_geoloc": {
+                                "lng": -75.321043,
+                                "lat": 40.018952
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 5,
+                    "url": "\/doctors\/Dr_William_Enochs.html",
+                    "slug": "Dr_William_Enochs.html"
+                },
+                "fields": {
+                    "distance": 9.534730494300181
+                },
+                "sort": [
+                    9.53520393011586
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1s2n0s_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1s2n0s",
+                    "years_experience": 12,
+                    "city_state": "Bryn Mawr, PA",
+                    "degree": "DO",
+                    "type": "doctor",
+                    "display_name": "Dr. Alyson E Dobracki",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1770105\/photo.jpg"
+                        }
+                    },
+                    "degrees": [
+                        "DO"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Hospitalist"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Alyson_Dobracki.html",
+                            "slug": "Dr_Alyson_Dobracki.html"
+                        }
+                    },
+                    "number_of_ratings": 16,
+                    "locations": [
+                        {
+                            "city_state": "Bryn Mawr, PA",
+                            "city": "Bryn Mawr",
+                            "address1": "130 S Bryn Mawr Ave",
+                            "_geoloc": {
+                                "lng": -75.321043,
+                                "lat": 40.018952
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 4.25,
+                    "url": "\/doctors\/Dr_Alyson_Dobracki.html",
+                    "slug": "Dr_Alyson_Dobracki.html"
+                },
+                "fields": {
+                    "distance": 9.534730494300181
+                },
+                "sort": [
+                    9.53520393011586
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1z6x04_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1z6x04",
+                    "years_experience": 43,
+                    "city_state": "Bryn Mawr, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. James S Kolter",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1708870\/photo.jpg"
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Obstetrics and Gynecology"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_James_Kolter.html",
+                            "slug": "Dr_James_Kolter.html"
+                        }
+                    },
+                    "number_of_ratings": 15,
+                    "locations": [
+                        {
+                            "city_state": "Collegeville, PA",
+                            "city": "Collegeville",
+                            "address1": "599 Arcola Rd",
+                            "_geoloc": {
+                                "lng": -75.474616,
+                                "lat": 40.164298
+                            },
+                            "state": "PA"
+                        },
+                        {
+                            "city_state": "Bryn Mawr, PA",
+                            "city": "Bryn Mawr",
+                            "address1": "130 S Bryn Mawr Ave",
+                            "_geoloc": {
+                                "lng": -75.321043,
+                                "lat": 40.018952
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 4.066666666666666,
+                    "url": "\/doctors\/Dr_James_Kolter.html",
+                    "slug": "Dr_James_Kolter.html"
+                },
+                "fields": {
+                    "distance": 9.534730494300181
+                },
+                "sort": [
+                    9.53520393011586
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1z1fr1_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1z1fr1",
+                    "years_experience": 20,
+                    "city_state": "Bryn Mawr, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Thoai Q Tran",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1687834\/photo.jpg"
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Internal Medicine",
+                        "Hospitalist"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Thoai_Tran.html",
+                            "slug": "Dr_Thoai_Tran.html"
+                        }
+                    },
+                    "number_of_ratings": 2,
+                    "locations": [
+                        {
+                            "city_state": "Bryn Mawr, PA",
+                            "city": "Bryn Mawr",
+                            "address1": "130 S Bryn Mawr Ave",
+                            "_geoloc": {
+                                "lng": -75.321043,
+                                "lat": 40.018952
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 5,
+                    "url": "\/doctors\/Dr_Thoai_Tran.html",
+                    "slug": "Dr_Thoai_Tran.html"
+                },
+                "fields": {
+                    "distance": 9.534730494300181
+                },
+                "sort": [
+                    9.53520393011586
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1qn0sm_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1qn0sm",
+                    "years_experience": 20,
+                    "city_state": "Bryn Mawr, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Amy L Curran",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1686835\/photo.jpg"
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Medical Oncology",
+                        "Internal Medicine"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Amy_L_Curran.html",
+                            "slug": "Dr_Amy_L_Curran.html"
+                        }
+                    },
+                    "number_of_ratings": 8,
+                    "locations": [
+                        {
+                            "city_state": "Bryn Mawr, PA",
+                            "city": "Bryn Mawr",
+                            "address1": "825 Old Lancaster Rd Ste 440",
+                            "_geoloc": {
+                                "lng": -75.320259,
+                                "lat": 40.020163
+                            },
+                            "state": "PA"
+                        },
+                        {
+                            "city_state": "Bryn Mawr, PA",
+                            "city": "Bryn Mawr",
+                            "address1": "130 S Bryn Mawr Ave",
+                            "_geoloc": {
+                                "lng": -75.321043,
+                                "lat": 40.018952
+                            },
+                            "state": "PA"
+                        },
+                        {
+                            "city_state": "Villanova, PA",
+                            "city": "Villanova",
+                            "address1": "4 Browns Ln",
+                            "_geoloc": {
+                                "lng": -75.365312,
+                                "lat": 40.033773
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 4,
+                    "url": "\/doctors\/Dr_Amy_L_Curran.html",
+                    "slug": "Dr_Amy_L_Curran.html"
+                },
+                "fields": {
+                    "distance": 9.534730494300181
+                },
+                "sort": [
+                    9.53520393011586
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1nrd7m_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1nrd7m",
+                    "years_experience": 10,
+                    "city_state": "Bryn Mawr, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Benish Aqil",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1721242\/photo.jpg"
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Hospitalist"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Benish_Aqil.html",
+                            "slug": "Dr_Benish_Aqil.html"
+                        }
+                    },
+                    "number_of_ratings": 3,
+                    "locations": [
+                        {
+                            "city_state": "Bryn Mawr, PA",
+                            "city": "Bryn Mawr",
+                            "address1": "130 S Bryn Mawr Ave",
+                            "_geoloc": {
+                                "lng": -75.321043,
+                                "lat": 40.018952
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 5,
+                    "url": "\/doctors\/Dr_Benish_Aqil.html",
+                    "slug": "Dr_Benish_Aqil.html"
+                },
+                "fields": {
+                    "distance": 9.534730494300181
+                },
+                "sort": [
+                    9.53520393011586
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1xk84j_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1xk84j",
+                    "years_experience": 39,
+                    "city_state": "Bryn Mawr, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Emma L Simpson",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1686709\/photo.jpg"
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Diagnostic Radiology",
+                        "Radiology"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Emma_Simpson.html",
+                            "slug": "Dr_Emma_Simpson.html"
+                        }
+                    },
+                    "number_of_ratings": 8,
+                    "locations": [
+                        {
+                            "city_state": "Bryn Mawr, PA",
+                            "city": "Bryn Mawr",
+                            "address1": "130 S Bryn Mawr Ave",
+                            "_geoloc": {
+                                "lng": -75.321043,
+                                "lat": 40.018952
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 3,
+                    "url": "\/doctors\/Dr_Emma_Simpson.html",
+                    "slug": "Dr_Emma_Simpson.html"
+                },
+                "fields": {
+                    "distance": 9.534730494300181
+                },
+                "sort": [
+                    9.53520393011586
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1pgp97_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1pgp97",
+                    "city_state": "Bryn Mawr, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Elif E Ince",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Neonatal-Perinatal Medicine",
+                        "Pediatrics"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Elif_Ince.html",
+                            "slug": "Dr_Elif_Ince.html"
+                        }
+                    },
+                    "number_of_ratings": 1,
+                    "locations": [
+                        {
+                            "city_state": "Bryn Mawr, PA",
+                            "city": "Bryn Mawr",
+                            "address1": "130 S Bryn Mawr Ave",
+                            "_geoloc": {
+                                "lng": -75.321043,
+                                "lat": 40.018952
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 3,
+                    "url": "\/doctors\/Dr_Elif_Ince.html",
+                    "slug": "Dr_Elif_Ince.html"
+                },
+                "fields": {
+                    "distance": 9.534730494300181
+                },
+                "sort": [
+                    9.53520393011586
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1pb5k1_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1pb5k1",
+                    "years_experience": 22,
+                    "city_state": "Bryn Mawr, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Maryam S Khorrami",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1775397\/photo.jpg"
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Hospitalist"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Maryam_Shamsaddin_Khorrami.html",
+                            "slug": "Dr_Maryam_Shamsaddin_Khorrami.html"
+                        }
+                    },
+                    "number_of_ratings": 2,
+                    "locations": [
+                        {
+                            "city_state": "Bryn Mawr, PA",
+                            "city": "Bryn Mawr",
+                            "address1": "130 S Bryn Mawr Ave",
+                            "_geoloc": {
+                                "lng": -75.321043,
+                                "lat": 40.018952
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 4.5,
+                    "url": "\/doctors\/Dr_Maryam_Shamsaddin_Khorrami.html",
+                    "slug": "Dr_Maryam_Shamsaddin_Khorrami.html"
+                },
+                "fields": {
+                    "distance": 9.534730494300181
+                },
+                "sort": [
+                    9.53520393011586
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1zjqsn_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1zjqsn",
+                    "years_experience": 32,
+                    "city_state": "Bryn Mawr, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Rosemary A Cook",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1595084\/photo.jpg"
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Hospitalist"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Rosemary_Cook.html",
+                            "slug": "Dr_Rosemary_Cook.html"
+                        }
+                    },
+                    "number_of_ratings": 5,
+                    "locations": [
+                        {
+                            "city_state": "Bryn Mawr, PA",
+                            "city": "Bryn Mawr",
+                            "address1": "130 S Bryn Mawr Ave",
+                            "_geoloc": {
+                                "lng": -75.321043,
+                                "lat": 40.018952
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 2.6,
+                    "url": "\/doctors\/Dr_Rosemary_Cook.html",
+                    "slug": "Dr_Rosemary_Cook.html"
+                },
+                "fields": {
+                    "distance": 9.534730494300181
+                },
+                "sort": [
+                    9.53520393011586
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1wrhp6_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1wrhp6",
+                    "years_experience": 35,
+                    "city_state": "Bryn Mawr, PA",
+                    "degree": "DO",
+                    "type": "doctor",
+                    "display_name": "Dr. Damian J Cornacchia",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1687043\/photo.jpg"
+                        }
+                    },
+                    "degrees": [
+                        "DO"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Internal Medicine"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Damian_Cornacchia.html",
+                            "slug": "Dr_Damian_Cornacchia.html"
+                        }
+                    },
+                    "number_of_ratings": 3,
+                    "locations": [
+                        {
+                            "city_state": "Bryn Mawr, PA",
+                            "city": "Bryn Mawr",
+                            "address1": "130 S Bryn Mawr Ave",
+                            "_geoloc": {
+                                "lng": -75.321043,
+                                "lat": 40.018952
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 4,
+                    "url": "\/doctors\/Dr_Damian_Cornacchia.html",
+                    "slug": "Dr_Damian_Cornacchia.html"
+                },
+                "fields": {
+                    "distance": 9.534730494300181
+                },
+                "sort": [
+                    9.53520393011586
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1xn742_doctor",
+                "_score": null,
+                "_source": {
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Pediatrics"
+                    ],
+                    "vpid": "1xn742",
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Sarah_S_Kim.html",
+                            "slug": "Dr_Sarah_S_Kim.html"
+                        }
+                    },
+                    "years_experience": 19,
+                    "city_state": "Bryn Mawr, PA",
+                    "degree": "MD",
+                    "locations": [
+                        {
+                            "city_state": "Bryn Mawr, PA",
+                            "city": "Bryn Mawr",
+                            "address1": "130 S Bryn Mawr Ave",
+                            "_geoloc": {
+                                "lng": -75.321043,
+                                "lat": 40.018952
+                            },
+                            "state": "PA"
+                        },
+                        {
+                            "city_state": "Collegeville, PA",
+                            "city": "Collegeville",
+                            "address1": "100 Campus Dr",
+                            "_geoloc": {
+                                "lng": -75.467504,
+                                "lat": 40.159636
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "type": "doctor",
+                    "display_name": "Dr. Sarah S Kim",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "url": "\/doctors\/Dr_Sarah_S_Kim.html",
+                    "slug": "Dr_Sarah_S_Kim.html"
+                },
+                "fields": {
+                    "distance": 9.534730494300181
+                },
+                "sort": [
+                    9.53520393011586
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1qxw39_doctor",
+                "_score": null,
+                "_source": {
+                    "display_type": "Doctor",
+                    "vpid": "1qxw39",
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Scott_Olex.html",
+                            "slug": "Dr_Scott_Olex.html"
+                        }
+                    },
+                    "city_state": "Bryn Mawr, PA",
+                    "number_of_ratings": 2,
+                    "degree": "",
+                    "locations": [
+                        {
+                            "city_state": "Bryn Mawr, PA",
+                            "city": "Bryn Mawr",
+                            "address1": "130 S Bryn Mawr Ave",
+                            "_geoloc": {
+                                "lng": -75.321043,
+                                "lat": 40.018952
+                            },
+                            "state": "PA"
+                        },
+                        {
+                            "city_state": "Danville, PA",
+                            "city": "Danville",
+                            "address1": "100 N Academy Ave",
+                            "_geoloc": {
+                                "lng": -76.605581,
+                                "lat": 40.967121
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 4.33333333333334,
+                    "type": "doctor",
+                    "display_name": "Scott A Olex",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [],
+                    "url": "\/doctors\/Dr_Scott_Olex.html",
+                    "slug": "Dr_Scott_Olex.html"
+                },
+                "fields": {
+                    "distance": 9.534730494300181
+                },
+                "sort": [
+                    9.53520393011586
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1shdkn_doctor",
+                "_score": null,
+                "_source": {
+                    "display_type": "Doctor",
+                    "vpid": "1shdkn",
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Bettina_Lesser.html",
+                            "slug": "Dr_Bettina_Lesser.html"
+                        }
+                    },
+                    "city_state": "Bryn Mawr, PA",
+                    "degree": "",
+                    "locations": [
+                        {
+                            "city_state": "Bryn Mawr, PA",
+                            "city": "Bryn Mawr",
+                            "address1": "130 S Bryn Mawr Ave",
+                            "_geoloc": {
+                                "lng": -75.321043,
+                                "lat": 40.018952
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "type": "doctor",
+                    "display_name": "Bettina B Lesser",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [],
+                    "url": "\/doctors\/Dr_Bettina_Lesser.html",
+                    "slug": "Dr_Bettina_Lesser.html"
+                },
+                "fields": {
+                    "distance": 9.534730494300181
+                },
+                "sort": [
+                    9.53520393011586
+                ]
+            }
+        ]
+    },
+    "aggregations": {
+        "satisfaction.accurate_diagnosis": {
+            "buckets": {
+                "good": {
+                    "from": 3.5,
+                    "doc_count": 0
+                }
+            }
+        },
+        "overall_range": {
+            "doc_count": 7275
+        },
+        "satisfaction.bedside_manner": {
+            "buckets": {
+                "good": {
+                    "from": 3.5,
+                    "doc_count": 0
+                }
+            }
+        },
+        "satisfaction.punctuality": {
+            "buckets": {
+                "good": {
+                    "from": 3.5,
+                    "doc_count": 0
+                }
+            }
+        },
+        "display_types": {
+            "doc_count_error_upper_bound": 0,
+            "sum_other_doc_count": 0,
+            "buckets": [
+                {
+                    "key": "Doctor",
+                    "doc_count": 9616
+                },
+                {
+                    "key": "Group Practice",
+                    "doc_count": 680
+                },
+                {
+                    "key": "Chiropractor",
+                    "doc_count": 371
+                },
+                {
+                    "key": "Podiatrist",
+                    "doc_count": 310
+                },
+                {
+                    "key": "Optometrist",
+                    "doc_count": 292
+                },
+                {
+                    "key": "Psychologist",
+                    "doc_count": 279
+                },
+                {
+                    "key": "Dentist",
+                    "doc_count": 60
+                },
+                {
+                    "key": "Hospital",
+                    "doc_count": 26
+                },
+                {
+                    "key": "Nursing Home",
+                    "doc_count": 2
+                },
+                {
+                    "key": "Cancer Center",
+                    "doc_count": 1
+                },
+                {
+                    "key": "Pharmacy",
+                    "doc_count": 1
+                }
+            ]
+        },
+        "insurance_companies": {
+            "doc_count_error_upper_bound": 0,
+            "sum_other_doc_count": 0,
+            "buckets": [
+                {
+                    "key": "Aetna",
+                    "doc_count": 11304
+                },
+                {
+                    "key": "United Healthcare",
+                    "doc_count": 10301
+                },
+                {
+                    "key": "BCBS Blue Card",
+                    "doc_count": 9724
+                },
+                {
+                    "key": "IBC",
+                    "doc_count": 9616
+                },
+                {
+                    "key": "Cigna",
+                    "doc_count": 8995
+                },
+                {
+                    "key": "Coventry Health Care",
+                    "doc_count": 8567
+                },
+                {
+                    "key": "Multiplan",
+                    "doc_count": 7792
+                },
+                {
+                    "key": "Humana",
+                    "doc_count": 5854
+                },
+                {
+                    "key": "Capital Blue Cross",
+                    "doc_count": 5649
+                },
+                {
+                    "key": "Horizon BCBS",
+                    "doc_count": 5553
+                },
+                {
+                    "key": "First Health",
+                    "doc_count": 5330
+                },
+                {
+                    "key": "QualCare",
+                    "doc_count": 4110
+                },
+                {
+                    "key": "Geisinger Health Plan",
+                    "doc_count": 2742
+                },
+                {
+                    "key": "Oxford Health",
+                    "doc_count": 1840
+                },
+                {
+                    "key": "HIP of NY",
+                    "doc_count": 1484
+                },
+                {
+                    "key": "UPMC Health Plan",
+                    "doc_count": 320
+                },
+                {
+                    "key": "CareFirst BCBS",
+                    "doc_count": 288
+                },
+                {
+                    "key": "Highmark BCBS",
+                    "doc_count": 265
+                },
+                {
+                    "key": "Empire BCBS",
+                    "doc_count": 140
+                },
+                {
+                    "key": "Anthem",
+                    "doc_count": 115
+                },
+                {
+                    "key": "Capital District Physicians Health Plan",
+                    "doc_count": 104
+                },
+                {
+                    "key": "BCBS Massachusetts",
+                    "doc_count": 90
+                },
+                {
+                    "key": "Connecticare",
+                    "doc_count": 69
+                },
+                {
+                    "key": "BCBS Illinois",
+                    "doc_count": 62
+                },
+                {
+                    "key": "Assurant",
+                    "doc_count": 56
+                },
+                {
+                    "key": "Guardian Dental",
+                    "doc_count": 55
+                },
+                {
+                    "key": "Principal Dental",
+                    "doc_count": 53
+                },
+                {
+                    "key": "Cigna Dental",
+                    "doc_count": 51
+                },
+                {
+                    "key": "Delta Dental",
+                    "doc_count": 51
+                },
+                {
+                    "key": "United Concordia",
+                    "doc_count": 51
+                },
+                {
+                    "key": "Ameritas",
+                    "doc_count": 49
+                },
+                {
+                    "key": "Dental Network of America",
+                    "doc_count": 49
+                },
+                {
+                    "key": "MetLife",
+                    "doc_count": 47
+                },
+                {
+                    "key": "DenteMax",
+                    "doc_count": 44
+                },
+                {
+                    "key": "MVP Health Plan",
+                    "doc_count": 44
+                },
+                {
+                    "key": "United Healthcare Dental",
+                    "doc_count": 44
+                },
+                {
+                    "key": "CompBenefits",
+                    "doc_count": 39
+                },
+                {
+                    "key": "Harvard Pilgrim",
+                    "doc_count": 39
+                },
+                {
+                    "key": "Humana Dental",
+                    "doc_count": 38
+                },
+                {
+                    "key": "HealthFirst NY",
+                    "doc_count": 36
+                },
+                {
+                    "key": "Blue Cross California",
+                    "doc_count": 31
+                },
+                {
+                    "key": "BCBS Florida",
+                    "doc_count": 28
+                },
+                {
+                    "key": "Medical Mutual of Ohio",
+                    "doc_count": 28
+                },
+                {
+                    "key": "Health Net",
+                    "doc_count": 26
+                },
+                {
+                    "key": "Tufts Health Plan",
+                    "doc_count": 26
+                },
+                {
+                    "key": "Emblem Health",
+                    "doc_count": 23
+                },
+                {
+                    "key": "Excellus BCBS",
+                    "doc_count": 23
+                },
+                {
+                    "key": "AvMed Health",
+                    "doc_count": 17
+                },
+                {
+                    "key": "Regence Health Plans",
+                    "doc_count": 17
+                },
+                {
+                    "key": "Sagamore Health",
+                    "doc_count": 17
+                },
+                {
+                    "key": "UHC of the River Valley",
+                    "doc_count": 17
+                },
+                {
+                    "key": "Blue Shield California",
+                    "doc_count": 16
+                },
+                {
+                    "key": "ODS",
+                    "doc_count": 14
+                },
+                {
+                    "key": "Premera",
+                    "doc_count": 14
+                },
+                {
+                    "key": "Independent Health",
+                    "doc_count": 13
+                },
+                {
+                    "key": "BCBS Texas",
+                    "doc_count": 12
+                },
+                {
+                    "key": "SIHO Insurance Services",
+                    "doc_count": 12
+                },
+                {
+                    "key": "HealthSpan",
+                    "doc_count": 11
+                },
+                {
+                    "key": "BCBS North Carolina",
+                    "doc_count": 10
+                },
+                {
+                    "key": "Optima Health",
+                    "doc_count": 10
+                },
+                {
+                    "key": "BCBS Georgia",
+                    "doc_count": 9
+                },
+                {
+                    "key": "Centene",
+                    "doc_count": 9
+                },
+                {
+                    "key": "HealthLink",
+                    "doc_count": 9
+                },
+                {
+                    "key": "BCBS Michigan",
+                    "doc_count": 8
+                },
+                {
+                    "key": "Encore Health Network",
+                    "doc_count": 8
+                },
+                {
+                    "key": "Ambetter Superior Health Plan",
+                    "doc_count": 7
+                },
+                {
+                    "key": "BCBS Rhode Island",
+                    "doc_count": 7
+                },
+                {
+                    "key": "PriorityHealth",
+                    "doc_count": 7
+                },
+                {
+                    "key": "Aetna Innovation Health",
+                    "doc_count": 6
+                },
+                {
+                    "key": "Health Alliance",
+                    "doc_count": 6
+                },
+                {
+                    "key": "Premier Health Plan",
+                    "doc_count": 6
+                },
+                {
+                    "key": "Wellmark",
+                    "doc_count": 6
+                },
+                {
+                    "key": "BCBS South Carolina",
+                    "doc_count": 5
+                },
+                {
+                    "key": "Healthy Connecticut",
+                    "doc_count": 5
+                },
+                {
+                    "key": "PHP Northern IN",
+                    "doc_count": 5
+                },
+                {
+                    "key": "SummaCare",
+                    "doc_count": 5
+                },
+                {
+                    "key": "WPS",
+                    "doc_count": 5
+                },
+                {
+                    "key": "Altius",
+                    "doc_count": 4
+                },
+                {
+                    "key": "BCBS Kansas City",
+                    "doc_count": 4
+                },
+                {
+                    "key": "BCBS Minnesota",
+                    "doc_count": 4
+                },
+                {
+                    "key": "Common Ground",
+                    "doc_count": 4
+                },
+                {
+                    "key": "HAP",
+                    "doc_count": 4
+                },
+                {
+                    "key": "Molina Healthcare",
+                    "doc_count": 4
+                },
+                {
+                    "key": "PacificSource",
+                    "doc_count": 4
+                },
+                {
+                    "key": "SelectHealth",
+                    "doc_count": 4
+                },
+                {
+                    "key": "BCBS Tennessee",
+                    "doc_count": 3
+                },
+                {
+                    "key": "Providence Health System",
+                    "doc_count": 3
+                },
+                {
+                    "key": "The Health Plan of Upper OH",
+                    "doc_count": 3
+                },
+                {
+                    "key": "BCBS Alabama",
+                    "doc_count": 2
+                },
+                {
+                    "key": "BCBS New Mexico",
+                    "doc_count": 2
+                },
+                {
+                    "key": "HealthPartners - MN",
+                    "doc_count": 2
+                },
+                {
+                    "key": "Indiana University",
+                    "doc_count": 2
+                },
+                {
+                    "key": "Preferred One",
+                    "doc_count": 2
+                },
+                {
+                    "key": "Presbyterian",
+                    "doc_count": 2
+                },
+                {
+                    "key": "Aultcare",
+                    "doc_count": 1
+                },
+                {
+                    "key": "BCBS Louisiana",
+                    "doc_count": 1
+                },
+                {
+                    "key": "BCBS Oklahoma",
+                    "doc_count": 1
+                },
+                {
+                    "key": "FirstCare",
+                    "doc_count": 1
+                },
+                {
+                    "key": "FrontPath Health Coalition",
+                    "doc_count": 1
+                },
+                {
+                    "key": "Group Health Coop",
+                    "doc_count": 1
+                },
+                {
+                    "key": "Gundersen Health Plan",
+                    "doc_count": 1
+                },
+                {
+                    "key": "Health Plan of Nevada",
+                    "doc_count": 1
+                },
+                {
+                    "key": "Kaiser - MidAtlantic",
+                    "doc_count": 1
+                },
+                {
+                    "key": "LA Care Health",
+                    "doc_count": 1
+                },
+                {
+                    "key": "Network Health Plan",
+                    "doc_count": 1
+                },
+                {
+                    "key": "One Health Network",
+                    "doc_count": 1
+                },
+                {
+                    "key": "Paramount",
+                    "doc_count": 1
+                },
+                {
+                    "key": "Qualchoice",
+                    "doc_count": 1
+                },
+                {
+                    "key": "Scion Dental",
+                    "doc_count": 1
+                },
+                {
+                    "key": "Sierra Health",
+                    "doc_count": 1
+                }
+            ]
+        },
+        "ratings": {
+            "buckets": [
+                {
+                    "key": "any",
+                    "doc_count": 9616
+                },
+                {
+                    "key": "3",
+                    "from": 3,
+                    "doc_count": 6688
+                },
+                {
+                    "key": "4",
+                    "from": 4,
+                    "doc_count": 4779
+                },
+                {
+                    "key": "5",
+                    "from": 5,
+                    "doc_count": 1531
+                }
+            ]
+        },
+        "experience_range": {
+            "buckets": [
+                {
+                    "key": "Any",
+                    "doc_count": 9616
+                },
+                {
+                    "key": "0 - 5",
+                    "from": 0,
+                    "to": 6,
+                    "doc_count": 0
+                },
+                {
+                    "key": "5 - 10",
+                    "from": 5,
+                    "to": 11,
+                    "doc_count": 608
+                },
+                {
+                    "key": "11 - 15",
+                    "from": 11,
+                    "to": 16,
+                    "doc_count": 921
+                },
+                {
+                    "key": "16 - 20",
+                    "from": 16,
+                    "to": 21,
+                    "doc_count": 1028
+                },
+                {
+                    "key": "21 - 25",
+                    "from": 21,
+                    "to": 26,
+                    "doc_count": 883
+                },
+                {
+                    "key": "26 - 30",
+                    "from": 26,
+                    "to": 31,
+                    "doc_count": 760
+                },
+                {
+                    "key": "30+",
+                    "from": 30,
+                    "doc_count": 2900
+                }
+            ]
+        }
+    },
+    "status": 200,
+    "distanceLimitedNothingFound": false,
+    "query": "",
+    "radiusUsed": 25,
+    "reqNo": "1",
+    "sponsors": [
+        {
+            "campaign_name": "webmd_ep",
+            "targeting": {
+                "locations": [
+                    {
+                        "city_state": "Philadelphia, PA",
+                        "geopoint": [
+                            [
+                                -75.160429,
+                                39.94866
+                            ]
+                        ]
+                    }
+                ],
+                "sponsor_id": "xx"
+            },
+            "search": {
+                "search_city_state": "Philadelphia, PA",
+                "search_specialties": "General Dentistry",
+                "locations": [
+                    {
+                        "city_state": "Philadelphia, PA",
+                        "geopoint": [
+                            [
+                                -75.160429,
+                                39.94866
+                            ]
+                        ]
+                    }
+                ],
+                "display_name": "Shireen  Malik"
+            },
+            "npi": "1518135805",
+            "external_id": "D83325",
+            "campaign_features": [
+                {
+                    "feature_name": "serp",
+                    "feature_config": {
+                        "specialty": "General Dentistry",
+                        "webmdSpecialtyId": [
+                            29245
+                        ],
+                        "city_state": "Philadelphia, PA",
+                        "profile_url": "\/dentists\/Dr_Shireen_Malik",
+                        "type": "dentist",
+                        "display_name": "Shireen  Malik",
+                        "photos": {
+                            "host": null,
+                            "uri": null
+                        },
+                        "ctas": {
+                            "appointment_url": "https:\/\/appointments.webmd.com\/path\/wmd-path1\/61fbb52a-c844-4904-ad23-dcc296781461"
+                        },
+                        "degrees": [
+                            "DDS"
+                        ],
+                        "display_type": "Dentist",
+                        "vitalsSpecialtyId": [
+                            294,
+                            296,
+                            297,
+                            300,
+                            303,
+                            306,
+                            307
+                        ],
+                        "specialties": [
+                            "General Dentistry"
+                        ],
+                        "number_of_ratings": 13,
+                        "company_name": null,
+                        "overall_rating": 4.3076923076923075
+                    }
+                }
+            ],
+            "url": "\/dentists\/Dr_Shireen_Malik",
+            "city_state": "Philadelphia, PA",
+            "geopoint": [
+                [
+                    -75.160429,
+                    39.94866
+                ]
+            ],
+            "geo_points": [
+                -75.160429,
+                39.94866
+            ],
+            "distance": 0.3
+        },
+        {
+            "campaign_name": "webmd_ep",
+            "targeting": {
+                "locations": [
+                    {
+                        "city_state": "Philadelphia, PA",
+                        "geopoint": [
+                            [
+                                -75.1741,
+                                39.9527
+                            ]
+                        ]
+                    },
+                    {
+                        "city_state": "Upper Darby, PA",
+                        "geopoint": [
+                            [
+                                -75.2629,
+                                39.9591
+                            ]
+                        ]
+                    }
+                ],
+                "sponsor_id": "xx"
+            },
+            "search": {
+                "search_city_state": "Philadelphia, PA Upper Darby, PA",
+                "search_specialties": "Addiction Medicine Physical Medicine\/Rehab Spec",
+                "locations": [
+                    {
+                        "city_state": "Philadelphia, PA",
+                        "geopoint": [
+                            [
+                                -75.1741,
+                                39.9527
+                            ]
+                        ]
+                    },
+                    {
+                        "city_state": "Upper Darby, PA",
+                        "geopoint": [
+                            [
+                                -75.2629,
+                                39.9591
+                            ]
+                        ]
+                    }
+                ],
+                "display_name": "Denis A Boyle Jr"
+            },
+            "npi": "1205920287",
+            "external_id": "153875",
+            "campaign_features": [
+                {
+                    "feature_name": "serp",
+                    "feature_config": {
+                        "specialty": "Addiction Medicine",
+                        "webmdSpecialtyId": [
+                            29230,
+                            29309
+                        ],
+                        "city_state": "Philadelphia, PA",
+                        "profile_url": "\/doctors\/Dr_Denis_Boyle.html",
+                        "type": "doctor",
+                        "display_name": "Denis A Boyle Jr",
+                        "photos": {
+                            "host": null,
+                            "uri": null
+                        },
+                        "ctas": {
+                            "appointment_url": "https:\/\/appointments.webmd.com\/path\/wmd-path1\/fb31da85-feb0-4bf4-9dc3-01678cfc8276"
+                        },
+                        "degrees": [
+                            "MD"
+                        ],
+                        "display_type": "Doctor",
+                        "vitalsSpecialtyId": [
+                            5,
+                            23,
+                            31,
+                            141,
+                            124,
+                            126,
+                            127,
+                            2018
+                        ],
+                        "specialties": [
+                            "Addiction Medicine",
+                            "Physical Medicine\/Rehab Spec"
+                        ],
+                        "number_of_ratings": 4,
+                        "company_name": null,
+                        "overall_rating": 5
+                    }
+                }
+            ],
+            "url": "\/doctors\/Dr_Denis_Boyle.html",
+            "city_state": "Philadelphia, PA",
+            "geopoint": [
+                [
+                    -75.1741,
+                    39.9527
+                ]
+            ],
+            "geo_points": [
+                -75.1741,
+                39.9527
+            ],
+            "distance": 0.6
+        },
+        {
+            "campaign_name": "webmd_ep",
+            "targeting": {
+                "locations": [
+                    {
+                        "city_state": "Ridley Park, PA",
+                        "geopoint": [
+                            [
+                                -75.3212,
+                                39.8791
+                            ]
+                        ]
+                    }
+                ],
+                "sponsor_id": "xx"
+            },
+            "search": {
+                "search_city_state": "Ridley Park, PA",
+                "search_specialties": "Family Practitioner Internal Medicine",
+                "locations": [
+                    {
+                        "city_state": "Ridley Park, PA",
+                        "geopoint": [
+                            [
+                                -75.3212,
+                                39.8791
+                            ]
+                        ]
+                    }
+                ],
+                "display_name": "Neeraj Tripathy"
+            },
+            "npi": "1972660975",
+            "external_id": "6302324",
+            "campaign_features": [
+                {
+                    "feature_name": "serp",
+                    "feature_config": {
+                        "specialty": "Family Practitioner",
+                        "webmdSpecialtyId": [
+                            29259,
+                            29277
+                        ],
+                        "city_state": "Ridley Park, PA",
+                        "profile_url": "\/doctors\/Dr_Neeraj_Tripathy.html",
+                        "type": "doctor",
+                        "display_name": "Neeraj Tripathy",
+                        "photos": {
+                            "host": null,
+                            "uri": null
+                        },
+                        "ctas": {
+                            "appointment_url": "https:\/\/appointments.webmd.com\/path\/wmd-path1\/e5a7bcd3-e5c7-416a-b7ab-65f40d7e3015"
+                        },
+                        "degrees": [
+                            "MD"
+                        ],
+                        "display_type": "Doctor",
+                        "vitalsSpecialtyId": [
+                            22,
+                            25,
+                            26,
+                            479,
+                            667,
+                            30,
+                            36,
+                            42,
+                            672,
+                            2005
+                        ],
+                        "specialties": [
+                            "Family Practitioner",
+                            "Internal Medicine"
+                        ],
+                        "number_of_ratings": 12,
+                        "company_name": null,
+                        "overall_rating": 4.63888888888889
+                    }
+                }
+            ],
+            "url": "\/doctors\/Dr_Neeraj_Tripathy.html",
+            "city_state": "Ridley Park, PA",
+            "geopoint": [
+                [
+                    -75.3212,
+                    39.8791
+                ]
+            ],
+            "geo_points": [
+                -75.3212,
+                39.8791
+            ],
+            "distance": 9.7
+        }
+    ]
+}

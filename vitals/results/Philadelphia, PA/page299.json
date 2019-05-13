@@ -1,0 +1,2129 @@
+{
+    "took": 76,
+    "timed_out": false,
+    "_shards": {
+        "total": 2,
+        "successful": 2,
+        "skipped": 0,
+        "failed": 0
+    },
+    "hits": {
+        "total": 9616,
+        "max_score": null,
+        "hits": [
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1t695n_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1t695n",
+                    "years_experience": 14,
+                    "city_state": "Bryn Mawr, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Noushin Heidary",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Dermatology"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Noushin_Heidary.html",
+                            "slug": "Dr_Noushin_Heidary.html"
+                        }
+                    },
+                    "number_of_ratings": 19,
+                    "locations": [
+                        {
+                            "city_state": "Bryn Mawr, PA",
+                            "city": "Bryn Mawr",
+                            "address1": "919 Conestoga Rd Ste 106",
+                            "_geoloc": {
+                                "lng": -75.336072,
+                                "lat": 40.025715
+                            },
+                            "state": "PA"
+                        },
+                        {
+                            "city_state": "Tenafly, NJ",
+                            "city": "Tenafly",
+                            "address1": "45 Central Ave",
+                            "_geoloc": {
+                                "lng": -73.964735,
+                                "lat": 40.929024
+                            },
+                            "state": "NJ"
+                        }
+                    ],
+                    "overall_rating": 4.385964912280701,
+                    "url": "\/doctors\/Dr_Noushin_Heidary.html",
+                    "slug": "Dr_Noushin_Heidary.html"
+                },
+                "fields": {
+                    "distance": 10.456801453010831
+                },
+                "sort": [
+                    10.457320037446285
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1ss98h_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1ss98h",
+                    "years_experience": 33,
+                    "city_state": "Bryn Mawr, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Leigh S Bergmann",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1687003\/photo.jpg"
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Urology"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Leigh_Bergmann.html",
+                            "slug": "Dr_Leigh_Bergmann.html"
+                        }
+                    },
+                    "number_of_ratings": 10,
+                    "locations": [
+                        {
+                            "city_state": "Bryn Mawr, PA",
+                            "city": "Bryn Mawr",
+                            "address1": "919 Conestoga Rd Ste 300",
+                            "_geoloc": {
+                                "lng": -75.336072,
+                                "lat": 40.025715
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 4.1,
+                    "url": "\/doctors\/Dr_Leigh_Bergmann.html",
+                    "slug": "Dr_Leigh_Bergmann.html"
+                },
+                "fields": {
+                    "distance": 10.456801453010831
+                },
+                "sort": [
+                    10.457320037446285
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1qzcr3_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1qzcr3",
+                    "years_experience": 39,
+                    "city_state": "Bryn Mawr, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. James F Squadrito Jr",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1686702\/photo.jpg"
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Urology"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_James_Squadrito.html",
+                            "slug": "Dr_James_Squadrito.html"
+                        }
+                    },
+                    "number_of_ratings": 13,
+                    "locations": [
+                        {
+                            "city_state": "Bryn Mawr, PA",
+                            "city": "Bryn Mawr",
+                            "address1": "919 Conestoga Rd Ste 300",
+                            "_geoloc": {
+                                "lng": -75.336072,
+                                "lat": 40.025715
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 4.41025641025641,
+                    "url": "\/doctors\/Dr_James_Squadrito.html",
+                    "slug": "Dr_James_Squadrito.html"
+                },
+                "fields": {
+                    "distance": 10.456801453010831
+                },
+                "sort": [
+                    10.457320037446285
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1z60cm_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1z60cm",
+                    "years_experience": 28,
+                    "city_state": "Bryn Mawr, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Margaret A Burns",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1711628\/photo.jpg"
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Obstetrics and Gynecology"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Margaret_Burns.html",
+                            "slug": "Dr_Margaret_Burns.html"
+                        }
+                    },
+                    "number_of_ratings": 32,
+                    "locations": [
+                        {
+                            "city_state": "Bryn Mawr, PA",
+                            "city": "Bryn Mawr",
+                            "address1": "919 Conestoga Rd Ste 104",
+                            "_geoloc": {
+                                "lng": -75.336072,
+                                "lat": 40.025715
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 3.3958333333333344,
+                    "url": "\/doctors\/Dr_Margaret_Burns.html",
+                    "slug": "Dr_Margaret_Burns.html"
+                },
+                "fields": {
+                    "distance": 10.456801453010831
+                },
+                "sort": [
+                    10.457320037446285
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "a4fb29_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "a4fb29",
+                    "years_experience": 27,
+                    "city_state": "Bryn Mawr, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Daniel B Westawski",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1841497\/photo.jpg"
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Plastic Surgery"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Daniel_Westauski.html",
+                            "slug": "Dr_Daniel_Westauski.html"
+                        }
+                    },
+                    "number_of_ratings": 56,
+                    "locations": [
+                        {
+                            "city_state": "Bryn Mawr, PA",
+                            "city": "Bryn Mawr",
+                            "address1": "919 Conestoga Rd Ste 208",
+                            "_geoloc": {
+                                "lng": -75.336072,
+                                "lat": 40.025715
+                            },
+                            "state": "PA"
+                        },
+                        {
+                            "city_state": "Plymouth Meeting, PA",
+                            "city": "Plymouth Meeting",
+                            "address1": "1000 Germantown Pike Ste E1",
+                            "_geoloc": {
+                                "lng": -75.299482,
+                                "lat": 40.129373
+                            },
+                            "state": "PA"
+                        },
+                        {
+                            "city_state": "Tampa, FL",
+                            "city": "Tampa",
+                            "address1": "16334 Burniston Dr",
+                            "_geoloc": {
+                                "lng": -82.400466,
+                                "lat": 28.118532
+                            },
+                            "state": "FL"
+                        }
+                    ],
+                    "overall_rating": 3.49404761904762,
+                    "url": "\/doctors\/Dr_Daniel_Westauski.html",
+                    "slug": "Dr_Daniel_Westauski.html"
+                },
+                "fields": {
+                    "distance": 10.456801453010831
+                },
+                "sort": [
+                    10.457320037446285
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1z8t79_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1z8t79",
+                    "city_state": "Bryn Mawr, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Jocelyn L Craparo",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1684218\/photo.jpg"
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Obstetrics",
+                        "Obstetrics and Gynecology"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Jocelyn_Craparo.html",
+                            "slug": "Dr_Jocelyn_Craparo.html"
+                        }
+                    },
+                    "number_of_ratings": 35,
+                    "locations": [
+                        {
+                            "city_state": "Bryn Mawr, PA",
+                            "city": "Bryn Mawr",
+                            "address1": "919 Conestoga Rd Ste 104",
+                            "_geoloc": {
+                                "lng": -75.336072,
+                                "lat": 40.025715
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 4.114285714285715,
+                    "url": "\/doctors\/Dr_Jocelyn_Craparo.html",
+                    "slug": "Dr_Jocelyn_Craparo.html"
+                },
+                "fields": {
+                    "distance": 10.456801453010831
+                },
+                "sort": [
+                    10.457320037446285
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1wdbsg_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1wdbsg",
+                    "city_state": "Bryn Mawr, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Jacalyn S Maller",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Pediatrics"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Jacalyn_Maller.html",
+                            "slug": "Dr_Jacalyn_Maller.html"
+                        }
+                    },
+                    "number_of_ratings": 2,
+                    "locations": [
+                        {
+                            "city_state": "Bryn Mawr, PA",
+                            "city": "Bryn Mawr",
+                            "address1": "919 Conestoga Rd Ste 111",
+                            "_geoloc": {
+                                "lng": -75.336072,
+                                "lat": 40.025715
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 4.33333333333334,
+                    "url": "\/doctors\/Dr_Jacalyn_Maller.html",
+                    "slug": "Dr_Jacalyn_Maller.html"
+                },
+                "fields": {
+                    "distance": 10.456801453010831
+                },
+                "sort": [
+                    10.457320037446285
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1qyd1p_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1qyd1p",
+                    "years_experience": 30,
+                    "city_state": "Bryn Mawr, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Victoria A Cirillo-Hyland",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1702871\/photo.jpg"
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Dermatopathology",
+                        "Dermatology"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Victoria_Cirillo-Hyland.html",
+                            "slug": "Dr_Victoria_Cirillo-Hyland.html"
+                        }
+                    },
+                    "number_of_ratings": 9,
+                    "locations": [
+                        {
+                            "city_state": "Bryn Mawr, PA",
+                            "city": "Bryn Mawr",
+                            "address1": "919 Conestoga Rd Bldg 2",
+                            "_geoloc": {
+                                "lng": -75.336072,
+                                "lat": 40.025715
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 4.259259259259259,
+                    "url": "\/doctors\/Dr_Victoria_Cirillo-Hyland.html",
+                    "slug": "Dr_Victoria_Cirillo-Hyland.html"
+                },
+                "fields": {
+                    "distance": 10.456801453010831
+                },
+                "sort": [
+                    10.457320037446285
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1zjbpd_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1zjbpd",
+                    "city_state": "Bryn Mawr, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Julia H Cohen",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Dermatology"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Julia_Cohen.html",
+                            "slug": "Dr_Julia_Cohen.html"
+                        }
+                    },
+                    "number_of_ratings": 27,
+                    "locations": [
+                        {
+                            "city_state": "Bryn Mawr, PA",
+                            "city": "Bryn Mawr",
+                            "address1": "919 Conestoga Rd Bldg 2",
+                            "_geoloc": {
+                                "lng": -75.336072,
+                                "lat": 40.025715
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 3.962962962962963,
+                    "url": "\/doctors\/Dr_Julia_Cohen.html",
+                    "slug": "Dr_Julia_Cohen.html"
+                },
+                "fields": {
+                    "distance": 10.456801453010831
+                },
+                "sort": [
+                    10.457320037446285
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1t8n0z_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1t8n0z",
+                    "years_experience": 32,
+                    "city_state": "Bryn Mawr, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. David E Mcginnis",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1708041\/photo.jpg"
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Urology"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_David_E_Mcginnis.html",
+                            "slug": "Dr_David_E_Mcginnis.html"
+                        }
+                    },
+                    "number_of_ratings": 11,
+                    "locations": [
+                        {
+                            "city_state": "Bryn Mawr, PA",
+                            "city": "Bryn Mawr",
+                            "address1": "919 Conestoga Rd Ste 300",
+                            "_geoloc": {
+                                "lng": -75.336072,
+                                "lat": 40.025715
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 4.303030303030305,
+                    "url": "\/doctors\/Dr_David_E_Mcginnis.html",
+                    "slug": "Dr_David_E_Mcginnis.html"
+                },
+                "fields": {
+                    "distance": 10.456801453010831
+                },
+                "sort": [
+                    10.457320037446285
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1ph2yx_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1ph2yx",
+                    "city_state": "Bryn Mawr, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Harold M Gordon",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1686457\/photo.jpg"
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Pediatrics"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Harold_Gordon.html",
+                            "slug": "Dr_Harold_Gordon.html"
+                        }
+                    },
+                    "number_of_ratings": 1,
+                    "locations": [
+                        {
+                            "city_state": "Bryn Mawr, PA",
+                            "city": "Bryn Mawr",
+                            "address1": "919 Conestoga Rd Ste 111",
+                            "_geoloc": {
+                                "lng": -75.336072,
+                                "lat": 40.025715
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 5,
+                    "url": "\/doctors\/Dr_Harold_Gordon.html",
+                    "slug": "Dr_Harold_Gordon.html"
+                },
+                "fields": {
+                    "distance": 10.456801453010831
+                },
+                "sort": [
+                    10.457320037446285
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1r778r_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1r778r",
+                    "years_experience": 15,
+                    "city_state": "Bryn Mawr, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Kai Q Wu",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1557702\/photo.jpg"
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Obstetrics and Gynecology"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Kai_Wu.html",
+                            "slug": "Dr_Kai_Wu.html"
+                        }
+                    },
+                    "number_of_ratings": 13,
+                    "locations": [
+                        {
+                            "city_state": "Bryn Mawr, PA",
+                            "city": "Bryn Mawr",
+                            "address1": "919 Conestoga Rd Ste 104",
+                            "_geoloc": {
+                                "lng": -75.336072,
+                                "lat": 40.025715
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 3.7948717948717934,
+                    "url": "\/doctors\/Dr_Kai_Wu.html",
+                    "slug": "Dr_Kai_Wu.html"
+                },
+                "fields": {
+                    "distance": 10.456801453010831
+                },
+                "sort": [
+                    10.457320037446285
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1rs9xs_doctor",
+                "_score": null,
+                "_source": {
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Pediatrics"
+                    ],
+                    "vpid": "1rs9xs",
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Lisa_Heller.html",
+                            "slug": "Dr_Lisa_Heller.html"
+                        }
+                    },
+                    "city_state": "Bryn Mawr, PA",
+                    "degree": "MD",
+                    "locations": [
+                        {
+                            "city_state": "Bryn Mawr, PA",
+                            "city": "Bryn Mawr",
+                            "address1": "919 Conestoga Rd Ste 111",
+                            "_geoloc": {
+                                "lng": -75.336072,
+                                "lat": 40.025715
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "type": "doctor",
+                    "display_name": "Dr. Lisa J Heller",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "url": "\/doctors\/Dr_Lisa_Heller.html",
+                    "slug": "Dr_Lisa_Heller.html"
+                },
+                "fields": {
+                    "distance": 10.456801453010831
+                },
+                "sort": [
+                    10.457320037446285
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1qrncg_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1qrncg",
+                    "city_state": "Bryn Mawr, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Linda F Klinow",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Pediatrics"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Linda_Klinow.html",
+                            "slug": "Dr_Linda_Klinow.html"
+                        }
+                    },
+                    "number_of_ratings": 9,
+                    "locations": [
+                        {
+                            "city_state": "Bryn Mawr, PA",
+                            "city": "Bryn Mawr",
+                            "address1": "919 Conestoga Rd Ste 111",
+                            "_geoloc": {
+                                "lng": -75.336072,
+                                "lat": 40.025715
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 3.6666666666666665,
+                    "url": "\/doctors\/Dr_Linda_Klinow.html",
+                    "slug": "Dr_Linda_Klinow.html"
+                },
+                "fields": {
+                    "distance": 10.456801453010831
+                },
+                "sort": [
+                    10.457320037446285
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1z0kjt_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1z0kjt",
+                    "years_experience": 25,
+                    "city_state": "Bryn Mawr, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Mehrdad M Soroush",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1684758\/photo.jpg"
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Urology"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Mehrdad_Soroush.html",
+                            "slug": "Dr_Mehrdad_Soroush.html"
+                        }
+                    },
+                    "number_of_ratings": 5,
+                    "locations": [
+                        {
+                            "city_state": "Bryn Mawr, PA",
+                            "city": "Bryn Mawr",
+                            "address1": "919 Conestoga Rd Ste 300",
+                            "_geoloc": {
+                                "lng": -75.336072,
+                                "lat": 40.025715
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 4.733333333333336,
+                    "url": "\/doctors\/Dr_Mehrdad_Soroush.html",
+                    "slug": "Dr_Mehrdad_Soroush.html"
+                },
+                "fields": {
+                    "distance": 10.456801453010831
+                },
+                "sort": [
+                    10.457320037446285
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1ssy7t_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1ssy7t",
+                    "years_experience": 27,
+                    "city_state": "Bryn Mawr, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Daniel B Westawski",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1841497\/photo.jpg"
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Plastic Surgery"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Daniel_Westawski.html",
+                            "slug": "Dr_Daniel_Westawski.html"
+                        }
+                    },
+                    "number_of_ratings": 56,
+                    "locations": [
+                        {
+                            "city_state": "Bryn Mawr, PA",
+                            "city": "Bryn Mawr",
+                            "address1": "919 Conestoga Rd Ste 208",
+                            "_geoloc": {
+                                "lng": -75.336072,
+                                "lat": 40.025715
+                            },
+                            "state": "PA"
+                        },
+                        {
+                            "city_state": "Plymouth Meeting, PA",
+                            "city": "Plymouth Meeting",
+                            "address1": "1000 Germantown Pike Ste E1",
+                            "_geoloc": {
+                                "lng": -75.299482,
+                                "lat": 40.129373
+                            },
+                            "state": "PA"
+                        },
+                        {
+                            "city_state": "Tampa, FL",
+                            "city": "Tampa",
+                            "address1": "16334 Burniston Dr",
+                            "_geoloc": {
+                                "lng": -82.400466,
+                                "lat": 28.118532
+                            },
+                            "state": "FL"
+                        }
+                    ],
+                    "overall_rating": 3.49404761904762,
+                    "url": "\/doctors\/Dr_Daniel_Westawski.html",
+                    "slug": "Dr_Daniel_Westawski.html"
+                },
+                "fields": {
+                    "distance": 10.456801453010831
+                },
+                "sort": [
+                    10.457320037446285
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1qjc29_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1qjc29",
+                    "years_experience": 19,
+                    "city_state": "Bryn Mawr, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Ilia S Zeltser",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1687349\/photo.jpg"
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Urology"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Ilia_Zeltser.html",
+                            "slug": "Dr_Ilia_Zeltser.html"
+                        }
+                    },
+                    "number_of_ratings": 3,
+                    "locations": [
+                        {
+                            "city_state": "Bryn Mawr, PA",
+                            "city": "Bryn Mawr",
+                            "address1": "919 Conestoga Rd Ste 300",
+                            "_geoloc": {
+                                "lng": -75.336072,
+                                "lat": 40.025715
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 4,
+                    "url": "\/doctors\/Dr_Ilia_Zeltser.html",
+                    "slug": "Dr_Ilia_Zeltser.html"
+                },
+                "fields": {
+                    "distance": 10.456801453010831
+                },
+                "sort": [
+                    10.457320037446285
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1sp1pt_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1sp1pt",
+                    "years_experience": 32,
+                    "city_state": "Bryn Mawr, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Joan H Zeidman",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1687922\/photo.jpg"
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Obstetrics and Gynecology"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Joan_Zeidman.html",
+                            "slug": "Dr_Joan_Zeidman.html"
+                        }
+                    },
+                    "number_of_ratings": 36,
+                    "locations": [
+                        {
+                            "city_state": "Bryn Mawr, PA",
+                            "city": "Bryn Mawr",
+                            "address1": "919 Conestoga Rd Ste 104",
+                            "_geoloc": {
+                                "lng": -75.336072,
+                                "lat": 40.025715
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 3.2962962962962963,
+                    "url": "\/doctors\/Dr_Joan_Zeidman.html",
+                    "slug": "Dr_Joan_Zeidman.html"
+                },
+                "fields": {
+                    "distance": 10.456801453010831
+                },
+                "sort": [
+                    10.457320037446285
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1zfr1y_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1zfr1y",
+                    "years_experience": 43,
+                    "city_state": "Lafayette Hill, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Robert F Mowery",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1507983\/photo.jpg"
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Family Medicine"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Robert_Mowery.html",
+                            "slug": "Dr_Robert_Mowery.html"
+                        }
+                    },
+                    "number_of_ratings": 11,
+                    "locations": [
+                        {
+                            "city_state": "Lafayette Hill, PA",
+                            "city": "Lafayette Hill",
+                            "address1": "509 Germantown Pike",
+                            "_geoloc": {
+                                "lng": -75.252798,
+                                "lat": 40.087351
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 4.393939393939396,
+                    "url": "\/doctors\/Dr_Robert_Mowery.html",
+                    "slug": "Dr_Robert_Mowery.html"
+                },
+                "fields": {
+                    "distance": 10.492192921314691
+                },
+                "sort": [
+                    10.492709858418934
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1x577h_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1x577h",
+                    "years_experience": 19,
+                    "city_state": "Lafayette Hill, PA",
+                    "degree": "DO",
+                    "type": "doctor",
+                    "display_name": "Dr. Jason J Sanderson",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [
+                        "DO"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Family Medicine"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Jason_Sanderson.html",
+                            "slug": "Dr_Jason_Sanderson.html"
+                        }
+                    },
+                    "number_of_ratings": 38,
+                    "locations": [
+                        {
+                            "city_state": "Upper Chichester, PA",
+                            "city": "Upper Chichester",
+                            "address1": "400 Cherry Tree Rd",
+                            "_geoloc": {
+                                "lng": -75.43932,
+                                "lat": 39.849587
+                            },
+                            "state": "PA"
+                        },
+                        {
+                            "city_state": "Fort Washington, PA",
+                            "city": "Fort Washington",
+                            "address1": "515 Pennsylvania Ave Ste A",
+                            "_geoloc": {
+                                "lng": -75.205554,
+                                "lat": 40.134738
+                            },
+                            "state": "PA"
+                        },
+                        {
+                            "city_state": "Lafayette Hill, PA",
+                            "city": "Lafayette Hill",
+                            "address1": "509 Germantown Pike",
+                            "_geoloc": {
+                                "lng": -75.252798,
+                                "lat": 40.087351
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 4.324561403508772,
+                    "url": "\/doctors\/Dr_Jason_Sanderson.html",
+                    "slug": "Dr_Jason_Sanderson.html"
+                },
+                "fields": {
+                    "distance": 10.492192921314691
+                },
+                "sort": [
+                    10.492709858418934
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1wjrf4_doctor",
+                "_score": null,
+                "_source": {
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Ophthalmology"
+                    ],
+                    "vpid": "1wjrf4",
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/1wjrf4\/david-morrison",
+                            "slug": "1wjrf4\/david-morrison"
+                        }
+                    },
+                    "city_state": "Flourtown, PA",
+                    "degree": "MD",
+                    "locations": [
+                        {
+                            "city_state": "Flourtown, PA",
+                            "city": "Flourtown",
+                            "address1": "1108 Bethlehem Pike",
+                            "_geoloc": {
+                                "lng": -75.212397,
+                                "lat": 40.099025
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "type": "doctor",
+                    "display_name": "Dr. David P Morrison Jr",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "url": "\/doctors\/1wjrf4\/david-morrison",
+                    "slug": "1wjrf4\/david-morrison"
+                },
+                "fields": {
+                    "distance": 10.502368652801875
+                },
+                "sort": [
+                    10.502888039966788
+                ]
+            }
+        ]
+    },
+    "aggregations": {
+        "satisfaction.accurate_diagnosis": {
+            "buckets": {
+                "good": {
+                    "from": 3.5,
+                    "doc_count": 0
+                }
+            }
+        },
+        "overall_range": {
+            "doc_count": 7275
+        },
+        "satisfaction.bedside_manner": {
+            "buckets": {
+                "good": {
+                    "from": 3.5,
+                    "doc_count": 0
+                }
+            }
+        },
+        "satisfaction.punctuality": {
+            "buckets": {
+                "good": {
+                    "from": 3.5,
+                    "doc_count": 0
+                }
+            }
+        },
+        "display_types": {
+            "doc_count_error_upper_bound": 0,
+            "sum_other_doc_count": 0,
+            "buckets": [
+                {
+                    "key": "Doctor",
+                    "doc_count": 9616
+                },
+                {
+                    "key": "Group Practice",
+                    "doc_count": 680
+                },
+                {
+                    "key": "Chiropractor",
+                    "doc_count": 371
+                },
+                {
+                    "key": "Podiatrist",
+                    "doc_count": 310
+                },
+                {
+                    "key": "Optometrist",
+                    "doc_count": 292
+                },
+                {
+                    "key": "Psychologist",
+                    "doc_count": 279
+                },
+                {
+                    "key": "Dentist",
+                    "doc_count": 60
+                },
+                {
+                    "key": "Hospital",
+                    "doc_count": 26
+                },
+                {
+                    "key": "Nursing Home",
+                    "doc_count": 2
+                },
+                {
+                    "key": "Cancer Center",
+                    "doc_count": 1
+                },
+                {
+                    "key": "Pharmacy",
+                    "doc_count": 1
+                }
+            ]
+        },
+        "insurance_companies": {
+            "doc_count_error_upper_bound": 0,
+            "sum_other_doc_count": 0,
+            "buckets": [
+                {
+                    "key": "Aetna",
+                    "doc_count": 11304
+                },
+                {
+                    "key": "United Healthcare",
+                    "doc_count": 10301
+                },
+                {
+                    "key": "BCBS Blue Card",
+                    "doc_count": 9724
+                },
+                {
+                    "key": "IBC",
+                    "doc_count": 9616
+                },
+                {
+                    "key": "Cigna",
+                    "doc_count": 8995
+                },
+                {
+                    "key": "Coventry Health Care",
+                    "doc_count": 8567
+                },
+                {
+                    "key": "Multiplan",
+                    "doc_count": 7792
+                },
+                {
+                    "key": "Humana",
+                    "doc_count": 5854
+                },
+                {
+                    "key": "Capital Blue Cross",
+                    "doc_count": 5649
+                },
+                {
+                    "key": "Horizon BCBS",
+                    "doc_count": 5553
+                },
+                {
+                    "key": "First Health",
+                    "doc_count": 5330
+                },
+                {
+                    "key": "QualCare",
+                    "doc_count": 4110
+                },
+                {
+                    "key": "Geisinger Health Plan",
+                    "doc_count": 2742
+                },
+                {
+                    "key": "Oxford Health",
+                    "doc_count": 1840
+                },
+                {
+                    "key": "HIP of NY",
+                    "doc_count": 1484
+                },
+                {
+                    "key": "UPMC Health Plan",
+                    "doc_count": 320
+                },
+                {
+                    "key": "CareFirst BCBS",
+                    "doc_count": 288
+                },
+                {
+                    "key": "Highmark BCBS",
+                    "doc_count": 265
+                },
+                {
+                    "key": "Empire BCBS",
+                    "doc_count": 140
+                },
+                {
+                    "key": "Anthem",
+                    "doc_count": 115
+                },
+                {
+                    "key": "Capital District Physicians Health Plan",
+                    "doc_count": 104
+                },
+                {
+                    "key": "BCBS Massachusetts",
+                    "doc_count": 90
+                },
+                {
+                    "key": "Connecticare",
+                    "doc_count": 69
+                },
+                {
+                    "key": "BCBS Illinois",
+                    "doc_count": 62
+                },
+                {
+                    "key": "Assurant",
+                    "doc_count": 56
+                },
+                {
+                    "key": "Guardian Dental",
+                    "doc_count": 55
+                },
+                {
+                    "key": "Principal Dental",
+                    "doc_count": 53
+                },
+                {
+                    "key": "Cigna Dental",
+                    "doc_count": 51
+                },
+                {
+                    "key": "Delta Dental",
+                    "doc_count": 51
+                },
+                {
+                    "key": "United Concordia",
+                    "doc_count": 51
+                },
+                {
+                    "key": "Ameritas",
+                    "doc_count": 49
+                },
+                {
+                    "key": "Dental Network of America",
+                    "doc_count": 49
+                },
+                {
+                    "key": "MetLife",
+                    "doc_count": 47
+                },
+                {
+                    "key": "DenteMax",
+                    "doc_count": 44
+                },
+                {
+                    "key": "MVP Health Plan",
+                    "doc_count": 44
+                },
+                {
+                    "key": "United Healthcare Dental",
+                    "doc_count": 44
+                },
+                {
+                    "key": "CompBenefits",
+                    "doc_count": 39
+                },
+                {
+                    "key": "Harvard Pilgrim",
+                    "doc_count": 39
+                },
+                {
+                    "key": "Humana Dental",
+                    "doc_count": 38
+                },
+                {
+                    "key": "HealthFirst NY",
+                    "doc_count": 36
+                },
+                {
+                    "key": "Blue Cross California",
+                    "doc_count": 31
+                },
+                {
+                    "key": "BCBS Florida",
+                    "doc_count": 28
+                },
+                {
+                    "key": "Medical Mutual of Ohio",
+                    "doc_count": 28
+                },
+                {
+                    "key": "Health Net",
+                    "doc_count": 26
+                },
+                {
+                    "key": "Tufts Health Plan",
+                    "doc_count": 26
+                },
+                {
+                    "key": "Emblem Health",
+                    "doc_count": 23
+                },
+                {
+                    "key": "Excellus BCBS",
+                    "doc_count": 23
+                },
+                {
+                    "key": "AvMed Health",
+                    "doc_count": 17
+                },
+                {
+                    "key": "Regence Health Plans",
+                    "doc_count": 17
+                },
+                {
+                    "key": "Sagamore Health",
+                    "doc_count": 17
+                },
+                {
+                    "key": "UHC of the River Valley",
+                    "doc_count": 17
+                },
+                {
+                    "key": "Blue Shield California",
+                    "doc_count": 16
+                },
+                {
+                    "key": "ODS",
+                    "doc_count": 14
+                },
+                {
+                    "key": "Premera",
+                    "doc_count": 14
+                },
+                {
+                    "key": "Independent Health",
+                    "doc_count": 13
+                },
+                {
+                    "key": "BCBS Texas",
+                    "doc_count": 12
+                },
+                {
+                    "key": "SIHO Insurance Services",
+                    "doc_count": 12
+                },
+                {
+                    "key": "HealthSpan",
+                    "doc_count": 11
+                },
+                {
+                    "key": "BCBS North Carolina",
+                    "doc_count": 10
+                },
+                {
+                    "key": "Optima Health",
+                    "doc_count": 10
+                },
+                {
+                    "key": "BCBS Georgia",
+                    "doc_count": 9
+                },
+                {
+                    "key": "Centene",
+                    "doc_count": 9
+                },
+                {
+                    "key": "HealthLink",
+                    "doc_count": 9
+                },
+                {
+                    "key": "BCBS Michigan",
+                    "doc_count": 8
+                },
+                {
+                    "key": "Encore Health Network",
+                    "doc_count": 8
+                },
+                {
+                    "key": "Ambetter Superior Health Plan",
+                    "doc_count": 7
+                },
+                {
+                    "key": "BCBS Rhode Island",
+                    "doc_count": 7
+                },
+                {
+                    "key": "PriorityHealth",
+                    "doc_count": 7
+                },
+                {
+                    "key": "Aetna Innovation Health",
+                    "doc_count": 6
+                },
+                {
+                    "key": "Health Alliance",
+                    "doc_count": 6
+                },
+                {
+                    "key": "Premier Health Plan",
+                    "doc_count": 6
+                },
+                {
+                    "key": "Wellmark",
+                    "doc_count": 6
+                },
+                {
+                    "key": "BCBS South Carolina",
+                    "doc_count": 5
+                },
+                {
+                    "key": "Healthy Connecticut",
+                    "doc_count": 5
+                },
+                {
+                    "key": "PHP Northern IN",
+                    "doc_count": 5
+                },
+                {
+                    "key": "SummaCare",
+                    "doc_count": 5
+                },
+                {
+                    "key": "WPS",
+                    "doc_count": 5
+                },
+                {
+                    "key": "Altius",
+                    "doc_count": 4
+                },
+                {
+                    "key": "BCBS Kansas City",
+                    "doc_count": 4
+                },
+                {
+                    "key": "BCBS Minnesota",
+                    "doc_count": 4
+                },
+                {
+                    "key": "Common Ground",
+                    "doc_count": 4
+                },
+                {
+                    "key": "HAP",
+                    "doc_count": 4
+                },
+                {
+                    "key": "Molina Healthcare",
+                    "doc_count": 4
+                },
+                {
+                    "key": "PacificSource",
+                    "doc_count": 4
+                },
+                {
+                    "key": "SelectHealth",
+                    "doc_count": 4
+                },
+                {
+                    "key": "BCBS Tennessee",
+                    "doc_count": 3
+                },
+                {
+                    "key": "Providence Health System",
+                    "doc_count": 3
+                },
+                {
+                    "key": "The Health Plan of Upper OH",
+                    "doc_count": 3
+                },
+                {
+                    "key": "BCBS Alabama",
+                    "doc_count": 2
+                },
+                {
+                    "key": "BCBS New Mexico",
+                    "doc_count": 2
+                },
+                {
+                    "key": "HealthPartners - MN",
+                    "doc_count": 2
+                },
+                {
+                    "key": "Indiana University",
+                    "doc_count": 2
+                },
+                {
+                    "key": "Preferred One",
+                    "doc_count": 2
+                },
+                {
+                    "key": "Presbyterian",
+                    "doc_count": 2
+                },
+                {
+                    "key": "Aultcare",
+                    "doc_count": 1
+                },
+                {
+                    "key": "BCBS Louisiana",
+                    "doc_count": 1
+                },
+                {
+                    "key": "BCBS Oklahoma",
+                    "doc_count": 1
+                },
+                {
+                    "key": "FirstCare",
+                    "doc_count": 1
+                },
+                {
+                    "key": "FrontPath Health Coalition",
+                    "doc_count": 1
+                },
+                {
+                    "key": "Group Health Coop",
+                    "doc_count": 1
+                },
+                {
+                    "key": "Gundersen Health Plan",
+                    "doc_count": 1
+                },
+                {
+                    "key": "Health Plan of Nevada",
+                    "doc_count": 1
+                },
+                {
+                    "key": "Kaiser - MidAtlantic",
+                    "doc_count": 1
+                },
+                {
+                    "key": "LA Care Health",
+                    "doc_count": 1
+                },
+                {
+                    "key": "Network Health Plan",
+                    "doc_count": 1
+                },
+                {
+                    "key": "One Health Network",
+                    "doc_count": 1
+                },
+                {
+                    "key": "Paramount",
+                    "doc_count": 1
+                },
+                {
+                    "key": "Qualchoice",
+                    "doc_count": 1
+                },
+                {
+                    "key": "Scion Dental",
+                    "doc_count": 1
+                },
+                {
+                    "key": "Sierra Health",
+                    "doc_count": 1
+                }
+            ]
+        },
+        "ratings": {
+            "buckets": [
+                {
+                    "key": "any",
+                    "doc_count": 9616
+                },
+                {
+                    "key": "3",
+                    "from": 3,
+                    "doc_count": 6688
+                },
+                {
+                    "key": "4",
+                    "from": 4,
+                    "doc_count": 4779
+                },
+                {
+                    "key": "5",
+                    "from": 5,
+                    "doc_count": 1531
+                }
+            ]
+        },
+        "experience_range": {
+            "buckets": [
+                {
+                    "key": "Any",
+                    "doc_count": 9616
+                },
+                {
+                    "key": "0 - 5",
+                    "from": 0,
+                    "to": 6,
+                    "doc_count": 0
+                },
+                {
+                    "key": "5 - 10",
+                    "from": 5,
+                    "to": 11,
+                    "doc_count": 608
+                },
+                {
+                    "key": "11 - 15",
+                    "from": 11,
+                    "to": 16,
+                    "doc_count": 921
+                },
+                {
+                    "key": "16 - 20",
+                    "from": 16,
+                    "to": 21,
+                    "doc_count": 1028
+                },
+                {
+                    "key": "21 - 25",
+                    "from": 21,
+                    "to": 26,
+                    "doc_count": 883
+                },
+                {
+                    "key": "26 - 30",
+                    "from": 26,
+                    "to": 31,
+                    "doc_count": 760
+                },
+                {
+                    "key": "30+",
+                    "from": 30,
+                    "doc_count": 2900
+                }
+            ]
+        }
+    },
+    "status": 200,
+    "distanceLimitedNothingFound": false,
+    "query": "",
+    "radiusUsed": 25,
+    "reqNo": "1",
+    "sponsors": [
+        {
+            "campaign_name": "webmd_ep",
+            "targeting": {
+                "locations": [
+                    {
+                        "city_state": "Philadelphia, PA",
+                        "geopoint": [
+                            [
+                                -75.160429,
+                                39.94866
+                            ]
+                        ]
+                    }
+                ],
+                "sponsor_id": "xx"
+            },
+            "search": {
+                "search_city_state": "Philadelphia, PA",
+                "search_specialties": "General Dentistry",
+                "locations": [
+                    {
+                        "city_state": "Philadelphia, PA",
+                        "geopoint": [
+                            [
+                                -75.160429,
+                                39.94866
+                            ]
+                        ]
+                    }
+                ],
+                "display_name": "Shireen  Malik"
+            },
+            "npi": "1518135805",
+            "external_id": "D83325",
+            "campaign_features": [
+                {
+                    "feature_name": "serp",
+                    "feature_config": {
+                        "specialty": "General Dentistry",
+                        "webmdSpecialtyId": [
+                            29245
+                        ],
+                        "city_state": "Philadelphia, PA",
+                        "profile_url": "\/dentists\/Dr_Shireen_Malik",
+                        "type": "dentist",
+                        "display_name": "Shireen  Malik",
+                        "photos": {
+                            "host": null,
+                            "uri": null
+                        },
+                        "ctas": {
+                            "appointment_url": "https:\/\/appointments.webmd.com\/path\/wmd-path1\/61fbb52a-c844-4904-ad23-dcc296781461"
+                        },
+                        "degrees": [
+                            "DDS"
+                        ],
+                        "display_type": "Dentist",
+                        "vitalsSpecialtyId": [
+                            294,
+                            296,
+                            297,
+                            300,
+                            303,
+                            306,
+                            307
+                        ],
+                        "specialties": [
+                            "General Dentistry"
+                        ],
+                        "number_of_ratings": 13,
+                        "company_name": null,
+                        "overall_rating": 4.3076923076923075
+                    }
+                }
+            ],
+            "url": "\/dentists\/Dr_Shireen_Malik",
+            "city_state": "Philadelphia, PA",
+            "geopoint": [
+                [
+                    -75.160429,
+                    39.94866
+                ]
+            ],
+            "geo_points": [
+                -75.160429,
+                39.94866
+            ],
+            "distance": 0.3
+        },
+        {
+            "campaign_name": "webmd_ep",
+            "targeting": {
+                "locations": [
+                    {
+                        "city_state": "Philadelphia, PA",
+                        "geopoint": [
+                            [
+                                -75.1741,
+                                39.9527
+                            ]
+                        ]
+                    },
+                    {
+                        "city_state": "Upper Darby, PA",
+                        "geopoint": [
+                            [
+                                -75.2629,
+                                39.9591
+                            ]
+                        ]
+                    }
+                ],
+                "sponsor_id": "xx"
+            },
+            "search": {
+                "search_city_state": "Philadelphia, PA Upper Darby, PA",
+                "search_specialties": "Addiction Medicine Physical Medicine\/Rehab Spec",
+                "locations": [
+                    {
+                        "city_state": "Philadelphia, PA",
+                        "geopoint": [
+                            [
+                                -75.1741,
+                                39.9527
+                            ]
+                        ]
+                    },
+                    {
+                        "city_state": "Upper Darby, PA",
+                        "geopoint": [
+                            [
+                                -75.2629,
+                                39.9591
+                            ]
+                        ]
+                    }
+                ],
+                "display_name": "Denis A Boyle Jr"
+            },
+            "npi": "1205920287",
+            "external_id": "153875",
+            "campaign_features": [
+                {
+                    "feature_name": "serp",
+                    "feature_config": {
+                        "specialty": "Addiction Medicine",
+                        "webmdSpecialtyId": [
+                            29230,
+                            29309
+                        ],
+                        "city_state": "Philadelphia, PA",
+                        "profile_url": "\/doctors\/Dr_Denis_Boyle.html",
+                        "type": "doctor",
+                        "display_name": "Denis A Boyle Jr",
+                        "photos": {
+                            "host": null,
+                            "uri": null
+                        },
+                        "ctas": {
+                            "appointment_url": "https:\/\/appointments.webmd.com\/path\/wmd-path1\/fb31da85-feb0-4bf4-9dc3-01678cfc8276"
+                        },
+                        "degrees": [
+                            "MD"
+                        ],
+                        "display_type": "Doctor",
+                        "vitalsSpecialtyId": [
+                            5,
+                            23,
+                            31,
+                            141,
+                            124,
+                            126,
+                            127,
+                            2018
+                        ],
+                        "specialties": [
+                            "Addiction Medicine",
+                            "Physical Medicine\/Rehab Spec"
+                        ],
+                        "number_of_ratings": 4,
+                        "company_name": null,
+                        "overall_rating": 5
+                    }
+                }
+            ],
+            "url": "\/doctors\/Dr_Denis_Boyle.html",
+            "city_state": "Philadelphia, PA",
+            "geopoint": [
+                [
+                    -75.1741,
+                    39.9527
+                ]
+            ],
+            "geo_points": [
+                -75.1741,
+                39.9527
+            ],
+            "distance": 0.6
+        },
+        {
+            "campaign_name": "webmd_ep",
+            "targeting": {
+                "locations": [
+                    {
+                        "city_state": "Ridley Park, PA",
+                        "geopoint": [
+                            [
+                                -75.3212,
+                                39.8791
+                            ]
+                        ]
+                    }
+                ],
+                "sponsor_id": "xx"
+            },
+            "search": {
+                "search_city_state": "Ridley Park, PA",
+                "search_specialties": "Family Practitioner Internal Medicine",
+                "locations": [
+                    {
+                        "city_state": "Ridley Park, PA",
+                        "geopoint": [
+                            [
+                                -75.3212,
+                                39.8791
+                            ]
+                        ]
+                    }
+                ],
+                "display_name": "Neeraj Tripathy"
+            },
+            "npi": "1972660975",
+            "external_id": "6302324",
+            "campaign_features": [
+                {
+                    "feature_name": "serp",
+                    "feature_config": {
+                        "specialty": "Family Practitioner",
+                        "webmdSpecialtyId": [
+                            29259,
+                            29277
+                        ],
+                        "city_state": "Ridley Park, PA",
+                        "profile_url": "\/doctors\/Dr_Neeraj_Tripathy.html",
+                        "type": "doctor",
+                        "display_name": "Neeraj Tripathy",
+                        "photos": {
+                            "host": null,
+                            "uri": null
+                        },
+                        "ctas": {
+                            "appointment_url": "https:\/\/appointments.webmd.com\/path\/wmd-path1\/e5a7bcd3-e5c7-416a-b7ab-65f40d7e3015"
+                        },
+                        "degrees": [
+                            "MD"
+                        ],
+                        "display_type": "Doctor",
+                        "vitalsSpecialtyId": [
+                            22,
+                            25,
+                            26,
+                            479,
+                            667,
+                            30,
+                            36,
+                            42,
+                            672,
+                            2005
+                        ],
+                        "specialties": [
+                            "Family Practitioner",
+                            "Internal Medicine"
+                        ],
+                        "number_of_ratings": 12,
+                        "company_name": null,
+                        "overall_rating": 4.63888888888889
+                    }
+                }
+            ],
+            "url": "\/doctors\/Dr_Neeraj_Tripathy.html",
+            "city_state": "Ridley Park, PA",
+            "geopoint": [
+                [
+                    -75.3212,
+                    39.8791
+                ]
+            ],
+            "geo_points": [
+                -75.3212,
+                39.8791
+            ],
+            "distance": 9.7
+        }
+    ]
+}

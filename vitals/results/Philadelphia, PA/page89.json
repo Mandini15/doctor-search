@@ -1,0 +1,2214 @@
+{
+    "took": 68,
+    "timed_out": false,
+    "_shards": {
+        "total": 2,
+        "successful": 2,
+        "skipped": 0,
+        "failed": 0
+    },
+    "hits": {
+        "total": 9616,
+        "max_score": null,
+        "hits": [
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1ww606_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1ww606",
+                    "years_experience": 14,
+                    "city_state": "Philadelphia, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Kenisha N Campbell",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1784106\/photo.jpg"
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Pediatrics"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Kenisha_Campbell.html",
+                            "slug": "Dr_Kenisha_Campbell.html"
+                        }
+                    },
+                    "number_of_ratings": 2,
+                    "locations": [
+                        {
+                            "city_state": "Philadelphia, PA",
+                            "city": "Philadelphia",
+                            "address1": "3550 Market St",
+                            "_geoloc": {
+                                "lng": -75.193798,
+                                "lat": 39.956049
+                            },
+                            "state": "PA"
+                        },
+                        {
+                            "city_state": "Philadelphia, PA",
+                            "city": "Philadelphia",
+                            "address1": "4865 Market St",
+                            "_geoloc": {
+                                "lng": -75.218591,
+                                "lat": 39.959572
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 5,
+                    "url": "\/doctors\/Dr_Kenisha_Campbell.html",
+                    "slug": "Dr_Kenisha_Campbell.html"
+                },
+                "fields": {
+                    "distance": 1.6172833632550239
+                },
+                "sort": [
+                    1.6173653396381578
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "zwtjz7_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "zwtjz7",
+                    "city_state": "Philadelphia, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Michele L Zucker",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Pediatrics"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Michele_Zucker.html",
+                            "slug": "Dr_Michele_Zucker.html"
+                        }
+                    },
+                    "number_of_ratings": 5,
+                    "locations": [
+                        {
+                            "city_state": "Philadelphia, PA",
+                            "city": "Philadelphia",
+                            "address1": "4865 Market St",
+                            "_geoloc": {
+                                "lng": -75.218591,
+                                "lat": 39.959572
+                            },
+                            "state": "PA"
+                        },
+                        {
+                            "city_state": "Philadelphia, PA",
+                            "city": "Philadelphia",
+                            "address1": "3550 Market St",
+                            "_geoloc": {
+                                "lng": -75.193798,
+                                "lat": 39.956049
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 2.533333333333336,
+                    "url": "\/doctors\/Dr_Michele_Zucker.html",
+                    "slug": "Dr_Michele_Zucker.html"
+                },
+                "fields": {
+                    "distance": 1.6172833632550239
+                },
+                "sort": [
+                    1.6173653396381578
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "zwr1gp_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "zwr1gp",
+                    "years_experience": 30,
+                    "city_state": "Philadelphia, PA",
+                    "degree": "DO",
+                    "type": "doctor",
+                    "display_name": "Dr. Kathleen M Zsolway",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [
+                        "DO"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Pediatrics"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Kathleen_Zsolway.html",
+                            "slug": "Dr_Kathleen_Zsolway.html"
+                        }
+                    },
+                    "number_of_ratings": 9,
+                    "locations": [
+                        {
+                            "city_state": "Philadelphia, PA",
+                            "city": "Philadelphia",
+                            "address1": "3550 Market St Fl 4",
+                            "_geoloc": {
+                                "lng": -75.193798,
+                                "lat": 39.956049
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 4.222222222222222,
+                    "url": "\/doctors\/Dr_Kathleen_Zsolway.html",
+                    "slug": "Dr_Kathleen_Zsolway.html"
+                },
+                "fields": {
+                    "distance": 1.6172833632550239
+                },
+                "sort": [
+                    1.6173653396381578
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1tcqn4_doctor",
+                "_score": null,
+                "_source": {
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Pediatrics"
+                    ],
+                    "vpid": "1tcqn4",
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/1tcqn4\/danielle-nicholson",
+                            "slug": "1tcqn4\/danielle-nicholson"
+                        }
+                    },
+                    "city_state": "Philadelphia, PA",
+                    "degree": "DO",
+                    "locations": [
+                        {
+                            "city_state": "Philadelphia, PA",
+                            "city": "Philadelphia",
+                            "address1": "3550 Market St Fl 4",
+                            "_geoloc": {
+                                "lng": -75.193798,
+                                "lat": 39.956049
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "type": "doctor",
+                    "display_name": "Dr. Danielle C Nicholson",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [
+                        "DO"
+                    ],
+                    "url": "\/doctors\/1tcqn4\/danielle-nicholson",
+                    "slug": "1tcqn4\/danielle-nicholson"
+                },
+                "fields": {
+                    "distance": 1.6172833632550239
+                },
+                "sort": [
+                    1.6173653396381578
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1zsfc2_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1zsfc2",
+                    "years_experience": 32,
+                    "city_state": "Philadelphia, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Suzanne P Olivieri",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1720352\/photo.jpg"
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Pediatrics"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Suzanne_Olivieri.html",
+                            "slug": "Dr_Suzanne_Olivieri.html"
+                        }
+                    },
+                    "number_of_ratings": 7,
+                    "locations": [
+                        {
+                            "city_state": "Philadelphia, PA",
+                            "city": "Philadelphia",
+                            "address1": "3550 Market St Fl 4",
+                            "_geoloc": {
+                                "lng": -75.193798,
+                                "lat": 39.956049
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 4.428571428571429,
+                    "url": "\/doctors\/Dr_Suzanne_Olivieri.html",
+                    "slug": "Dr_Suzanne_Olivieri.html"
+                },
+                "fields": {
+                    "distance": 1.6172833632550239
+                },
+                "sort": [
+                    1.6173653396381578
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "zpcg9z_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "zpcg9z",
+                    "years_experience": 25,
+                    "city_state": "Philadelphia, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. David W Banner",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Pediatrics"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_David_Banner.html",
+                            "slug": "Dr_David_Banner.html"
+                        }
+                    },
+                    "number_of_ratings": 12,
+                    "locations": [
+                        {
+                            "city_state": "Philadelphia, PA",
+                            "city": "Philadelphia",
+                            "address1": "3550 Market St Fl 4",
+                            "_geoloc": {
+                                "lng": -75.193798,
+                                "lat": 39.956049
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 4.055555555555556,
+                    "url": "\/doctors\/Dr_David_Banner.html",
+                    "slug": "Dr_David_Banner.html"
+                },
+                "fields": {
+                    "distance": 1.6172833632550239
+                },
+                "sort": [
+                    1.6173653396381578
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1pkz22_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1pkz22",
+                    "years_experience": 25,
+                    "city_state": "Philadelphia, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Nadja G Peter",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1595109\/photo.jpg"
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Pediatrics",
+                        "Adolescent Medicine"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Nadja_Peter.html",
+                            "slug": "Dr_Nadja_Peter.html"
+                        }
+                    },
+                    "number_of_ratings": 6,
+                    "locations": [
+                        {
+                            "city_state": "Philadelphia, PA",
+                            "city": "Philadelphia",
+                            "address1": "160 E Erie Ave",
+                            "_geoloc": {
+                                "lng": -75.12561,
+                                "lat": 40.00732
+                            },
+                            "state": "PA"
+                        },
+                        {
+                            "city_state": "Philadelphia, PA",
+                            "city": "Philadelphia",
+                            "address1": "3550 Market St Fl 4",
+                            "_geoloc": {
+                                "lng": -75.193798,
+                                "lat": 39.956049
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 4.333333333333333,
+                    "url": "\/doctors\/Dr_Nadja_Peter.html",
+                    "slug": "Dr_Nadja_Peter.html"
+                },
+                "fields": {
+                    "distance": 1.6172833632550239
+                },
+                "sort": [
+                    1.6173653396381578
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "2rfj9n_doctor",
+                "_score": null,
+                "_source": {
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Pediatrics",
+                        "Dermatology"
+                    ],
+                    "vpid": "2rfj9n",
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/2rfj9n\/marissa-perman-laskin",
+                            "slug": "2rfj9n\/marissa-perman-laskin"
+                        }
+                    },
+                    "years_experience": 14,
+                    "city_state": "Philadelphia, PA",
+                    "degree": "MD",
+                    "locations": [
+                        {
+                            "city_state": "Philadelphia, PA",
+                            "city": "Philadelphia",
+                            "address1": "3550 Market St",
+                            "_geoloc": {
+                                "lng": -75.193798,
+                                "lat": 39.956049
+                            },
+                            "state": "PA"
+                        },
+                        {
+                            "city_state": "Philadelphia, PA",
+                            "city": "Philadelphia",
+                            "address1": "3500 Civic Center Blvd Bldg 3",
+                            "_geoloc": {
+                                "lng": -75.195917,
+                                "lat": 39.94672
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "type": "doctor",
+                    "display_name": "Dr. Marissa J Perman-Laskin",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "url": "\/doctors\/2rfj9n\/marissa-perman-laskin",
+                    "slug": "2rfj9n\/marissa-perman-laskin"
+                },
+                "fields": {
+                    "distance": 1.6172833632550239
+                },
+                "sort": [
+                    1.6173653396381578
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1qqj86_doctor",
+                "_score": null,
+                "_source": {
+                    "display_type": "Doctor",
+                    "vpid": "1qqj86",
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Jennifer_Heimall.html",
+                            "slug": "Dr_Jennifer_Heimall.html"
+                        }
+                    },
+                    "city_state": "Philadelphia, PA",
+                    "number_of_ratings": 4,
+                    "degree": "",
+                    "locations": [
+                        {
+                            "city_state": "Philadelphia, PA",
+                            "city": "Philadelphia",
+                            "address1": "3550 Market St Fl 3",
+                            "_geoloc": {
+                                "lng": -75.193798,
+                                "lat": 39.956049
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 5,
+                    "type": "doctor",
+                    "display_name": "Jennifer R Heimall",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [],
+                    "url": "\/doctors\/Dr_Jennifer_Heimall.html",
+                    "slug": "Dr_Jennifer_Heimall.html"
+                },
+                "fields": {
+                    "distance": 1.6172833632550239
+                },
+                "sort": [
+                    1.6173653396381578
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1qtxz3_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1qtxz3",
+                    "years_experience": 25,
+                    "city_state": "Philadelphia, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. David W Banner",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Pediatrics"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_David_Banner.html",
+                            "slug": "Dr_David_Banner.html"
+                        }
+                    },
+                    "campaigns": [
+                        {
+                            "campaign_name": "zocdoc",
+                            "targeting": [],
+                            "bidding": {
+                                "max": "0.2"
+                            },
+                            "campaign_status": true,
+                            "campaign_type": "other",
+                            "campaign_features": [
+                                {
+                                    "feature_name": "ola",
+                                    "feature_config": {
+                                        "npi": "1811924707"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "campaign_name": "zocdoc",
+                            "targeting": {
+                                "primary_location_state": "PA"
+                            },
+                            "bidding": {
+                                "max": "0.9"
+                            },
+                            "campaign_status": true,
+                            "campaign_type": "serp",
+                            "campaign_features": [
+                                {
+                                    "feature_name": "serp",
+                                    "feature_config": []
+                                }
+                            ]
+                        }
+                    ],
+                    "number_of_ratings": 12,
+                    "locations": [
+                        {
+                            "city_state": "Philadelphia, PA",
+                            "city": "Philadelphia",
+                            "address1": "3550 Market St Fl 4",
+                            "_geoloc": {
+                                "lng": -75.193798,
+                                "lat": 39.956049
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 4.055555555555556,
+                    "url": "\/doctors\/Dr_David_Banner.html",
+                    "slug": "Dr_David_Banner.html"
+                },
+                "fields": {
+                    "distance": 1.6172833632550239
+                },
+                "sort": [
+                    1.6173653396381578
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1x9dzw_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1x9dzw",
+                    "city_state": "Philadelphia, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Michele L Zucker",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Pediatrics"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Michele_Zucker.html",
+                            "slug": "Dr_Michele_Zucker.html"
+                        }
+                    },
+                    "campaigns": [
+                        {
+                            "campaign_name": "zocdoc",
+                            "targeting": [],
+                            "bidding": {
+                                "max": "0.2"
+                            },
+                            "campaign_status": true,
+                            "campaign_type": "other",
+                            "campaign_features": [
+                                {
+                                    "feature_name": "ola",
+                                    "feature_config": {
+                                        "npi": "1083663538"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "campaign_name": "zocdoc",
+                            "targeting": {
+                                "primary_location_state": "PA"
+                            },
+                            "bidding": {
+                                "max": "0.9"
+                            },
+                            "campaign_status": true,
+                            "campaign_type": "serp",
+                            "campaign_features": [
+                                {
+                                    "feature_name": "serp",
+                                    "feature_config": []
+                                }
+                            ]
+                        }
+                    ],
+                    "number_of_ratings": 5,
+                    "locations": [
+                        {
+                            "city_state": "Philadelphia, PA",
+                            "city": "Philadelphia",
+                            "address1": "4865 Market St",
+                            "_geoloc": {
+                                "lng": -75.218591,
+                                "lat": 39.959572
+                            },
+                            "state": "PA"
+                        },
+                        {
+                            "city_state": "Philadelphia, PA",
+                            "city": "Philadelphia",
+                            "address1": "3550 Market St",
+                            "_geoloc": {
+                                "lng": -75.193798,
+                                "lat": 39.956049
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 2.533333333333336,
+                    "url": "\/doctors\/Dr_Michele_Zucker.html",
+                    "slug": "Dr_Michele_Zucker.html"
+                },
+                "fields": {
+                    "distance": 1.6172833632550239
+                },
+                "sort": [
+                    1.6173653396381578
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1s338j_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1s338j",
+                    "city_state": "Philadelphia, PA",
+                    "degree": "",
+                    "type": "doctor",
+                    "display_name": "Amanda E Bennett",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Developmental - Behavioral Pediatrics",
+                        "Pediatrics"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Amanda_E_Bennett.html",
+                            "slug": "Dr_Amanda_E_Bennett.html"
+                        }
+                    },
+                    "number_of_ratings": 1,
+                    "locations": [
+                        {
+                            "city_state": "Philadelphia, PA",
+                            "city": "Philadelphia",
+                            "address1": "3550 Market St Fl 3",
+                            "_geoloc": {
+                                "lng": -75.193798,
+                                "lat": 39.956049
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 5,
+                    "url": "\/doctors\/Dr_Amanda_E_Bennett.html",
+                    "slug": "Dr_Amanda_E_Bennett.html"
+                },
+                "fields": {
+                    "distance": 1.6172833632550239
+                },
+                "sort": [
+                    1.6173653396381578
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1psgk9_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1psgk9",
+                    "city_state": "Philadelphia, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Shiang-Ju J Kung",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Pediatrics",
+                        "Pediatric Allergy and Immunology"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Shiang-Ju_Kung.html",
+                            "slug": "Dr_Shiang-Ju_Kung.html"
+                        }
+                    },
+                    "number_of_ratings": 1,
+                    "locations": [
+                        {
+                            "city_state": "Philadelphia, PA",
+                            "city": "Philadelphia",
+                            "address1": "3615 Civic Center Blvd Ste 1202ARC",
+                            "_geoloc": {
+                                "lng": -75.196322,
+                                "lat": 39.946774
+                            },
+                            "state": "PA"
+                        },
+                        {
+                            "city_state": "Philadelphia, PA",
+                            "city": "Philadelphia",
+                            "address1": "3550 Market St Fl 3",
+                            "_geoloc": {
+                                "lng": -75.193798,
+                                "lat": 39.956049
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 3.66666666666668,
+                    "url": "\/doctors\/Dr_Shiang-Ju_Kung.html",
+                    "slug": "Dr_Shiang-Ju_Kung.html"
+                },
+                "fields": {
+                    "distance": 1.6172833632550239
+                },
+                "sort": [
+                    1.6173653396381578
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1rc2kq_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1rc2kq",
+                    "years_experience": 26,
+                    "city_state": "Philadelphia, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Albert C Yan",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Pediatric Dermatology",
+                        "Dermatology",
+                        "Pediatrics"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Albert_Yan.html",
+                            "slug": "Dr_Albert_Yan.html"
+                        }
+                    },
+                    "number_of_ratings": 7,
+                    "locations": [
+                        {
+                            "city_state": "Philadelphia, PA",
+                            "city": "Philadelphia",
+                            "address1": "3400 Spruce St",
+                            "_geoloc": {
+                                "lng": -75.19698,
+                                "lat": 39.95037
+                            },
+                            "state": "PA"
+                        },
+                        {
+                            "city_state": "Philadelphia, PA",
+                            "city": "Philadelphia",
+                            "address1": "3550 Market St",
+                            "_geoloc": {
+                                "lng": -75.193798,
+                                "lat": 39.956049
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 4.809523809523811,
+                    "url": "\/doctors\/Dr_Albert_Yan.html",
+                    "slug": "Dr_Albert_Yan.html"
+                },
+                "fields": {
+                    "distance": 1.6172833632550239
+                },
+                "sort": [
+                    1.6173653396381578
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1tnq9x_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1tnq9x",
+                    "years_experience": 45,
+                    "city_state": "Philadelphia, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. James M Corry",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Pediatric Allergy and Immunology",
+                        "Allergy and Immunology"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_James_Corry.html",
+                            "slug": "Dr_James_Corry.html"
+                        }
+                    },
+                    "number_of_ratings": 8,
+                    "locations": [
+                        {
+                            "city_state": "Philadelphia, PA",
+                            "city": "Philadelphia",
+                            "address1": "3550 Market St Fl 3",
+                            "_geoloc": {
+                                "lng": -75.193798,
+                                "lat": 39.956049
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 3.25,
+                    "url": "\/doctors\/Dr_James_Corry.html",
+                    "slug": "Dr_James_Corry.html"
+                },
+                "fields": {
+                    "distance": 1.6172833632550239
+                },
+                "sort": [
+                    1.6173653396381578
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1r8n7f_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1r8n7f",
+                    "years_experience": 30,
+                    "city_state": "Philadelphia, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Jonathan M Spergel",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1717792\/photo.jpg"
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Pediatric Allergy and Immunology",
+                        "Allergy and Immunology"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Jonathan_Spergel.html",
+                            "slug": "Dr_Jonathan_Spergel.html"
+                        }
+                    },
+                    "number_of_ratings": 8,
+                    "locations": [
+                        {
+                            "city_state": "Plainsboro, NJ",
+                            "city": "Plainsboro",
+                            "address1": "101 Plainsboro Rd",
+                            "_geoloc": {
+                                "lng": -74.61901,
+                                "lat": 40.337632
+                            },
+                            "state": "NJ"
+                        },
+                        {
+                            "city_state": "Philadelphia, PA",
+                            "city": "Philadelphia",
+                            "address1": "3400 Spruce St",
+                            "_geoloc": {
+                                "lng": -75.19698,
+                                "lat": 39.95037
+                            },
+                            "state": "PA"
+                        },
+                        {
+                            "city_state": "Philadelphia, PA",
+                            "city": "Philadelphia",
+                            "address1": "3550 Market St",
+                            "_geoloc": {
+                                "lng": -75.193798,
+                                "lat": 39.956049
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 3.875,
+                    "url": "\/doctors\/Dr_Jonathan_Spergel.html",
+                    "slug": "Dr_Jonathan_Spergel.html"
+                },
+                "fields": {
+                    "distance": 1.6172833632550239
+                },
+                "sort": [
+                    1.6173653396381578
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1tzrx7_doctor",
+                "_score": null,
+                "_source": {
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Pediatrics"
+                    ],
+                    "vpid": "1tzrx7",
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Annique_Kozak.html",
+                            "slug": "Dr_Annique_Kozak.html"
+                        }
+                    },
+                    "years_experience": 15,
+                    "city_state": "Philadelphia, PA",
+                    "degree": "MD",
+                    "locations": [
+                        {
+                            "city_state": "Philadelphia, PA",
+                            "city": "Philadelphia",
+                            "address1": "3550 Market St Fl 4",
+                            "_geoloc": {
+                                "lng": -75.193798,
+                                "lat": 39.956049
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "type": "doctor",
+                    "display_name": "Dr. Annique K Hogan",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "url": "\/doctors\/Dr_Annique_Kozak.html",
+                    "slug": "Dr_Annique_Kozak.html"
+                },
+                "fields": {
+                    "distance": 1.6172833632550239
+                },
+                "sort": [
+                    1.6173653396381578
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1qdwgk_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1qdwgk",
+                    "city_state": "Philadelphia, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Sarah M Gawthrop",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Pediatrics"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Sarah_Gawthrop.html",
+                            "slug": "Dr_Sarah_Gawthrop.html"
+                        }
+                    },
+                    "number_of_ratings": 3,
+                    "locations": [
+                        {
+                            "city_state": "Philadelphia, PA",
+                            "city": "Philadelphia",
+                            "address1": "3550 Market St Fl 4",
+                            "_geoloc": {
+                                "lng": -75.193798,
+                                "lat": 39.956049
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 5,
+                    "url": "\/doctors\/Dr_Sarah_Gawthrop.html",
+                    "slug": "Dr_Sarah_Gawthrop.html"
+                },
+                "fields": {
+                    "distance": 1.6172833632550239
+                },
+                "sort": [
+                    1.6173653396381578
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1sr5km_doctor",
+                "_score": null,
+                "_source": {
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Pediatrics"
+                    ],
+                    "vpid": "1sr5km",
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Alyssa_Harrison.html",
+                            "slug": "Dr_Alyssa_Harrison.html"
+                        }
+                    },
+                    "city_state": "Philadelphia, PA",
+                    "degree": "MD",
+                    "locations": [
+                        {
+                            "city_state": "Philadelphia, PA",
+                            "city": "Philadelphia",
+                            "address1": "3550 Market St Fl 4",
+                            "_geoloc": {
+                                "lng": -75.193798,
+                                "lat": 39.956049
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "type": "doctor",
+                    "display_name": "Dr. Alyssa H Siegel Sr",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1776951\/photo.jpg"
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "url": "\/doctors\/Dr_Alyssa_Harrison.html",
+                    "slug": "Dr_Alyssa_Harrison.html"
+                },
+                "fields": {
+                    "distance": 1.6172833632550239
+                },
+                "sort": [
+                    1.6173653396381578
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1zc2n3_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1zc2n3",
+                    "years_experience": 40,
+                    "city_state": "Philadelphia, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Richard M Rutstein",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1730458\/photo.jpg"
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Pediatrics"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Richard_Rutstein.html",
+                            "slug": "Dr_Richard_Rutstein.html"
+                        }
+                    },
+                    "number_of_ratings": 1,
+                    "locations": [
+                        {
+                            "city_state": "Philadelphia, PA",
+                            "city": "Philadelphia",
+                            "address1": "3550 Market St Fl 4",
+                            "_geoloc": {
+                                "lng": -75.193798,
+                                "lat": 39.956049
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 5,
+                    "url": "\/doctors\/Dr_Richard_Rutstein.html",
+                    "slug": "Dr_Richard_Rutstein.html"
+                },
+                "fields": {
+                    "distance": 1.6172833632550239
+                },
+                "sort": [
+                    1.6173653396381578
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1xpkmj_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1xpkmj",
+                    "city_state": "Philadelphia, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Stephen Ludwig",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1745941\/photo.jpg"
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Pediatrics"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Stephen_Ludwig_2.html",
+                            "slug": "Dr_Stephen_Ludwig_2.html"
+                        }
+                    },
+                    "number_of_ratings": 1,
+                    "locations": [
+                        {
+                            "city_state": "Philadelphia, PA",
+                            "city": "Philadelphia",
+                            "address1": "3550 Market St Fl 4",
+                            "_geoloc": {
+                                "lng": -75.193798,
+                                "lat": 39.956049
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 5,
+                    "url": "\/doctors\/Dr_Stephen_Ludwig_2.html",
+                    "slug": "Dr_Stephen_Ludwig_2.html"
+                },
+                "fields": {
+                    "distance": 1.6172833632550239
+                },
+                "sort": [
+                    1.6173653396381578
+                ]
+            }
+        ]
+    },
+    "aggregations": {
+        "satisfaction.accurate_diagnosis": {
+            "buckets": {
+                "good": {
+                    "from": 3.5,
+                    "doc_count": 0
+                }
+            }
+        },
+        "overall_range": {
+            "doc_count": 7275
+        },
+        "satisfaction.bedside_manner": {
+            "buckets": {
+                "good": {
+                    "from": 3.5,
+                    "doc_count": 0
+                }
+            }
+        },
+        "satisfaction.punctuality": {
+            "buckets": {
+                "good": {
+                    "from": 3.5,
+                    "doc_count": 0
+                }
+            }
+        },
+        "display_types": {
+            "doc_count_error_upper_bound": 0,
+            "sum_other_doc_count": 0,
+            "buckets": [
+                {
+                    "key": "Doctor",
+                    "doc_count": 9616
+                },
+                {
+                    "key": "Group Practice",
+                    "doc_count": 680
+                },
+                {
+                    "key": "Chiropractor",
+                    "doc_count": 371
+                },
+                {
+                    "key": "Podiatrist",
+                    "doc_count": 310
+                },
+                {
+                    "key": "Optometrist",
+                    "doc_count": 292
+                },
+                {
+                    "key": "Psychologist",
+                    "doc_count": 279
+                },
+                {
+                    "key": "Dentist",
+                    "doc_count": 60
+                },
+                {
+                    "key": "Hospital",
+                    "doc_count": 26
+                },
+                {
+                    "key": "Nursing Home",
+                    "doc_count": 2
+                },
+                {
+                    "key": "Cancer Center",
+                    "doc_count": 1
+                },
+                {
+                    "key": "Pharmacy",
+                    "doc_count": 1
+                }
+            ]
+        },
+        "insurance_companies": {
+            "doc_count_error_upper_bound": 0,
+            "sum_other_doc_count": 0,
+            "buckets": [
+                {
+                    "key": "Aetna",
+                    "doc_count": 11304
+                },
+                {
+                    "key": "United Healthcare",
+                    "doc_count": 10301
+                },
+                {
+                    "key": "BCBS Blue Card",
+                    "doc_count": 9724
+                },
+                {
+                    "key": "IBC",
+                    "doc_count": 9616
+                },
+                {
+                    "key": "Cigna",
+                    "doc_count": 8995
+                },
+                {
+                    "key": "Coventry Health Care",
+                    "doc_count": 8567
+                },
+                {
+                    "key": "Multiplan",
+                    "doc_count": 7792
+                },
+                {
+                    "key": "Humana",
+                    "doc_count": 5854
+                },
+                {
+                    "key": "Capital Blue Cross",
+                    "doc_count": 5649
+                },
+                {
+                    "key": "Horizon BCBS",
+                    "doc_count": 5553
+                },
+                {
+                    "key": "First Health",
+                    "doc_count": 5330
+                },
+                {
+                    "key": "QualCare",
+                    "doc_count": 4110
+                },
+                {
+                    "key": "Geisinger Health Plan",
+                    "doc_count": 2742
+                },
+                {
+                    "key": "Oxford Health",
+                    "doc_count": 1840
+                },
+                {
+                    "key": "HIP of NY",
+                    "doc_count": 1484
+                },
+                {
+                    "key": "UPMC Health Plan",
+                    "doc_count": 320
+                },
+                {
+                    "key": "CareFirst BCBS",
+                    "doc_count": 288
+                },
+                {
+                    "key": "Highmark BCBS",
+                    "doc_count": 265
+                },
+                {
+                    "key": "Empire BCBS",
+                    "doc_count": 140
+                },
+                {
+                    "key": "Anthem",
+                    "doc_count": 115
+                },
+                {
+                    "key": "Capital District Physicians Health Plan",
+                    "doc_count": 104
+                },
+                {
+                    "key": "BCBS Massachusetts",
+                    "doc_count": 90
+                },
+                {
+                    "key": "Connecticare",
+                    "doc_count": 69
+                },
+                {
+                    "key": "BCBS Illinois",
+                    "doc_count": 62
+                },
+                {
+                    "key": "Assurant",
+                    "doc_count": 56
+                },
+                {
+                    "key": "Guardian Dental",
+                    "doc_count": 55
+                },
+                {
+                    "key": "Principal Dental",
+                    "doc_count": 53
+                },
+                {
+                    "key": "Cigna Dental",
+                    "doc_count": 51
+                },
+                {
+                    "key": "Delta Dental",
+                    "doc_count": 51
+                },
+                {
+                    "key": "United Concordia",
+                    "doc_count": 51
+                },
+                {
+                    "key": "Ameritas",
+                    "doc_count": 49
+                },
+                {
+                    "key": "Dental Network of America",
+                    "doc_count": 49
+                },
+                {
+                    "key": "MetLife",
+                    "doc_count": 47
+                },
+                {
+                    "key": "DenteMax",
+                    "doc_count": 44
+                },
+                {
+                    "key": "MVP Health Plan",
+                    "doc_count": 44
+                },
+                {
+                    "key": "United Healthcare Dental",
+                    "doc_count": 44
+                },
+                {
+                    "key": "CompBenefits",
+                    "doc_count": 39
+                },
+                {
+                    "key": "Harvard Pilgrim",
+                    "doc_count": 39
+                },
+                {
+                    "key": "Humana Dental",
+                    "doc_count": 38
+                },
+                {
+                    "key": "HealthFirst NY",
+                    "doc_count": 36
+                },
+                {
+                    "key": "Blue Cross California",
+                    "doc_count": 31
+                },
+                {
+                    "key": "BCBS Florida",
+                    "doc_count": 28
+                },
+                {
+                    "key": "Medical Mutual of Ohio",
+                    "doc_count": 28
+                },
+                {
+                    "key": "Health Net",
+                    "doc_count": 26
+                },
+                {
+                    "key": "Tufts Health Plan",
+                    "doc_count": 26
+                },
+                {
+                    "key": "Emblem Health",
+                    "doc_count": 23
+                },
+                {
+                    "key": "Excellus BCBS",
+                    "doc_count": 23
+                },
+                {
+                    "key": "AvMed Health",
+                    "doc_count": 17
+                },
+                {
+                    "key": "Regence Health Plans",
+                    "doc_count": 17
+                },
+                {
+                    "key": "Sagamore Health",
+                    "doc_count": 17
+                },
+                {
+                    "key": "UHC of the River Valley",
+                    "doc_count": 17
+                },
+                {
+                    "key": "Blue Shield California",
+                    "doc_count": 16
+                },
+                {
+                    "key": "ODS",
+                    "doc_count": 14
+                },
+                {
+                    "key": "Premera",
+                    "doc_count": 14
+                },
+                {
+                    "key": "Independent Health",
+                    "doc_count": 13
+                },
+                {
+                    "key": "BCBS Texas",
+                    "doc_count": 12
+                },
+                {
+                    "key": "SIHO Insurance Services",
+                    "doc_count": 12
+                },
+                {
+                    "key": "HealthSpan",
+                    "doc_count": 11
+                },
+                {
+                    "key": "BCBS North Carolina",
+                    "doc_count": 10
+                },
+                {
+                    "key": "Optima Health",
+                    "doc_count": 10
+                },
+                {
+                    "key": "BCBS Georgia",
+                    "doc_count": 9
+                },
+                {
+                    "key": "Centene",
+                    "doc_count": 9
+                },
+                {
+                    "key": "HealthLink",
+                    "doc_count": 9
+                },
+                {
+                    "key": "BCBS Michigan",
+                    "doc_count": 8
+                },
+                {
+                    "key": "Encore Health Network",
+                    "doc_count": 8
+                },
+                {
+                    "key": "Ambetter Superior Health Plan",
+                    "doc_count": 7
+                },
+                {
+                    "key": "BCBS Rhode Island",
+                    "doc_count": 7
+                },
+                {
+                    "key": "PriorityHealth",
+                    "doc_count": 7
+                },
+                {
+                    "key": "Aetna Innovation Health",
+                    "doc_count": 6
+                },
+                {
+                    "key": "Health Alliance",
+                    "doc_count": 6
+                },
+                {
+                    "key": "Premier Health Plan",
+                    "doc_count": 6
+                },
+                {
+                    "key": "Wellmark",
+                    "doc_count": 6
+                },
+                {
+                    "key": "BCBS South Carolina",
+                    "doc_count": 5
+                },
+                {
+                    "key": "Healthy Connecticut",
+                    "doc_count": 5
+                },
+                {
+                    "key": "PHP Northern IN",
+                    "doc_count": 5
+                },
+                {
+                    "key": "SummaCare",
+                    "doc_count": 5
+                },
+                {
+                    "key": "WPS",
+                    "doc_count": 5
+                },
+                {
+                    "key": "Altius",
+                    "doc_count": 4
+                },
+                {
+                    "key": "BCBS Kansas City",
+                    "doc_count": 4
+                },
+                {
+                    "key": "BCBS Minnesota",
+                    "doc_count": 4
+                },
+                {
+                    "key": "Common Ground",
+                    "doc_count": 4
+                },
+                {
+                    "key": "HAP",
+                    "doc_count": 4
+                },
+                {
+                    "key": "Molina Healthcare",
+                    "doc_count": 4
+                },
+                {
+                    "key": "PacificSource",
+                    "doc_count": 4
+                },
+                {
+                    "key": "SelectHealth",
+                    "doc_count": 4
+                },
+                {
+                    "key": "BCBS Tennessee",
+                    "doc_count": 3
+                },
+                {
+                    "key": "Providence Health System",
+                    "doc_count": 3
+                },
+                {
+                    "key": "The Health Plan of Upper OH",
+                    "doc_count": 3
+                },
+                {
+                    "key": "BCBS Alabama",
+                    "doc_count": 2
+                },
+                {
+                    "key": "BCBS New Mexico",
+                    "doc_count": 2
+                },
+                {
+                    "key": "HealthPartners - MN",
+                    "doc_count": 2
+                },
+                {
+                    "key": "Indiana University",
+                    "doc_count": 2
+                },
+                {
+                    "key": "Preferred One",
+                    "doc_count": 2
+                },
+                {
+                    "key": "Presbyterian",
+                    "doc_count": 2
+                },
+                {
+                    "key": "Aultcare",
+                    "doc_count": 1
+                },
+                {
+                    "key": "BCBS Louisiana",
+                    "doc_count": 1
+                },
+                {
+                    "key": "BCBS Oklahoma",
+                    "doc_count": 1
+                },
+                {
+                    "key": "FirstCare",
+                    "doc_count": 1
+                },
+                {
+                    "key": "FrontPath Health Coalition",
+                    "doc_count": 1
+                },
+                {
+                    "key": "Group Health Coop",
+                    "doc_count": 1
+                },
+                {
+                    "key": "Gundersen Health Plan",
+                    "doc_count": 1
+                },
+                {
+                    "key": "Health Plan of Nevada",
+                    "doc_count": 1
+                },
+                {
+                    "key": "Kaiser - MidAtlantic",
+                    "doc_count": 1
+                },
+                {
+                    "key": "LA Care Health",
+                    "doc_count": 1
+                },
+                {
+                    "key": "Network Health Plan",
+                    "doc_count": 1
+                },
+                {
+                    "key": "One Health Network",
+                    "doc_count": 1
+                },
+                {
+                    "key": "Paramount",
+                    "doc_count": 1
+                },
+                {
+                    "key": "Qualchoice",
+                    "doc_count": 1
+                },
+                {
+                    "key": "Scion Dental",
+                    "doc_count": 1
+                },
+                {
+                    "key": "Sierra Health",
+                    "doc_count": 1
+                }
+            ]
+        },
+        "ratings": {
+            "buckets": [
+                {
+                    "key": "any",
+                    "doc_count": 9616
+                },
+                {
+                    "key": "3",
+                    "from": 3,
+                    "doc_count": 6688
+                },
+                {
+                    "key": "4",
+                    "from": 4,
+                    "doc_count": 4779
+                },
+                {
+                    "key": "5",
+                    "from": 5,
+                    "doc_count": 1531
+                }
+            ]
+        },
+        "experience_range": {
+            "buckets": [
+                {
+                    "key": "Any",
+                    "doc_count": 9616
+                },
+                {
+                    "key": "0 - 5",
+                    "from": 0,
+                    "to": 6,
+                    "doc_count": 0
+                },
+                {
+                    "key": "5 - 10",
+                    "from": 5,
+                    "to": 11,
+                    "doc_count": 608
+                },
+                {
+                    "key": "11 - 15",
+                    "from": 11,
+                    "to": 16,
+                    "doc_count": 921
+                },
+                {
+                    "key": "16 - 20",
+                    "from": 16,
+                    "to": 21,
+                    "doc_count": 1028
+                },
+                {
+                    "key": "21 - 25",
+                    "from": 21,
+                    "to": 26,
+                    "doc_count": 883
+                },
+                {
+                    "key": "26 - 30",
+                    "from": 26,
+                    "to": 31,
+                    "doc_count": 760
+                },
+                {
+                    "key": "30+",
+                    "from": 30,
+                    "doc_count": 2900
+                }
+            ]
+        }
+    },
+    "status": 200,
+    "distanceLimitedNothingFound": false,
+    "query": "",
+    "radiusUsed": 25,
+    "reqNo": "1",
+    "sponsors": [
+        {
+            "campaign_name": "webmd_ep",
+            "targeting": {
+                "locations": [
+                    {
+                        "city_state": "Philadelphia, PA",
+                        "geopoint": [
+                            [
+                                -75.160429,
+                                39.94866
+                            ]
+                        ]
+                    }
+                ],
+                "sponsor_id": "xx"
+            },
+            "search": {
+                "search_city_state": "Philadelphia, PA",
+                "search_specialties": "General Dentistry",
+                "locations": [
+                    {
+                        "city_state": "Philadelphia, PA",
+                        "geopoint": [
+                            [
+                                -75.160429,
+                                39.94866
+                            ]
+                        ]
+                    }
+                ],
+                "display_name": "Shireen  Malik"
+            },
+            "npi": "1518135805",
+            "external_id": "D83325",
+            "campaign_features": [
+                {
+                    "feature_name": "serp",
+                    "feature_config": {
+                        "specialty": "General Dentistry",
+                        "webmdSpecialtyId": [
+                            29245
+                        ],
+                        "city_state": "Philadelphia, PA",
+                        "profile_url": "\/dentists\/Dr_Shireen_Malik",
+                        "type": "dentist",
+                        "display_name": "Shireen  Malik",
+                        "photos": {
+                            "host": null,
+                            "uri": null
+                        },
+                        "ctas": {
+                            "appointment_url": "https:\/\/appointments.webmd.com\/path\/wmd-path1\/61fbb52a-c844-4904-ad23-dcc296781461"
+                        },
+                        "degrees": [
+                            "DDS"
+                        ],
+                        "display_type": "Dentist",
+                        "vitalsSpecialtyId": [
+                            294,
+                            296,
+                            297,
+                            300,
+                            303,
+                            306,
+                            307
+                        ],
+                        "specialties": [
+                            "General Dentistry"
+                        ],
+                        "number_of_ratings": 13,
+                        "company_name": null,
+                        "overall_rating": 4.3076923076923075
+                    }
+                }
+            ],
+            "url": "\/dentists\/Dr_Shireen_Malik",
+            "city_state": "Philadelphia, PA",
+            "geopoint": [
+                [
+                    -75.160429,
+                    39.94866
+                ]
+            ],
+            "geo_points": [
+                -75.160429,
+                39.94866
+            ],
+            "distance": 0.3
+        },
+        {
+            "campaign_name": "webmd_ep",
+            "targeting": {
+                "locations": [
+                    {
+                        "city_state": "Philadelphia, PA",
+                        "geopoint": [
+                            [
+                                -75.1741,
+                                39.9527
+                            ]
+                        ]
+                    },
+                    {
+                        "city_state": "Upper Darby, PA",
+                        "geopoint": [
+                            [
+                                -75.2629,
+                                39.9591
+                            ]
+                        ]
+                    }
+                ],
+                "sponsor_id": "xx"
+            },
+            "search": {
+                "search_city_state": "Philadelphia, PA Upper Darby, PA",
+                "search_specialties": "Addiction Medicine Physical Medicine\/Rehab Spec",
+                "locations": [
+                    {
+                        "city_state": "Philadelphia, PA",
+                        "geopoint": [
+                            [
+                                -75.1741,
+                                39.9527
+                            ]
+                        ]
+                    },
+                    {
+                        "city_state": "Upper Darby, PA",
+                        "geopoint": [
+                            [
+                                -75.2629,
+                                39.9591
+                            ]
+                        ]
+                    }
+                ],
+                "display_name": "Denis A Boyle Jr"
+            },
+            "npi": "1205920287",
+            "external_id": "153875",
+            "campaign_features": [
+                {
+                    "feature_name": "serp",
+                    "feature_config": {
+                        "specialty": "Addiction Medicine",
+                        "webmdSpecialtyId": [
+                            29230,
+                            29309
+                        ],
+                        "city_state": "Philadelphia, PA",
+                        "profile_url": "\/doctors\/Dr_Denis_Boyle.html",
+                        "type": "doctor",
+                        "display_name": "Denis A Boyle Jr",
+                        "photos": {
+                            "host": null,
+                            "uri": null
+                        },
+                        "ctas": {
+                            "appointment_url": "https:\/\/appointments.webmd.com\/path\/wmd-path1\/fb31da85-feb0-4bf4-9dc3-01678cfc8276"
+                        },
+                        "degrees": [
+                            "MD"
+                        ],
+                        "display_type": "Doctor",
+                        "vitalsSpecialtyId": [
+                            5,
+                            23,
+                            31,
+                            141,
+                            124,
+                            126,
+                            127,
+                            2018
+                        ],
+                        "specialties": [
+                            "Addiction Medicine",
+                            "Physical Medicine\/Rehab Spec"
+                        ],
+                        "number_of_ratings": 4,
+                        "company_name": null,
+                        "overall_rating": 5
+                    }
+                }
+            ],
+            "url": "\/doctors\/Dr_Denis_Boyle.html",
+            "city_state": "Philadelphia, PA",
+            "geopoint": [
+                [
+                    -75.1741,
+                    39.9527
+                ]
+            ],
+            "geo_points": [
+                -75.1741,
+                39.9527
+            ],
+            "distance": 0.6
+        },
+        {
+            "campaign_name": "webmd_ep",
+            "targeting": {
+                "locations": [
+                    {
+                        "city_state": "Ridley Park, PA",
+                        "geopoint": [
+                            [
+                                -75.3212,
+                                39.8791
+                            ]
+                        ]
+                    }
+                ],
+                "sponsor_id": "xx"
+            },
+            "search": {
+                "search_city_state": "Ridley Park, PA",
+                "search_specialties": "Family Practitioner Internal Medicine",
+                "locations": [
+                    {
+                        "city_state": "Ridley Park, PA",
+                        "geopoint": [
+                            [
+                                -75.3212,
+                                39.8791
+                            ]
+                        ]
+                    }
+                ],
+                "display_name": "Neeraj Tripathy"
+            },
+            "npi": "1972660975",
+            "external_id": "6302324",
+            "campaign_features": [
+                {
+                    "feature_name": "serp",
+                    "feature_config": {
+                        "specialty": "Family Practitioner",
+                        "webmdSpecialtyId": [
+                            29259,
+                            29277
+                        ],
+                        "city_state": "Ridley Park, PA",
+                        "profile_url": "\/doctors\/Dr_Neeraj_Tripathy.html",
+                        "type": "doctor",
+                        "display_name": "Neeraj Tripathy",
+                        "photos": {
+                            "host": null,
+                            "uri": null
+                        },
+                        "ctas": {
+                            "appointment_url": "https:\/\/appointments.webmd.com\/path\/wmd-path1\/e5a7bcd3-e5c7-416a-b7ab-65f40d7e3015"
+                        },
+                        "degrees": [
+                            "MD"
+                        ],
+                        "display_type": "Doctor",
+                        "vitalsSpecialtyId": [
+                            22,
+                            25,
+                            26,
+                            479,
+                            667,
+                            30,
+                            36,
+                            42,
+                            672,
+                            2005
+                        ],
+                        "specialties": [
+                            "Family Practitioner",
+                            "Internal Medicine"
+                        ],
+                        "number_of_ratings": 12,
+                        "company_name": null,
+                        "overall_rating": 4.63888888888889
+                    }
+                }
+            ],
+            "url": "\/doctors\/Dr_Neeraj_Tripathy.html",
+            "city_state": "Ridley Park, PA",
+            "geopoint": [
+                [
+                    -75.3212,
+                    39.8791
+                ]
+            ],
+            "geo_points": [
+                -75.3212,
+                39.8791
+            ],
+            "distance": 9.7
+        }
+    ]
+}

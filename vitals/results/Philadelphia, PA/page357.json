@@ -1,0 +1,2159 @@
+{
+    "took": 70,
+    "timed_out": false,
+    "_shards": {
+        "total": 2,
+        "successful": 2,
+        "skipped": 0,
+        "failed": 0
+    },
+    "hits": {
+        "total": 9616,
+        "max_score": null,
+        "hits": [
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1z2btf_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1z2btf",
+                    "years_experience": 15,
+                    "city_state": "Willow Grove, PA",
+                    "degree": "DO",
+                    "type": "doctor",
+                    "display_name": "Dr. Avidon M Appel",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [
+                        "DO"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Internal Medicine"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Avidon_Appel.html",
+                            "slug": "Dr_Avidon_Appel.html"
+                        }
+                    },
+                    "number_of_ratings": 13,
+                    "locations": [
+                        {
+                            "city_state": "Willow Grove, PA",
+                            "city": "Willow Grove",
+                            "address1": "2300 Computer Rd Ste M70",
+                            "_geoloc": {
+                                "lng": -75.134883,
+                                "lat": 40.159676
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 4.6923076923076925,
+                    "url": "\/doctors\/Dr_Avidon_Appel.html",
+                    "slug": "Dr_Avidon_Appel.html"
+                },
+                "fields": {
+                    "distance": 14.454440550240808
+                },
+                "sort": [
+                    14.455153640989096
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1x55k0_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1x55k0",
+                    "years_experience": 19,
+                    "city_state": "Willow Grove, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Daniel E Rosenberg",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1674614\/photo.jpg"
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Endocrinology, Diabetes and Metabolism",
+                        "Internal Medicine"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Daniel_E_Rosenberg.html",
+                            "slug": "Dr_Daniel_E_Rosenberg.html"
+                        }
+                    },
+                    "number_of_ratings": 23,
+                    "locations": [
+                        {
+                            "city_state": "Willow Grove, PA",
+                            "city": "Willow Grove",
+                            "address1": "2300 Computer Rd Ste H39",
+                            "_geoloc": {
+                                "lng": -75.134883,
+                                "lat": 40.159676
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 4.695652173913044,
+                    "url": "\/doctors\/Dr_Daniel_E_Rosenberg.html",
+                    "slug": "Dr_Daniel_E_Rosenberg.html"
+                },
+                "fields": {
+                    "distance": 14.454440550240808
+                },
+                "sort": [
+                    14.455153640989096
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1rw8d2_doctor",
+                "_score": null,
+                "_source": {
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Internal Medicine"
+                    ],
+                    "vpid": "1rw8d2",
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Melissa_Sawyer.html",
+                            "slug": "Dr_Melissa_Sawyer.html"
+                        }
+                    },
+                    "years_experience": 9,
+                    "city_state": "Willow Grove, PA",
+                    "degree": "DO",
+                    "locations": [
+                        {
+                            "city_state": "Willow Grove, PA",
+                            "city": "Willow Grove",
+                            "address1": "2300 Computer Rd Ste H39",
+                            "_geoloc": {
+                                "lng": -75.134883,
+                                "lat": 40.159676
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "type": "doctor",
+                    "display_name": "Dr. Melissa L Sawyer",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [
+                        "DO"
+                    ],
+                    "url": "\/doctors\/Dr_Melissa_Sawyer.html",
+                    "slug": "Dr_Melissa_Sawyer.html"
+                },
+                "fields": {
+                    "distance": 14.454440550240808
+                },
+                "sort": [
+                    14.455153640989096
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "a99823_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "a99823",
+                    "years_experience": 17,
+                    "city_state": "Willow Grove, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Laura L Fitzpatrick",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1765477\/photo.jpg"
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Internal Medicine"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Laura_L_Fitzpatrick_2.html",
+                            "slug": "Dr_Laura_L_Fitzpatrick_2.html"
+                        }
+                    },
+                    "number_of_ratings": 69,
+                    "locations": [
+                        {
+                            "city_state": "Willow Grove, PA",
+                            "city": "Willow Grove",
+                            "address1": "2300 Computer Rd Ste H39",
+                            "_geoloc": {
+                                "lng": -75.134883,
+                                "lat": 40.159676
+                            },
+                            "state": "PA"
+                        },
+                        {
+                            "city_state": "Doylestown, PA",
+                            "city": "Doylestown",
+                            "address1": "103 Progress Dr Ste 300",
+                            "_geoloc": {
+                                "lng": -75.143869,
+                                "lat": 40.303406
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 4.159420289855073,
+                    "url": "\/doctors\/Dr_Laura_L_Fitzpatrick_2.html",
+                    "slug": "Dr_Laura_L_Fitzpatrick_2.html"
+                },
+                "fields": {
+                    "distance": 14.454440550240808
+                },
+                "sort": [
+                    14.455153640989096
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1rpnpb_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1rpnpb",
+                    "city_state": "Willow Grove, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Tara L Ruberg",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Obstetrics and Gynecology"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/1rpnpb\/tara-ruberg",
+                            "slug": "1rpnpb\/tara-ruberg"
+                        }
+                    },
+                    "number_of_ratings": 1,
+                    "locations": [
+                        {
+                            "city_state": "Columbus, OH",
+                            "city": "Columbus",
+                            "address1": "410 W 10th Ave",
+                            "_geoloc": {
+                                "lng": -83.017463,
+                                "lat": 39.9942
+                            },
+                            "state": "OH"
+                        },
+                        {
+                            "city_state": "Willow Grove, PA",
+                            "city": "Willow Grove",
+                            "address1": "2300 Computer Rd Ste E25",
+                            "_geoloc": {
+                                "lng": -75.134883,
+                                "lat": 40.159676
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 5,
+                    "url": "\/doctors\/1rpnpb\/tara-ruberg",
+                    "slug": "1rpnpb\/tara-ruberg"
+                },
+                "fields": {
+                    "distance": 14.454440550240808
+                },
+                "sort": [
+                    14.455153640989096
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1w1j4y_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1w1j4y",
+                    "years_experience": 17,
+                    "city_state": "Willow Grove, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Parmatma F Greeley",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Endocrinology, Diabetes and Metabolism",
+                        "Internal Medicine"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Parmatma_Greeley.html",
+                            "slug": "Dr_Parmatma_Greeley.html"
+                        }
+                    },
+                    "number_of_ratings": 23,
+                    "locations": [
+                        {
+                            "city_state": "Willow Grove, PA",
+                            "city": "Willow Grove",
+                            "address1": "2300 Computer Rd Ste H39",
+                            "_geoloc": {
+                                "lng": -75.134883,
+                                "lat": 40.159676
+                            },
+                            "state": "PA"
+                        },
+                        {
+                            "city_state": "Doylestown, PA",
+                            "city": "Doylestown",
+                            "address1": "103 Progress Dr Ste 300",
+                            "_geoloc": {
+                                "lng": -75.143869,
+                                "lat": 40.303406
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 4.594202898550725,
+                    "url": "\/doctors\/Dr_Parmatma_Greeley.html",
+                    "slug": "Dr_Parmatma_Greeley.html"
+                },
+                "fields": {
+                    "distance": 14.454440550240808
+                },
+                "sort": [
+                    14.455153640989096
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1wxqd7_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1wxqd7",
+                    "years_experience": 33,
+                    "city_state": "Willow Grove, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Theresa A Dugan",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1687141\/photo.jpg"
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Obstetrics and Gynecology"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Theresa_Dugan.html",
+                            "slug": "Dr_Theresa_Dugan.html"
+                        }
+                    },
+                    "number_of_ratings": 14,
+                    "locations": [
+                        {
+                            "city_state": "Willow Grove, PA",
+                            "city": "Willow Grove",
+                            "address1": "2300 Computer Rd Ste E25",
+                            "_geoloc": {
+                                "lng": -75.134883,
+                                "lat": 40.159676
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 3.9523809523809517,
+                    "url": "\/doctors\/Dr_Theresa_Dugan.html",
+                    "slug": "Dr_Theresa_Dugan.html"
+                },
+                "fields": {
+                    "distance": 14.454440550240808
+                },
+                "sort": [
+                    14.455153640989096
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1qkwzm_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1qkwzm",
+                    "years_experience": 36,
+                    "city_state": "Willow Grove, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Peter J Gkonos",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1698819\/photo.jpg"
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Endocrinology, Diabetes and Metabolism",
+                        "Internal Medicine"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Peter_Gkonos.html",
+                            "slug": "Dr_Peter_Gkonos.html"
+                        }
+                    },
+                    "number_of_ratings": 13,
+                    "locations": [
+                        {
+                            "city_state": "Willow Grove, PA",
+                            "city": "Willow Grove",
+                            "address1": "2300 Computer Rd Ste H39",
+                            "_geoloc": {
+                                "lng": -75.134883,
+                                "lat": 40.159676
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 3.3076923076923075,
+                    "url": "\/doctors\/Dr_Peter_Gkonos.html",
+                    "slug": "Dr_Peter_Gkonos.html"
+                },
+                "fields": {
+                    "distance": 14.454440550240808
+                },
+                "sort": [
+                    14.455153640989096
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1qjxck_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1qjxck",
+                    "years_experience": 32,
+                    "city_state": "Willow Grove, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Glenn A Mcgrath",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1698790\/photo.jpg"
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Endocrinology, Diabetes and Metabolism",
+                        "Internal Medicine"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Glenn_Mcgrath.html",
+                            "slug": "Dr_Glenn_Mcgrath.html"
+                        }
+                    },
+                    "number_of_ratings": 30,
+                    "locations": [
+                        {
+                            "city_state": "Willow Grove, PA",
+                            "city": "Willow Grove",
+                            "address1": "2300 Computer Rd Ste H39",
+                            "_geoloc": {
+                                "lng": -75.134883,
+                                "lat": 40.159676
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 4.555555555555556,
+                    "url": "\/doctors\/Dr_Glenn_Mcgrath.html",
+                    "slug": "Dr_Glenn_Mcgrath.html"
+                },
+                "fields": {
+                    "distance": 14.454440550240808
+                },
+                "sort": [
+                    14.455153640989096
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1xwx3g_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1xwx3g",
+                    "years_experience": 30,
+                    "city_state": "Willow Grove, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Stephen F Lewis",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1874828\/photo.jpg"
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Neurology",
+                        "Psychiatry"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Stephen_F_Lewis_3.html",
+                            "slug": "Dr_Stephen_F_Lewis_3.html"
+                        }
+                    },
+                    "number_of_ratings": 18,
+                    "locations": [
+                        {
+                            "city_state": "Willow Grove, PA",
+                            "city": "Willow Grove",
+                            "address1": "2300 Computer Rd Ste H43",
+                            "_geoloc": {
+                                "lng": -75.134883,
+                                "lat": 40.159676
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 3.5925925925925934,
+                    "url": "\/doctors\/Dr_Stephen_F_Lewis_3.html",
+                    "slug": "Dr_Stephen_F_Lewis_3.html"
+                },
+                "fields": {
+                    "distance": 14.454440550240808
+                },
+                "sort": [
+                    14.455153640989096
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1rrsnn_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1rrsnn",
+                    "years_experience": 25,
+                    "city_state": "Willow Grove, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Janet L Beausoleil",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Pediatric Allergy and Immunology",
+                        "Pediatrics"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Janet_Beausoleil.html",
+                            "slug": "Dr_Janet_Beausoleil.html"
+                        }
+                    },
+                    "number_of_ratings": 8,
+                    "locations": [
+                        {
+                            "city_state": "King Of Prussia, PA",
+                            "city": "King Of Prussia",
+                            "address1": "491 Allendale Rd",
+                            "_geoloc": {
+                                "lng": -75.393048,
+                                "lat": 40.096503
+                            },
+                            "state": "PA"
+                        },
+                        {
+                            "city_state": "Willow Grove, PA",
+                            "city": "Willow Grove",
+                            "address1": "2300 Computer Rd",
+                            "_geoloc": {
+                                "lng": -75.134883,
+                                "lat": 40.159676
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 5,
+                    "url": "\/doctors\/Dr_Janet_Beausoleil.html",
+                    "slug": "Dr_Janet_Beausoleil.html"
+                },
+                "fields": {
+                    "distance": 14.454440550240808
+                },
+                "sort": [
+                    14.455153640989096
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1rs7nh_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1rs7nh",
+                    "years_experience": 17,
+                    "city_state": "Willow Grove, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Laura L Fitzpatrick",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1765477\/photo.jpg"
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Internal Medicine"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Laura_L_Fitzpatrick.html",
+                            "slug": "Dr_Laura_L_Fitzpatrick.html"
+                        }
+                    },
+                    "number_of_ratings": 69,
+                    "locations": [
+                        {
+                            "city_state": "Willow Grove, PA",
+                            "city": "Willow Grove",
+                            "address1": "2300 Computer Rd Ste H39",
+                            "_geoloc": {
+                                "lng": -75.134883,
+                                "lat": 40.159676
+                            },
+                            "state": "PA"
+                        },
+                        {
+                            "city_state": "Doylestown, PA",
+                            "city": "Doylestown",
+                            "address1": "103 Progress Dr Ste 300",
+                            "_geoloc": {
+                                "lng": -75.143869,
+                                "lat": 40.303406
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 4.159420289855073,
+                    "url": "\/doctors\/Dr_Laura_L_Fitzpatrick.html",
+                    "slug": "Dr_Laura_L_Fitzpatrick.html"
+                },
+                "fields": {
+                    "distance": 14.454440550240808
+                },
+                "sort": [
+                    14.455153640989096
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1wk8yt_doctor",
+                "_score": null,
+                "_source": {
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Sleep Medicine",
+                        "Family Medicine"
+                    ],
+                    "vpid": "1wk8yt",
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Randy_Barnett.html",
+                            "slug": "Dr_Randy_Barnett.html"
+                        }
+                    },
+                    "years_experience": 29,
+                    "city_state": "Philadelphia, PA",
+                    "degree": "DO",
+                    "locations": [
+                        {
+                            "city_state": "Philadelphia, PA",
+                            "city": "Philadelphia",
+                            "address1": "2837 Southampton Rd",
+                            "_geoloc": {
+                                "lng": -74.986774,
+                                "lat": 40.111255
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "type": "doctor",
+                    "display_name": "Dr. Randy B Barnett",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [
+                        "DO"
+                    ],
+                    "url": "\/doctors\/Dr_Randy_Barnett.html",
+                    "slug": "Dr_Randy_Barnett.html"
+                },
+                "fields": {
+                    "distance": 14.46803955314233
+                },
+                "sort": [
+                    14.46875142165303
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1rh9zn_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1rh9zn",
+                    "years_experience": 15,
+                    "city_state": "Philadelphia, PA",
+                    "degree": "DO",
+                    "type": "doctor",
+                    "display_name": "Dr. Ronnen D Abramov",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [
+                        "DO"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Pain Medicine",
+                        "Anesthesiology"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Ronnen_Abramov.html",
+                            "slug": "Dr_Ronnen_Abramov.html"
+                        }
+                    },
+                    "number_of_ratings": 14,
+                    "locations": [
+                        {
+                            "city_state": "Plainsboro, NJ",
+                            "city": "Plainsboro",
+                            "address1": "5 Plainsboro Rd Ste 390",
+                            "_geoloc": {
+                                "lng": -74.624918,
+                                "lat": 40.338312
+                            },
+                            "state": "NJ"
+                        },
+                        {
+                            "city_state": "Philadelphia, PA",
+                            "city": "Philadelphia",
+                            "address1": "2837 Southampton Rd",
+                            "_geoloc": {
+                                "lng": -74.986774,
+                                "lat": 40.111255
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 3.5714285714285716,
+                    "url": "\/doctors\/Dr_Ronnen_Abramov.html",
+                    "slug": "Dr_Ronnen_Abramov.html"
+                },
+                "fields": {
+                    "distance": 14.46803955314233
+                },
+                "sort": [
+                    14.46875142165303
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1ryx85_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1ryx85",
+                    "years_experience": 56,
+                    "city_state": "Media, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Peter V Palena",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1560202\/photo.jpg"
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Ophthalmology"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Peter_Palena.html",
+                            "slug": "Dr_Peter_Palena.html"
+                        }
+                    },
+                    "number_of_ratings": 4,
+                    "locations": [
+                        {
+                            "city_state": "Media, PA",
+                            "city": "Media",
+                            "address1": "1098 W Baltimore Pike Ste 3302",
+                            "_geoloc": {
+                                "lng": -75.432693,
+                                "lat": 39.913912
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 3.83333333333333,
+                    "url": "\/doctors\/Dr_Peter_Palena.html",
+                    "slug": "Dr_Peter_Palena.html"
+                },
+                "fields": {
+                    "distance": 14.481516189486946
+                },
+                "sort": [
+                    14.482233417774848
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1rprjd_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1rprjd",
+                    "years_experience": 19,
+                    "city_state": "Media, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Sean A Wright",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1841938\/photo.jpg"
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Plastic Surgery"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Ssean_Wright.html",
+                            "slug": "Dr_Ssean_Wright.html"
+                        }
+                    },
+                    "number_of_ratings": 6,
+                    "locations": [
+                        {
+                            "city_state": "Media, PA",
+                            "city": "Media",
+                            "address1": "1098 W Baltimore Pike Ste 3306",
+                            "_geoloc": {
+                                "lng": -75.432693,
+                                "lat": 39.913912
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 3.8333333333333335,
+                    "url": "\/doctors\/Dr_Ssean_Wright.html",
+                    "slug": "Dr_Ssean_Wright.html"
+                },
+                "fields": {
+                    "distance": 14.481516189486946
+                },
+                "sort": [
+                    14.482233417774848
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1p9bkq_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1p9bkq",
+                    "city_state": "Media, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Hassan C Vakil",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Thoracic Surgery (Cardiothoracic Vascular Surgery)",
+                        "Surgery"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Hassan_Vakil.html",
+                            "slug": "Dr_Hassan_Vakil.html"
+                        }
+                    },
+                    "number_of_ratings": 5,
+                    "locations": [
+                        {
+                            "city_state": "Media, PA",
+                            "city": "Media",
+                            "address1": "1098 W Baltimore Pike Ste 3411",
+                            "_geoloc": {
+                                "lng": -75.432693,
+                                "lat": 39.913912
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 4.6,
+                    "url": "\/doctors\/Dr_Hassan_Vakil.html",
+                    "slug": "Dr_Hassan_Vakil.html"
+                },
+                "fields": {
+                    "distance": 14.481516189486946
+                },
+                "sort": [
+                    14.482233417774848
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1rw581_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1rw581",
+                    "years_experience": 34,
+                    "city_state": "Media, PA",
+                    "degree": "DO",
+                    "type": "doctor",
+                    "display_name": "Dr. Andrew C Brown",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [
+                        "DO"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Internal Medicine"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Andrew_C_Brown_2.html",
+                            "slug": "Dr_Andrew_C_Brown_2.html"
+                        }
+                    },
+                    "number_of_ratings": 2,
+                    "locations": [
+                        {
+                            "city_state": "Media, PA",
+                            "city": "Media",
+                            "address1": "1098 W Baltimore Pike Ste 3402",
+                            "_geoloc": {
+                                "lng": -75.432693,
+                                "lat": 39.913912
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 5,
+                    "url": "\/doctors\/Dr_Andrew_C_Brown_2.html",
+                    "slug": "Dr_Andrew_C_Brown_2.html"
+                },
+                "fields": {
+                    "distance": 14.481516189486946
+                },
+                "sort": [
+                    14.482233417774848
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1td5dh_doctor",
+                "_score": null,
+                "_source": {
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Otolaryngology"
+                    ],
+                    "vpid": "1td5dh",
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_William_Gartner.html",
+                            "slug": "Dr_William_Gartner.html"
+                        }
+                    },
+                    "years_experience": 56,
+                    "city_state": "Media, PA",
+                    "degree": "MD",
+                    "locations": [
+                        {
+                            "city_state": "Media, PA",
+                            "city": "Media",
+                            "address1": "1098 W Baltimore Pike Ste 3406",
+                            "_geoloc": {
+                                "lng": -75.432693,
+                                "lat": 39.913912
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "type": "doctor",
+                    "display_name": "Dr. William S Gartner Jr",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1577987\/photo.jpg"
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "url": "\/doctors\/Dr_William_Gartner.html",
+                    "slug": "Dr_William_Gartner.html"
+                },
+                "fields": {
+                    "distance": 14.481516189486946
+                },
+                "sort": [
+                    14.482233417774848
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1qt923_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1qt923",
+                    "years_experience": 36,
+                    "city_state": "Media, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Joseph T Sincavage",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1698787\/photo.jpg"
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Obstetrics and Gynecology"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Joseph_Sincavage.html",
+                            "slug": "Dr_Joseph_Sincavage.html"
+                        }
+                    },
+                    "number_of_ratings": 14,
+                    "locations": [
+                        {
+                            "city_state": "Media, PA",
+                            "city": "Media",
+                            "address1": "1098 W Baltimore Pike Ste 3106",
+                            "_geoloc": {
+                                "lng": -75.432693,
+                                "lat": 39.913912
+                            },
+                            "state": "PA"
+                        },
+                        {
+                            "city_state": "Glen Mills, PA",
+                            "city": "Glen Mills",
+                            "address1": "1020 Baltimore Pike",
+                            "_geoloc": {
+                                "lng": -75.537665,
+                                "lat": 39.881753
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 4.238095238095237,
+                    "url": "\/doctors\/Dr_Joseph_Sincavage.html",
+                    "slug": "Dr_Joseph_Sincavage.html"
+                },
+                "fields": {
+                    "distance": 14.481516189486946
+                },
+                "sort": [
+                    14.482233417774848
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1rnt0y_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1rnt0y",
+                    "years_experience": 10,
+                    "city_state": "Media, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Jenny A Graber",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1773297\/photo.jpg"
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Obstetrics and Gynecology"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Jenny_Blumberg.html",
+                            "slug": "Dr_Jenny_Blumberg.html"
+                        }
+                    },
+                    "number_of_ratings": 2,
+                    "locations": [
+                        {
+                            "city_state": "Bronx, NY",
+                            "city": "Bronx",
+                            "address1": "1400 Pelham Pkwy S",
+                            "_geoloc": {
+                                "lng": -73.846608,
+                                "lat": 40.855468
+                            },
+                            "state": "NY"
+                        },
+                        {
+                            "city_state": "Stony Brook, NY",
+                            "city": "Stony Brook",
+                            "address1": "101 Nicolls Rd",
+                            "_geoloc": {
+                                "lng": -73.115446,
+                                "lat": 40.90902
+                            },
+                            "state": "NY"
+                        },
+                        {
+                            "city_state": "Media, PA",
+                            "city": "Media",
+                            "address1": "1098 W Baltimore Pike Ste 3106",
+                            "_geoloc": {
+                                "lng": -75.432693,
+                                "lat": 39.913912
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 3,
+                    "url": "\/doctors\/Dr_Jenny_Blumberg.html",
+                    "slug": "Dr_Jenny_Blumberg.html"
+                },
+                "fields": {
+                    "distance": 14.481516189486946
+                },
+                "sort": [
+                    14.482233417774848
+                ]
+            }
+        ]
+    },
+    "aggregations": {
+        "satisfaction.accurate_diagnosis": {
+            "buckets": {
+                "good": {
+                    "from": 3.5,
+                    "doc_count": 0
+                }
+            }
+        },
+        "overall_range": {
+            "doc_count": 7275
+        },
+        "satisfaction.bedside_manner": {
+            "buckets": {
+                "good": {
+                    "from": 3.5,
+                    "doc_count": 0
+                }
+            }
+        },
+        "satisfaction.punctuality": {
+            "buckets": {
+                "good": {
+                    "from": 3.5,
+                    "doc_count": 0
+                }
+            }
+        },
+        "display_types": {
+            "doc_count_error_upper_bound": 0,
+            "sum_other_doc_count": 0,
+            "buckets": [
+                {
+                    "key": "Doctor",
+                    "doc_count": 9616
+                },
+                {
+                    "key": "Group Practice",
+                    "doc_count": 680
+                },
+                {
+                    "key": "Chiropractor",
+                    "doc_count": 371
+                },
+                {
+                    "key": "Podiatrist",
+                    "doc_count": 310
+                },
+                {
+                    "key": "Optometrist",
+                    "doc_count": 292
+                },
+                {
+                    "key": "Psychologist",
+                    "doc_count": 279
+                },
+                {
+                    "key": "Dentist",
+                    "doc_count": 60
+                },
+                {
+                    "key": "Hospital",
+                    "doc_count": 26
+                },
+                {
+                    "key": "Nursing Home",
+                    "doc_count": 2
+                },
+                {
+                    "key": "Cancer Center",
+                    "doc_count": 1
+                },
+                {
+                    "key": "Pharmacy",
+                    "doc_count": 1
+                }
+            ]
+        },
+        "insurance_companies": {
+            "doc_count_error_upper_bound": 0,
+            "sum_other_doc_count": 0,
+            "buckets": [
+                {
+                    "key": "Aetna",
+                    "doc_count": 11304
+                },
+                {
+                    "key": "United Healthcare",
+                    "doc_count": 10301
+                },
+                {
+                    "key": "BCBS Blue Card",
+                    "doc_count": 9724
+                },
+                {
+                    "key": "IBC",
+                    "doc_count": 9616
+                },
+                {
+                    "key": "Cigna",
+                    "doc_count": 8995
+                },
+                {
+                    "key": "Coventry Health Care",
+                    "doc_count": 8567
+                },
+                {
+                    "key": "Multiplan",
+                    "doc_count": 7792
+                },
+                {
+                    "key": "Humana",
+                    "doc_count": 5854
+                },
+                {
+                    "key": "Capital Blue Cross",
+                    "doc_count": 5649
+                },
+                {
+                    "key": "Horizon BCBS",
+                    "doc_count": 5553
+                },
+                {
+                    "key": "First Health",
+                    "doc_count": 5330
+                },
+                {
+                    "key": "QualCare",
+                    "doc_count": 4110
+                },
+                {
+                    "key": "Geisinger Health Plan",
+                    "doc_count": 2742
+                },
+                {
+                    "key": "Oxford Health",
+                    "doc_count": 1840
+                },
+                {
+                    "key": "HIP of NY",
+                    "doc_count": 1484
+                },
+                {
+                    "key": "UPMC Health Plan",
+                    "doc_count": 320
+                },
+                {
+                    "key": "CareFirst BCBS",
+                    "doc_count": 288
+                },
+                {
+                    "key": "Highmark BCBS",
+                    "doc_count": 265
+                },
+                {
+                    "key": "Empire BCBS",
+                    "doc_count": 140
+                },
+                {
+                    "key": "Anthem",
+                    "doc_count": 115
+                },
+                {
+                    "key": "Capital District Physicians Health Plan",
+                    "doc_count": 104
+                },
+                {
+                    "key": "BCBS Massachusetts",
+                    "doc_count": 90
+                },
+                {
+                    "key": "Connecticare",
+                    "doc_count": 69
+                },
+                {
+                    "key": "BCBS Illinois",
+                    "doc_count": 62
+                },
+                {
+                    "key": "Assurant",
+                    "doc_count": 56
+                },
+                {
+                    "key": "Guardian Dental",
+                    "doc_count": 55
+                },
+                {
+                    "key": "Principal Dental",
+                    "doc_count": 53
+                },
+                {
+                    "key": "Cigna Dental",
+                    "doc_count": 51
+                },
+                {
+                    "key": "Delta Dental",
+                    "doc_count": 51
+                },
+                {
+                    "key": "United Concordia",
+                    "doc_count": 51
+                },
+                {
+                    "key": "Ameritas",
+                    "doc_count": 49
+                },
+                {
+                    "key": "Dental Network of America",
+                    "doc_count": 49
+                },
+                {
+                    "key": "MetLife",
+                    "doc_count": 47
+                },
+                {
+                    "key": "DenteMax",
+                    "doc_count": 44
+                },
+                {
+                    "key": "MVP Health Plan",
+                    "doc_count": 44
+                },
+                {
+                    "key": "United Healthcare Dental",
+                    "doc_count": 44
+                },
+                {
+                    "key": "CompBenefits",
+                    "doc_count": 39
+                },
+                {
+                    "key": "Harvard Pilgrim",
+                    "doc_count": 39
+                },
+                {
+                    "key": "Humana Dental",
+                    "doc_count": 38
+                },
+                {
+                    "key": "HealthFirst NY",
+                    "doc_count": 36
+                },
+                {
+                    "key": "Blue Cross California",
+                    "doc_count": 31
+                },
+                {
+                    "key": "BCBS Florida",
+                    "doc_count": 28
+                },
+                {
+                    "key": "Medical Mutual of Ohio",
+                    "doc_count": 28
+                },
+                {
+                    "key": "Health Net",
+                    "doc_count": 26
+                },
+                {
+                    "key": "Tufts Health Plan",
+                    "doc_count": 26
+                },
+                {
+                    "key": "Emblem Health",
+                    "doc_count": 23
+                },
+                {
+                    "key": "Excellus BCBS",
+                    "doc_count": 23
+                },
+                {
+                    "key": "AvMed Health",
+                    "doc_count": 17
+                },
+                {
+                    "key": "Regence Health Plans",
+                    "doc_count": 17
+                },
+                {
+                    "key": "Sagamore Health",
+                    "doc_count": 17
+                },
+                {
+                    "key": "UHC of the River Valley",
+                    "doc_count": 17
+                },
+                {
+                    "key": "Blue Shield California",
+                    "doc_count": 16
+                },
+                {
+                    "key": "ODS",
+                    "doc_count": 14
+                },
+                {
+                    "key": "Premera",
+                    "doc_count": 14
+                },
+                {
+                    "key": "Independent Health",
+                    "doc_count": 13
+                },
+                {
+                    "key": "BCBS Texas",
+                    "doc_count": 12
+                },
+                {
+                    "key": "SIHO Insurance Services",
+                    "doc_count": 12
+                },
+                {
+                    "key": "HealthSpan",
+                    "doc_count": 11
+                },
+                {
+                    "key": "BCBS North Carolina",
+                    "doc_count": 10
+                },
+                {
+                    "key": "Optima Health",
+                    "doc_count": 10
+                },
+                {
+                    "key": "BCBS Georgia",
+                    "doc_count": 9
+                },
+                {
+                    "key": "Centene",
+                    "doc_count": 9
+                },
+                {
+                    "key": "HealthLink",
+                    "doc_count": 9
+                },
+                {
+                    "key": "BCBS Michigan",
+                    "doc_count": 8
+                },
+                {
+                    "key": "Encore Health Network",
+                    "doc_count": 8
+                },
+                {
+                    "key": "Ambetter Superior Health Plan",
+                    "doc_count": 7
+                },
+                {
+                    "key": "BCBS Rhode Island",
+                    "doc_count": 7
+                },
+                {
+                    "key": "PriorityHealth",
+                    "doc_count": 7
+                },
+                {
+                    "key": "Aetna Innovation Health",
+                    "doc_count": 6
+                },
+                {
+                    "key": "Health Alliance",
+                    "doc_count": 6
+                },
+                {
+                    "key": "Premier Health Plan",
+                    "doc_count": 6
+                },
+                {
+                    "key": "Wellmark",
+                    "doc_count": 6
+                },
+                {
+                    "key": "BCBS South Carolina",
+                    "doc_count": 5
+                },
+                {
+                    "key": "Healthy Connecticut",
+                    "doc_count": 5
+                },
+                {
+                    "key": "PHP Northern IN",
+                    "doc_count": 5
+                },
+                {
+                    "key": "SummaCare",
+                    "doc_count": 5
+                },
+                {
+                    "key": "WPS",
+                    "doc_count": 5
+                },
+                {
+                    "key": "Altius",
+                    "doc_count": 4
+                },
+                {
+                    "key": "BCBS Kansas City",
+                    "doc_count": 4
+                },
+                {
+                    "key": "BCBS Minnesota",
+                    "doc_count": 4
+                },
+                {
+                    "key": "Common Ground",
+                    "doc_count": 4
+                },
+                {
+                    "key": "HAP",
+                    "doc_count": 4
+                },
+                {
+                    "key": "Molina Healthcare",
+                    "doc_count": 4
+                },
+                {
+                    "key": "PacificSource",
+                    "doc_count": 4
+                },
+                {
+                    "key": "SelectHealth",
+                    "doc_count": 4
+                },
+                {
+                    "key": "BCBS Tennessee",
+                    "doc_count": 3
+                },
+                {
+                    "key": "Providence Health System",
+                    "doc_count": 3
+                },
+                {
+                    "key": "The Health Plan of Upper OH",
+                    "doc_count": 3
+                },
+                {
+                    "key": "BCBS Alabama",
+                    "doc_count": 2
+                },
+                {
+                    "key": "BCBS New Mexico",
+                    "doc_count": 2
+                },
+                {
+                    "key": "HealthPartners - MN",
+                    "doc_count": 2
+                },
+                {
+                    "key": "Indiana University",
+                    "doc_count": 2
+                },
+                {
+                    "key": "Preferred One",
+                    "doc_count": 2
+                },
+                {
+                    "key": "Presbyterian",
+                    "doc_count": 2
+                },
+                {
+                    "key": "Aultcare",
+                    "doc_count": 1
+                },
+                {
+                    "key": "BCBS Louisiana",
+                    "doc_count": 1
+                },
+                {
+                    "key": "BCBS Oklahoma",
+                    "doc_count": 1
+                },
+                {
+                    "key": "FirstCare",
+                    "doc_count": 1
+                },
+                {
+                    "key": "FrontPath Health Coalition",
+                    "doc_count": 1
+                },
+                {
+                    "key": "Group Health Coop",
+                    "doc_count": 1
+                },
+                {
+                    "key": "Gundersen Health Plan",
+                    "doc_count": 1
+                },
+                {
+                    "key": "Health Plan of Nevada",
+                    "doc_count": 1
+                },
+                {
+                    "key": "Kaiser - MidAtlantic",
+                    "doc_count": 1
+                },
+                {
+                    "key": "LA Care Health",
+                    "doc_count": 1
+                },
+                {
+                    "key": "Network Health Plan",
+                    "doc_count": 1
+                },
+                {
+                    "key": "One Health Network",
+                    "doc_count": 1
+                },
+                {
+                    "key": "Paramount",
+                    "doc_count": 1
+                },
+                {
+                    "key": "Qualchoice",
+                    "doc_count": 1
+                },
+                {
+                    "key": "Scion Dental",
+                    "doc_count": 1
+                },
+                {
+                    "key": "Sierra Health",
+                    "doc_count": 1
+                }
+            ]
+        },
+        "ratings": {
+            "buckets": [
+                {
+                    "key": "any",
+                    "doc_count": 9616
+                },
+                {
+                    "key": "3",
+                    "from": 3,
+                    "doc_count": 6688
+                },
+                {
+                    "key": "4",
+                    "from": 4,
+                    "doc_count": 4779
+                },
+                {
+                    "key": "5",
+                    "from": 5,
+                    "doc_count": 1531
+                }
+            ]
+        },
+        "experience_range": {
+            "buckets": [
+                {
+                    "key": "Any",
+                    "doc_count": 9616
+                },
+                {
+                    "key": "0 - 5",
+                    "from": 0,
+                    "to": 6,
+                    "doc_count": 0
+                },
+                {
+                    "key": "5 - 10",
+                    "from": 5,
+                    "to": 11,
+                    "doc_count": 608
+                },
+                {
+                    "key": "11 - 15",
+                    "from": 11,
+                    "to": 16,
+                    "doc_count": 921
+                },
+                {
+                    "key": "16 - 20",
+                    "from": 16,
+                    "to": 21,
+                    "doc_count": 1028
+                },
+                {
+                    "key": "21 - 25",
+                    "from": 21,
+                    "to": 26,
+                    "doc_count": 883
+                },
+                {
+                    "key": "26 - 30",
+                    "from": 26,
+                    "to": 31,
+                    "doc_count": 760
+                },
+                {
+                    "key": "30+",
+                    "from": 30,
+                    "doc_count": 2900
+                }
+            ]
+        }
+    },
+    "status": 200,
+    "distanceLimitedNothingFound": false,
+    "query": "",
+    "radiusUsed": 25,
+    "reqNo": "1",
+    "sponsors": [
+        {
+            "campaign_name": "webmd_ep",
+            "targeting": {
+                "locations": [
+                    {
+                        "city_state": "Philadelphia, PA",
+                        "geopoint": [
+                            [
+                                -75.160429,
+                                39.94866
+                            ]
+                        ]
+                    }
+                ],
+                "sponsor_id": "xx"
+            },
+            "search": {
+                "search_city_state": "Philadelphia, PA",
+                "search_specialties": "General Dentistry",
+                "locations": [
+                    {
+                        "city_state": "Philadelphia, PA",
+                        "geopoint": [
+                            [
+                                -75.160429,
+                                39.94866
+                            ]
+                        ]
+                    }
+                ],
+                "display_name": "Shireen  Malik"
+            },
+            "npi": "1518135805",
+            "external_id": "D83325",
+            "campaign_features": [
+                {
+                    "feature_name": "serp",
+                    "feature_config": {
+                        "specialty": "General Dentistry",
+                        "webmdSpecialtyId": [
+                            29245
+                        ],
+                        "city_state": "Philadelphia, PA",
+                        "profile_url": "\/dentists\/Dr_Shireen_Malik",
+                        "type": "dentist",
+                        "display_name": "Shireen  Malik",
+                        "photos": {
+                            "host": null,
+                            "uri": null
+                        },
+                        "ctas": {
+                            "appointment_url": "https:\/\/appointments.webmd.com\/path\/wmd-path1\/61fbb52a-c844-4904-ad23-dcc296781461"
+                        },
+                        "degrees": [
+                            "DDS"
+                        ],
+                        "display_type": "Dentist",
+                        "vitalsSpecialtyId": [
+                            294,
+                            296,
+                            297,
+                            300,
+                            303,
+                            306,
+                            307
+                        ],
+                        "specialties": [
+                            "General Dentistry"
+                        ],
+                        "number_of_ratings": 13,
+                        "company_name": null,
+                        "overall_rating": 4.3076923076923075
+                    }
+                }
+            ],
+            "url": "\/dentists\/Dr_Shireen_Malik",
+            "city_state": "Philadelphia, PA",
+            "geopoint": [
+                [
+                    -75.160429,
+                    39.94866
+                ]
+            ],
+            "geo_points": [
+                -75.160429,
+                39.94866
+            ],
+            "distance": 0.3
+        },
+        {
+            "campaign_name": "webmd_ep",
+            "targeting": {
+                "locations": [
+                    {
+                        "city_state": "Philadelphia, PA",
+                        "geopoint": [
+                            [
+                                -75.1741,
+                                39.9527
+                            ]
+                        ]
+                    },
+                    {
+                        "city_state": "Upper Darby, PA",
+                        "geopoint": [
+                            [
+                                -75.2629,
+                                39.9591
+                            ]
+                        ]
+                    }
+                ],
+                "sponsor_id": "xx"
+            },
+            "search": {
+                "search_city_state": "Philadelphia, PA Upper Darby, PA",
+                "search_specialties": "Addiction Medicine Physical Medicine\/Rehab Spec",
+                "locations": [
+                    {
+                        "city_state": "Philadelphia, PA",
+                        "geopoint": [
+                            [
+                                -75.1741,
+                                39.9527
+                            ]
+                        ]
+                    },
+                    {
+                        "city_state": "Upper Darby, PA",
+                        "geopoint": [
+                            [
+                                -75.2629,
+                                39.9591
+                            ]
+                        ]
+                    }
+                ],
+                "display_name": "Denis A Boyle Jr"
+            },
+            "npi": "1205920287",
+            "external_id": "153875",
+            "campaign_features": [
+                {
+                    "feature_name": "serp",
+                    "feature_config": {
+                        "specialty": "Addiction Medicine",
+                        "webmdSpecialtyId": [
+                            29230,
+                            29309
+                        ],
+                        "city_state": "Philadelphia, PA",
+                        "profile_url": "\/doctors\/Dr_Denis_Boyle.html",
+                        "type": "doctor",
+                        "display_name": "Denis A Boyle Jr",
+                        "photos": {
+                            "host": null,
+                            "uri": null
+                        },
+                        "ctas": {
+                            "appointment_url": "https:\/\/appointments.webmd.com\/path\/wmd-path1\/fb31da85-feb0-4bf4-9dc3-01678cfc8276"
+                        },
+                        "degrees": [
+                            "MD"
+                        ],
+                        "display_type": "Doctor",
+                        "vitalsSpecialtyId": [
+                            5,
+                            23,
+                            31,
+                            141,
+                            124,
+                            126,
+                            127,
+                            2018
+                        ],
+                        "specialties": [
+                            "Addiction Medicine",
+                            "Physical Medicine\/Rehab Spec"
+                        ],
+                        "number_of_ratings": 4,
+                        "company_name": null,
+                        "overall_rating": 5
+                    }
+                }
+            ],
+            "url": "\/doctors\/Dr_Denis_Boyle.html",
+            "city_state": "Philadelphia, PA",
+            "geopoint": [
+                [
+                    -75.1741,
+                    39.9527
+                ]
+            ],
+            "geo_points": [
+                -75.1741,
+                39.9527
+            ],
+            "distance": 0.6
+        },
+        {
+            "campaign_name": "webmd_ep",
+            "targeting": {
+                "locations": [
+                    {
+                        "city_state": "Ridley Park, PA",
+                        "geopoint": [
+                            [
+                                -75.3212,
+                                39.8791
+                            ]
+                        ]
+                    }
+                ],
+                "sponsor_id": "xx"
+            },
+            "search": {
+                "search_city_state": "Ridley Park, PA",
+                "search_specialties": "Family Practitioner Internal Medicine",
+                "locations": [
+                    {
+                        "city_state": "Ridley Park, PA",
+                        "geopoint": [
+                            [
+                                -75.3212,
+                                39.8791
+                            ]
+                        ]
+                    }
+                ],
+                "display_name": "Neeraj Tripathy"
+            },
+            "npi": "1972660975",
+            "external_id": "6302324",
+            "campaign_features": [
+                {
+                    "feature_name": "serp",
+                    "feature_config": {
+                        "specialty": "Family Practitioner",
+                        "webmdSpecialtyId": [
+                            29259,
+                            29277
+                        ],
+                        "city_state": "Ridley Park, PA",
+                        "profile_url": "\/doctors\/Dr_Neeraj_Tripathy.html",
+                        "type": "doctor",
+                        "display_name": "Neeraj Tripathy",
+                        "photos": {
+                            "host": null,
+                            "uri": null
+                        },
+                        "ctas": {
+                            "appointment_url": "https:\/\/appointments.webmd.com\/path\/wmd-path1\/e5a7bcd3-e5c7-416a-b7ab-65f40d7e3015"
+                        },
+                        "degrees": [
+                            "MD"
+                        ],
+                        "display_type": "Doctor",
+                        "vitalsSpecialtyId": [
+                            22,
+                            25,
+                            26,
+                            479,
+                            667,
+                            30,
+                            36,
+                            42,
+                            672,
+                            2005
+                        ],
+                        "specialties": [
+                            "Family Practitioner",
+                            "Internal Medicine"
+                        ],
+                        "number_of_ratings": 12,
+                        "company_name": null,
+                        "overall_rating": 4.63888888888889
+                    }
+                }
+            ],
+            "url": "\/doctors\/Dr_Neeraj_Tripathy.html",
+            "city_state": "Ridley Park, PA",
+            "geopoint": [
+                [
+                    -75.3212,
+                    39.8791
+                ]
+            ],
+            "geo_points": [
+                -75.3212,
+                39.8791
+            ],
+            "distance": 9.7
+        }
+    ]
+}

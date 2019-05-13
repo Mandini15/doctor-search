@@ -1,0 +1,2081 @@
+{
+    "took": 114,
+    "timed_out": false,
+    "_shards": {
+        "total": 2,
+        "successful": 2,
+        "skipped": 0,
+        "failed": 0
+    },
+    "hits": {
+        "total": 9616,
+        "max_score": null,
+        "hits": [
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1rpswx_doctor",
+                "_score": null,
+                "_source": {
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Psychology"
+                    ],
+                    "vpid": "1rpswx",
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/1rpswx\/steven-adelman",
+                            "slug": "1rpswx\/steven-adelman"
+                        }
+                    },
+                    "city_state": "Elkins Park, PA",
+                    "degree": "PHD",
+                    "locations": [
+                        {
+                            "city_state": "Elkins Park, PA",
+                            "city": "Elkins Park",
+                            "address1": "8302 Old York Rd Ste B12",
+                            "_geoloc": {
+                                "lng": -75.128972,
+                                "lat": 40.083829
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "type": "doctor",
+                    "display_name": "Dr. Steven J Adelman",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [
+                        "PHD"
+                    ],
+                    "url": "\/doctors\/1rpswx\/steven-adelman",
+                    "slug": "1rpswx\/steven-adelman"
+                },
+                "fields": {
+                    "distance": 9.317155698036109
+                },
+                "sort": [
+                    9.317614022734054
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1w8q1p_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1w8q1p",
+                    "years_experience": 24,
+                    "city_state": "Elkins Park, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Jeffrey L Wanner",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1488666\/photo.jpg"
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Internal Medicine"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Jeffrey_Wanner.html",
+                            "slug": "Dr_Jeffrey_Wanner.html"
+                        }
+                    },
+                    "number_of_ratings": 4,
+                    "locations": [
+                        {
+                            "city_state": "Elkins Park, PA",
+                            "city": "Elkins Park",
+                            "address1": "8302 Old York Rd Ste A",
+                            "_geoloc": {
+                                "lng": -75.128972,
+                                "lat": 40.083829
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 4.66666666666667,
+                    "url": "\/doctors\/Dr_Jeffrey_Wanner.html",
+                    "slug": "Dr_Jeffrey_Wanner.html"
+                },
+                "fields": {
+                    "distance": 9.317155698036109
+                },
+                "sort": [
+                    9.317614022734054
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1x071m_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1x071m",
+                    "city_state": "Elkins Park, PA",
+                    "degree": "PHD",
+                    "type": "doctor",
+                    "display_name": "Dr. Ellen M Adelman",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [
+                        "PHD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Psychology"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/1x071m\/ellen-adelman",
+                            "slug": "1x071m\/ellen-adelman"
+                        }
+                    },
+                    "number_of_ratings": 1,
+                    "locations": [
+                        {
+                            "city_state": "Elkins Park, PA",
+                            "city": "Elkins Park",
+                            "address1": "8302 Old York Rd Ste B12",
+                            "_geoloc": {
+                                "lng": -75.128972,
+                                "lat": 40.083829
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 5,
+                    "url": "\/doctors\/1x071m\/ellen-adelman",
+                    "slug": "1x071m\/ellen-adelman"
+                },
+                "fields": {
+                    "distance": 9.317155698036109
+                },
+                "sort": [
+                    9.317614022734054
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1qc1w3_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1qc1w3",
+                    "city_state": "Elkins Park, PA",
+                    "degree": "",
+                    "type": "doctor",
+                    "display_name": "Gene R Corbman",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1521496\/photo.jpg"
+                        }
+                    },
+                    "degrees": [],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Psychiatry"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Gene_Corbman.html",
+                            "slug": "Dr_Gene_Corbman.html"
+                        }
+                    },
+                    "number_of_ratings": 18,
+                    "locations": [
+                        {
+                            "city_state": "Elkins Park, PA",
+                            "city": "Elkins Park",
+                            "address1": "8302 Old York Rd Ste B14",
+                            "_geoloc": {
+                                "lng": -75.128972,
+                                "lat": 40.083829
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 3.9814814814814827,
+                    "url": "\/doctors\/Dr_Gene_Corbman.html",
+                    "slug": "Dr_Gene_Corbman.html"
+                },
+                "fields": {
+                    "distance": 9.317155698036109
+                },
+                "sort": [
+                    9.317614022734054
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1pr72p_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1pr72p",
+                    "years_experience": 27,
+                    "city_state": "Elkins Park, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Daniel M Silverstein",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1503483\/photo.jpg"
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Internal Medicine"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Daniel_M_Silverstein.html",
+                            "slug": "Dr_Daniel_M_Silverstein.html"
+                        }
+                    },
+                    "number_of_ratings": 6,
+                    "locations": [
+                        {
+                            "city_state": "Elkins Park, PA",
+                            "city": "Elkins Park",
+                            "address1": "8302 Old York Rd Ste A",
+                            "_geoloc": {
+                                "lng": -75.128972,
+                                "lat": 40.083829
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 4.611111111111113,
+                    "url": "\/doctors\/Dr_Daniel_M_Silverstein.html",
+                    "slug": "Dr_Daniel_M_Silverstein.html"
+                },
+                "fields": {
+                    "distance": 9.317155698036109
+                },
+                "sort": [
+                    9.317614022734054
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1zdxwn_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1zdxwn",
+                    "years_experience": 33,
+                    "city_state": "Philadelphia, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Alan J Twer",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1560624\/photo.jpg"
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Ophthalmology"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Alan_Twer.html",
+                            "slug": "Dr_Alan_Twer.html"
+                        }
+                    },
+                    "number_of_ratings": 19,
+                    "locations": [
+                        {
+                            "city_state": "Philadelphia, PA",
+                            "city": "Philadelphia",
+                            "address1": "7900 Bustleton Ave",
+                            "_geoloc": {
+                                "lng": -75.053563,
+                                "lat": 40.056823
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 4.140350877192984,
+                    "url": "\/doctors\/Dr_Alan_Twer.html",
+                    "slug": "Dr_Alan_Twer.html"
+                },
+                "fields": {
+                    "distance": 9.3194751259694
+                },
+                "sort": [
+                    9.319934745563668
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1r4gp3_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1r4gp3",
+                    "years_experience": 7,
+                    "city_state": "Springfield, PA",
+                    "degree": "DO",
+                    "type": "doctor",
+                    "display_name": "Dr. Jae C Hwang",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [
+                        "DO"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Family Medicine"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Jae__Hwang.html",
+                            "slug": "Dr_Jae__Hwang.html"
+                        }
+                    },
+                    "number_of_ratings": 2,
+                    "locations": [
+                        {
+                            "city_state": "Norristown, PA",
+                            "city": "Norristown",
+                            "address1": "1437 Dekalb St Ste 201",
+                            "_geoloc": {
+                                "lng": -75.333333,
+                                "lat": 40.124047
+                            },
+                            "state": "PA"
+                        },
+                        {
+                            "city_state": "Springfield, PA",
+                            "city": "Springfield",
+                            "address1": "1260 E Woodland Ave Ste 200",
+                            "_geoloc": {
+                                "lng": -75.331108,
+                                "lat": 39.9095
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 5,
+                    "url": "\/doctors\/Dr_Jae__Hwang.html",
+                    "slug": "Dr_Jae__Hwang.html"
+                },
+                "fields": {
+                    "distance": 9.32942010328792
+                },
+                "sort": [
+                    9.329884026414463
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1rppx3_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1rppx3",
+                    "years_experience": 18,
+                    "city_state": "Springfield, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Thomas C Yuen",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1938978\/photo.jpg"
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Family Medicine"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Thomas_Yuen.html",
+                            "slug": "Dr_Thomas_Yuen.html"
+                        }
+                    },
+                    "number_of_ratings": 1,
+                    "locations": [
+                        {
+                            "city_state": "Springfield, PA",
+                            "city": "Springfield",
+                            "address1": "1260 E Woodland Ave Ste 200",
+                            "_geoloc": {
+                                "lng": -75.331108,
+                                "lat": 39.9095
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 5,
+                    "url": "\/doctors\/Dr_Thomas_Yuen.html",
+                    "slug": "Dr_Thomas_Yuen.html"
+                },
+                "fields": {
+                    "distance": 9.32942010328792
+                },
+                "sort": [
+                    9.329884026414463
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1r6k2q_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1r6k2q",
+                    "years_experience": 29,
+                    "city_state": "Springfield, PA",
+                    "degree": "DO",
+                    "type": "doctor",
+                    "display_name": "Dr. Deborah R Longo-Malloy",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1923525\/photo.jpg"
+                        }
+                    },
+                    "degrees": [
+                        "DO"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Family Medicine"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Deborah_Longo-Malloy.html",
+                            "slug": "Dr_Deborah_Longo-Malloy.html"
+                        }
+                    },
+                    "number_of_ratings": 5,
+                    "locations": [
+                        {
+                            "city_state": "Springfield, PA",
+                            "city": "Springfield",
+                            "address1": "1260 E Woodland Ave Ste 200",
+                            "_geoloc": {
+                                "lng": -75.331108,
+                                "lat": 39.9095
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 3.133333333333336,
+                    "url": "\/doctors\/Dr_Deborah_Longo-Malloy.html",
+                    "slug": "Dr_Deborah_Longo-Malloy.html"
+                },
+                "fields": {
+                    "distance": 9.32942010328792
+                },
+                "sort": [
+                    9.329884026414463
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1qbhq9_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1qbhq9",
+                    "years_experience": 29,
+                    "city_state": "Springfield, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Anne R Donnelly",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1579498\/photo.jpg"
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Family Medicine"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Anne_Donnelly.html",
+                            "slug": "Dr_Anne_Donnelly.html"
+                        }
+                    },
+                    "number_of_ratings": 2,
+                    "locations": [
+                        {
+                            "city_state": "Springfield, PA",
+                            "city": "Springfield",
+                            "address1": "1260 E Woodland Ave Ste 200",
+                            "_geoloc": {
+                                "lng": -75.331108,
+                                "lat": 39.9095
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 2.33333333333334,
+                    "url": "\/doctors\/Dr_Anne_Donnelly.html",
+                    "slug": "Dr_Anne_Donnelly.html"
+                },
+                "fields": {
+                    "distance": 9.32942010328792
+                },
+                "sort": [
+                    9.329884026414463
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1zwy37_doctor",
+                "_score": null,
+                "_source": {
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Family Medicine"
+                    ],
+                    "vpid": "1zwy37",
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Jaqueline_Scheier.html",
+                            "slug": "Dr_Jaqueline_Scheier.html"
+                        }
+                    },
+                    "years_experience": 8,
+                    "city_state": "Springfield, PA",
+                    "degree": "DO",
+                    "locations": [
+                        {
+                            "city_state": "Broomall, PA",
+                            "city": "Broomall",
+                            "address1": "30 Lawrence Rd Ste 201",
+                            "_geoloc": {
+                                "lng": -75.338916,
+                                "lat": 39.975707
+                            },
+                            "state": "PA"
+                        },
+                        {
+                            "city_state": "Springfield, PA",
+                            "city": "Springfield",
+                            "address1": "1260 E Woodland Ave Ste 200",
+                            "_geoloc": {
+                                "lng": -75.331108,
+                                "lat": 39.9095
+                            },
+                            "state": "PA"
+                        },
+                        {
+                            "city_state": "Broomall, PA",
+                            "city": "Broomall",
+                            "address1": "30 Lawrence Rd Ste 201",
+                            "_geoloc": {
+                                "lng": -75.338916,
+                                "lat": 39.975707
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "type": "doctor",
+                    "display_name": "Dr. Jaqueline L Scheier",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1923546\/photo.jpg"
+                        }
+                    },
+                    "degrees": [
+                        "DO"
+                    ],
+                    "url": "\/doctors\/Dr_Jaqueline_Scheier.html",
+                    "slug": "Dr_Jaqueline_Scheier.html"
+                },
+                "fields": {
+                    "distance": 9.32942010328792
+                },
+                "sort": [
+                    9.329884026414463
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1q7s08_doctor",
+                "_score": null,
+                "_source": {
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Family Medicine"
+                    ],
+                    "vpid": "1q7s08",
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/1q7s08\/jessica-schleusner",
+                            "slug": "1q7s08\/jessica-schleusner"
+                        }
+                    },
+                    "years_experience": 6,
+                    "city_state": "Springfield, PA",
+                    "degree": "DO",
+                    "locations": [
+                        {
+                            "city_state": "Downingtown, PA",
+                            "city": "Downingtown",
+                            "address1": "101 Manor Ave Ste 2",
+                            "_geoloc": {
+                                "lng": -75.707885,
+                                "lat": 40.006337
+                            },
+                            "state": "PA"
+                        },
+                        {
+                            "city_state": "Springfield, PA",
+                            "city": "Springfield",
+                            "address1": "1260 E Woodland Ave Ste 200",
+                            "_geoloc": {
+                                "lng": -75.331108,
+                                "lat": 39.9095
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "type": "doctor",
+                    "display_name": "Dr. Jessica D Schleusner",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [
+                        "DO"
+                    ],
+                    "url": "\/doctors\/1q7s08\/jessica-schleusner",
+                    "slug": "1q7s08\/jessica-schleusner"
+                },
+                "fields": {
+                    "distance": 9.32942010328792
+                },
+                "sort": [
+                    9.329884026414463
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1ry4c5_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1ry4c5",
+                    "city_state": "Springfield, PA",
+                    "degree": "",
+                    "type": "doctor",
+                    "display_name": "Christine M Donohue-Henry",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Family Medicine"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Christine_Donohue-Henry.html",
+                            "slug": "Dr_Christine_Donohue-Henry.html"
+                        }
+                    },
+                    "number_of_ratings": 8,
+                    "locations": [
+                        {
+                            "city_state": "Springfield, PA",
+                            "city": "Springfield",
+                            "address1": "1260 E Woodland Ave Ste 200",
+                            "_geoloc": {
+                                "lng": -75.331108,
+                                "lat": 39.9095
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 5,
+                    "url": "\/doctors\/Dr_Christine_Donohue-Henry.html",
+                    "slug": "Dr_Christine_Donohue-Henry.html"
+                },
+                "fields": {
+                    "distance": 9.32942010328792
+                },
+                "sort": [
+                    9.329884026414463
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1spj4w_doctor",
+                "_score": null,
+                "_source": {
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Family Medicine"
+                    ],
+                    "vpid": "1spj4w",
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/1spj4w\/tina-ahmadinejad",
+                            "slug": "1spj4w\/tina-ahmadinejad"
+                        }
+                    },
+                    "city_state": "Springfield, PA",
+                    "degree": "",
+                    "locations": [
+                        {
+                            "city_state": "Springfield, PA",
+                            "city": "Springfield",
+                            "address1": "1260 E Woodland Ave Ste 200",
+                            "_geoloc": {
+                                "lng": -75.331108,
+                                "lat": 39.9095
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "type": "doctor",
+                    "display_name": "Tina Ahmadinejad",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [],
+                    "url": "\/doctors\/1spj4w\/tina-ahmadinejad",
+                    "slug": "1spj4w\/tina-ahmadinejad"
+                },
+                "fields": {
+                    "distance": 9.32942010328792
+                },
+                "sort": [
+                    9.329884026414463
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1qh25s_doctor",
+                "_score": null,
+                "_source": {
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Family Medicine"
+                    ],
+                    "vpid": "1qh25s",
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Marah_MattheusKairys.html",
+                            "slug": "Dr_Marah_MattheusKairys.html"
+                        }
+                    },
+                    "city_state": "Springfield, PA",
+                    "degree": "",
+                    "locations": [
+                        {
+                            "city_state": "Springfield, PA",
+                            "city": "Springfield",
+                            "address1": "1260 E Woodland Ave Ste 200",
+                            "_geoloc": {
+                                "lng": -75.331108,
+                                "lat": 39.9095
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "type": "doctor",
+                    "display_name": "Marah Mattheus-Kairys",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [],
+                    "url": "\/doctors\/Dr_Marah_MattheusKairys.html",
+                    "slug": "Dr_Marah_MattheusKairys.html"
+                },
+                "fields": {
+                    "distance": 9.32942010328792
+                },
+                "sort": [
+                    9.329884026414463
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1rxt48_doctor",
+                "_score": null,
+                "_source": {
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Psychology"
+                    ],
+                    "vpid": "1rxt48",
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/1rxt48\/barry-jacobs",
+                            "slug": "1rxt48\/barry-jacobs"
+                        }
+                    },
+                    "years_experience": 29,
+                    "city_state": "Springfield, PA",
+                    "degree": "PHD",
+                    "locations": [
+                        {
+                            "city_state": "Springfield, PA",
+                            "city": "Springfield",
+                            "address1": "1260 E Woodland Ave Ste 200",
+                            "_geoloc": {
+                                "lng": -75.331108,
+                                "lat": 39.9095
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "type": "doctor",
+                    "display_name": "Dr. Barry J Jacobs",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [
+                        "PHD"
+                    ],
+                    "url": "\/doctors\/1rxt48\/barry-jacobs",
+                    "slug": "1rxt48\/barry-jacobs"
+                },
+                "fields": {
+                    "distance": 9.32942010328792
+                },
+                "sort": [
+                    9.329884026414463
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1q9qjs_doctor",
+                "_score": null,
+                "_source": {
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Family Medicine"
+                    ],
+                    "vpid": "1q9qjs",
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/1q9qjs\/elise-hogan",
+                            "slug": "1q9qjs\/elise-hogan"
+                        }
+                    },
+                    "years_experience": 7,
+                    "city_state": "Springfield, PA",
+                    "degree": "MD",
+                    "locations": [
+                        {
+                            "city_state": "Springfield, PA",
+                            "city": "Springfield",
+                            "address1": "1260 E Woodland Ave Ste 200",
+                            "_geoloc": {
+                                "lng": -75.331108,
+                                "lat": 39.9095
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "type": "doctor",
+                    "display_name": "Dr. Elise C Hogan",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1923532\/photo.jpg"
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "url": "\/doctors\/1q9qjs\/elise-hogan",
+                    "slug": "1q9qjs\/elise-hogan"
+                },
+                "fields": {
+                    "distance": 9.32942010328792
+                },
+                "sort": [
+                    9.329884026414463
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1nrq9x_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1nrq9x",
+                    "years_experience": 20,
+                    "city_state": "Springfield, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Genevieve M Minick",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Family Medicine"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Genevieve_Minick.html",
+                            "slug": "Dr_Genevieve_Minick.html"
+                        }
+                    },
+                    "number_of_ratings": 2,
+                    "locations": [
+                        {
+                            "city_state": "Springfield, PA",
+                            "city": "Springfield",
+                            "address1": "1260 E Woodland Ave Ste 200",
+                            "_geoloc": {
+                                "lng": -75.331108,
+                                "lat": 39.9095
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 1,
+                    "url": "\/doctors\/Dr_Genevieve_Minick.html",
+                    "slug": "Dr_Genevieve_Minick.html"
+                },
+                "fields": {
+                    "distance": 9.32942010328792
+                },
+                "sort": [
+                    9.329884026414463
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1nnnyf_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1nnnyf",
+                    "years_experience": 31,
+                    "city_state": "Springfield, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. William J Warning II",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1938975\/photo.jpg"
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Sports Medicine",
+                        "Family Medicine"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_William_Warning.html",
+                            "slug": "Dr_William_Warning.html"
+                        }
+                    },
+                    "number_of_ratings": 3,
+                    "locations": [
+                        {
+                            "city_state": "Springfield, PA",
+                            "city": "Springfield",
+                            "address1": "1260 E Woodland Ave Ste 200",
+                            "_geoloc": {
+                                "lng": -75.331108,
+                                "lat": 39.9095
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 5,
+                    "url": "\/doctors\/Dr_William_Warning.html",
+                    "slug": "Dr_William_Warning.html"
+                },
+                "fields": {
+                    "distance": 9.32942010328792
+                },
+                "sort": [
+                    9.329884026414463
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1w8b1b_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1w8b1b",
+                    "years_experience": 19,
+                    "city_state": "Philadelphia, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. David R Goldstein",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Obstetrics and Gynecology"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_David_R_Goldstein.html",
+                            "slug": "Dr_David_R_Goldstein.html"
+                        }
+                    },
+                    "number_of_ratings": 22,
+                    "locations": [
+                        {
+                            "city_state": "Philadelphia, PA",
+                            "city": "Philadelphia",
+                            "address1": "7901 Bustleton Ave Ste 101",
+                            "_geoloc": {
+                                "lng": -75.052905,
+                                "lat": 40.056621
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 4.666666666666667,
+                    "url": "\/doctors\/Dr_David_R_Goldstein.html",
+                    "slug": "Dr_David_R_Goldstein.html"
+                },
+                "fields": {
+                    "distance": 9.330467890650416
+                },
+                "sort": [
+                    9.330927161789784
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1p7q5k_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1p7q5k",
+                    "years_experience": 47,
+                    "city_state": "Philadelphia, PA",
+                    "degree": "DO",
+                    "type": "doctor",
+                    "display_name": "Dr. Gary D Yeoman",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [
+                        "DO"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Internal Medicine"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Gary_Yeoman.html",
+                            "slug": "Dr_Gary_Yeoman.html"
+                        }
+                    },
+                    "number_of_ratings": 24,
+                    "locations": [
+                        {
+                            "city_state": "Philadelphia, PA",
+                            "city": "Philadelphia",
+                            "address1": "7901 Bustleton Ave Ste 201",
+                            "_geoloc": {
+                                "lng": -75.052905,
+                                "lat": 40.056621
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 2.861111111111112,
+                    "url": "\/doctors\/Dr_Gary_Yeoman.html",
+                    "slug": "Dr_Gary_Yeoman.html"
+                },
+                "fields": {
+                    "distance": 9.330467890650416
+                },
+                "sort": [
+                    9.330927161789784
+                ]
+            }
+        ]
+    },
+    "aggregations": {
+        "satisfaction.accurate_diagnosis": {
+            "buckets": {
+                "good": {
+                    "from": 3.5,
+                    "doc_count": 0
+                }
+            }
+        },
+        "overall_range": {
+            "doc_count": 7275
+        },
+        "satisfaction.bedside_manner": {
+            "buckets": {
+                "good": {
+                    "from": 3.5,
+                    "doc_count": 0
+                }
+            }
+        },
+        "satisfaction.punctuality": {
+            "buckets": {
+                "good": {
+                    "from": 3.5,
+                    "doc_count": 0
+                }
+            }
+        },
+        "display_types": {
+            "doc_count_error_upper_bound": 0,
+            "sum_other_doc_count": 0,
+            "buckets": [
+                {
+                    "key": "Doctor",
+                    "doc_count": 9616
+                },
+                {
+                    "key": "Group Practice",
+                    "doc_count": 680
+                },
+                {
+                    "key": "Chiropractor",
+                    "doc_count": 371
+                },
+                {
+                    "key": "Podiatrist",
+                    "doc_count": 310
+                },
+                {
+                    "key": "Optometrist",
+                    "doc_count": 292
+                },
+                {
+                    "key": "Psychologist",
+                    "doc_count": 279
+                },
+                {
+                    "key": "Dentist",
+                    "doc_count": 60
+                },
+                {
+                    "key": "Hospital",
+                    "doc_count": 26
+                },
+                {
+                    "key": "Nursing Home",
+                    "doc_count": 2
+                },
+                {
+                    "key": "Cancer Center",
+                    "doc_count": 1
+                },
+                {
+                    "key": "Pharmacy",
+                    "doc_count": 1
+                }
+            ]
+        },
+        "insurance_companies": {
+            "doc_count_error_upper_bound": 0,
+            "sum_other_doc_count": 0,
+            "buckets": [
+                {
+                    "key": "Aetna",
+                    "doc_count": 11304
+                },
+                {
+                    "key": "United Healthcare",
+                    "doc_count": 10301
+                },
+                {
+                    "key": "BCBS Blue Card",
+                    "doc_count": 9724
+                },
+                {
+                    "key": "IBC",
+                    "doc_count": 9616
+                },
+                {
+                    "key": "Cigna",
+                    "doc_count": 8995
+                },
+                {
+                    "key": "Coventry Health Care",
+                    "doc_count": 8567
+                },
+                {
+                    "key": "Multiplan",
+                    "doc_count": 7792
+                },
+                {
+                    "key": "Humana",
+                    "doc_count": 5854
+                },
+                {
+                    "key": "Capital Blue Cross",
+                    "doc_count": 5649
+                },
+                {
+                    "key": "Horizon BCBS",
+                    "doc_count": 5553
+                },
+                {
+                    "key": "First Health",
+                    "doc_count": 5330
+                },
+                {
+                    "key": "QualCare",
+                    "doc_count": 4110
+                },
+                {
+                    "key": "Geisinger Health Plan",
+                    "doc_count": 2742
+                },
+                {
+                    "key": "Oxford Health",
+                    "doc_count": 1840
+                },
+                {
+                    "key": "HIP of NY",
+                    "doc_count": 1484
+                },
+                {
+                    "key": "UPMC Health Plan",
+                    "doc_count": 320
+                },
+                {
+                    "key": "CareFirst BCBS",
+                    "doc_count": 288
+                },
+                {
+                    "key": "Highmark BCBS",
+                    "doc_count": 265
+                },
+                {
+                    "key": "Empire BCBS",
+                    "doc_count": 140
+                },
+                {
+                    "key": "Anthem",
+                    "doc_count": 115
+                },
+                {
+                    "key": "Capital District Physicians Health Plan",
+                    "doc_count": 104
+                },
+                {
+                    "key": "BCBS Massachusetts",
+                    "doc_count": 90
+                },
+                {
+                    "key": "Connecticare",
+                    "doc_count": 69
+                },
+                {
+                    "key": "BCBS Illinois",
+                    "doc_count": 62
+                },
+                {
+                    "key": "Assurant",
+                    "doc_count": 56
+                },
+                {
+                    "key": "Guardian Dental",
+                    "doc_count": 55
+                },
+                {
+                    "key": "Principal Dental",
+                    "doc_count": 53
+                },
+                {
+                    "key": "Cigna Dental",
+                    "doc_count": 51
+                },
+                {
+                    "key": "Delta Dental",
+                    "doc_count": 51
+                },
+                {
+                    "key": "United Concordia",
+                    "doc_count": 51
+                },
+                {
+                    "key": "Ameritas",
+                    "doc_count": 49
+                },
+                {
+                    "key": "Dental Network of America",
+                    "doc_count": 49
+                },
+                {
+                    "key": "MetLife",
+                    "doc_count": 47
+                },
+                {
+                    "key": "DenteMax",
+                    "doc_count": 44
+                },
+                {
+                    "key": "MVP Health Plan",
+                    "doc_count": 44
+                },
+                {
+                    "key": "United Healthcare Dental",
+                    "doc_count": 44
+                },
+                {
+                    "key": "CompBenefits",
+                    "doc_count": 39
+                },
+                {
+                    "key": "Harvard Pilgrim",
+                    "doc_count": 39
+                },
+                {
+                    "key": "Humana Dental",
+                    "doc_count": 38
+                },
+                {
+                    "key": "HealthFirst NY",
+                    "doc_count": 36
+                },
+                {
+                    "key": "Blue Cross California",
+                    "doc_count": 31
+                },
+                {
+                    "key": "BCBS Florida",
+                    "doc_count": 28
+                },
+                {
+                    "key": "Medical Mutual of Ohio",
+                    "doc_count": 28
+                },
+                {
+                    "key": "Health Net",
+                    "doc_count": 26
+                },
+                {
+                    "key": "Tufts Health Plan",
+                    "doc_count": 26
+                },
+                {
+                    "key": "Emblem Health",
+                    "doc_count": 23
+                },
+                {
+                    "key": "Excellus BCBS",
+                    "doc_count": 23
+                },
+                {
+                    "key": "AvMed Health",
+                    "doc_count": 17
+                },
+                {
+                    "key": "Regence Health Plans",
+                    "doc_count": 17
+                },
+                {
+                    "key": "Sagamore Health",
+                    "doc_count": 17
+                },
+                {
+                    "key": "UHC of the River Valley",
+                    "doc_count": 17
+                },
+                {
+                    "key": "Blue Shield California",
+                    "doc_count": 16
+                },
+                {
+                    "key": "ODS",
+                    "doc_count": 14
+                },
+                {
+                    "key": "Premera",
+                    "doc_count": 14
+                },
+                {
+                    "key": "Independent Health",
+                    "doc_count": 13
+                },
+                {
+                    "key": "BCBS Texas",
+                    "doc_count": 12
+                },
+                {
+                    "key": "SIHO Insurance Services",
+                    "doc_count": 12
+                },
+                {
+                    "key": "HealthSpan",
+                    "doc_count": 11
+                },
+                {
+                    "key": "BCBS North Carolina",
+                    "doc_count": 10
+                },
+                {
+                    "key": "Optima Health",
+                    "doc_count": 10
+                },
+                {
+                    "key": "BCBS Georgia",
+                    "doc_count": 9
+                },
+                {
+                    "key": "Centene",
+                    "doc_count": 9
+                },
+                {
+                    "key": "HealthLink",
+                    "doc_count": 9
+                },
+                {
+                    "key": "BCBS Michigan",
+                    "doc_count": 8
+                },
+                {
+                    "key": "Encore Health Network",
+                    "doc_count": 8
+                },
+                {
+                    "key": "Ambetter Superior Health Plan",
+                    "doc_count": 7
+                },
+                {
+                    "key": "BCBS Rhode Island",
+                    "doc_count": 7
+                },
+                {
+                    "key": "PriorityHealth",
+                    "doc_count": 7
+                },
+                {
+                    "key": "Aetna Innovation Health",
+                    "doc_count": 6
+                },
+                {
+                    "key": "Health Alliance",
+                    "doc_count": 6
+                },
+                {
+                    "key": "Premier Health Plan",
+                    "doc_count": 6
+                },
+                {
+                    "key": "Wellmark",
+                    "doc_count": 6
+                },
+                {
+                    "key": "BCBS South Carolina",
+                    "doc_count": 5
+                },
+                {
+                    "key": "Healthy Connecticut",
+                    "doc_count": 5
+                },
+                {
+                    "key": "PHP Northern IN",
+                    "doc_count": 5
+                },
+                {
+                    "key": "SummaCare",
+                    "doc_count": 5
+                },
+                {
+                    "key": "WPS",
+                    "doc_count": 5
+                },
+                {
+                    "key": "Altius",
+                    "doc_count": 4
+                },
+                {
+                    "key": "BCBS Kansas City",
+                    "doc_count": 4
+                },
+                {
+                    "key": "BCBS Minnesota",
+                    "doc_count": 4
+                },
+                {
+                    "key": "Common Ground",
+                    "doc_count": 4
+                },
+                {
+                    "key": "HAP",
+                    "doc_count": 4
+                },
+                {
+                    "key": "Molina Healthcare",
+                    "doc_count": 4
+                },
+                {
+                    "key": "PacificSource",
+                    "doc_count": 4
+                },
+                {
+                    "key": "SelectHealth",
+                    "doc_count": 4
+                },
+                {
+                    "key": "BCBS Tennessee",
+                    "doc_count": 3
+                },
+                {
+                    "key": "Providence Health System",
+                    "doc_count": 3
+                },
+                {
+                    "key": "The Health Plan of Upper OH",
+                    "doc_count": 3
+                },
+                {
+                    "key": "BCBS Alabama",
+                    "doc_count": 2
+                },
+                {
+                    "key": "BCBS New Mexico",
+                    "doc_count": 2
+                },
+                {
+                    "key": "HealthPartners - MN",
+                    "doc_count": 2
+                },
+                {
+                    "key": "Indiana University",
+                    "doc_count": 2
+                },
+                {
+                    "key": "Preferred One",
+                    "doc_count": 2
+                },
+                {
+                    "key": "Presbyterian",
+                    "doc_count": 2
+                },
+                {
+                    "key": "Aultcare",
+                    "doc_count": 1
+                },
+                {
+                    "key": "BCBS Louisiana",
+                    "doc_count": 1
+                },
+                {
+                    "key": "BCBS Oklahoma",
+                    "doc_count": 1
+                },
+                {
+                    "key": "FirstCare",
+                    "doc_count": 1
+                },
+                {
+                    "key": "FrontPath Health Coalition",
+                    "doc_count": 1
+                },
+                {
+                    "key": "Group Health Coop",
+                    "doc_count": 1
+                },
+                {
+                    "key": "Gundersen Health Plan",
+                    "doc_count": 1
+                },
+                {
+                    "key": "Health Plan of Nevada",
+                    "doc_count": 1
+                },
+                {
+                    "key": "Kaiser - MidAtlantic",
+                    "doc_count": 1
+                },
+                {
+                    "key": "LA Care Health",
+                    "doc_count": 1
+                },
+                {
+                    "key": "Network Health Plan",
+                    "doc_count": 1
+                },
+                {
+                    "key": "One Health Network",
+                    "doc_count": 1
+                },
+                {
+                    "key": "Paramount",
+                    "doc_count": 1
+                },
+                {
+                    "key": "Qualchoice",
+                    "doc_count": 1
+                },
+                {
+                    "key": "Scion Dental",
+                    "doc_count": 1
+                },
+                {
+                    "key": "Sierra Health",
+                    "doc_count": 1
+                }
+            ]
+        },
+        "ratings": {
+            "buckets": [
+                {
+                    "key": "any",
+                    "doc_count": 9616
+                },
+                {
+                    "key": "3",
+                    "from": 3,
+                    "doc_count": 6688
+                },
+                {
+                    "key": "4",
+                    "from": 4,
+                    "doc_count": 4779
+                },
+                {
+                    "key": "5",
+                    "from": 5,
+                    "doc_count": 1531
+                }
+            ]
+        },
+        "experience_range": {
+            "buckets": [
+                {
+                    "key": "Any",
+                    "doc_count": 9616
+                },
+                {
+                    "key": "0 - 5",
+                    "from": 0,
+                    "to": 6,
+                    "doc_count": 0
+                },
+                {
+                    "key": "5 - 10",
+                    "from": 5,
+                    "to": 11,
+                    "doc_count": 608
+                },
+                {
+                    "key": "11 - 15",
+                    "from": 11,
+                    "to": 16,
+                    "doc_count": 921
+                },
+                {
+                    "key": "16 - 20",
+                    "from": 16,
+                    "to": 21,
+                    "doc_count": 1028
+                },
+                {
+                    "key": "21 - 25",
+                    "from": 21,
+                    "to": 26,
+                    "doc_count": 883
+                },
+                {
+                    "key": "26 - 30",
+                    "from": 26,
+                    "to": 31,
+                    "doc_count": 760
+                },
+                {
+                    "key": "30+",
+                    "from": 30,
+                    "doc_count": 2900
+                }
+            ]
+        }
+    },
+    "status": 200,
+    "distanceLimitedNothingFound": false,
+    "query": "",
+    "radiusUsed": 25,
+    "reqNo": "1",
+    "sponsors": [
+        {
+            "campaign_name": "webmd_ep",
+            "targeting": {
+                "locations": [
+                    {
+                        "city_state": "Philadelphia, PA",
+                        "geopoint": [
+                            [
+                                -75.160429,
+                                39.94866
+                            ]
+                        ]
+                    }
+                ],
+                "sponsor_id": "xx"
+            },
+            "search": {
+                "search_city_state": "Philadelphia, PA",
+                "search_specialties": "General Dentistry",
+                "locations": [
+                    {
+                        "city_state": "Philadelphia, PA",
+                        "geopoint": [
+                            [
+                                -75.160429,
+                                39.94866
+                            ]
+                        ]
+                    }
+                ],
+                "display_name": "Shireen  Malik"
+            },
+            "npi": "1518135805",
+            "external_id": "D83325",
+            "campaign_features": [
+                {
+                    "feature_name": "serp",
+                    "feature_config": {
+                        "specialty": "General Dentistry",
+                        "webmdSpecialtyId": [
+                            29245
+                        ],
+                        "city_state": "Philadelphia, PA",
+                        "profile_url": "\/dentists\/Dr_Shireen_Malik",
+                        "type": "dentist",
+                        "display_name": "Shireen  Malik",
+                        "photos": {
+                            "host": null,
+                            "uri": null
+                        },
+                        "ctas": {
+                            "appointment_url": "https:\/\/appointments.webmd.com\/path\/wmd-path1\/61fbb52a-c844-4904-ad23-dcc296781461"
+                        },
+                        "degrees": [
+                            "DDS"
+                        ],
+                        "display_type": "Dentist",
+                        "vitalsSpecialtyId": [
+                            294,
+                            296,
+                            297,
+                            300,
+                            303,
+                            306,
+                            307
+                        ],
+                        "specialties": [
+                            "General Dentistry"
+                        ],
+                        "number_of_ratings": 13,
+                        "company_name": null,
+                        "overall_rating": 4.3076923076923075
+                    }
+                }
+            ],
+            "url": "\/dentists\/Dr_Shireen_Malik",
+            "city_state": "Philadelphia, PA",
+            "geopoint": [
+                [
+                    -75.160429,
+                    39.94866
+                ]
+            ],
+            "geo_points": [
+                -75.160429,
+                39.94866
+            ],
+            "distance": 0.3
+        },
+        {
+            "campaign_name": "webmd_ep",
+            "targeting": {
+                "locations": [
+                    {
+                        "city_state": "Philadelphia, PA",
+                        "geopoint": [
+                            [
+                                -75.1741,
+                                39.9527
+                            ]
+                        ]
+                    },
+                    {
+                        "city_state": "Upper Darby, PA",
+                        "geopoint": [
+                            [
+                                -75.2629,
+                                39.9591
+                            ]
+                        ]
+                    }
+                ],
+                "sponsor_id": "xx"
+            },
+            "search": {
+                "search_city_state": "Philadelphia, PA Upper Darby, PA",
+                "search_specialties": "Addiction Medicine Physical Medicine\/Rehab Spec",
+                "locations": [
+                    {
+                        "city_state": "Philadelphia, PA",
+                        "geopoint": [
+                            [
+                                -75.1741,
+                                39.9527
+                            ]
+                        ]
+                    },
+                    {
+                        "city_state": "Upper Darby, PA",
+                        "geopoint": [
+                            [
+                                -75.2629,
+                                39.9591
+                            ]
+                        ]
+                    }
+                ],
+                "display_name": "Denis A Boyle Jr"
+            },
+            "npi": "1205920287",
+            "external_id": "153875",
+            "campaign_features": [
+                {
+                    "feature_name": "serp",
+                    "feature_config": {
+                        "specialty": "Addiction Medicine",
+                        "webmdSpecialtyId": [
+                            29230,
+                            29309
+                        ],
+                        "city_state": "Philadelphia, PA",
+                        "profile_url": "\/doctors\/Dr_Denis_Boyle.html",
+                        "type": "doctor",
+                        "display_name": "Denis A Boyle Jr",
+                        "photos": {
+                            "host": null,
+                            "uri": null
+                        },
+                        "ctas": {
+                            "appointment_url": "https:\/\/appointments.webmd.com\/path\/wmd-path1\/fb31da85-feb0-4bf4-9dc3-01678cfc8276"
+                        },
+                        "degrees": [
+                            "MD"
+                        ],
+                        "display_type": "Doctor",
+                        "vitalsSpecialtyId": [
+                            5,
+                            23,
+                            31,
+                            141,
+                            124,
+                            126,
+                            127,
+                            2018
+                        ],
+                        "specialties": [
+                            "Addiction Medicine",
+                            "Physical Medicine\/Rehab Spec"
+                        ],
+                        "number_of_ratings": 4,
+                        "company_name": null,
+                        "overall_rating": 5
+                    }
+                }
+            ],
+            "url": "\/doctors\/Dr_Denis_Boyle.html",
+            "city_state": "Philadelphia, PA",
+            "geopoint": [
+                [
+                    -75.1741,
+                    39.9527
+                ]
+            ],
+            "geo_points": [
+                -75.1741,
+                39.9527
+            ],
+            "distance": 0.6
+        },
+        {
+            "campaign_name": "webmd_ep",
+            "targeting": {
+                "locations": [
+                    {
+                        "city_state": "Ridley Park, PA",
+                        "geopoint": [
+                            [
+                                -75.3212,
+                                39.8791
+                            ]
+                        ]
+                    }
+                ],
+                "sponsor_id": "xx"
+            },
+            "search": {
+                "search_city_state": "Ridley Park, PA",
+                "search_specialties": "Family Practitioner Internal Medicine",
+                "locations": [
+                    {
+                        "city_state": "Ridley Park, PA",
+                        "geopoint": [
+                            [
+                                -75.3212,
+                                39.8791
+                            ]
+                        ]
+                    }
+                ],
+                "display_name": "Neeraj Tripathy"
+            },
+            "npi": "1972660975",
+            "external_id": "6302324",
+            "campaign_features": [
+                {
+                    "feature_name": "serp",
+                    "feature_config": {
+                        "specialty": "Family Practitioner",
+                        "webmdSpecialtyId": [
+                            29259,
+                            29277
+                        ],
+                        "city_state": "Ridley Park, PA",
+                        "profile_url": "\/doctors\/Dr_Neeraj_Tripathy.html",
+                        "type": "doctor",
+                        "display_name": "Neeraj Tripathy",
+                        "photos": {
+                            "host": null,
+                            "uri": null
+                        },
+                        "ctas": {
+                            "appointment_url": "https:\/\/appointments.webmd.com\/path\/wmd-path1\/e5a7bcd3-e5c7-416a-b7ab-65f40d7e3015"
+                        },
+                        "degrees": [
+                            "MD"
+                        ],
+                        "display_type": "Doctor",
+                        "vitalsSpecialtyId": [
+                            22,
+                            25,
+                            26,
+                            479,
+                            667,
+                            30,
+                            36,
+                            42,
+                            672,
+                            2005
+                        ],
+                        "specialties": [
+                            "Family Practitioner",
+                            "Internal Medicine"
+                        ],
+                        "number_of_ratings": 12,
+                        "company_name": null,
+                        "overall_rating": 4.63888888888889
+                    }
+                }
+            ],
+            "url": "\/doctors\/Dr_Neeraj_Tripathy.html",
+            "city_state": "Ridley Park, PA",
+            "geopoint": [
+                [
+                    -75.3212,
+                    39.8791
+                ]
+            ],
+            "geo_points": [
+                -75.3212,
+                39.8791
+            ],
+            "distance": 9.7
+        }
+    ]
+}

@@ -1,0 +1,2198 @@
+{
+    "took": 104,
+    "timed_out": false,
+    "_shards": {
+        "total": 2,
+        "successful": 2,
+        "skipped": 0,
+        "failed": 0
+    },
+    "hits": {
+        "total": 9616,
+        "max_score": null,
+        "hits": [
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1qhxxn_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1qhxxn",
+                    "years_experience": 25,
+                    "city_state": "Darby, PA",
+                    "degree": "DO",
+                    "type": "doctor",
+                    "display_name": "Dr. Joseph T Conroy",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [
+                        "DO"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Cardiovascular Disease",
+                        "Internal Medicine"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Joseph_Conroy_1.html",
+                            "slug": "Dr_Joseph_Conroy_1.html"
+                        }
+                    },
+                    "number_of_ratings": 1,
+                    "locations": [
+                        {
+                            "city_state": "Darby, PA",
+                            "city": "Darby",
+                            "address1": "1503 Lansdowne Ave Ste 3001",
+                            "_geoloc": {
+                                "lng": -75.267924,
+                                "lat": 39.92795
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 5,
+                    "url": "\/doctors\/Dr_Joseph_Conroy_1.html",
+                    "slug": "Dr_Joseph_Conroy_1.html"
+                },
+                "fields": {
+                    "distance": 5.75301911776694
+                },
+                "sort": [
+                    5.753308170639935
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1w31mm_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1w31mm",
+                    "city_state": "Darby, PA",
+                    "degree": "DO",
+                    "type": "doctor",
+                    "display_name": "Dr. Jammie E Menetrey",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [
+                        "DO"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Cardiovascular Disease",
+                        "Internal Medicine"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Jammie_Menetrey.html",
+                            "slug": "Dr_Jammie_Menetrey.html"
+                        }
+                    },
+                    "number_of_ratings": 5,
+                    "locations": [
+                        {
+                            "city_state": "Philadelphia, PA",
+                            "city": "Philadelphia",
+                            "address1": "5501 Old York Rd",
+                            "_geoloc": {
+                                "lng": -75.143213,
+                                "lat": 40.036789
+                            },
+                            "state": "PA"
+                        },
+                        {
+                            "city_state": "Darby, PA",
+                            "city": "Darby",
+                            "address1": "1503 Lansdowne Ave Ste 3001",
+                            "_geoloc": {
+                                "lng": -75.267924,
+                                "lat": 39.92795
+                            },
+                            "state": "PA"
+                        },
+                        {
+                            "city_state": "Philadelphia, PA",
+                            "city": "Philadelphia",
+                            "address1": "8012 Frankford Ave",
+                            "_geoloc": {
+                                "lng": -75.02794,
+                                "lat": 40.042087
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 3.6666666666666665,
+                    "url": "\/doctors\/Dr_Jammie_Menetrey.html",
+                    "slug": "Dr_Jammie_Menetrey.html"
+                },
+                "fields": {
+                    "distance": 5.75301911776694
+                },
+                "sort": [
+                    5.753308170639935
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1qg7m5_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1qg7m5",
+                    "city_state": "Darby, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Jacqueline K Genova",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1935312\/photo.jpg"
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Pediatrics"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Jacqueline_Genova.html",
+                            "slug": "Dr_Jacqueline_Genova.html"
+                        }
+                    },
+                    "number_of_ratings": 6,
+                    "locations": [
+                        {
+                            "city_state": "Darby, PA",
+                            "city": "Darby",
+                            "address1": "1503 Lansdowne Ave Ste 3002",
+                            "_geoloc": {
+                                "lng": -75.267924,
+                                "lat": 39.92795
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 4.111111111111113,
+                    "url": "\/doctors\/Dr_Jacqueline_Genova.html",
+                    "slug": "Dr_Jacqueline_Genova.html"
+                },
+                "fields": {
+                    "distance": 5.75301911776694
+                },
+                "sort": [
+                    5.753308170639935
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1px2xg_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1px2xg",
+                    "years_experience": 46,
+                    "city_state": "Darby, PA",
+                    "degree": "DO",
+                    "type": "doctor",
+                    "display_name": "Dr. Douglas L Keagle",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [
+                        "DO"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Internal Medicine"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Douglas_Keagle.html",
+                            "slug": "Dr_Douglas_Keagle.html"
+                        }
+                    },
+                    "number_of_ratings": 4,
+                    "locations": [
+                        {
+                            "city_state": "Darby, PA",
+                            "city": "Darby",
+                            "address1": "1501 Lansdowne Ave",
+                            "_geoloc": {
+                                "lng": -75.267675,
+                                "lat": 39.927127
+                            },
+                            "state": "PA"
+                        },
+                        {
+                            "city_state": "Darby, PA",
+                            "city": "Darby",
+                            "address1": "1503 Lansdowne Ave",
+                            "_geoloc": {
+                                "lng": -75.267924,
+                                "lat": 39.92795
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 5,
+                    "url": "\/doctors\/Dr_Douglas_Keagle.html",
+                    "slug": "Dr_Douglas_Keagle.html"
+                },
+                "fields": {
+                    "distance": 5.75301911776694
+                },
+                "sort": [
+                    5.753308170639935
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1xjcjg_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1xjcjg",
+                    "city_state": "Darby, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Devender N Akula",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1930701\/photo.jpg"
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Clinical Cardiac Electrophysiology",
+                        "Cardiovascular Disease",
+                        "Internal Medicine"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Devender_Akula.html",
+                            "slug": "Dr_Devender_Akula.html"
+                        }
+                    },
+                    "number_of_ratings": 6,
+                    "locations": [
+                        {
+                            "city_state": "Cherry Hill, NJ",
+                            "city": "Cherry Hill",
+                            "address1": "63 Kresson Rd Ste 101",
+                            "_geoloc": {
+                                "lng": -75.020033,
+                                "lat": 39.894651
+                            },
+                            "state": "NJ"
+                        },
+                        {
+                            "city_state": "Darby, PA",
+                            "city": "Darby",
+                            "address1": "1503 Lansdowne Ave Ste 3001",
+                            "_geoloc": {
+                                "lng": -75.267924,
+                                "lat": 39.92795
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 4.611111111111112,
+                    "url": "\/doctors\/Dr_Devender_Akula.html",
+                    "slug": "Dr_Devender_Akula.html"
+                },
+                "fields": {
+                    "distance": 5.75301911776694
+                },
+                "sort": [
+                    5.753308170639935
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1t4fx3_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1t4fx3",
+                    "years_experience": 36,
+                    "city_state": "Darby, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Jennifer S Buchanan",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1857779\/photo.jpg"
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Pediatrics"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Jennifer_Diaz-Arrastia.html",
+                            "slug": "Dr_Jennifer_Diaz-Arrastia.html"
+                        }
+                    },
+                    "number_of_ratings": 3,
+                    "locations": [
+                        {
+                            "city_state": "Silver Spring, MD",
+                            "city": "Silver Spring",
+                            "address1": "2401 Blueridge Ave Ste 200",
+                            "_geoloc": {
+                                "lng": -77.050235,
+                                "lat": 39.0432
+                            },
+                            "state": "MD"
+                        },
+                        {
+                            "city_state": "Philadelphia, PA",
+                            "city": "Philadelphia",
+                            "address1": "9122 Frankford Ave",
+                            "_geoloc": {
+                                "lng": -75.007406,
+                                "lat": 40.053129
+                            },
+                            "state": "PA"
+                        },
+                        {
+                            "city_state": "Darby, PA",
+                            "city": "Darby",
+                            "address1": "1503 Lansdowne Ave Ste 3002",
+                            "_geoloc": {
+                                "lng": -75.267924,
+                                "lat": 39.92795
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 4.222222222222227,
+                    "url": "\/doctors\/Dr_Jennifer_Diaz-Arrastia.html",
+                    "slug": "Dr_Jennifer_Diaz-Arrastia.html"
+                },
+                "fields": {
+                    "distance": 5.75301911776694
+                },
+                "sort": [
+                    5.753308170639935
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1rm2nc_doctor",
+                "_score": null,
+                "_source": {
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Cardiovascular Disease",
+                        "Internal Medicine"
+                    ],
+                    "vpid": "1rm2nc",
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Marino_Leonardi.html",
+                            "slug": "Dr_Marino_Leonardi.html"
+                        }
+                    },
+                    "city_state": "Darby, PA",
+                    "degree": "MD",
+                    "locations": [
+                        {
+                            "city_state": "Darby, PA",
+                            "city": "Darby",
+                            "address1": "1503 Lansdowne Ave Ste 3001",
+                            "_geoloc": {
+                                "lng": -75.267924,
+                                "lat": 39.92795
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "type": "doctor",
+                    "display_name": "Dr. Marino Leonardi",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1862993\/photo.jpg"
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "url": "\/doctors\/Dr_Marino_Leonardi.html",
+                    "slug": "Dr_Marino_Leonardi.html"
+                },
+                "fields": {
+                    "distance": 5.75301911776694
+                },
+                "sort": [
+                    5.753308170639935
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1tdxs7_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1tdxs7",
+                    "years_experience": 15,
+                    "city_state": "Darby, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Shelley Oxenhorn",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Child and Adolescent Psychiatry",
+                        "Adolescent Medicine",
+                        "Psychiatry"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Shelley_Oxenhorn.html",
+                            "slug": "Dr_Shelley_Oxenhorn.html"
+                        }
+                    },
+                    "number_of_ratings": 3,
+                    "locations": [
+                        {
+                            "city_state": "Philadelphia, PA",
+                            "city": "Philadelphia",
+                            "address1": "5501 Old York Rd",
+                            "_geoloc": {
+                                "lng": -75.143213,
+                                "lat": 40.036789
+                            },
+                            "state": "PA"
+                        },
+                        {
+                            "city_state": "Darby, PA",
+                            "city": "Darby",
+                            "address1": "1503 Lansdowne Ave Ste 3005",
+                            "_geoloc": {
+                                "lng": -75.267924,
+                                "lat": 39.92795
+                            },
+                            "state": "PA"
+                        },
+                        {
+                            "city_state": "Langhorne, PA",
+                            "city": "Langhorne",
+                            "address1": "1517 Durham Rd",
+                            "_geoloc": {
+                                "lng": -74.892519,
+                                "lat": 40.147941
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 3.6666666666666665,
+                    "url": "\/doctors\/Dr_Shelley_Oxenhorn.html",
+                    "slug": "Dr_Shelley_Oxenhorn.html"
+                },
+                "fields": {
+                    "distance": 5.75301911776694
+                },
+                "sort": [
+                    5.753308170639935
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1th74q_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1th74q",
+                    "years_experience": 25,
+                    "city_state": "Darby, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Tushar Sarker",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Psychiatry",
+                        "Neurology"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Tushar_Sarker.html",
+                            "slug": "Dr_Tushar_Sarker.html"
+                        }
+                    },
+                    "number_of_ratings": 5,
+                    "locations": [
+                        {
+                            "city_state": "Darby, PA",
+                            "city": "Darby",
+                            "address1": "1503 Lansdowne Ave Ste 3005",
+                            "_geoloc": {
+                                "lng": -75.267924,
+                                "lat": 39.92795
+                            },
+                            "state": "PA"
+                        },
+                        {
+                            "city_state": "Sharon Hill, PA",
+                            "city": "Sharon Hill",
+                            "address1": "800 Chester Pike Ste A",
+                            "_geoloc": {
+                                "lng": -75.269998,
+                                "lat": 39.911704
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 3.4,
+                    "url": "\/doctors\/Dr_Tushar_Sarker.html",
+                    "slug": "Dr_Tushar_Sarker.html"
+                },
+                "fields": {
+                    "distance": 5.75301911776694
+                },
+                "sort": [
+                    5.753308170639935
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1rymj3_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1rymj3",
+                    "years_experience": 43,
+                    "city_state": "Darby, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. John D Blannett",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Cardiovascular Disease",
+                        "Internal Medicine"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_John_Blannett.html",
+                            "slug": "Dr_John_Blannett.html"
+                        }
+                    },
+                    "number_of_ratings": 1,
+                    "locations": [
+                        {
+                            "city_state": "Darby, PA",
+                            "city": "Darby",
+                            "address1": "1503 Lansdowne Ave Ste 3001",
+                            "_geoloc": {
+                                "lng": -75.267924,
+                                "lat": 39.92795
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 5,
+                    "url": "\/doctors\/Dr_John_Blannett.html",
+                    "slug": "Dr_John_Blannett.html"
+                },
+                "fields": {
+                    "distance": 5.75301911776694
+                },
+                "sort": [
+                    5.753308170639935
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1w097s_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1w097s",
+                    "years_experience": 29,
+                    "city_state": "Darby, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Richard H Hunn",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1851576\/photo.jpg"
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Cardiovascular Disease",
+                        "Internal Medicine"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Richard_Hunn.html",
+                            "slug": "Dr_Richard_Hunn.html"
+                        }
+                    },
+                    "number_of_ratings": 5,
+                    "locations": [
+                        {
+                            "city_state": "Darby, PA",
+                            "city": "Darby",
+                            "address1": "1503 Lansdowne Ave Ste 3001",
+                            "_geoloc": {
+                                "lng": -75.267924,
+                                "lat": 39.92795
+                            },
+                            "state": "PA"
+                        },
+                        {
+                            "city_state": "Springfield, PA",
+                            "city": "Springfield",
+                            "address1": "1001 Baltimore Pike",
+                            "_geoloc": {
+                                "lng": -75.341604,
+                                "lat": 39.913496
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 4.8,
+                    "url": "\/doctors\/Dr_Richard_Hunn.html",
+                    "slug": "Dr_Richard_Hunn.html"
+                },
+                "fields": {
+                    "distance": 5.75301911776694
+                },
+                "sort": [
+                    5.753308170639935
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1qc9gj_doctor",
+                "_score": null,
+                "_source": {
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Pediatrics"
+                    ],
+                    "vpid": "1qc9gj",
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/1qc9gj\/joanne-alfandre",
+                            "slug": "1qc9gj\/joanne-alfandre"
+                        }
+                    },
+                    "city_state": "Darby, PA",
+                    "degree": "MD",
+                    "locations": [
+                        {
+                            "city_state": "Darby, PA",
+                            "city": "Darby",
+                            "address1": "1503 Lansdowne Ave Ste 3002",
+                            "_geoloc": {
+                                "lng": -75.267924,
+                                "lat": 39.92795
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "type": "doctor",
+                    "display_name": "Dr. Joanne H Alfandre",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "url": "\/doctors\/1qc9gj\/joanne-alfandre",
+                    "slug": "1qc9gj\/joanne-alfandre"
+                },
+                "fields": {
+                    "distance": 5.75301911776694
+                },
+                "sort": [
+                    5.753308170639935
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1pw4ws_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1pw4ws",
+                    "city_state": "Darby, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Bharti Asnani",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Infectious Disease",
+                        "Internal Medicine"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Bharti_Asnani.html",
+                            "slug": "Dr_Bharti_Asnani.html"
+                        }
+                    },
+                    "number_of_ratings": 5,
+                    "locations": [
+                        {
+                            "city_state": "Darby, PA",
+                            "city": "Darby",
+                            "address1": "1503 Lansdowne Ave Ste 3010",
+                            "_geoloc": {
+                                "lng": -75.267924,
+                                "lat": 39.92795
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 3,
+                    "url": "\/doctors\/Dr_Bharti_Asnani.html",
+                    "slug": "Dr_Bharti_Asnani.html"
+                },
+                "fields": {
+                    "distance": 5.75301911776694
+                },
+                "sort": [
+                    5.753308170639935
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1twp70_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1twp70",
+                    "city_state": "Merchantville, NJ",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. David Markowitz",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Physical Medicine and Rehabilitation"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_David_Markowitz_2.html",
+                            "slug": "Dr_David_Markowitz_2.html"
+                        }
+                    },
+                    "number_of_ratings": 2,
+                    "locations": [
+                        {
+                            "city_state": "Merchantville, NJ",
+                            "city": "Merchantville",
+                            "address1": "104 W Maple Ave",
+                            "_geoloc": {
+                                "lng": -75.055169,
+                                "lat": 39.949365
+                            },
+                            "state": "NJ"
+                        }
+                    ],
+                    "overall_rating": 3,
+                    "url": "\/doctors\/Dr_David_Markowitz_2.html",
+                    "slug": "Dr_David_Markowitz_2.html"
+                },
+                "fields": {
+                    "distance": 5.756138939527617
+                },
+                "sort": [
+                    5.756420057588698
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1xk3xd_doctor",
+                "_score": null,
+                "_source": {
+                    "display_type": "Doctor",
+                    "vpid": "1xk3xd",
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Orville_Domingo.html",
+                            "slug": "Dr_Orville_Domingo.html"
+                        }
+                    },
+                    "city_state": "Darby, PA",
+                    "number_of_ratings": 1,
+                    "degree": "",
+                    "locations": [
+                        {
+                            "city_state": "Darby, PA",
+                            "city": "Darby",
+                            "address1": "1501 Lansdowne Ave Ste 207",
+                            "_geoloc": {
+                                "lng": -75.267675,
+                                "lat": 39.927127
+                            },
+                            "state": "PA"
+                        },
+                        {
+                            "city_state": "Aldan, PA",
+                            "city": "Aldan",
+                            "address1": "772 E Providence Rd",
+                            "_geoloc": {
+                                "lng": -75.273933,
+                                "lat": 39.928247
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 5,
+                    "type": "doctor",
+                    "display_name": "Orville H Domingo",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [],
+                    "url": "\/doctors\/Dr_Orville_Domingo.html",
+                    "slug": "Dr_Orville_Domingo.html"
+                },
+                "fields": {
+                    "distance": 5.756876795140356
+                },
+                "sort": [
+                    5.75716425504969
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1ntn07_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1ntn07",
+                    "city_state": "Darby, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Ali S Ahmadinejad",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Surgery"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Ali_Ahmadinejad.html",
+                            "slug": "Dr_Ali_Ahmadinejad.html"
+                        }
+                    },
+                    "number_of_ratings": 1,
+                    "locations": [
+                        {
+                            "city_state": "Darby, PA",
+                            "city": "Darby",
+                            "address1": "1501 Lansdowne Ave Ste 307",
+                            "_geoloc": {
+                                "lng": -75.267675,
+                                "lat": 39.927127
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 5,
+                    "url": "\/doctors\/Dr_Ali_Ahmadinejad.html",
+                    "slug": "Dr_Ali_Ahmadinejad.html"
+                },
+                "fields": {
+                    "distance": 5.756876795140356
+                },
+                "sort": [
+                    5.75716425504969
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1t5w20_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1t5w20",
+                    "city_state": "Darby, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Bezarel M Banadda",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Internal Medicine"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Bezarel_Banadda.html",
+                            "slug": "Dr_Bezarel_Banadda.html"
+                        }
+                    },
+                    "number_of_ratings": 20,
+                    "locations": [
+                        {
+                            "city_state": "Darby, PA",
+                            "city": "Darby",
+                            "address1": "1501 Lansdowne Ave Ste 308",
+                            "_geoloc": {
+                                "lng": -75.267675,
+                                "lat": 39.927127
+                            },
+                            "state": "PA"
+                        },
+                        {
+                            "city_state": "Aldan, PA",
+                            "city": "Aldan",
+                            "address1": "770 E Providence Rd Ste 112",
+                            "_geoloc": {
+                                "lng": -75.27341,
+                                "lat": 39.927303
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 3.5,
+                    "url": "\/doctors\/Dr_Bezarel_Banadda.html",
+                    "slug": "Dr_Bezarel_Banadda.html"
+                },
+                "fields": {
+                    "distance": 5.756876795140356
+                },
+                "sort": [
+                    5.75716425504969
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1tz5j5_doctor",
+                "_score": null,
+                "_source": {
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Podiatry",
+                        "Foot and Ankle Surgery"
+                    ],
+                    "vpid": "1tz5j5",
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/1tz5j5\/william-urbas",
+                            "slug": "1tz5j5\/william-urbas"
+                        }
+                    },
+                    "years_experience": 35,
+                    "city_state": "Darby, PA",
+                    "degree": "DPM",
+                    "locations": [
+                        {
+                            "city_state": "Sewell, NJ",
+                            "city": "Sewell",
+                            "address1": "11 Lamson Ln",
+                            "_geoloc": {
+                                "lng": -75.071368,
+                                "lat": 39.755178
+                            },
+                            "state": "NJ"
+                        },
+                        {
+                            "city_state": "Darby, PA",
+                            "city": "Darby",
+                            "address1": "1501 Lansdowne Ave Ste 309",
+                            "_geoloc": {
+                                "lng": -75.267675,
+                                "lat": 39.927127
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "type": "doctor",
+                    "display_name": "Dr. William M Urbas",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [
+                        "DPM"
+                    ],
+                    "url": "\/doctors\/1tz5j5\/william-urbas",
+                    "slug": "1tz5j5\/william-urbas"
+                },
+                "fields": {
+                    "distance": 5.756876795140356
+                },
+                "sort": [
+                    5.75716425504969
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1sndhj_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1sndhj",
+                    "years_experience": 13,
+                    "city_state": "Darby, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Austin F Hwang",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Internal Medicine"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Austin_Hwang.html",
+                            "slug": "Dr_Austin_Hwang.html"
+                        }
+                    },
+                    "number_of_ratings": 2,
+                    "locations": [
+                        {
+                            "city_state": "Darby, PA",
+                            "city": "Darby",
+                            "address1": "1501 Lansdowne Ave Ste 205",
+                            "_geoloc": {
+                                "lng": -75.267675,
+                                "lat": 39.927127
+                            },
+                            "state": "PA"
+                        },
+                        {
+                            "city_state": "Wynnewood, PA",
+                            "city": "Wynnewood",
+                            "address1": "100 E Lancaster Ave",
+                            "_geoloc": {
+                                "lng": -75.261841,
+                                "lat": 39.988467
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 5,
+                    "url": "\/doctors\/Dr_Austin_Hwang.html",
+                    "slug": "Dr_Austin_Hwang.html"
+                },
+                "fields": {
+                    "distance": 5.756876795140356
+                },
+                "sort": [
+                    5.75716425504969
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1wqd19_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1wqd19",
+                    "city_state": "Darby, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Prashanth R Ramachandra",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Bariatric Medicine"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Prashanth_Ramachandra.html",
+                            "slug": "Dr_Prashanth_Ramachandra.html"
+                        }
+                    },
+                    "number_of_ratings": 47,
+                    "locations": [
+                        {
+                            "city_state": "Darby, PA",
+                            "city": "Darby",
+                            "address1": "1501 Lansdowne Ave Ste 307",
+                            "_geoloc": {
+                                "lng": -75.267675,
+                                "lat": 39.927127
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 4.375886524822695,
+                    "url": "\/doctors\/Dr_Prashanth_Ramachandra.html",
+                    "slug": "Dr_Prashanth_Ramachandra.html"
+                },
+                "fields": {
+                    "distance": 5.756876795140356
+                },
+                "sort": [
+                    5.75716425504969
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1pwrzf_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1pwrzf",
+                    "years_experience": 51,
+                    "city_state": "Darby, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. David M Raezer",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1923543\/photo.jpg"
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Urology"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Usurg_Raezer.html",
+                            "slug": "Dr_Usurg_Raezer.html"
+                        }
+                    },
+                    "number_of_ratings": 14,
+                    "locations": [
+                        {
+                            "city_state": "Darby, PA",
+                            "city": "Darby",
+                            "address1": "1501 Lansdowne Ave Ste 301",
+                            "_geoloc": {
+                                "lng": -75.267675,
+                                "lat": 39.927127
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 3.857142857142857,
+                    "url": "\/doctors\/Dr_Usurg_Raezer.html",
+                    "slug": "Dr_Usurg_Raezer.html"
+                },
+                "fields": {
+                    "distance": 5.756876795140356
+                },
+                "sort": [
+                    5.75716425504969
+                ]
+            }
+        ]
+    },
+    "aggregations": {
+        "satisfaction.accurate_diagnosis": {
+            "buckets": {
+                "good": {
+                    "from": 3.5,
+                    "doc_count": 0
+                }
+            }
+        },
+        "overall_range": {
+            "doc_count": 7275
+        },
+        "satisfaction.bedside_manner": {
+            "buckets": {
+                "good": {
+                    "from": 3.5,
+                    "doc_count": 0
+                }
+            }
+        },
+        "satisfaction.punctuality": {
+            "buckets": {
+                "good": {
+                    "from": 3.5,
+                    "doc_count": 0
+                }
+            }
+        },
+        "display_types": {
+            "doc_count_error_upper_bound": 0,
+            "sum_other_doc_count": 0,
+            "buckets": [
+                {
+                    "key": "Doctor",
+                    "doc_count": 9616
+                },
+                {
+                    "key": "Group Practice",
+                    "doc_count": 680
+                },
+                {
+                    "key": "Chiropractor",
+                    "doc_count": 371
+                },
+                {
+                    "key": "Podiatrist",
+                    "doc_count": 310
+                },
+                {
+                    "key": "Optometrist",
+                    "doc_count": 292
+                },
+                {
+                    "key": "Psychologist",
+                    "doc_count": 279
+                },
+                {
+                    "key": "Dentist",
+                    "doc_count": 60
+                },
+                {
+                    "key": "Hospital",
+                    "doc_count": 26
+                },
+                {
+                    "key": "Nursing Home",
+                    "doc_count": 2
+                },
+                {
+                    "key": "Cancer Center",
+                    "doc_count": 1
+                },
+                {
+                    "key": "Pharmacy",
+                    "doc_count": 1
+                }
+            ]
+        },
+        "insurance_companies": {
+            "doc_count_error_upper_bound": 0,
+            "sum_other_doc_count": 0,
+            "buckets": [
+                {
+                    "key": "Aetna",
+                    "doc_count": 11304
+                },
+                {
+                    "key": "United Healthcare",
+                    "doc_count": 10301
+                },
+                {
+                    "key": "BCBS Blue Card",
+                    "doc_count": 9724
+                },
+                {
+                    "key": "IBC",
+                    "doc_count": 9616
+                },
+                {
+                    "key": "Cigna",
+                    "doc_count": 8995
+                },
+                {
+                    "key": "Coventry Health Care",
+                    "doc_count": 8567
+                },
+                {
+                    "key": "Multiplan",
+                    "doc_count": 7792
+                },
+                {
+                    "key": "Humana",
+                    "doc_count": 5854
+                },
+                {
+                    "key": "Capital Blue Cross",
+                    "doc_count": 5649
+                },
+                {
+                    "key": "Horizon BCBS",
+                    "doc_count": 5553
+                },
+                {
+                    "key": "First Health",
+                    "doc_count": 5330
+                },
+                {
+                    "key": "QualCare",
+                    "doc_count": 4110
+                },
+                {
+                    "key": "Geisinger Health Plan",
+                    "doc_count": 2742
+                },
+                {
+                    "key": "Oxford Health",
+                    "doc_count": 1840
+                },
+                {
+                    "key": "HIP of NY",
+                    "doc_count": 1484
+                },
+                {
+                    "key": "UPMC Health Plan",
+                    "doc_count": 320
+                },
+                {
+                    "key": "CareFirst BCBS",
+                    "doc_count": 288
+                },
+                {
+                    "key": "Highmark BCBS",
+                    "doc_count": 265
+                },
+                {
+                    "key": "Empire BCBS",
+                    "doc_count": 140
+                },
+                {
+                    "key": "Anthem",
+                    "doc_count": 115
+                },
+                {
+                    "key": "Capital District Physicians Health Plan",
+                    "doc_count": 104
+                },
+                {
+                    "key": "BCBS Massachusetts",
+                    "doc_count": 90
+                },
+                {
+                    "key": "Connecticare",
+                    "doc_count": 69
+                },
+                {
+                    "key": "BCBS Illinois",
+                    "doc_count": 62
+                },
+                {
+                    "key": "Assurant",
+                    "doc_count": 56
+                },
+                {
+                    "key": "Guardian Dental",
+                    "doc_count": 55
+                },
+                {
+                    "key": "Principal Dental",
+                    "doc_count": 53
+                },
+                {
+                    "key": "Cigna Dental",
+                    "doc_count": 51
+                },
+                {
+                    "key": "Delta Dental",
+                    "doc_count": 51
+                },
+                {
+                    "key": "United Concordia",
+                    "doc_count": 51
+                },
+                {
+                    "key": "Ameritas",
+                    "doc_count": 49
+                },
+                {
+                    "key": "Dental Network of America",
+                    "doc_count": 49
+                },
+                {
+                    "key": "MetLife",
+                    "doc_count": 47
+                },
+                {
+                    "key": "DenteMax",
+                    "doc_count": 44
+                },
+                {
+                    "key": "MVP Health Plan",
+                    "doc_count": 44
+                },
+                {
+                    "key": "United Healthcare Dental",
+                    "doc_count": 44
+                },
+                {
+                    "key": "CompBenefits",
+                    "doc_count": 39
+                },
+                {
+                    "key": "Harvard Pilgrim",
+                    "doc_count": 39
+                },
+                {
+                    "key": "Humana Dental",
+                    "doc_count": 38
+                },
+                {
+                    "key": "HealthFirst NY",
+                    "doc_count": 36
+                },
+                {
+                    "key": "Blue Cross California",
+                    "doc_count": 31
+                },
+                {
+                    "key": "BCBS Florida",
+                    "doc_count": 28
+                },
+                {
+                    "key": "Medical Mutual of Ohio",
+                    "doc_count": 28
+                },
+                {
+                    "key": "Health Net",
+                    "doc_count": 26
+                },
+                {
+                    "key": "Tufts Health Plan",
+                    "doc_count": 26
+                },
+                {
+                    "key": "Emblem Health",
+                    "doc_count": 23
+                },
+                {
+                    "key": "Excellus BCBS",
+                    "doc_count": 23
+                },
+                {
+                    "key": "AvMed Health",
+                    "doc_count": 17
+                },
+                {
+                    "key": "Regence Health Plans",
+                    "doc_count": 17
+                },
+                {
+                    "key": "Sagamore Health",
+                    "doc_count": 17
+                },
+                {
+                    "key": "UHC of the River Valley",
+                    "doc_count": 17
+                },
+                {
+                    "key": "Blue Shield California",
+                    "doc_count": 16
+                },
+                {
+                    "key": "ODS",
+                    "doc_count": 14
+                },
+                {
+                    "key": "Premera",
+                    "doc_count": 14
+                },
+                {
+                    "key": "Independent Health",
+                    "doc_count": 13
+                },
+                {
+                    "key": "BCBS Texas",
+                    "doc_count": 12
+                },
+                {
+                    "key": "SIHO Insurance Services",
+                    "doc_count": 12
+                },
+                {
+                    "key": "HealthSpan",
+                    "doc_count": 11
+                },
+                {
+                    "key": "BCBS North Carolina",
+                    "doc_count": 10
+                },
+                {
+                    "key": "Optima Health",
+                    "doc_count": 10
+                },
+                {
+                    "key": "BCBS Georgia",
+                    "doc_count": 9
+                },
+                {
+                    "key": "Centene",
+                    "doc_count": 9
+                },
+                {
+                    "key": "HealthLink",
+                    "doc_count": 9
+                },
+                {
+                    "key": "BCBS Michigan",
+                    "doc_count": 8
+                },
+                {
+                    "key": "Encore Health Network",
+                    "doc_count": 8
+                },
+                {
+                    "key": "Ambetter Superior Health Plan",
+                    "doc_count": 7
+                },
+                {
+                    "key": "BCBS Rhode Island",
+                    "doc_count": 7
+                },
+                {
+                    "key": "PriorityHealth",
+                    "doc_count": 7
+                },
+                {
+                    "key": "Aetna Innovation Health",
+                    "doc_count": 6
+                },
+                {
+                    "key": "Health Alliance",
+                    "doc_count": 6
+                },
+                {
+                    "key": "Premier Health Plan",
+                    "doc_count": 6
+                },
+                {
+                    "key": "Wellmark",
+                    "doc_count": 6
+                },
+                {
+                    "key": "BCBS South Carolina",
+                    "doc_count": 5
+                },
+                {
+                    "key": "Healthy Connecticut",
+                    "doc_count": 5
+                },
+                {
+                    "key": "PHP Northern IN",
+                    "doc_count": 5
+                },
+                {
+                    "key": "SummaCare",
+                    "doc_count": 5
+                },
+                {
+                    "key": "WPS",
+                    "doc_count": 5
+                },
+                {
+                    "key": "Altius",
+                    "doc_count": 4
+                },
+                {
+                    "key": "BCBS Kansas City",
+                    "doc_count": 4
+                },
+                {
+                    "key": "BCBS Minnesota",
+                    "doc_count": 4
+                },
+                {
+                    "key": "Common Ground",
+                    "doc_count": 4
+                },
+                {
+                    "key": "HAP",
+                    "doc_count": 4
+                },
+                {
+                    "key": "Molina Healthcare",
+                    "doc_count": 4
+                },
+                {
+                    "key": "PacificSource",
+                    "doc_count": 4
+                },
+                {
+                    "key": "SelectHealth",
+                    "doc_count": 4
+                },
+                {
+                    "key": "BCBS Tennessee",
+                    "doc_count": 3
+                },
+                {
+                    "key": "Providence Health System",
+                    "doc_count": 3
+                },
+                {
+                    "key": "The Health Plan of Upper OH",
+                    "doc_count": 3
+                },
+                {
+                    "key": "BCBS Alabama",
+                    "doc_count": 2
+                },
+                {
+                    "key": "BCBS New Mexico",
+                    "doc_count": 2
+                },
+                {
+                    "key": "HealthPartners - MN",
+                    "doc_count": 2
+                },
+                {
+                    "key": "Indiana University",
+                    "doc_count": 2
+                },
+                {
+                    "key": "Preferred One",
+                    "doc_count": 2
+                },
+                {
+                    "key": "Presbyterian",
+                    "doc_count": 2
+                },
+                {
+                    "key": "Aultcare",
+                    "doc_count": 1
+                },
+                {
+                    "key": "BCBS Louisiana",
+                    "doc_count": 1
+                },
+                {
+                    "key": "BCBS Oklahoma",
+                    "doc_count": 1
+                },
+                {
+                    "key": "FirstCare",
+                    "doc_count": 1
+                },
+                {
+                    "key": "FrontPath Health Coalition",
+                    "doc_count": 1
+                },
+                {
+                    "key": "Group Health Coop",
+                    "doc_count": 1
+                },
+                {
+                    "key": "Gundersen Health Plan",
+                    "doc_count": 1
+                },
+                {
+                    "key": "Health Plan of Nevada",
+                    "doc_count": 1
+                },
+                {
+                    "key": "Kaiser - MidAtlantic",
+                    "doc_count": 1
+                },
+                {
+                    "key": "LA Care Health",
+                    "doc_count": 1
+                },
+                {
+                    "key": "Network Health Plan",
+                    "doc_count": 1
+                },
+                {
+                    "key": "One Health Network",
+                    "doc_count": 1
+                },
+                {
+                    "key": "Paramount",
+                    "doc_count": 1
+                },
+                {
+                    "key": "Qualchoice",
+                    "doc_count": 1
+                },
+                {
+                    "key": "Scion Dental",
+                    "doc_count": 1
+                },
+                {
+                    "key": "Sierra Health",
+                    "doc_count": 1
+                }
+            ]
+        },
+        "ratings": {
+            "buckets": [
+                {
+                    "key": "any",
+                    "doc_count": 9616
+                },
+                {
+                    "key": "3",
+                    "from": 3,
+                    "doc_count": 6688
+                },
+                {
+                    "key": "4",
+                    "from": 4,
+                    "doc_count": 4779
+                },
+                {
+                    "key": "5",
+                    "from": 5,
+                    "doc_count": 1531
+                }
+            ]
+        },
+        "experience_range": {
+            "buckets": [
+                {
+                    "key": "Any",
+                    "doc_count": 9616
+                },
+                {
+                    "key": "0 - 5",
+                    "from": 0,
+                    "to": 6,
+                    "doc_count": 0
+                },
+                {
+                    "key": "5 - 10",
+                    "from": 5,
+                    "to": 11,
+                    "doc_count": 608
+                },
+                {
+                    "key": "11 - 15",
+                    "from": 11,
+                    "to": 16,
+                    "doc_count": 921
+                },
+                {
+                    "key": "16 - 20",
+                    "from": 16,
+                    "to": 21,
+                    "doc_count": 1028
+                },
+                {
+                    "key": "21 - 25",
+                    "from": 21,
+                    "to": 26,
+                    "doc_count": 883
+                },
+                {
+                    "key": "26 - 30",
+                    "from": 26,
+                    "to": 31,
+                    "doc_count": 760
+                },
+                {
+                    "key": "30+",
+                    "from": 30,
+                    "doc_count": 2900
+                }
+            ]
+        }
+    },
+    "status": 200,
+    "distanceLimitedNothingFound": false,
+    "query": "",
+    "radiusUsed": 25,
+    "reqNo": "1",
+    "sponsors": [
+        {
+            "campaign_name": "webmd_ep",
+            "targeting": {
+                "locations": [
+                    {
+                        "city_state": "Philadelphia, PA",
+                        "geopoint": [
+                            [
+                                -75.160429,
+                                39.94866
+                            ]
+                        ]
+                    }
+                ],
+                "sponsor_id": "xx"
+            },
+            "search": {
+                "search_city_state": "Philadelphia, PA",
+                "search_specialties": "General Dentistry",
+                "locations": [
+                    {
+                        "city_state": "Philadelphia, PA",
+                        "geopoint": [
+                            [
+                                -75.160429,
+                                39.94866
+                            ]
+                        ]
+                    }
+                ],
+                "display_name": "Shireen  Malik"
+            },
+            "npi": "1518135805",
+            "external_id": "D83325",
+            "campaign_features": [
+                {
+                    "feature_name": "serp",
+                    "feature_config": {
+                        "specialty": "General Dentistry",
+                        "webmdSpecialtyId": [
+                            29245
+                        ],
+                        "city_state": "Philadelphia, PA",
+                        "profile_url": "\/dentists\/Dr_Shireen_Malik",
+                        "type": "dentist",
+                        "display_name": "Shireen  Malik",
+                        "photos": {
+                            "host": null,
+                            "uri": null
+                        },
+                        "ctas": {
+                            "appointment_url": "https:\/\/appointments.webmd.com\/path\/wmd-path1\/61fbb52a-c844-4904-ad23-dcc296781461"
+                        },
+                        "degrees": [
+                            "DDS"
+                        ],
+                        "display_type": "Dentist",
+                        "vitalsSpecialtyId": [
+                            294,
+                            296,
+                            297,
+                            300,
+                            303,
+                            306,
+                            307
+                        ],
+                        "specialties": [
+                            "General Dentistry"
+                        ],
+                        "number_of_ratings": 13,
+                        "company_name": null,
+                        "overall_rating": 4.3076923076923075
+                    }
+                }
+            ],
+            "url": "\/dentists\/Dr_Shireen_Malik",
+            "city_state": "Philadelphia, PA",
+            "geopoint": [
+                [
+                    -75.160429,
+                    39.94866
+                ]
+            ],
+            "geo_points": [
+                -75.160429,
+                39.94866
+            ],
+            "distance": 0.3
+        },
+        {
+            "campaign_name": "webmd_ep",
+            "targeting": {
+                "locations": [
+                    {
+                        "city_state": "Philadelphia, PA",
+                        "geopoint": [
+                            [
+                                -75.1741,
+                                39.9527
+                            ]
+                        ]
+                    },
+                    {
+                        "city_state": "Upper Darby, PA",
+                        "geopoint": [
+                            [
+                                -75.2629,
+                                39.9591
+                            ]
+                        ]
+                    }
+                ],
+                "sponsor_id": "xx"
+            },
+            "search": {
+                "search_city_state": "Philadelphia, PA Upper Darby, PA",
+                "search_specialties": "Addiction Medicine Physical Medicine\/Rehab Spec",
+                "locations": [
+                    {
+                        "city_state": "Philadelphia, PA",
+                        "geopoint": [
+                            [
+                                -75.1741,
+                                39.9527
+                            ]
+                        ]
+                    },
+                    {
+                        "city_state": "Upper Darby, PA",
+                        "geopoint": [
+                            [
+                                -75.2629,
+                                39.9591
+                            ]
+                        ]
+                    }
+                ],
+                "display_name": "Denis A Boyle Jr"
+            },
+            "npi": "1205920287",
+            "external_id": "153875",
+            "campaign_features": [
+                {
+                    "feature_name": "serp",
+                    "feature_config": {
+                        "specialty": "Addiction Medicine",
+                        "webmdSpecialtyId": [
+                            29230,
+                            29309
+                        ],
+                        "city_state": "Philadelphia, PA",
+                        "profile_url": "\/doctors\/Dr_Denis_Boyle.html",
+                        "type": "doctor",
+                        "display_name": "Denis A Boyle Jr",
+                        "photos": {
+                            "host": null,
+                            "uri": null
+                        },
+                        "ctas": {
+                            "appointment_url": "https:\/\/appointments.webmd.com\/path\/wmd-path1\/fb31da85-feb0-4bf4-9dc3-01678cfc8276"
+                        },
+                        "degrees": [
+                            "MD"
+                        ],
+                        "display_type": "Doctor",
+                        "vitalsSpecialtyId": [
+                            5,
+                            23,
+                            31,
+                            141,
+                            124,
+                            126,
+                            127,
+                            2018
+                        ],
+                        "specialties": [
+                            "Addiction Medicine",
+                            "Physical Medicine\/Rehab Spec"
+                        ],
+                        "number_of_ratings": 4,
+                        "company_name": null,
+                        "overall_rating": 5
+                    }
+                }
+            ],
+            "url": "\/doctors\/Dr_Denis_Boyle.html",
+            "city_state": "Philadelphia, PA",
+            "geopoint": [
+                [
+                    -75.1741,
+                    39.9527
+                ]
+            ],
+            "geo_points": [
+                -75.1741,
+                39.9527
+            ],
+            "distance": 0.6
+        },
+        {
+            "campaign_name": "webmd_ep",
+            "targeting": {
+                "locations": [
+                    {
+                        "city_state": "Ridley Park, PA",
+                        "geopoint": [
+                            [
+                                -75.3212,
+                                39.8791
+                            ]
+                        ]
+                    }
+                ],
+                "sponsor_id": "xx"
+            },
+            "search": {
+                "search_city_state": "Ridley Park, PA",
+                "search_specialties": "Family Practitioner Internal Medicine",
+                "locations": [
+                    {
+                        "city_state": "Ridley Park, PA",
+                        "geopoint": [
+                            [
+                                -75.3212,
+                                39.8791
+                            ]
+                        ]
+                    }
+                ],
+                "display_name": "Neeraj Tripathy"
+            },
+            "npi": "1972660975",
+            "external_id": "6302324",
+            "campaign_features": [
+                {
+                    "feature_name": "serp",
+                    "feature_config": {
+                        "specialty": "Family Practitioner",
+                        "webmdSpecialtyId": [
+                            29259,
+                            29277
+                        ],
+                        "city_state": "Ridley Park, PA",
+                        "profile_url": "\/doctors\/Dr_Neeraj_Tripathy.html",
+                        "type": "doctor",
+                        "display_name": "Neeraj Tripathy",
+                        "photos": {
+                            "host": null,
+                            "uri": null
+                        },
+                        "ctas": {
+                            "appointment_url": "https:\/\/appointments.webmd.com\/path\/wmd-path1\/e5a7bcd3-e5c7-416a-b7ab-65f40d7e3015"
+                        },
+                        "degrees": [
+                            "MD"
+                        ],
+                        "display_type": "Doctor",
+                        "vitalsSpecialtyId": [
+                            22,
+                            25,
+                            26,
+                            479,
+                            667,
+                            30,
+                            36,
+                            42,
+                            672,
+                            2005
+                        ],
+                        "specialties": [
+                            "Family Practitioner",
+                            "Internal Medicine"
+                        ],
+                        "number_of_ratings": 12,
+                        "company_name": null,
+                        "overall_rating": 4.63888888888889
+                    }
+                }
+            ],
+            "url": "\/doctors\/Dr_Neeraj_Tripathy.html",
+            "city_state": "Ridley Park, PA",
+            "geopoint": [
+                [
+                    -75.3212,
+                    39.8791
+                ]
+            ],
+            "geo_points": [
+                -75.3212,
+                39.8791
+            ],
+            "distance": 9.7
+        }
+    ]
+}

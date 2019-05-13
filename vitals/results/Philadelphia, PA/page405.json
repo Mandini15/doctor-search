@@ -1,0 +1,2175 @@
+{
+    "took": 58,
+    "timed_out": false,
+    "_shards": {
+        "total": 2,
+        "successful": 2,
+        "skipped": 0,
+        "failed": 0
+    },
+    "hits": {
+        "total": 9616,
+        "max_score": null,
+        "hits": [
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1xynyh_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1xynyh",
+                    "years_experience": 11,
+                    "city_state": "Wilmington, DE",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Christopher R Mitchell",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Urology"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Christopher_R_Mitchell_2.html",
+                            "slug": "Dr_Christopher_R_Mitchell_2.html"
+                        }
+                    },
+                    "number_of_ratings": 2,
+                    "locations": [
+                        {
+                            "city_state": "Wilmington, DE",
+                            "city": "Wilmington",
+                            "address1": "2000 Foulk Rd Ste F",
+                            "_geoloc": {
+                                "lng": -75.509747,
+                                "lat": 39.81341
+                            },
+                            "state": "DE"
+                        }
+                    ],
+                    "overall_rating": 5,
+                    "url": "\/doctors\/Dr_Christopher_R_Mitchell_2.html",
+                    "slug": "Dr_Christopher_R_Mitchell_2.html"
+                },
+                "fields": {
+                    "distance": 20.678128216538514
+                },
+                "sort": [
+                    20.679151950992097
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1pkqgg_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1pkqgg",
+                    "years_experience": 31,
+                    "city_state": "Wilmington, DE",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Bruce N Benge",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1696810\/photo.jpg"
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Urology"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Bruce_Benge.html",
+                            "slug": "Dr_Bruce_Benge.html"
+                        }
+                    },
+                    "number_of_ratings": 34,
+                    "locations": [
+                        {
+                            "city_state": "Wilmington, DE",
+                            "city": "Wilmington",
+                            "address1": "2000 Foulk Rd Ste F",
+                            "_geoloc": {
+                                "lng": -75.509747,
+                                "lat": 39.81341
+                            },
+                            "state": "DE"
+                        },
+                        {
+                            "city_state": "Wilmington, DE",
+                            "city": "Wilmington",
+                            "address1": "1801 Rockland Rd",
+                            "_geoloc": {
+                                "lng": -75.552774,
+                                "lat": 39.781541
+                            },
+                            "state": "DE"
+                        },
+                        {
+                            "city_state": "Newark, DE",
+                            "city": "Newark",
+                            "address1": "4701 Ogletown Stanton Rd Ste 4500",
+                            "_geoloc": {
+                                "lng": -75.678713,
+                                "lat": 39.686916
+                            },
+                            "state": "DE"
+                        }
+                    ],
+                    "overall_rating": 3.5490196078431366,
+                    "url": "\/doctors\/Dr_Bruce_Benge.html",
+                    "slug": "Dr_Bruce_Benge.html"
+                },
+                "fields": {
+                    "distance": 20.678128216538514
+                },
+                "sort": [
+                    20.679151950992097
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1rzq2c_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1rzq2c",
+                    "years_experience": 22,
+                    "city_state": "Wilmington, DE",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Steven A Terranova",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1578517\/photo.jpg"
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Urology"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Steven_Terranova.html",
+                            "slug": "Dr_Steven_Terranova.html"
+                        }
+                    },
+                    "number_of_ratings": 29,
+                    "locations": [
+                        {
+                            "city_state": "Wilmington, DE",
+                            "city": "Wilmington",
+                            "address1": "2000 Foulk Rd Ste F",
+                            "_geoloc": {
+                                "lng": -75.509747,
+                                "lat": 39.81341
+                            },
+                            "state": "DE"
+                        },
+                        {
+                            "city_state": "Wilmington, DE",
+                            "city": "Wilmington",
+                            "address1": "1801 Rockland Rd",
+                            "_geoloc": {
+                                "lng": -75.552774,
+                                "lat": 39.781541
+                            },
+                            "state": "DE"
+                        },
+                        {
+                            "city_state": "Newark, DE",
+                            "city": "Newark",
+                            "address1": "4701 Ogletown Stanton Rd Ste 4500",
+                            "_geoloc": {
+                                "lng": -75.678713,
+                                "lat": 39.686916
+                            },
+                            "state": "DE"
+                        }
+                    ],
+                    "overall_rating": 3.5747126436781596,
+                    "url": "\/doctors\/Dr_Steven_Terranova.html",
+                    "slug": "Dr_Steven_Terranova.html"
+                },
+                "fields": {
+                    "distance": 20.678128216538514
+                },
+                "sort": [
+                    20.679151950992097
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1nq608_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1nq608",
+                    "years_experience": 9,
+                    "city_state": "Wilmington, DE",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Mona G Yezdani",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Urology"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Mona_Yezdani.html",
+                            "slug": "Dr_Mona_Yezdani.html"
+                        }
+                    },
+                    "number_of_ratings": 2,
+                    "locations": [
+                        {
+                            "city_state": "Harrisburg, PA",
+                            "city": "Harrisburg",
+                            "address1": "51 N 39th St Ste 300",
+                            "_geoloc": {
+                                "lng": -76.831358,
+                                "lat": 40.293178
+                            },
+                            "state": "PA"
+                        },
+                        {
+                            "city_state": "Wilmington, DE",
+                            "city": "Wilmington",
+                            "address1": "2000 Foulk Rd Ste F",
+                            "_geoloc": {
+                                "lng": -75.509747,
+                                "lat": 39.81341
+                            },
+                            "state": "DE"
+                        }
+                    ],
+                    "overall_rating": 3,
+                    "url": "\/doctors\/Dr_Mona_Yezdani.html",
+                    "slug": "Dr_Mona_Yezdani.html"
+                },
+                "fields": {
+                    "distance": 20.678128216538514
+                },
+                "sort": [
+                    20.679151950992097
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1xcm91_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1xcm91",
+                    "years_experience": 29,
+                    "city_state": "Wilmington, DE",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Michael R Lobis",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1779995\/photo.jpg"
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Urology"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Michael_Lobis.html",
+                            "slug": "Dr_Michael_Lobis.html"
+                        }
+                    },
+                    "number_of_ratings": 30,
+                    "locations": [
+                        {
+                            "city_state": "Wilmington, DE",
+                            "city": "Wilmington",
+                            "address1": "2000 Foulk Rd Ste F",
+                            "_geoloc": {
+                                "lng": -75.509747,
+                                "lat": 39.81341
+                            },
+                            "state": "DE"
+                        },
+                        {
+                            "city_state": "Newark, DE",
+                            "city": "Newark",
+                            "address1": "4701 Ogletown Stanton Rd Ste 4500",
+                            "_geoloc": {
+                                "lng": -75.678713,
+                                "lat": 39.686916
+                            },
+                            "state": "DE"
+                        }
+                    ],
+                    "overall_rating": 3.7333333333333334,
+                    "url": "\/doctors\/Dr_Michael_Lobis.html",
+                    "slug": "Dr_Michael_Lobis.html"
+                },
+                "fields": {
+                    "distance": 20.678128216538514
+                },
+                "sort": [
+                    20.679151950992097
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1xspks_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1xspks",
+                    "years_experience": 37,
+                    "city_state": "Wilmington, DE",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Fanny J Berg",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Dermatology"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Fanny_Berg.html",
+                            "slug": "Dr_Fanny_Berg.html"
+                        }
+                    },
+                    "number_of_ratings": 33,
+                    "locations": [
+                        {
+                            "city_state": "Wilmington, DE",
+                            "city": "Wilmington",
+                            "address1": "2000 Foulk Rd Ste A",
+                            "_geoloc": {
+                                "lng": -75.509747,
+                                "lat": 39.81341
+                            },
+                            "state": "DE"
+                        }
+                    ],
+                    "overall_rating": 3.1414141414141405,
+                    "url": "\/doctors\/Dr_Fanny_Berg.html",
+                    "slug": "Dr_Fanny_Berg.html"
+                },
+                "fields": {
+                    "distance": 20.678128216538514
+                },
+                "sort": [
+                    20.679151950992097
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1t3nft_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1t3nft",
+                    "years_experience": 26,
+                    "city_state": "Wilmington, DE",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. David J Cozzolino",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1755216\/photo.jpg"
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Urology"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_David_Cozzolino.html",
+                            "slug": "Dr_David_Cozzolino.html"
+                        }
+                    },
+                    "number_of_ratings": 24,
+                    "locations": [
+                        {
+                            "city_state": "Wilmington, DE",
+                            "city": "Wilmington",
+                            "address1": "2000 Foulk Rd Ste F",
+                            "_geoloc": {
+                                "lng": -75.509747,
+                                "lat": 39.81341
+                            },
+                            "state": "DE"
+                        },
+                        {
+                            "city_state": "Newark, DE",
+                            "city": "Newark",
+                            "address1": "4701 Ogletown Stanton Rd Ste 4500",
+                            "_geoloc": {
+                                "lng": -75.678713,
+                                "lat": 39.686916
+                            },
+                            "state": "DE"
+                        }
+                    ],
+                    "overall_rating": 3.875,
+                    "url": "\/doctors\/Dr_David_Cozzolino.html",
+                    "slug": "Dr_David_Cozzolino.html"
+                },
+                "fields": {
+                    "distance": 20.678128216538514
+                },
+                "sort": [
+                    20.679151950992097
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1r0y4t_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1r0y4t",
+                    "years_experience": 35,
+                    "city_state": "Wilmington, DE",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Andrew J Glick",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1737503\/photo.jpg"
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Urology"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Andrew_Glick.html",
+                            "slug": "Dr_Andrew_Glick.html"
+                        }
+                    },
+                    "number_of_ratings": 42,
+                    "locations": [
+                        {
+                            "city_state": "Wilmington, DE",
+                            "city": "Wilmington",
+                            "address1": "2000 Foulk Rd Ste F",
+                            "_geoloc": {
+                                "lng": -75.509747,
+                                "lat": 39.81341
+                            },
+                            "state": "DE"
+                        },
+                        {
+                            "city_state": "Wilmington, DE",
+                            "city": "Wilmington",
+                            "address1": "1801 Rockland Rd",
+                            "_geoloc": {
+                                "lng": -75.552774,
+                                "lat": 39.781541
+                            },
+                            "state": "DE"
+                        },
+                        {
+                            "city_state": "Newark, DE",
+                            "city": "Newark",
+                            "address1": "4701 Ogletown Stanton Rd Ste 4500",
+                            "_geoloc": {
+                                "lng": -75.678713,
+                                "lat": 39.686916
+                            },
+                            "state": "DE"
+                        }
+                    ],
+                    "overall_rating": 3.6269841269841265,
+                    "url": "\/doctors\/Dr_Andrew_Glick.html",
+                    "slug": "Dr_Andrew_Glick.html"
+                },
+                "fields": {
+                    "distance": 20.678128216538514
+                },
+                "sort": [
+                    20.679151950992097
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1rxpsb_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1rxpsb",
+                    "years_experience": 21,
+                    "city_state": "Wilmington, DE",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Thomas J Desperito",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1890179\/photo.jpg"
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Urology"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Thomas_Desperito.html",
+                            "slug": "Dr_Thomas_Desperito.html"
+                        }
+                    },
+                    "number_of_ratings": 50,
+                    "locations": [
+                        {
+                            "city_state": "Newark, DE",
+                            "city": "Newark",
+                            "address1": "2600 Glasgow Ave Ste 100",
+                            "_geoloc": {
+                                "lng": -75.74517,
+                                "lat": 39.599134
+                            },
+                            "state": "DE"
+                        },
+                        {
+                            "city_state": "Newark, DE",
+                            "city": "Newark",
+                            "address1": "4701 Ogletown Stanton Rd Ste 4500",
+                            "_geoloc": {
+                                "lng": -75.678713,
+                                "lat": 39.686916
+                            },
+                            "state": "DE"
+                        },
+                        {
+                            "city_state": "Wilmington, DE",
+                            "city": "Wilmington",
+                            "address1": "1801 Rockland Rd",
+                            "_geoloc": {
+                                "lng": -75.552774,
+                                "lat": 39.781541
+                            },
+                            "state": "DE"
+                        },
+                        {
+                            "city_state": "Wilmington, DE",
+                            "city": "Wilmington",
+                            "address1": "2000 Foulk Rd Ste F",
+                            "_geoloc": {
+                                "lng": -75.509747,
+                                "lat": 39.81341
+                            },
+                            "state": "DE"
+                        }
+                    ],
+                    "overall_rating": 3.8666666666666667,
+                    "url": "\/doctors\/Dr_Thomas_Desperito.html",
+                    "slug": "Dr_Thomas_Desperito.html"
+                },
+                "fields": {
+                    "distance": 20.678128216538514
+                },
+                "sort": [
+                    20.679151950992097
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1r63m7_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1r63m7",
+                    "years_experience": 21,
+                    "city_state": "Glen Mills, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Adrienne Rencic",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Dermatology"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Adrienne_Rencic.html",
+                            "slug": "Dr_Adrienne_Rencic.html"
+                        }
+                    },
+                    "number_of_ratings": 34,
+                    "locations": [
+                        {
+                            "city_state": "Glen Mills, PA",
+                            "city": "Glen Mills",
+                            "address1": "1102 Baltimore Pike Ste 202",
+                            "_geoloc": {
+                                "lng": -75.544302,
+                                "lat": 39.881229
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 4.176470588235294,
+                    "url": "\/doctors\/Dr_Adrienne_Rencic.html",
+                    "slug": "Dr_Adrienne_Rencic.html"
+                },
+                "fields": {
+                    "distance": 20.74117688458245
+                },
+                "sort": [
+                    20.742207396116257
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1sr2m4_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1sr2m4",
+                    "years_experience": 23,
+                    "city_state": "Warrington, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Robert F Hermann Jr",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1914185\/photo.jpg"
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Family Medicine"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Robert_F_Hermann.html",
+                            "slug": "Dr_Robert_F_Hermann.html"
+                        }
+                    },
+                    "number_of_ratings": 4,
+                    "locations": [
+                        {
+                            "city_state": "Warrington, PA",
+                            "city": "Warrington",
+                            "address1": "1380 Easton Rd",
+                            "_geoloc": {
+                                "lng": -75.134677,
+                                "lat": 40.251301
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 4,
+                    "url": "\/doctors\/Dr_Robert_F_Hermann.html",
+                    "slug": "Dr_Robert_F_Hermann.html"
+                },
+                "fields": {
+                    "distance": 20.760805575255727
+                },
+                "sort": [
+                    20.76183196753986
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1nsthf_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1nsthf",
+                    "city_state": "Warrington, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Maria J Bertucci",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1487320\/photo.jpg"
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Family Medicine",
+                        "Hospice and Palliative Medicine"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Maria_Bertucci.html",
+                            "slug": "Dr_Maria_Bertucci.html"
+                        }
+                    },
+                    "number_of_ratings": 3,
+                    "locations": [
+                        {
+                            "city_state": "Warrington, PA",
+                            "city": "Warrington",
+                            "address1": "1380 Easton Rd",
+                            "_geoloc": {
+                                "lng": -75.134677,
+                                "lat": 40.251301
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 2.3333333333333335,
+                    "url": "\/doctors\/Dr_Maria_Bertucci.html",
+                    "slug": "Dr_Maria_Bertucci.html"
+                },
+                "fields": {
+                    "distance": 20.760805575255727
+                },
+                "sort": [
+                    20.76183196753986
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1zc8g8_doctor",
+                "_score": null,
+                "_source": {
+                    "display_type": "Doctor",
+                    "vpid": "1zc8g8",
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/1zc8g8\/rick-simon",
+                            "slug": "1zc8g8\/rick-simon"
+                        }
+                    },
+                    "city_state": "Lansdale, PA",
+                    "degree": "",
+                    "locations": [
+                        {
+                            "city_state": "Lansdale, PA",
+                            "city": "Lansdale",
+                            "address1": "231 E Main St",
+                            "_geoloc": {
+                                "lng": -75.279406,
+                                "lat": 40.239323
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "type": "doctor",
+                    "display_name": "Rick L Simon",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [],
+                    "url": "\/doctors\/1zc8g8\/rick-simon",
+                    "slug": "1zc8g8\/rick-simon"
+                },
+                "fields": {
+                    "distance": 20.793882308552572
+                },
+                "sort": [
+                    20.794911435782826
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1s36gw_doctor",
+                "_score": null,
+                "_source": {
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Podiatry"
+                    ],
+                    "vpid": "1s36gw",
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/1s36gw\/ronald-melincoff",
+                            "slug": "1s36gw\/ronald-melincoff"
+                        }
+                    },
+                    "years_experience": 40,
+                    "city_state": "West Chester, PA",
+                    "degree": "DPM",
+                    "locations": [
+                        {
+                            "city_state": "West Chester, PA",
+                            "city": "West Chester",
+                            "address1": "1450 E Boot Rd Ste 200B",
+                            "_geoloc": {
+                                "lng": -75.553817,
+                                "lat": 39.989343
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "type": "doctor",
+                    "display_name": "Dr. Ronald H Melincoff",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [
+                        "DPM"
+                    ],
+                    "url": "\/doctors\/1s36gw\/ronald-melincoff",
+                    "slug": "1s36gw\/ronald-melincoff"
+                },
+                "fields": {
+                    "distance": 20.814174660856754
+                },
+                "sort": [
+                    20.815206576965217
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1x862z_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1x862z",
+                    "city_state": "West Chester, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Tetyana A Zelenska",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Family Medicine"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Tetyana_Zelenska.html",
+                            "slug": "Dr_Tetyana_Zelenska.html"
+                        }
+                    },
+                    "number_of_ratings": 17,
+                    "locations": [
+                        {
+                            "city_state": "West Chester, PA",
+                            "city": "West Chester",
+                            "address1": "1450 E Boot Rd Ste 200A",
+                            "_geoloc": {
+                                "lng": -75.553817,
+                                "lat": 39.989343
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 3.6274509803921577,
+                    "url": "\/doctors\/Dr_Tetyana_Zelenska.html",
+                    "slug": "Dr_Tetyana_Zelenska.html"
+                },
+                "fields": {
+                    "distance": 20.814174660856754
+                },
+                "sort": [
+                    20.815206576965217
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1w1k10_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1w1k10",
+                    "years_experience": 52,
+                    "city_state": "Wilmington, DE",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Leonard H Seltzer",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Allergy and Immunology",
+                        "Internal Medicine"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Leonard_Seltzer.html",
+                            "slug": "Dr_Leonard_Seltzer.html"
+                        }
+                    },
+                    "number_of_ratings": 12,
+                    "locations": [
+                        {
+                            "city_state": "Wilmington, DE",
+                            "city": "Wilmington",
+                            "address1": "1309 Veale Rd",
+                            "_geoloc": {
+                                "lng": -75.503839,
+                                "lat": 39.800792
+                            },
+                            "state": "DE"
+                        }
+                    ],
+                    "overall_rating": 4.75,
+                    "url": "\/doctors\/Dr_Leonard_Seltzer.html",
+                    "slug": "Dr_Leonard_Seltzer.html"
+                },
+                "fields": {
+                    "distance": 20.824619162997895
+                },
+                "sort": [
+                    20.825652014167563
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1rsj68_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1rsj68",
+                    "city_state": "Wilmington, DE",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Malik J Gilani",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Internal Medicine"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Javed_Gilani.html",
+                            "slug": "Dr_Javed_Gilani.html"
+                        }
+                    },
+                    "number_of_ratings": 17,
+                    "locations": [
+                        {
+                            "city_state": "Wilmington, DE",
+                            "city": "Wilmington",
+                            "address1": "1309 Veale Rd Ste 11",
+                            "_geoloc": {
+                                "lng": -75.503839,
+                                "lat": 39.800792
+                            },
+                            "state": "DE"
+                        }
+                    ],
+                    "overall_rating": 2.686274509803922,
+                    "url": "\/doctors\/Dr_Javed_Gilani.html",
+                    "slug": "Dr_Javed_Gilani.html"
+                },
+                "fields": {
+                    "distance": 20.824619162997895
+                },
+                "sort": [
+                    20.825652014167563
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1nm2r9_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1nm2r9",
+                    "years_experience": 8,
+                    "city_state": "Wilmington, DE",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Theresa A Burcher",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1923529\/photo.jpg"
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Obstetrics and Gynecology"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Theresa_Burcher.html",
+                            "slug": "Dr_Theresa_Burcher.html"
+                        }
+                    },
+                    "number_of_ratings": 7,
+                    "locations": [
+                        {
+                            "city_state": "Wilmington, DE",
+                            "city": "Wilmington",
+                            "address1": "2106 Silverside Rd Ste 202",
+                            "_geoloc": {
+                                "lng": -75.504112,
+                                "lat": 39.801
+                            },
+                            "state": "DE"
+                        }
+                    ],
+                    "overall_rating": 4,
+                    "url": "\/doctors\/Dr_Theresa_Burcher.html",
+                    "slug": "Dr_Theresa_Burcher.html"
+                },
+                "fields": {
+                    "distance": 20.829944492203474
+                },
+                "sort": [
+                    20.83097764707704
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1ztypp_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1ztypp",
+                    "years_experience": 35,
+                    "city_state": "Levittown, PA",
+                    "degree": "DO",
+                    "type": "doctor",
+                    "display_name": "Dr. Douglas D Files",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [
+                        "DO"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Family Medicine"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Daniel_Files.html",
+                            "slug": "Dr_Daniel_Files.html"
+                        }
+                    },
+                    "number_of_ratings": 75,
+                    "locations": [
+                        {
+                            "city_state": "Levittown, PA",
+                            "city": "Levittown",
+                            "address1": "2346 Trenton Rd",
+                            "_geoloc": {
+                                "lng": -74.883386,
+                                "lat": 40.163908
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 4.413333333333333,
+                    "url": "\/doctors\/Dr_Daniel_Files.html",
+                    "slug": "Dr_Daniel_Files.html"
+                },
+                "fields": {
+                    "distance": 20.856211907295197
+                },
+                "sort": [
+                    20.857241091962816
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1wtp9r_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1wtp9r",
+                    "city_state": "West Chester, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Halette L Anderson",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1736555\/photo.jpg"
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Pediatrics"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Halette_Anderson.html",
+                            "slug": "Dr_Halette_Anderson.html"
+                        }
+                    },
+                    "number_of_ratings": 9,
+                    "locations": [
+                        {
+                            "city_state": "West Chester, PA",
+                            "city": "West Chester",
+                            "address1": "1246 W Chester Pike Ste 303",
+                            "_geoloc": {
+                                "lng": -75.557239,
+                                "lat": 39.968067
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 2.7777777777777777,
+                    "url": "\/doctors\/Dr_Halette_Anderson.html",
+                    "slug": "Dr_Halette_Anderson.html"
+                },
+                "fields": {
+                    "distance": 20.865846540895024
+                },
+                "sort": [
+                    20.866881023648393
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1pgwtq_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1pgwtq",
+                    "city_state": "West Chester, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Rosamary L Giacobbe",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1786819\/photo.jpg"
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Pediatrics"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Rosemary_Giacobbe.html",
+                            "slug": "Dr_Rosemary_Giacobbe.html"
+                        }
+                    },
+                    "number_of_ratings": 4,
+                    "locations": [
+                        {
+                            "city_state": "West Chester, PA",
+                            "city": "West Chester",
+                            "address1": "1246 W Chester Pike Ste 303",
+                            "_geoloc": {
+                                "lng": -75.557239,
+                                "lat": 39.968067
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 4.33333333333333,
+                    "url": "\/doctors\/Dr_Rosemary_Giacobbe.html",
+                    "slug": "Dr_Rosemary_Giacobbe.html"
+                },
+                "fields": {
+                    "distance": 20.865846540895024
+                },
+                "sort": [
+                    20.866881023648393
+                ]
+            }
+        ]
+    },
+    "aggregations": {
+        "satisfaction.accurate_diagnosis": {
+            "buckets": {
+                "good": {
+                    "from": 3.5,
+                    "doc_count": 0
+                }
+            }
+        },
+        "overall_range": {
+            "doc_count": 7275
+        },
+        "satisfaction.bedside_manner": {
+            "buckets": {
+                "good": {
+                    "from": 3.5,
+                    "doc_count": 0
+                }
+            }
+        },
+        "satisfaction.punctuality": {
+            "buckets": {
+                "good": {
+                    "from": 3.5,
+                    "doc_count": 0
+                }
+            }
+        },
+        "display_types": {
+            "doc_count_error_upper_bound": 0,
+            "sum_other_doc_count": 0,
+            "buckets": [
+                {
+                    "key": "Doctor",
+                    "doc_count": 9616
+                },
+                {
+                    "key": "Group Practice",
+                    "doc_count": 680
+                },
+                {
+                    "key": "Chiropractor",
+                    "doc_count": 371
+                },
+                {
+                    "key": "Podiatrist",
+                    "doc_count": 310
+                },
+                {
+                    "key": "Optometrist",
+                    "doc_count": 292
+                },
+                {
+                    "key": "Psychologist",
+                    "doc_count": 279
+                },
+                {
+                    "key": "Dentist",
+                    "doc_count": 60
+                },
+                {
+                    "key": "Hospital",
+                    "doc_count": 26
+                },
+                {
+                    "key": "Nursing Home",
+                    "doc_count": 2
+                },
+                {
+                    "key": "Cancer Center",
+                    "doc_count": 1
+                },
+                {
+                    "key": "Pharmacy",
+                    "doc_count": 1
+                }
+            ]
+        },
+        "insurance_companies": {
+            "doc_count_error_upper_bound": 0,
+            "sum_other_doc_count": 0,
+            "buckets": [
+                {
+                    "key": "Aetna",
+                    "doc_count": 11304
+                },
+                {
+                    "key": "United Healthcare",
+                    "doc_count": 10301
+                },
+                {
+                    "key": "BCBS Blue Card",
+                    "doc_count": 9724
+                },
+                {
+                    "key": "IBC",
+                    "doc_count": 9616
+                },
+                {
+                    "key": "Cigna",
+                    "doc_count": 8995
+                },
+                {
+                    "key": "Coventry Health Care",
+                    "doc_count": 8567
+                },
+                {
+                    "key": "Multiplan",
+                    "doc_count": 7792
+                },
+                {
+                    "key": "Humana",
+                    "doc_count": 5854
+                },
+                {
+                    "key": "Capital Blue Cross",
+                    "doc_count": 5649
+                },
+                {
+                    "key": "Horizon BCBS",
+                    "doc_count": 5553
+                },
+                {
+                    "key": "First Health",
+                    "doc_count": 5330
+                },
+                {
+                    "key": "QualCare",
+                    "doc_count": 4110
+                },
+                {
+                    "key": "Geisinger Health Plan",
+                    "doc_count": 2742
+                },
+                {
+                    "key": "Oxford Health",
+                    "doc_count": 1840
+                },
+                {
+                    "key": "HIP of NY",
+                    "doc_count": 1484
+                },
+                {
+                    "key": "UPMC Health Plan",
+                    "doc_count": 320
+                },
+                {
+                    "key": "CareFirst BCBS",
+                    "doc_count": 288
+                },
+                {
+                    "key": "Highmark BCBS",
+                    "doc_count": 265
+                },
+                {
+                    "key": "Empire BCBS",
+                    "doc_count": 140
+                },
+                {
+                    "key": "Anthem",
+                    "doc_count": 115
+                },
+                {
+                    "key": "Capital District Physicians Health Plan",
+                    "doc_count": 104
+                },
+                {
+                    "key": "BCBS Massachusetts",
+                    "doc_count": 90
+                },
+                {
+                    "key": "Connecticare",
+                    "doc_count": 69
+                },
+                {
+                    "key": "BCBS Illinois",
+                    "doc_count": 62
+                },
+                {
+                    "key": "Assurant",
+                    "doc_count": 56
+                },
+                {
+                    "key": "Guardian Dental",
+                    "doc_count": 55
+                },
+                {
+                    "key": "Principal Dental",
+                    "doc_count": 53
+                },
+                {
+                    "key": "Cigna Dental",
+                    "doc_count": 51
+                },
+                {
+                    "key": "Delta Dental",
+                    "doc_count": 51
+                },
+                {
+                    "key": "United Concordia",
+                    "doc_count": 51
+                },
+                {
+                    "key": "Ameritas",
+                    "doc_count": 49
+                },
+                {
+                    "key": "Dental Network of America",
+                    "doc_count": 49
+                },
+                {
+                    "key": "MetLife",
+                    "doc_count": 47
+                },
+                {
+                    "key": "DenteMax",
+                    "doc_count": 44
+                },
+                {
+                    "key": "MVP Health Plan",
+                    "doc_count": 44
+                },
+                {
+                    "key": "United Healthcare Dental",
+                    "doc_count": 44
+                },
+                {
+                    "key": "CompBenefits",
+                    "doc_count": 39
+                },
+                {
+                    "key": "Harvard Pilgrim",
+                    "doc_count": 39
+                },
+                {
+                    "key": "Humana Dental",
+                    "doc_count": 38
+                },
+                {
+                    "key": "HealthFirst NY",
+                    "doc_count": 36
+                },
+                {
+                    "key": "Blue Cross California",
+                    "doc_count": 31
+                },
+                {
+                    "key": "BCBS Florida",
+                    "doc_count": 28
+                },
+                {
+                    "key": "Medical Mutual of Ohio",
+                    "doc_count": 28
+                },
+                {
+                    "key": "Health Net",
+                    "doc_count": 26
+                },
+                {
+                    "key": "Tufts Health Plan",
+                    "doc_count": 26
+                },
+                {
+                    "key": "Emblem Health",
+                    "doc_count": 23
+                },
+                {
+                    "key": "Excellus BCBS",
+                    "doc_count": 23
+                },
+                {
+                    "key": "AvMed Health",
+                    "doc_count": 17
+                },
+                {
+                    "key": "Regence Health Plans",
+                    "doc_count": 17
+                },
+                {
+                    "key": "Sagamore Health",
+                    "doc_count": 17
+                },
+                {
+                    "key": "UHC of the River Valley",
+                    "doc_count": 17
+                },
+                {
+                    "key": "Blue Shield California",
+                    "doc_count": 16
+                },
+                {
+                    "key": "ODS",
+                    "doc_count": 14
+                },
+                {
+                    "key": "Premera",
+                    "doc_count": 14
+                },
+                {
+                    "key": "Independent Health",
+                    "doc_count": 13
+                },
+                {
+                    "key": "BCBS Texas",
+                    "doc_count": 12
+                },
+                {
+                    "key": "SIHO Insurance Services",
+                    "doc_count": 12
+                },
+                {
+                    "key": "HealthSpan",
+                    "doc_count": 11
+                },
+                {
+                    "key": "BCBS North Carolina",
+                    "doc_count": 10
+                },
+                {
+                    "key": "Optima Health",
+                    "doc_count": 10
+                },
+                {
+                    "key": "BCBS Georgia",
+                    "doc_count": 9
+                },
+                {
+                    "key": "Centene",
+                    "doc_count": 9
+                },
+                {
+                    "key": "HealthLink",
+                    "doc_count": 9
+                },
+                {
+                    "key": "BCBS Michigan",
+                    "doc_count": 8
+                },
+                {
+                    "key": "Encore Health Network",
+                    "doc_count": 8
+                },
+                {
+                    "key": "Ambetter Superior Health Plan",
+                    "doc_count": 7
+                },
+                {
+                    "key": "BCBS Rhode Island",
+                    "doc_count": 7
+                },
+                {
+                    "key": "PriorityHealth",
+                    "doc_count": 7
+                },
+                {
+                    "key": "Aetna Innovation Health",
+                    "doc_count": 6
+                },
+                {
+                    "key": "Health Alliance",
+                    "doc_count": 6
+                },
+                {
+                    "key": "Premier Health Plan",
+                    "doc_count": 6
+                },
+                {
+                    "key": "Wellmark",
+                    "doc_count": 6
+                },
+                {
+                    "key": "BCBS South Carolina",
+                    "doc_count": 5
+                },
+                {
+                    "key": "Healthy Connecticut",
+                    "doc_count": 5
+                },
+                {
+                    "key": "PHP Northern IN",
+                    "doc_count": 5
+                },
+                {
+                    "key": "SummaCare",
+                    "doc_count": 5
+                },
+                {
+                    "key": "WPS",
+                    "doc_count": 5
+                },
+                {
+                    "key": "Altius",
+                    "doc_count": 4
+                },
+                {
+                    "key": "BCBS Kansas City",
+                    "doc_count": 4
+                },
+                {
+                    "key": "BCBS Minnesota",
+                    "doc_count": 4
+                },
+                {
+                    "key": "Common Ground",
+                    "doc_count": 4
+                },
+                {
+                    "key": "HAP",
+                    "doc_count": 4
+                },
+                {
+                    "key": "Molina Healthcare",
+                    "doc_count": 4
+                },
+                {
+                    "key": "PacificSource",
+                    "doc_count": 4
+                },
+                {
+                    "key": "SelectHealth",
+                    "doc_count": 4
+                },
+                {
+                    "key": "BCBS Tennessee",
+                    "doc_count": 3
+                },
+                {
+                    "key": "Providence Health System",
+                    "doc_count": 3
+                },
+                {
+                    "key": "The Health Plan of Upper OH",
+                    "doc_count": 3
+                },
+                {
+                    "key": "BCBS Alabama",
+                    "doc_count": 2
+                },
+                {
+                    "key": "BCBS New Mexico",
+                    "doc_count": 2
+                },
+                {
+                    "key": "HealthPartners - MN",
+                    "doc_count": 2
+                },
+                {
+                    "key": "Indiana University",
+                    "doc_count": 2
+                },
+                {
+                    "key": "Preferred One",
+                    "doc_count": 2
+                },
+                {
+                    "key": "Presbyterian",
+                    "doc_count": 2
+                },
+                {
+                    "key": "Aultcare",
+                    "doc_count": 1
+                },
+                {
+                    "key": "BCBS Louisiana",
+                    "doc_count": 1
+                },
+                {
+                    "key": "BCBS Oklahoma",
+                    "doc_count": 1
+                },
+                {
+                    "key": "FirstCare",
+                    "doc_count": 1
+                },
+                {
+                    "key": "FrontPath Health Coalition",
+                    "doc_count": 1
+                },
+                {
+                    "key": "Group Health Coop",
+                    "doc_count": 1
+                },
+                {
+                    "key": "Gundersen Health Plan",
+                    "doc_count": 1
+                },
+                {
+                    "key": "Health Plan of Nevada",
+                    "doc_count": 1
+                },
+                {
+                    "key": "Kaiser - MidAtlantic",
+                    "doc_count": 1
+                },
+                {
+                    "key": "LA Care Health",
+                    "doc_count": 1
+                },
+                {
+                    "key": "Network Health Plan",
+                    "doc_count": 1
+                },
+                {
+                    "key": "One Health Network",
+                    "doc_count": 1
+                },
+                {
+                    "key": "Paramount",
+                    "doc_count": 1
+                },
+                {
+                    "key": "Qualchoice",
+                    "doc_count": 1
+                },
+                {
+                    "key": "Scion Dental",
+                    "doc_count": 1
+                },
+                {
+                    "key": "Sierra Health",
+                    "doc_count": 1
+                }
+            ]
+        },
+        "ratings": {
+            "buckets": [
+                {
+                    "key": "any",
+                    "doc_count": 9616
+                },
+                {
+                    "key": "3",
+                    "from": 3,
+                    "doc_count": 6688
+                },
+                {
+                    "key": "4",
+                    "from": 4,
+                    "doc_count": 4779
+                },
+                {
+                    "key": "5",
+                    "from": 5,
+                    "doc_count": 1531
+                }
+            ]
+        },
+        "experience_range": {
+            "buckets": [
+                {
+                    "key": "Any",
+                    "doc_count": 9616
+                },
+                {
+                    "key": "0 - 5",
+                    "from": 0,
+                    "to": 6,
+                    "doc_count": 0
+                },
+                {
+                    "key": "5 - 10",
+                    "from": 5,
+                    "to": 11,
+                    "doc_count": 608
+                },
+                {
+                    "key": "11 - 15",
+                    "from": 11,
+                    "to": 16,
+                    "doc_count": 921
+                },
+                {
+                    "key": "16 - 20",
+                    "from": 16,
+                    "to": 21,
+                    "doc_count": 1028
+                },
+                {
+                    "key": "21 - 25",
+                    "from": 21,
+                    "to": 26,
+                    "doc_count": 883
+                },
+                {
+                    "key": "26 - 30",
+                    "from": 26,
+                    "to": 31,
+                    "doc_count": 760
+                },
+                {
+                    "key": "30+",
+                    "from": 30,
+                    "doc_count": 2900
+                }
+            ]
+        }
+    },
+    "status": 200,
+    "distanceLimitedNothingFound": false,
+    "query": "",
+    "radiusUsed": 25,
+    "reqNo": "1",
+    "sponsors": [
+        {
+            "campaign_name": "webmd_ep",
+            "targeting": {
+                "locations": [
+                    {
+                        "city_state": "Philadelphia, PA",
+                        "geopoint": [
+                            [
+                                -75.160429,
+                                39.94866
+                            ]
+                        ]
+                    }
+                ],
+                "sponsor_id": "xx"
+            },
+            "search": {
+                "search_city_state": "Philadelphia, PA",
+                "search_specialties": "General Dentistry",
+                "locations": [
+                    {
+                        "city_state": "Philadelphia, PA",
+                        "geopoint": [
+                            [
+                                -75.160429,
+                                39.94866
+                            ]
+                        ]
+                    }
+                ],
+                "display_name": "Shireen  Malik"
+            },
+            "npi": "1518135805",
+            "external_id": "D83325",
+            "campaign_features": [
+                {
+                    "feature_name": "serp",
+                    "feature_config": {
+                        "specialty": "General Dentistry",
+                        "webmdSpecialtyId": [
+                            29245
+                        ],
+                        "city_state": "Philadelphia, PA",
+                        "profile_url": "\/dentists\/Dr_Shireen_Malik",
+                        "type": "dentist",
+                        "display_name": "Shireen  Malik",
+                        "photos": {
+                            "host": null,
+                            "uri": null
+                        },
+                        "ctas": {
+                            "appointment_url": "https:\/\/appointments.webmd.com\/path\/wmd-path1\/61fbb52a-c844-4904-ad23-dcc296781461"
+                        },
+                        "degrees": [
+                            "DDS"
+                        ],
+                        "display_type": "Dentist",
+                        "vitalsSpecialtyId": [
+                            294,
+                            296,
+                            297,
+                            300,
+                            303,
+                            306,
+                            307
+                        ],
+                        "specialties": [
+                            "General Dentistry"
+                        ],
+                        "number_of_ratings": 13,
+                        "company_name": null,
+                        "overall_rating": 4.3076923076923075
+                    }
+                }
+            ],
+            "url": "\/dentists\/Dr_Shireen_Malik",
+            "city_state": "Philadelphia, PA",
+            "geopoint": [
+                [
+                    -75.160429,
+                    39.94866
+                ]
+            ],
+            "geo_points": [
+                -75.160429,
+                39.94866
+            ],
+            "distance": 0.3
+        },
+        {
+            "campaign_name": "webmd_ep",
+            "targeting": {
+                "locations": [
+                    {
+                        "city_state": "Philadelphia, PA",
+                        "geopoint": [
+                            [
+                                -75.1741,
+                                39.9527
+                            ]
+                        ]
+                    },
+                    {
+                        "city_state": "Upper Darby, PA",
+                        "geopoint": [
+                            [
+                                -75.2629,
+                                39.9591
+                            ]
+                        ]
+                    }
+                ],
+                "sponsor_id": "xx"
+            },
+            "search": {
+                "search_city_state": "Philadelphia, PA Upper Darby, PA",
+                "search_specialties": "Addiction Medicine Physical Medicine\/Rehab Spec",
+                "locations": [
+                    {
+                        "city_state": "Philadelphia, PA",
+                        "geopoint": [
+                            [
+                                -75.1741,
+                                39.9527
+                            ]
+                        ]
+                    },
+                    {
+                        "city_state": "Upper Darby, PA",
+                        "geopoint": [
+                            [
+                                -75.2629,
+                                39.9591
+                            ]
+                        ]
+                    }
+                ],
+                "display_name": "Denis A Boyle Jr"
+            },
+            "npi": "1205920287",
+            "external_id": "153875",
+            "campaign_features": [
+                {
+                    "feature_name": "serp",
+                    "feature_config": {
+                        "specialty": "Addiction Medicine",
+                        "webmdSpecialtyId": [
+                            29230,
+                            29309
+                        ],
+                        "city_state": "Philadelphia, PA",
+                        "profile_url": "\/doctors\/Dr_Denis_Boyle.html",
+                        "type": "doctor",
+                        "display_name": "Denis A Boyle Jr",
+                        "photos": {
+                            "host": null,
+                            "uri": null
+                        },
+                        "ctas": {
+                            "appointment_url": "https:\/\/appointments.webmd.com\/path\/wmd-path1\/fb31da85-feb0-4bf4-9dc3-01678cfc8276"
+                        },
+                        "degrees": [
+                            "MD"
+                        ],
+                        "display_type": "Doctor",
+                        "vitalsSpecialtyId": [
+                            5,
+                            23,
+                            31,
+                            141,
+                            124,
+                            126,
+                            127,
+                            2018
+                        ],
+                        "specialties": [
+                            "Addiction Medicine",
+                            "Physical Medicine\/Rehab Spec"
+                        ],
+                        "number_of_ratings": 4,
+                        "company_name": null,
+                        "overall_rating": 5
+                    }
+                }
+            ],
+            "url": "\/doctors\/Dr_Denis_Boyle.html",
+            "city_state": "Philadelphia, PA",
+            "geopoint": [
+                [
+                    -75.1741,
+                    39.9527
+                ]
+            ],
+            "geo_points": [
+                -75.1741,
+                39.9527
+            ],
+            "distance": 0.6
+        },
+        {
+            "campaign_name": "webmd_ep",
+            "targeting": {
+                "locations": [
+                    {
+                        "city_state": "Ridley Park, PA",
+                        "geopoint": [
+                            [
+                                -75.3212,
+                                39.8791
+                            ]
+                        ]
+                    }
+                ],
+                "sponsor_id": "xx"
+            },
+            "search": {
+                "search_city_state": "Ridley Park, PA",
+                "search_specialties": "Family Practitioner Internal Medicine",
+                "locations": [
+                    {
+                        "city_state": "Ridley Park, PA",
+                        "geopoint": [
+                            [
+                                -75.3212,
+                                39.8791
+                            ]
+                        ]
+                    }
+                ],
+                "display_name": "Neeraj Tripathy"
+            },
+            "npi": "1972660975",
+            "external_id": "6302324",
+            "campaign_features": [
+                {
+                    "feature_name": "serp",
+                    "feature_config": {
+                        "specialty": "Family Practitioner",
+                        "webmdSpecialtyId": [
+                            29259,
+                            29277
+                        ],
+                        "city_state": "Ridley Park, PA",
+                        "profile_url": "\/doctors\/Dr_Neeraj_Tripathy.html",
+                        "type": "doctor",
+                        "display_name": "Neeraj Tripathy",
+                        "photos": {
+                            "host": null,
+                            "uri": null
+                        },
+                        "ctas": {
+                            "appointment_url": "https:\/\/appointments.webmd.com\/path\/wmd-path1\/e5a7bcd3-e5c7-416a-b7ab-65f40d7e3015"
+                        },
+                        "degrees": [
+                            "MD"
+                        ],
+                        "display_type": "Doctor",
+                        "vitalsSpecialtyId": [
+                            22,
+                            25,
+                            26,
+                            479,
+                            667,
+                            30,
+                            36,
+                            42,
+                            672,
+                            2005
+                        ],
+                        "specialties": [
+                            "Family Practitioner",
+                            "Internal Medicine"
+                        ],
+                        "number_of_ratings": 12,
+                        "company_name": null,
+                        "overall_rating": 4.63888888888889
+                    }
+                }
+            ],
+            "url": "\/doctors\/Dr_Neeraj_Tripathy.html",
+            "city_state": "Ridley Park, PA",
+            "geopoint": [
+                [
+                    -75.3212,
+                    39.8791
+                ]
+            ],
+            "geo_points": [
+                -75.3212,
+                39.8791
+            ],
+            "distance": 9.7
+        }
+    ]
+}

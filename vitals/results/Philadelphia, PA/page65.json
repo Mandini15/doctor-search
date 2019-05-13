@@ -1,0 +1,2218 @@
+{
+    "took": 60,
+    "timed_out": false,
+    "_shards": {
+        "total": 2,
+        "successful": 2,
+        "skipped": 0,
+        "failed": 0
+    },
+    "hits": {
+        "total": 9616,
+        "max_score": null,
+        "hits": [
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1s6gr2_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1s6gr2",
+                    "years_experience": 8,
+                    "city_state": "Philadelphia, PA",
+                    "degree": "DO",
+                    "type": "doctor",
+                    "display_name": "Dr. Carol A Penn",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [
+                        "DO"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Family Medicine"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Carol_A_Penn.html",
+                            "slug": "Dr_Carol_A_Penn.html"
+                        }
+                    },
+                    "number_of_ratings": 1,
+                    "locations": [
+                        {
+                            "city_state": "Shrewsbury, NJ",
+                            "city": "Shrewsbury",
+                            "address1": "499 Broad St Ste 110",
+                            "_geoloc": {
+                                "lng": -74.06267,
+                                "lat": 40.334892
+                            },
+                            "state": "NJ"
+                        },
+                        {
+                            "city_state": "Shrewsbury, NJ",
+                            "city": "Shrewsbury",
+                            "address1": "30 Shrewsbury Plz",
+                            "_geoloc": {
+                                "lng": -74.065187,
+                                "lat": 40.316355
+                            },
+                            "state": "NJ"
+                        },
+                        {
+                            "city_state": "Philadelphia, PA",
+                            "city": "Philadelphia",
+                            "address1": "1630 W Girard Ave",
+                            "_geoloc": {
+                                "lng": -75.16382,
+                                "lat": 39.971997
+                            },
+                            "state": "PA"
+                        },
+                        {
+                            "city_state": "Philadelphia, PA",
+                            "city": "Philadelphia",
+                            "address1": "208 W Chelten Ave",
+                            "_geoloc": {
+                                "lng": -75.179124,
+                                "lat": 40.031383
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 5,
+                    "url": "\/doctors\/Dr_Carol_A_Penn.html",
+                    "slug": "Dr_Carol_A_Penn.html"
+                },
+                "fields": {
+                    "distance": 1.4065343636881211
+                },
+                "sort": [
+                    1.406603157318857
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1wfrpx_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1wfrpx",
+                    "years_experience": 33,
+                    "city_state": "Philadelphia, PA",
+                    "degree": "DO",
+                    "type": "doctor",
+                    "display_name": "Dr. Joseph A Cavuto",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [
+                        "DO"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Family Medicine"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Joseph_Cavuto.html",
+                            "slug": "Dr_Joseph_Cavuto.html"
+                        }
+                    },
+                    "number_of_ratings": 15,
+                    "locations": [
+                        {
+                            "city_state": "Mount Holly, NJ",
+                            "city": "Mount Holly",
+                            "address1": "231 High St Fl 1",
+                            "_geoloc": {
+                                "lng": -74.789261,
+                                "lat": 39.997739
+                            },
+                            "state": "NJ"
+                        },
+                        {
+                            "city_state": "Philadelphia, PA",
+                            "city": "Philadelphia",
+                            "address1": "1525 S Broad St Ste 1",
+                            "_geoloc": {
+                                "lng": -75.168028,
+                                "lat": 39.931376
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 4.622222222222224,
+                    "url": "\/doctors\/Dr_Joseph_Cavuto.html",
+                    "slug": "Dr_Joseph_Cavuto.html"
+                },
+                "fields": {
+                    "distance": 1.417705027980332
+                },
+                "sort": [
+                    1.4177769097288018
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1z3qxw_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1z3qxw",
+                    "years_experience": 35,
+                    "city_state": "Philadelphia, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. John D Kelly IV",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1883570\/photo.jpg"
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_John_D_Kelly.html",
+                            "slug": "Dr_John_D_Kelly.html"
+                        }
+                    },
+                    "number_of_ratings": 47,
+                    "locations": [
+                        {
+                            "city_state": "Philadelphia, PA",
+                            "city": "Philadelphia",
+                            "address1": "235 S 33rd St Ste 1",
+                            "_geoloc": {
+                                "lng": -75.190731,
+                                "lat": 39.95062
+                            },
+                            "state": "PA"
+                        },
+                        {
+                            "city_state": "Radnor, PA",
+                            "city": "Radnor",
+                            "address1": "250 King of Prussia Rd",
+                            "_geoloc": {
+                                "lng": -75.358201,
+                                "lat": 40.042681
+                            },
+                            "state": "PA"
+                        },
+                        {
+                            "city_state": "Berwyn, PA",
+                            "city": "Berwyn",
+                            "address1": "1001 Chesterbrook Boulevard Penn Medicine Valley Frg",
+                            "_geoloc": {
+                                "lng": -75.44223,
+                                "lat": 40.0474
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 3.6382978723404262,
+                    "url": "\/doctors\/Dr_John_D_Kelly.html",
+                    "slug": "Dr_John_D_Kelly.html"
+                },
+                "fields": {
+                    "distance": 1.427683219679047
+                },
+                "sort": [
+                    1.427754798578992
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "znm4b2_doctor",
+                "_score": null,
+                "_source": {
+                    "display_type": "Doctor",
+                    "vpid": "znm4b2",
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_John_Vasudevan.html",
+                            "slug": "Dr_John_Vasudevan.html"
+                        }
+                    },
+                    "city_state": "Philadelphia, PA",
+                    "degree": "",
+                    "locations": [
+                        {
+                            "city_state": "Philadelphia, PA",
+                            "city": "Philadelphia",
+                            "address1": "235 S 33rd St Ste 1",
+                            "_geoloc": {
+                                "lng": -75.190731,
+                                "lat": 39.95062
+                            },
+                            "state": "PA"
+                        },
+                        {
+                            "city_state": "Radnor, PA",
+                            "city": "Radnor",
+                            "address1": "250 King of Prussia Rd",
+                            "_geoloc": {
+                                "lng": -75.358201,
+                                "lat": 40.042681
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "type": "doctor",
+                    "display_name": "John M Vasudevan",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [],
+                    "url": "\/doctors\/Dr_John_Vasudevan.html",
+                    "slug": "Dr_John_Vasudevan.html"
+                },
+                "fields": {
+                    "distance": 1.427683219679047
+                },
+                "sort": [
+                    1.427754798578992
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1w4ky5_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1w4ky5",
+                    "years_experience": 16,
+                    "city_state": "Philadelphia, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Rahul L Kapur",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Sports Medicine",
+                        "Family Medicine"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Rahul_Kapur_2.html",
+                            "slug": "Dr_Rahul_Kapur_2.html"
+                        }
+                    },
+                    "number_of_ratings": 14,
+                    "locations": [
+                        {
+                            "city_state": "Philadelphia, PA",
+                            "city": "Philadelphia",
+                            "address1": "235 S 33rd St",
+                            "_geoloc": {
+                                "lng": -75.190731,
+                                "lat": 39.95062
+                            },
+                            "state": "PA"
+                        },
+                        {
+                            "city_state": "Philadelphia, PA",
+                            "city": "Philadelphia",
+                            "address1": "3737 Market St Fl 9",
+                            "_geoloc": {
+                                "lng": -75.196795,
+                                "lat": 39.956619
+                            },
+                            "state": "PA"
+                        },
+                        {
+                            "city_state": "Saint Paul, MN",
+                            "city": "Saint Paul",
+                            "address1": "1414 Maryland Ave E",
+                            "_geoloc": {
+                                "lng": -93.040863,
+                                "lat": 44.976995
+                            },
+                            "state": "MN"
+                        }
+                    ],
+                    "overall_rating": 3,
+                    "url": "\/doctors\/Dr_Rahul_Kapur_2.html",
+                    "slug": "Dr_Rahul_Kapur_2.html"
+                },
+                "fields": {
+                    "distance": 1.427683219679047
+                },
+                "sort": [
+                    1.427754798578992
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1srqnb_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1srqnb",
+                    "city_state": "Philadelphia, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Nand Ram",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Internal Medicine"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Nand_Ram.html",
+                            "slug": "Dr_Nand_Ram.html"
+                        }
+                    },
+                    "number_of_ratings": 14,
+                    "locations": [
+                        {
+                            "city_state": "Philadelphia, PA",
+                            "city": "Philadelphia",
+                            "address1": "1641 W Girard Ave",
+                            "_geoloc": {
+                                "lng": -75.164096,
+                                "lat": 39.972316
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 3.8333333333333357,
+                    "url": "\/doctors\/Dr_Nand_Ram.html",
+                    "slug": "Dr_Nand_Ram.html"
+                },
+                "fields": {
+                    "distance": 1.4286553362494263
+                },
+                "sort": [
+                    1.4287233870354348
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1r56ks_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1r56ks",
+                    "years_experience": 26,
+                    "city_state": "Philadelphia, PA",
+                    "degree": "DO",
+                    "type": "doctor",
+                    "display_name": "Dr. William Zaccone",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [
+                        "DO"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Internal Medicine"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_William_Zaccone.html",
+                            "slug": "Dr_William_Zaccone.html"
+                        }
+                    },
+                    "number_of_ratings": 3,
+                    "locations": [
+                        {
+                            "city_state": "Philadelphia, PA",
+                            "city": "Philadelphia",
+                            "address1": "1439 E Passyunk Ave",
+                            "_geoloc": {
+                                "lng": -75.161843,
+                                "lat": 39.930986
+                            },
+                            "state": "PA"
+                        },
+                        {
+                            "city_state": "Philadelphia, PA",
+                            "city": "Philadelphia",
+                            "address1": "1208 Tasker St",
+                            "_geoloc": {
+                                "lng": -75.165098,
+                                "lat": 39.929873
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 1,
+                    "url": "\/doctors\/Dr_William_Zaccone.html",
+                    "slug": "Dr_William_Zaccone.html"
+                },
+                "fields": {
+                    "distance": 1.4307072110226153
+                },
+                "sort": [
+                    1.4307799036284914
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1q0pbx_doctor",
+                "_score": null,
+                "_source": {
+                    "display_type": "Doctor",
+                    "vpid": "1q0pbx",
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_George_Oommen.html",
+                            "slug": "Dr_George_Oommen.html"
+                        }
+                    },
+                    "city_state": "Philadelphia, PA",
+                    "number_of_ratings": 5,
+                    "degree": "",
+                    "locations": [
+                        {
+                            "city_state": "Philadelphia, PA",
+                            "city": "Philadelphia",
+                            "address1": "1216 N Broad St",
+                            "_geoloc": {
+                                "lng": -75.159756,
+                                "lat": 39.972302
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 3.4,
+                    "type": "doctor",
+                    "display_name": "George Oommen",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [],
+                    "url": "\/doctors\/Dr_George_Oommen.html",
+                    "slug": "Dr_George_Oommen.html"
+                },
+                "fields": {
+                    "distance": 1.4436424382905646
+                },
+                "sort": [
+                    1.443711175220121
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1x30jk_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1x30jk",
+                    "city_state": "Philadelphia, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Eugene A Fernandes",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Ophthalmology"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Eugene_A_Fernandes.html",
+                            "slug": "Dr_Eugene_A_Fernandes.html"
+                        }
+                    },
+                    "number_of_ratings": 5,
+                    "locations": [
+                        {
+                            "city_state": "Philadelphia, PA",
+                            "city": "Philadelphia",
+                            "address1": "9229 Frankford Ave",
+                            "_geoloc": {
+                                "lng": -75.003581,
+                                "lat": 40.055265
+                            },
+                            "state": "PA"
+                        },
+                        {
+                            "city_state": "Philadelphia, PA",
+                            "city": "Philadelphia",
+                            "address1": "1216 N Broad St",
+                            "_geoloc": {
+                                "lng": -75.159756,
+                                "lat": 39.972302
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 3.533333333333336,
+                    "url": "\/doctors\/Dr_Eugene_A_Fernandes.html",
+                    "slug": "Dr_Eugene_A_Fernandes.html"
+                },
+                "fields": {
+                    "distance": 1.4436424382905646
+                },
+                "sort": [
+                    1.443711175220121
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1tz6rh_doctor",
+                "_score": null,
+                "_source": {
+                    "display_type": "Doctor",
+                    "vpid": "1tz6rh",
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/1tz6rh\/frankie-brown",
+                            "slug": "1tz6rh\/frankie-brown"
+                        }
+                    },
+                    "city_state": "Philadelphia, PA",
+                    "degree": "",
+                    "locations": [
+                        {
+                            "city_state": "Philadelphia, PA",
+                            "city": "Philadelphia",
+                            "address1": "913 W Lehigh Ave",
+                            "_geoloc": {
+                                "lng": -75.14663,
+                                "lat": 39.99318
+                            },
+                            "state": "PA"
+                        },
+                        {
+                            "city_state": "Philadelphia, PA",
+                            "city": "Philadelphia",
+                            "address1": "1216 N Broad St",
+                            "_geoloc": {
+                                "lng": -75.159756,
+                                "lat": 39.972302
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "type": "doctor",
+                    "display_name": "Frankie J Brown",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [],
+                    "url": "\/doctors\/1tz6rh\/frankie-brown",
+                    "slug": "1tz6rh\/frankie-brown"
+                },
+                "fields": {
+                    "distance": 1.4436424382905646
+                },
+                "sort": [
+                    1.443711175220121
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1t5d1x_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1t5d1x",
+                    "years_experience": 32,
+                    "city_state": "Philadelphia, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Dennis I Eneanya",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Internal Medicine"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Dennis_Eneanya.html",
+                            "slug": "Dr_Dennis_Eneanya.html"
+                        }
+                    },
+                    "number_of_ratings": 3,
+                    "locations": [
+                        {
+                            "city_state": "Philadelphia, PA",
+                            "city": "Philadelphia",
+                            "address1": "2100 W Girard Ave",
+                            "_geoloc": {
+                                "lng": -75.169726,
+                                "lat": 39.97242
+                            },
+                            "state": "PA"
+                        },
+                        {
+                            "city_state": "Hatboro, PA",
+                            "city": "Hatboro",
+                            "address1": "3485 Davisville Rd",
+                            "_geoloc": {
+                                "lng": -75.09313,
+                                "lat": 40.1603
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 5,
+                    "url": "\/doctors\/Dr_Dennis_Eneanya.html",
+                    "slug": "Dr_Dennis_Eneanya.html"
+                },
+                "fields": {
+                    "distance": 1.4695639402082614
+                },
+                "sort": [
+                    1.4696359614042014
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1w25q4_doctor",
+                "_score": null,
+                "_source": {
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Family Medicine"
+                    ],
+                    "vpid": "1w25q4",
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Felix_Vershvovsky.html",
+                            "slug": "Dr_Felix_Vershvovsky.html"
+                        }
+                    },
+                    "city_state": "Philadelphia, PA",
+                    "degree": "MD",
+                    "locations": [
+                        {
+                            "city_state": "Philadelphia, PA",
+                            "city": "Philadelphia",
+                            "address1": "2100 W Girard Ave",
+                            "_geoloc": {
+                                "lng": -75.169726,
+                                "lat": 39.97242
+                            },
+                            "state": "PA"
+                        },
+                        {
+                            "city_state": "Philadelphia, PA",
+                            "city": "Philadelphia",
+                            "address1": "6950 Germantown Ave",
+                            "_geoloc": {
+                                "lng": -75.18781,
+                                "lat": 40.05606
+                            },
+                            "state": "PA"
+                        },
+                        {
+                            "city_state": "Newark, DE",
+                            "city": "Newark",
+                            "address1": "255 Possum Park Rd",
+                            "_geoloc": {
+                                "lng": -75.734861,
+                                "lat": 39.708495
+                            },
+                            "state": "DE"
+                        }
+                    ],
+                    "type": "doctor",
+                    "display_name": "Dr. Felix Vershvovsky",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "url": "\/doctors\/Dr_Felix_Vershvovsky.html",
+                    "slug": "Dr_Felix_Vershvovsky.html"
+                },
+                "fields": {
+                    "distance": 1.4695639402082614
+                },
+                "sort": [
+                    1.4696359614042014
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1zfjk5_doctor",
+                "_score": null,
+                "_source": {
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Internal Medicine"
+                    ],
+                    "vpid": "1zfjk5",
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Theodore_Burden.html",
+                            "slug": "Dr_Theodore_Burden.html"
+                        }
+                    },
+                    "years_experience": 42,
+                    "city_state": "Philadelphia, PA",
+                    "degree": "MD",
+                    "locations": [
+                        {
+                            "city_state": "Philadelphia, PA",
+                            "city": "Philadelphia",
+                            "address1": "2100 W Girard Ave",
+                            "_geoloc": {
+                                "lng": -75.169726,
+                                "lat": 39.97242
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "type": "doctor",
+                    "display_name": "Dr. Theodore Burden",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "url": "\/doctors\/Dr_Theodore_Burden.html",
+                    "slug": "Dr_Theodore_Burden.html"
+                },
+                "fields": {
+                    "distance": 1.4695639402082614
+                },
+                "sort": [
+                    1.4696359614042014
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1sf36x_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1sf36x",
+                    "years_experience": 18,
+                    "city_state": "Philadelphia, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Emmanuel S King",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Internal Medicine"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Emmanuel_King.html",
+                            "slug": "Dr_Emmanuel_King.html"
+                        }
+                    },
+                    "number_of_ratings": 1,
+                    "locations": [
+                        {
+                            "city_state": "Philadelphia, PA",
+                            "city": "Philadelphia",
+                            "address1": "3400 Spruce St",
+                            "_geoloc": {
+                                "lng": -75.19698,
+                                "lat": 39.95037
+                            },
+                            "state": "PA"
+                        },
+                        {
+                            "city_state": "Philadelphia, PA",
+                            "city": "Philadelphia",
+                            "address1": "399 S 34th St Ste 2009",
+                            "_geoloc": {
+                                "lng": -75.191393,
+                                "lat": 39.948933
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 5,
+                    "url": "\/doctors\/Dr_Emmanuel_King.html",
+                    "slug": "Dr_Emmanuel_King.html"
+                },
+                "fields": {
+                    "distance": 1.4729396620975075
+                },
+                "sort": [
+                    1.473013884003105
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1rzh2k_doctor",
+                "_score": null,
+                "_source": {
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Podiatry"
+                    ],
+                    "vpid": "1rzh2k",
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/1rzh2k\/kenneth-dortone",
+                            "slug": "1rzh2k\/kenneth-dortone"
+                        }
+                    },
+                    "years_experience": 28,
+                    "city_state": "Philadelphia, PA",
+                    "degree": "DPM",
+                    "locations": [
+                        {
+                            "city_state": "Philadelphia, PA",
+                            "city": "Philadelphia",
+                            "address1": "2429 Brown St",
+                            "_geoloc": {
+                                "lng": -75.177539,
+                                "lat": 39.970205
+                            },
+                            "state": "PA"
+                        },
+                        {
+                            "city_state": "Springfield, PA",
+                            "city": "Springfield",
+                            "address1": "209 Carr Ln",
+                            "_geoloc": {
+                                "lng": -75.333651,
+                                "lat": 39.923984
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "type": "doctor",
+                    "display_name": "Dr. Kenneth J Dortone",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1665315\/photo.jpg"
+                        }
+                    },
+                    "degrees": [
+                        "DPM"
+                    ],
+                    "url": "\/doctors\/1rzh2k\/kenneth-dortone",
+                    "slug": "1rzh2k\/kenneth-dortone"
+                },
+                "fields": {
+                    "distance": 1.4744897041833287
+                },
+                "sort": [
+                    1.4745633797520494
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1t7k87_doctor",
+                "_score": null,
+                "_source": {
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Chiropractic"
+                    ],
+                    "vpid": "1t7k87",
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/1t7k87\/garret-hauptman",
+                            "slug": "1t7k87\/garret-hauptman"
+                        }
+                    },
+                    "years_experience": 18,
+                    "city_state": "Philadelphia, PA",
+                    "degree": "DC",
+                    "locations": [
+                        {
+                            "city_state": "Philadelphia, PA",
+                            "city": "Philadelphia",
+                            "address1": "2601 Pennsylvania Ave Ste C6",
+                            "_geoloc": {
+                                "lng": -75.180571,
+                                "lat": 39.968793
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "type": "doctor",
+                    "display_name": "Dr. Garret M Hauptman",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [
+                        "DC"
+                    ],
+                    "url": "\/doctors\/1t7k87\/garret-hauptman",
+                    "slug": "1t7k87\/garret-hauptman"
+                },
+                "fields": {
+                    "distance": 1.4807654235501138
+                },
+                "sort": [
+                    1.4808386281818688
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1pn5ct_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1pn5ct",
+                    "years_experience": 51,
+                    "city_state": "Philadelphia, PA",
+                    "degree": "DO",
+                    "type": "doctor",
+                    "display_name": "Dr. Stephen P Hauptman",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1595065\/photo.jpg"
+                        }
+                    },
+                    "degrees": [
+                        "DO"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Hematology",
+                        "Internal Medicine"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Stephen_Hauptman.html",
+                            "slug": "Dr_Stephen_Hauptman.html"
+                        }
+                    },
+                    "number_of_ratings": 6,
+                    "locations": [
+                        {
+                            "city_state": "Philadelphia, PA",
+                            "city": "Philadelphia",
+                            "address1": "2601 Pennsylvania Ave Ste C6",
+                            "_geoloc": {
+                                "lng": -75.180571,
+                                "lat": 39.968793
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 4.333333333333333,
+                    "url": "\/doctors\/Dr_Stephen_Hauptman.html",
+                    "slug": "Dr_Stephen_Hauptman.html"
+                },
+                "fields": {
+                    "distance": 1.4807654235501138
+                },
+                "sort": [
+                    1.4808386281818688
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1p3c5h_doctor",
+                "_score": null,
+                "_source": {
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Anesthesiology"
+                    ],
+                    "vpid": "1p3c5h",
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Dmitry_Roberman.html",
+                            "slug": "Dr_Dmitry_Roberman.html"
+                        }
+                    },
+                    "years_experience": 9,
+                    "city_state": "Philadelphia, PA",
+                    "degree": "DO",
+                    "locations": [
+                        {
+                            "city_state": "Philadelphia, PA",
+                            "city": "Philadelphia",
+                            "address1": "5501 Old York Rd",
+                            "_geoloc": {
+                                "lng": -75.143213,
+                                "lat": 40.036789
+                            },
+                            "state": "PA"
+                        },
+                        {
+                            "city_state": "Philadelphia, PA",
+                            "city": "Philadelphia",
+                            "address1": "2601 Pennsylvania Ave Ste C6",
+                            "_geoloc": {
+                                "lng": -75.180571,
+                                "lat": 39.968793
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "type": "doctor",
+                    "display_name": "Dr. Dmitry Roberman",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [
+                        "DO"
+                    ],
+                    "url": "\/doctors\/Dr_Dmitry_Roberman.html",
+                    "slug": "Dr_Dmitry_Roberman.html"
+                },
+                "fields": {
+                    "distance": 1.4807654235501138
+                },
+                "sort": [
+                    1.4808386281818688
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1tdygb_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1tdygb",
+                    "years_experience": 19,
+                    "city_state": "Philadelphia, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Katrina P Poblete",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Pediatrics"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Katrina_Poblete.html",
+                            "slug": "Dr_Katrina_Poblete.html"
+                        }
+                    },
+                    "number_of_ratings": 10,
+                    "locations": [
+                        {
+                            "city_state": "Philadelphia, PA",
+                            "city": "Philadelphia",
+                            "address1": "821 N 2nd St",
+                            "_geoloc": {
+                                "lng": -75.140195,
+                                "lat": 39.963326
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 4.5,
+                    "url": "\/doctors\/Dr_Katrina_Poblete.html",
+                    "slug": "Dr_Katrina_Poblete.html"
+                },
+                "fields": {
+                    "distance": 1.4885505877975036
+                },
+                "sort": [
+                    1.4886233781678269
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1qm79x_doctor",
+                "_score": null,
+                "_source": {
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Podiatry"
+                    ],
+                    "vpid": "1qm79x",
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/1qm79x\/bruce-ackerman",
+                            "slug": "1qm79x\/bruce-ackerman"
+                        }
+                    },
+                    "years_experience": 40,
+                    "city_state": "Philadelphia, PA",
+                    "degree": "DPM",
+                    "locations": [
+                        {
+                            "city_state": "Philadelphia, PA",
+                            "city": "Philadelphia",
+                            "address1": "1602 S Broad St Ste 1",
+                            "_geoloc": {
+                                "lng": -75.168749,
+                                "lat": 39.93038
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "type": "doctor",
+                    "display_name": "Dr. Bruce I Ackerman",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [
+                        "DPM"
+                    ],
+                    "url": "\/doctors\/1qm79x\/bruce-ackerman",
+                    "slug": "1qm79x\/bruce-ackerman"
+                },
+                "fields": {
+                    "distance": 1.4919221200918482
+                },
+                "sort": [
+                    1.4919992849056825
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1wrjky_doctor",
+                "_score": null,
+                "_source": {
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Pediatric Hematology-Oncology",
+                        "Pediatrics"
+                    ],
+                    "vpid": "1wrjky",
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Benjamin_Samelson-Jones.html",
+                            "slug": "Dr_Benjamin_Samelson-Jones.html"
+                        }
+                    },
+                    "city_state": "Philadelphia, PA",
+                    "degree": "MD",
+                    "locations": [
+                        {
+                            "city_state": "Philadelphia, PA",
+                            "city": "Philadelphia",
+                            "address1": "3401 Civic Center Blvd",
+                            "_geoloc": {
+                                "lng": -75.193314,
+                                "lat": 39.948522
+                            },
+                            "state": "PA"
+                        },
+                        {
+                            "city_state": "Philadelphia, PA",
+                            "city": "Philadelphia",
+                            "address1": "12 S 34th St",
+                            "_geoloc": {
+                                "lng": -75.191832,
+                                "lat": 39.95519
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "type": "doctor",
+                    "display_name": "Dr. Benjamin J Samelson-Jones",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "url": "\/doctors\/Dr_Benjamin_Samelson-Jones.html",
+                    "slug": "Dr_Benjamin_Samelson-Jones.html"
+                },
+                "fields": {
+                    "distance": 1.504350405206732
+                },
+                "sort": [
+                    1.5044278826486515
+                ]
+            }
+        ]
+    },
+    "aggregations": {
+        "satisfaction.accurate_diagnosis": {
+            "buckets": {
+                "good": {
+                    "from": 3.5,
+                    "doc_count": 0
+                }
+            }
+        },
+        "overall_range": {
+            "doc_count": 7275
+        },
+        "satisfaction.bedside_manner": {
+            "buckets": {
+                "good": {
+                    "from": 3.5,
+                    "doc_count": 0
+                }
+            }
+        },
+        "satisfaction.punctuality": {
+            "buckets": {
+                "good": {
+                    "from": 3.5,
+                    "doc_count": 0
+                }
+            }
+        },
+        "display_types": {
+            "doc_count_error_upper_bound": 0,
+            "sum_other_doc_count": 0,
+            "buckets": [
+                {
+                    "key": "Doctor",
+                    "doc_count": 9616
+                },
+                {
+                    "key": "Group Practice",
+                    "doc_count": 680
+                },
+                {
+                    "key": "Chiropractor",
+                    "doc_count": 371
+                },
+                {
+                    "key": "Podiatrist",
+                    "doc_count": 310
+                },
+                {
+                    "key": "Optometrist",
+                    "doc_count": 292
+                },
+                {
+                    "key": "Psychologist",
+                    "doc_count": 279
+                },
+                {
+                    "key": "Dentist",
+                    "doc_count": 60
+                },
+                {
+                    "key": "Hospital",
+                    "doc_count": 26
+                },
+                {
+                    "key": "Nursing Home",
+                    "doc_count": 2
+                },
+                {
+                    "key": "Cancer Center",
+                    "doc_count": 1
+                },
+                {
+                    "key": "Pharmacy",
+                    "doc_count": 1
+                }
+            ]
+        },
+        "insurance_companies": {
+            "doc_count_error_upper_bound": 0,
+            "sum_other_doc_count": 0,
+            "buckets": [
+                {
+                    "key": "Aetna",
+                    "doc_count": 11304
+                },
+                {
+                    "key": "United Healthcare",
+                    "doc_count": 10301
+                },
+                {
+                    "key": "BCBS Blue Card",
+                    "doc_count": 9724
+                },
+                {
+                    "key": "IBC",
+                    "doc_count": 9616
+                },
+                {
+                    "key": "Cigna",
+                    "doc_count": 8995
+                },
+                {
+                    "key": "Coventry Health Care",
+                    "doc_count": 8567
+                },
+                {
+                    "key": "Multiplan",
+                    "doc_count": 7792
+                },
+                {
+                    "key": "Humana",
+                    "doc_count": 5854
+                },
+                {
+                    "key": "Capital Blue Cross",
+                    "doc_count": 5649
+                },
+                {
+                    "key": "Horizon BCBS",
+                    "doc_count": 5553
+                },
+                {
+                    "key": "First Health",
+                    "doc_count": 5330
+                },
+                {
+                    "key": "QualCare",
+                    "doc_count": 4110
+                },
+                {
+                    "key": "Geisinger Health Plan",
+                    "doc_count": 2742
+                },
+                {
+                    "key": "Oxford Health",
+                    "doc_count": 1840
+                },
+                {
+                    "key": "HIP of NY",
+                    "doc_count": 1484
+                },
+                {
+                    "key": "UPMC Health Plan",
+                    "doc_count": 320
+                },
+                {
+                    "key": "CareFirst BCBS",
+                    "doc_count": 288
+                },
+                {
+                    "key": "Highmark BCBS",
+                    "doc_count": 265
+                },
+                {
+                    "key": "Empire BCBS",
+                    "doc_count": 140
+                },
+                {
+                    "key": "Anthem",
+                    "doc_count": 115
+                },
+                {
+                    "key": "Capital District Physicians Health Plan",
+                    "doc_count": 104
+                },
+                {
+                    "key": "BCBS Massachusetts",
+                    "doc_count": 90
+                },
+                {
+                    "key": "Connecticare",
+                    "doc_count": 69
+                },
+                {
+                    "key": "BCBS Illinois",
+                    "doc_count": 62
+                },
+                {
+                    "key": "Assurant",
+                    "doc_count": 56
+                },
+                {
+                    "key": "Guardian Dental",
+                    "doc_count": 55
+                },
+                {
+                    "key": "Principal Dental",
+                    "doc_count": 53
+                },
+                {
+                    "key": "Cigna Dental",
+                    "doc_count": 51
+                },
+                {
+                    "key": "Delta Dental",
+                    "doc_count": 51
+                },
+                {
+                    "key": "United Concordia",
+                    "doc_count": 51
+                },
+                {
+                    "key": "Ameritas",
+                    "doc_count": 49
+                },
+                {
+                    "key": "Dental Network of America",
+                    "doc_count": 49
+                },
+                {
+                    "key": "MetLife",
+                    "doc_count": 47
+                },
+                {
+                    "key": "DenteMax",
+                    "doc_count": 44
+                },
+                {
+                    "key": "MVP Health Plan",
+                    "doc_count": 44
+                },
+                {
+                    "key": "United Healthcare Dental",
+                    "doc_count": 44
+                },
+                {
+                    "key": "CompBenefits",
+                    "doc_count": 39
+                },
+                {
+                    "key": "Harvard Pilgrim",
+                    "doc_count": 39
+                },
+                {
+                    "key": "Humana Dental",
+                    "doc_count": 38
+                },
+                {
+                    "key": "HealthFirst NY",
+                    "doc_count": 36
+                },
+                {
+                    "key": "Blue Cross California",
+                    "doc_count": 31
+                },
+                {
+                    "key": "BCBS Florida",
+                    "doc_count": 28
+                },
+                {
+                    "key": "Medical Mutual of Ohio",
+                    "doc_count": 28
+                },
+                {
+                    "key": "Health Net",
+                    "doc_count": 26
+                },
+                {
+                    "key": "Tufts Health Plan",
+                    "doc_count": 26
+                },
+                {
+                    "key": "Emblem Health",
+                    "doc_count": 23
+                },
+                {
+                    "key": "Excellus BCBS",
+                    "doc_count": 23
+                },
+                {
+                    "key": "AvMed Health",
+                    "doc_count": 17
+                },
+                {
+                    "key": "Regence Health Plans",
+                    "doc_count": 17
+                },
+                {
+                    "key": "Sagamore Health",
+                    "doc_count": 17
+                },
+                {
+                    "key": "UHC of the River Valley",
+                    "doc_count": 17
+                },
+                {
+                    "key": "Blue Shield California",
+                    "doc_count": 16
+                },
+                {
+                    "key": "ODS",
+                    "doc_count": 14
+                },
+                {
+                    "key": "Premera",
+                    "doc_count": 14
+                },
+                {
+                    "key": "Independent Health",
+                    "doc_count": 13
+                },
+                {
+                    "key": "BCBS Texas",
+                    "doc_count": 12
+                },
+                {
+                    "key": "SIHO Insurance Services",
+                    "doc_count": 12
+                },
+                {
+                    "key": "HealthSpan",
+                    "doc_count": 11
+                },
+                {
+                    "key": "BCBS North Carolina",
+                    "doc_count": 10
+                },
+                {
+                    "key": "Optima Health",
+                    "doc_count": 10
+                },
+                {
+                    "key": "BCBS Georgia",
+                    "doc_count": 9
+                },
+                {
+                    "key": "Centene",
+                    "doc_count": 9
+                },
+                {
+                    "key": "HealthLink",
+                    "doc_count": 9
+                },
+                {
+                    "key": "BCBS Michigan",
+                    "doc_count": 8
+                },
+                {
+                    "key": "Encore Health Network",
+                    "doc_count": 8
+                },
+                {
+                    "key": "Ambetter Superior Health Plan",
+                    "doc_count": 7
+                },
+                {
+                    "key": "BCBS Rhode Island",
+                    "doc_count": 7
+                },
+                {
+                    "key": "PriorityHealth",
+                    "doc_count": 7
+                },
+                {
+                    "key": "Aetna Innovation Health",
+                    "doc_count": 6
+                },
+                {
+                    "key": "Health Alliance",
+                    "doc_count": 6
+                },
+                {
+                    "key": "Premier Health Plan",
+                    "doc_count": 6
+                },
+                {
+                    "key": "Wellmark",
+                    "doc_count": 6
+                },
+                {
+                    "key": "BCBS South Carolina",
+                    "doc_count": 5
+                },
+                {
+                    "key": "Healthy Connecticut",
+                    "doc_count": 5
+                },
+                {
+                    "key": "PHP Northern IN",
+                    "doc_count": 5
+                },
+                {
+                    "key": "SummaCare",
+                    "doc_count": 5
+                },
+                {
+                    "key": "WPS",
+                    "doc_count": 5
+                },
+                {
+                    "key": "Altius",
+                    "doc_count": 4
+                },
+                {
+                    "key": "BCBS Kansas City",
+                    "doc_count": 4
+                },
+                {
+                    "key": "BCBS Minnesota",
+                    "doc_count": 4
+                },
+                {
+                    "key": "Common Ground",
+                    "doc_count": 4
+                },
+                {
+                    "key": "HAP",
+                    "doc_count": 4
+                },
+                {
+                    "key": "Molina Healthcare",
+                    "doc_count": 4
+                },
+                {
+                    "key": "PacificSource",
+                    "doc_count": 4
+                },
+                {
+                    "key": "SelectHealth",
+                    "doc_count": 4
+                },
+                {
+                    "key": "BCBS Tennessee",
+                    "doc_count": 3
+                },
+                {
+                    "key": "Providence Health System",
+                    "doc_count": 3
+                },
+                {
+                    "key": "The Health Plan of Upper OH",
+                    "doc_count": 3
+                },
+                {
+                    "key": "BCBS Alabama",
+                    "doc_count": 2
+                },
+                {
+                    "key": "BCBS New Mexico",
+                    "doc_count": 2
+                },
+                {
+                    "key": "HealthPartners - MN",
+                    "doc_count": 2
+                },
+                {
+                    "key": "Indiana University",
+                    "doc_count": 2
+                },
+                {
+                    "key": "Preferred One",
+                    "doc_count": 2
+                },
+                {
+                    "key": "Presbyterian",
+                    "doc_count": 2
+                },
+                {
+                    "key": "Aultcare",
+                    "doc_count": 1
+                },
+                {
+                    "key": "BCBS Louisiana",
+                    "doc_count": 1
+                },
+                {
+                    "key": "BCBS Oklahoma",
+                    "doc_count": 1
+                },
+                {
+                    "key": "FirstCare",
+                    "doc_count": 1
+                },
+                {
+                    "key": "FrontPath Health Coalition",
+                    "doc_count": 1
+                },
+                {
+                    "key": "Group Health Coop",
+                    "doc_count": 1
+                },
+                {
+                    "key": "Gundersen Health Plan",
+                    "doc_count": 1
+                },
+                {
+                    "key": "Health Plan of Nevada",
+                    "doc_count": 1
+                },
+                {
+                    "key": "Kaiser - MidAtlantic",
+                    "doc_count": 1
+                },
+                {
+                    "key": "LA Care Health",
+                    "doc_count": 1
+                },
+                {
+                    "key": "Network Health Plan",
+                    "doc_count": 1
+                },
+                {
+                    "key": "One Health Network",
+                    "doc_count": 1
+                },
+                {
+                    "key": "Paramount",
+                    "doc_count": 1
+                },
+                {
+                    "key": "Qualchoice",
+                    "doc_count": 1
+                },
+                {
+                    "key": "Scion Dental",
+                    "doc_count": 1
+                },
+                {
+                    "key": "Sierra Health",
+                    "doc_count": 1
+                }
+            ]
+        },
+        "ratings": {
+            "buckets": [
+                {
+                    "key": "any",
+                    "doc_count": 9616
+                },
+                {
+                    "key": "3",
+                    "from": 3,
+                    "doc_count": 6688
+                },
+                {
+                    "key": "4",
+                    "from": 4,
+                    "doc_count": 4779
+                },
+                {
+                    "key": "5",
+                    "from": 5,
+                    "doc_count": 1531
+                }
+            ]
+        },
+        "experience_range": {
+            "buckets": [
+                {
+                    "key": "Any",
+                    "doc_count": 9616
+                },
+                {
+                    "key": "0 - 5",
+                    "from": 0,
+                    "to": 6,
+                    "doc_count": 0
+                },
+                {
+                    "key": "5 - 10",
+                    "from": 5,
+                    "to": 11,
+                    "doc_count": 608
+                },
+                {
+                    "key": "11 - 15",
+                    "from": 11,
+                    "to": 16,
+                    "doc_count": 921
+                },
+                {
+                    "key": "16 - 20",
+                    "from": 16,
+                    "to": 21,
+                    "doc_count": 1028
+                },
+                {
+                    "key": "21 - 25",
+                    "from": 21,
+                    "to": 26,
+                    "doc_count": 883
+                },
+                {
+                    "key": "26 - 30",
+                    "from": 26,
+                    "to": 31,
+                    "doc_count": 760
+                },
+                {
+                    "key": "30+",
+                    "from": 30,
+                    "doc_count": 2900
+                }
+            ]
+        }
+    },
+    "status": 200,
+    "distanceLimitedNothingFound": false,
+    "query": "",
+    "radiusUsed": 25,
+    "reqNo": "1",
+    "sponsors": [
+        {
+            "campaign_name": "webmd_ep",
+            "targeting": {
+                "locations": [
+                    {
+                        "city_state": "Philadelphia, PA",
+                        "geopoint": [
+                            [
+                                -75.160429,
+                                39.94866
+                            ]
+                        ]
+                    }
+                ],
+                "sponsor_id": "xx"
+            },
+            "search": {
+                "search_city_state": "Philadelphia, PA",
+                "search_specialties": "General Dentistry",
+                "locations": [
+                    {
+                        "city_state": "Philadelphia, PA",
+                        "geopoint": [
+                            [
+                                -75.160429,
+                                39.94866
+                            ]
+                        ]
+                    }
+                ],
+                "display_name": "Shireen  Malik"
+            },
+            "npi": "1518135805",
+            "external_id": "D83325",
+            "campaign_features": [
+                {
+                    "feature_name": "serp",
+                    "feature_config": {
+                        "specialty": "General Dentistry",
+                        "webmdSpecialtyId": [
+                            29245
+                        ],
+                        "city_state": "Philadelphia, PA",
+                        "profile_url": "\/dentists\/Dr_Shireen_Malik",
+                        "type": "dentist",
+                        "display_name": "Shireen  Malik",
+                        "photos": {
+                            "host": null,
+                            "uri": null
+                        },
+                        "ctas": {
+                            "appointment_url": "https:\/\/appointments.webmd.com\/path\/wmd-path1\/61fbb52a-c844-4904-ad23-dcc296781461"
+                        },
+                        "degrees": [
+                            "DDS"
+                        ],
+                        "display_type": "Dentist",
+                        "vitalsSpecialtyId": [
+                            294,
+                            296,
+                            297,
+                            300,
+                            303,
+                            306,
+                            307
+                        ],
+                        "specialties": [
+                            "General Dentistry"
+                        ],
+                        "number_of_ratings": 13,
+                        "company_name": null,
+                        "overall_rating": 4.3076923076923075
+                    }
+                }
+            ],
+            "url": "\/dentists\/Dr_Shireen_Malik",
+            "city_state": "Philadelphia, PA",
+            "geopoint": [
+                [
+                    -75.160429,
+                    39.94866
+                ]
+            ],
+            "geo_points": [
+                -75.160429,
+                39.94866
+            ],
+            "distance": 0.3
+        },
+        {
+            "campaign_name": "webmd_ep",
+            "targeting": {
+                "locations": [
+                    {
+                        "city_state": "Philadelphia, PA",
+                        "geopoint": [
+                            [
+                                -75.1741,
+                                39.9527
+                            ]
+                        ]
+                    },
+                    {
+                        "city_state": "Upper Darby, PA",
+                        "geopoint": [
+                            [
+                                -75.2629,
+                                39.9591
+                            ]
+                        ]
+                    }
+                ],
+                "sponsor_id": "xx"
+            },
+            "search": {
+                "search_city_state": "Philadelphia, PA Upper Darby, PA",
+                "search_specialties": "Addiction Medicine Physical Medicine\/Rehab Spec",
+                "locations": [
+                    {
+                        "city_state": "Philadelphia, PA",
+                        "geopoint": [
+                            [
+                                -75.1741,
+                                39.9527
+                            ]
+                        ]
+                    },
+                    {
+                        "city_state": "Upper Darby, PA",
+                        "geopoint": [
+                            [
+                                -75.2629,
+                                39.9591
+                            ]
+                        ]
+                    }
+                ],
+                "display_name": "Denis A Boyle Jr"
+            },
+            "npi": "1205920287",
+            "external_id": "153875",
+            "campaign_features": [
+                {
+                    "feature_name": "serp",
+                    "feature_config": {
+                        "specialty": "Addiction Medicine",
+                        "webmdSpecialtyId": [
+                            29230,
+                            29309
+                        ],
+                        "city_state": "Philadelphia, PA",
+                        "profile_url": "\/doctors\/Dr_Denis_Boyle.html",
+                        "type": "doctor",
+                        "display_name": "Denis A Boyle Jr",
+                        "photos": {
+                            "host": null,
+                            "uri": null
+                        },
+                        "ctas": {
+                            "appointment_url": "https:\/\/appointments.webmd.com\/path\/wmd-path1\/fb31da85-feb0-4bf4-9dc3-01678cfc8276"
+                        },
+                        "degrees": [
+                            "MD"
+                        ],
+                        "display_type": "Doctor",
+                        "vitalsSpecialtyId": [
+                            5,
+                            23,
+                            31,
+                            141,
+                            124,
+                            126,
+                            127,
+                            2018
+                        ],
+                        "specialties": [
+                            "Addiction Medicine",
+                            "Physical Medicine\/Rehab Spec"
+                        ],
+                        "number_of_ratings": 4,
+                        "company_name": null,
+                        "overall_rating": 5
+                    }
+                }
+            ],
+            "url": "\/doctors\/Dr_Denis_Boyle.html",
+            "city_state": "Philadelphia, PA",
+            "geopoint": [
+                [
+                    -75.1741,
+                    39.9527
+                ]
+            ],
+            "geo_points": [
+                -75.1741,
+                39.9527
+            ],
+            "distance": 0.6
+        },
+        {
+            "campaign_name": "webmd_ep",
+            "targeting": {
+                "locations": [
+                    {
+                        "city_state": "Ridley Park, PA",
+                        "geopoint": [
+                            [
+                                -75.3212,
+                                39.8791
+                            ]
+                        ]
+                    }
+                ],
+                "sponsor_id": "xx"
+            },
+            "search": {
+                "search_city_state": "Ridley Park, PA",
+                "search_specialties": "Family Practitioner Internal Medicine",
+                "locations": [
+                    {
+                        "city_state": "Ridley Park, PA",
+                        "geopoint": [
+                            [
+                                -75.3212,
+                                39.8791
+                            ]
+                        ]
+                    }
+                ],
+                "display_name": "Neeraj Tripathy"
+            },
+            "npi": "1972660975",
+            "external_id": "6302324",
+            "campaign_features": [
+                {
+                    "feature_name": "serp",
+                    "feature_config": {
+                        "specialty": "Family Practitioner",
+                        "webmdSpecialtyId": [
+                            29259,
+                            29277
+                        ],
+                        "city_state": "Ridley Park, PA",
+                        "profile_url": "\/doctors\/Dr_Neeraj_Tripathy.html",
+                        "type": "doctor",
+                        "display_name": "Neeraj Tripathy",
+                        "photos": {
+                            "host": null,
+                            "uri": null
+                        },
+                        "ctas": {
+                            "appointment_url": "https:\/\/appointments.webmd.com\/path\/wmd-path1\/e5a7bcd3-e5c7-416a-b7ab-65f40d7e3015"
+                        },
+                        "degrees": [
+                            "MD"
+                        ],
+                        "display_type": "Doctor",
+                        "vitalsSpecialtyId": [
+                            22,
+                            25,
+                            26,
+                            479,
+                            667,
+                            30,
+                            36,
+                            42,
+                            672,
+                            2005
+                        ],
+                        "specialties": [
+                            "Family Practitioner",
+                            "Internal Medicine"
+                        ],
+                        "number_of_ratings": 12,
+                        "company_name": null,
+                        "overall_rating": 4.63888888888889
+                    }
+                }
+            ],
+            "url": "\/doctors\/Dr_Neeraj_Tripathy.html",
+            "city_state": "Ridley Park, PA",
+            "geopoint": [
+                [
+                    -75.3212,
+                    39.8791
+                ]
+            ],
+            "geo_points": [
+                -75.3212,
+                39.8791
+            ],
+            "distance": 9.7
+        }
+    ]
+}

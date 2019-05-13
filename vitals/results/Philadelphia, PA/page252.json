@@ -1,0 +1,2262 @@
+{
+    "took": 86,
+    "timed_out": false,
+    "_shards": {
+        "total": 2,
+        "successful": 2,
+        "skipped": 0,
+        "failed": 0
+    },
+    "hits": {
+        "total": 9616,
+        "max_score": null,
+        "hits": [
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1twqp7_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1twqp7",
+                    "years_experience": 17,
+                    "city_state": "Philadelphia, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Manav N Segal",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Allergy and Immunology",
+                        "Internal Medicine"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Manav_Segal.html",
+                            "slug": "Dr_Manav_Segal.html"
+                        }
+                    },
+                    "number_of_ratings": 7,
+                    "locations": [
+                        {
+                            "city_state": "Philadelphia, PA",
+                            "city": "Philadelphia",
+                            "address1": "40 W Evergreen Ave Ste 106",
+                            "_geoloc": {
+                                "lng": -75.20823,
+                                "lat": 40.07543
+                            },
+                            "state": "PA"
+                        },
+                        {
+                            "city_state": "Glenside, PA",
+                            "city": "Glenside",
+                            "address1": "8200 Flourtown Ave Ste 4",
+                            "_geoloc": {
+                                "lng": -75.193878,
+                                "lat": 40.082579
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 4.857142857142857,
+                    "url": "\/doctors\/Dr_Manav_Segal.html",
+                    "slug": "Dr_Manav_Segal.html"
+                },
+                "fields": {
+                    "distance": 8.869858965720764
+                },
+                "sort": [
+                    8.870296890267781
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1x5qcw_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1x5qcw",
+                    "years_experience": 41,
+                    "city_state": "West Deptford, NJ",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. David A Laskin",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1542579\/photo.jpg"
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Internal Medicine"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_David_Laskin.html",
+                            "slug": "Dr_David_Laskin.html"
+                        }
+                    },
+                    "number_of_ratings": 4,
+                    "locations": [
+                        {
+                            "city_state": "West Deptford, NJ",
+                            "city": "West Deptford",
+                            "address1": "400 Grove Rd",
+                            "_geoloc": {
+                                "lng": -75.19373,
+                                "lat": 39.825246
+                            },
+                            "state": "NJ"
+                        }
+                    ],
+                    "overall_rating": 3.333333333333333,
+                    "url": "\/doctors\/Dr_David_Laskin.html",
+                    "slug": "Dr_David_Laskin.html"
+                },
+                "fields": {
+                    "distance": 8.875391018255517
+                },
+                "sort": [
+                    8.875830929423577
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1s08ck_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1s08ck",
+                    "years_experience": 41,
+                    "city_state": "Havertown, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Craig A Aronchick",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Gastroenterology",
+                        "Internal Medicine"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Craig_Aronchick.html",
+                            "slug": "Dr_Craig_Aronchick.html"
+                        }
+                    },
+                    "number_of_ratings": 22,
+                    "locations": [
+                        {
+                            "city_state": "Conshohocken, PA",
+                            "city": "Conshohocken",
+                            "address1": "625 W Ridge Pike Bldg B",
+                            "_geoloc": {
+                                "lng": -75.29805,
+                                "lat": 40.09626
+                            },
+                            "state": "PA"
+                        },
+                        {
+                            "city_state": "Ukiah, CA",
+                            "city": "Ukiah",
+                            "address1": "275 Hospital Dr",
+                            "_geoloc": {
+                                "lng": -123.202792,
+                                "lat": 39.152156
+                            },
+                            "state": "CA"
+                        },
+                        {
+                            "city_state": "Havertown, PA",
+                            "city": "Havertown",
+                            "address1": "1624 Rose Glen Rd",
+                            "_geoloc": {
+                                "lng": -75.327176,
+                                "lat": 39.980387
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 4.6515151515151505,
+                    "url": "\/doctors\/Dr_Craig_Aronchick.html",
+                    "slug": "Dr_Craig_Aronchick.html"
+                },
+                "fields": {
+                    "distance": 8.87580391616843
+                },
+                "sort": [
+                    8.876246955304488
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1nyp3q_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1nyp3q",
+                    "years_experience": 37,
+                    "city_state": "Haverford, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Laurie A Browngoehl",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1874080\/photo.jpg"
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Physical Medicine and Rehabilitation"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Laurie_Browngoehl.html",
+                            "slug": "Dr_Laurie_Browngoehl.html"
+                        }
+                    },
+                    "number_of_ratings": 7,
+                    "locations": [
+                        {
+                            "city_state": "Haverford, PA",
+                            "city": "Haverford",
+                            "address1": "551 W Lancaster Ave Ste 205",
+                            "_geoloc": {
+                                "lng": -75.30822,
+                                "lat": 40.01702
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 4.428571428571429,
+                    "url": "\/doctors\/Dr_Laurie_Browngoehl.html",
+                    "slug": "Dr_Laurie_Browngoehl.html"
+                },
+                "fields": {
+                    "distance": 8.87971799920291
+                },
+                "sort": [
+                    8.880159305306844
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1skjm0_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1skjm0",
+                    "years_experience": 38,
+                    "city_state": "Haverford, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Stuart L Gordon",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1578932\/photo.jpg"
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Orthopaedic Surgery"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Stuart_Gordon.html",
+                            "slug": "Dr_Stuart_Gordon.html"
+                        }
+                    },
+                    "number_of_ratings": 64,
+                    "locations": [
+                        {
+                            "city_state": "Haverford, PA",
+                            "city": "Haverford",
+                            "address1": "619 College Ave",
+                            "_geoloc": {
+                                "lng": -75.314722,
+                                "lat": 40.007787
+                            },
+                            "state": "PA"
+                        },
+                        {
+                            "city_state": "Royersford, PA",
+                            "city": "Royersford",
+                            "address1": "420 W Linfield Trappe Rd Ste 2000",
+                            "_geoloc": {
+                                "lng": -75.541807,
+                                "lat": 40.216135
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 4.489583333333334,
+                    "url": "\/doctors\/Dr_Stuart_Gordon.html",
+                    "slug": "Dr_Stuart_Gordon.html"
+                },
+                "fields": {
+                    "distance": 8.881618751770059
+                },
+                "sort": [
+                    8.882060908354804
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1wcp8s_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1wcp8s",
+                    "city_state": "Philadelphia, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Ronald P Rednor",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Internal Medicine"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Ronald_Rednor.html",
+                            "slug": "Dr_Ronald_Rednor.html"
+                        }
+                    },
+                    "number_of_ratings": 5,
+                    "locations": [
+                        {
+                            "city_state": "Philadelphia, PA",
+                            "city": "Philadelphia",
+                            "address1": "7503 Brous Ave",
+                            "_geoloc": {
+                                "lng": -75.048787,
+                                "lat": 40.045342
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 2.6,
+                    "url": "\/doctors\/Dr_Ronald_Rednor.html",
+                    "slug": "Dr_Ronald_Rednor.html"
+                },
+                "fields": {
+                    "distance": 8.886642585231275
+                },
+                "sort": [
+                    8.8870818098759
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1ty1s8_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1ty1s8",
+                    "years_experience": 29,
+                    "city_state": "Philadelphia, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Gregory L Derusso",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Internal Medicine"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Gregory_Derusso.html",
+                            "slug": "Dr_Gregory_Derusso.html"
+                        }
+                    },
+                    "number_of_ratings": 24,
+                    "locations": [
+                        {
+                            "city_state": "Philadelphia, PA",
+                            "city": "Philadelphia",
+                            "address1": "7505 Bustleton Ave",
+                            "_geoloc": {
+                                "lng": -75.056943,
+                                "lat": 40.05099
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 4.388888888888888,
+                    "url": "\/doctors\/Dr_Gregory_Derusso.html",
+                    "slug": "Dr_Gregory_Derusso.html"
+                },
+                "fields": {
+                    "distance": 8.89410345019837
+                },
+                "sort": [
+                    8.89454149479895
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1r6ft6_doctor",
+                "_score": null,
+                "_source": {
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Physical Medicine and Rehabilitation"
+                    ],
+                    "vpid": "1r6ft6",
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/1r6ft6\/kevin-digiulio",
+                            "slug": "1r6ft6\/kevin-digiulio"
+                        }
+                    },
+                    "city_state": "Philadelphia, PA",
+                    "degree": "MD",
+                    "locations": [
+                        {
+                            "city_state": "Philadelphia, PA",
+                            "city": "Philadelphia",
+                            "address1": "7508 Loretto Ave",
+                            "_geoloc": {
+                                "lng": -75.06473,
+                                "lat": 40.05569
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "type": "doctor",
+                    "display_name": "Dr. Kevin M Digiulio",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "url": "\/doctors\/1r6ft6\/kevin-digiulio",
+                    "slug": "1r6ft6\/kevin-digiulio"
+                },
+                "fields": {
+                    "distance": 8.898007770050118
+                },
+                "sort": [
+                    8.89844622628832
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1zbnzr_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1zbnzr",
+                    "city_state": "Prospect Park, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Michael J Stewart",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Internal Medicine"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Michael_Stewart.html",
+                            "slug": "Dr_Michael_Stewart.html"
+                        }
+                    },
+                    "number_of_ratings": 7,
+                    "locations": [
+                        {
+                            "city_state": "Prospect Park, PA",
+                            "city": "Prospect Park",
+                            "address1": "1401 Lincoln Ave",
+                            "_geoloc": {
+                                "lng": -75.311291,
+                                "lat": 39.890025
+                            },
+                            "state": "PA"
+                        },
+                        {
+                            "city_state": "Ridley Park, PA",
+                            "city": "Ridley Park",
+                            "address1": "8 Morton Ave Ste 103",
+                            "_geoloc": {
+                                "lng": -75.319526,
+                                "lat": 39.877843
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 4.142857142857143,
+                    "url": "\/doctors\/Dr_Michael_Stewart.html",
+                    "slug": "Dr_Michael_Stewart.html"
+                },
+                "fields": {
+                    "distance": 8.898946981587086
+                },
+                "sort": [
+                    8.899389101872138
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1wf1r8_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1wf1r8",
+                    "city_state": "Prospect Park, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Mukesh A Patel",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1923541\/photo.jpg"
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Internal Medicine"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Mukesh_A_Patel.html",
+                            "slug": "Dr_Mukesh_A_Patel.html"
+                        }
+                    },
+                    "number_of_ratings": 2,
+                    "locations": [
+                        {
+                            "city_state": "Prospect Park, PA",
+                            "city": "Prospect Park",
+                            "address1": "1421 Lincoln Ave",
+                            "_geoloc": {
+                                "lng": -75.311706,
+                                "lat": 39.890553
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 3,
+                    "url": "\/doctors\/Dr_Mukesh_A_Patel.html",
+                    "slug": "Dr_Mukesh_A_Patel.html"
+                },
+                "fields": {
+                    "distance": 8.90088230163309
+                },
+                "sort": [
+                    8.90132474538791
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1tgg25_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1tgg25",
+                    "city_state": "Haverford, PA",
+                    "degree": "DO",
+                    "type": "doctor",
+                    "display_name": "Dr. Rebecca A Druash",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [
+                        "DO"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Pediatrics"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Rebecca_Druash.html",
+                            "slug": "Dr_Rebecca_Druash.html"
+                        }
+                    },
+                    "number_of_ratings": 5,
+                    "locations": [
+                        {
+                            "city_state": "Newtown Square, PA",
+                            "city": "Newtown Square",
+                            "address1": "11 Saint Albans Ave",
+                            "_geoloc": {
+                                "lng": -75.398709,
+                                "lat": 39.987623
+                            },
+                            "state": "PA"
+                        },
+                        {
+                            "city_state": "Haverford, PA",
+                            "city": "Haverford",
+                            "address1": "600 Haverford Rd Ste 103",
+                            "_geoloc": {
+                                "lng": -75.314378,
+                                "lat": 40.009205
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 4.2,
+                    "url": "\/doctors\/Dr_Rebecca_Druash.html",
+                    "slug": "Dr_Rebecca_Druash.html"
+                },
+                "fields": {
+                    "distance": 8.90847058565757
+                },
+                "sort": [
+                    8.908910631444552
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1p963s_doctor",
+                "_score": null,
+                "_source": {
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Podiatry",
+                        "Foot and Ankle Surgery"
+                    ],
+                    "vpid": "1p963s",
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/1p963s\/robert-floros",
+                            "slug": "1p963s\/robert-floros"
+                        }
+                    },
+                    "years_experience": 35,
+                    "city_state": "Haverford, PA",
+                    "degree": "DPM",
+                    "locations": [
+                        {
+                            "city_state": "Toms River, NJ",
+                            "city": "Toms River",
+                            "address1": "54 Bey Lea Rd Ste 1",
+                            "_geoloc": {
+                                "lng": -74.201017,
+                                "lat": 39.988145
+                            },
+                            "state": "NJ"
+                        },
+                        {
+                            "city_state": "Bryn Mawr, PA",
+                            "city": "Bryn Mawr",
+                            "address1": "931 E Haverford Rd",
+                            "_geoloc": {
+                                "lng": -75.31831,
+                                "lat": 40.014789
+                            },
+                            "state": "PA"
+                        },
+                        {
+                            "city_state": "Haverford, PA",
+                            "city": "Haverford",
+                            "address1": "600 Haverford Rd Ste G103",
+                            "_geoloc": {
+                                "lng": -75.314378,
+                                "lat": 40.009205
+                            },
+                            "state": "PA"
+                        },
+                        {
+                            "city_state": "Devon, PA",
+                            "city": "Devon",
+                            "address1": "860 Lancaster Ave",
+                            "_geoloc": {
+                                "lng": -75.413814,
+                                "lat": 40.047961
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "type": "doctor",
+                    "display_name": "Dr. Robert C Floros",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1664039\/photo.jpg"
+                        }
+                    },
+                    "degrees": [
+                        "DPM"
+                    ],
+                    "url": "\/doctors\/1p963s\/robert-floros",
+                    "slug": "1p963s\/robert-floros"
+                },
+                "fields": {
+                    "distance": 8.90847058565757
+                },
+                "sort": [
+                    8.908910631444552
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1zymcd_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1zymcd",
+                    "city_state": "Haverford, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Mohamed R Dattu",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Psychiatry",
+                        "Neurology"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Mohamed_Dattu.html",
+                            "slug": "Dr_Mohamed_Dattu.html"
+                        }
+                    },
+                    "number_of_ratings": 22,
+                    "locations": [
+                        {
+                            "city_state": "Springfield, PA",
+                            "city": "Springfield",
+                            "address1": "1489 Baltimore Pike Ste 250",
+                            "_geoloc": {
+                                "lng": -75.358538,
+                                "lat": 39.91202
+                            },
+                            "state": "PA"
+                        },
+                        {
+                            "city_state": "Haverford, PA",
+                            "city": "Haverford",
+                            "address1": "600 Haverford Rd",
+                            "_geoloc": {
+                                "lng": -75.314378,
+                                "lat": 40.009205
+                            },
+                            "state": "PA"
+                        },
+                        {
+                            "city_state": "Collegeville, PA",
+                            "city": "Collegeville",
+                            "address1": "555 Second Ave Ste G120",
+                            "_geoloc": {
+                                "lng": -75.460523,
+                                "lat": 40.176742
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 4.045454545454546,
+                    "url": "\/doctors\/Dr_Mohamed_Dattu.html",
+                    "slug": "Dr_Mohamed_Dattu.html"
+                },
+                "fields": {
+                    "distance": 8.90847058565757
+                },
+                "sort": [
+                    8.908910631444552
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1z6t3n_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1z6t3n",
+                    "years_experience": 14,
+                    "city_state": "Haverford, PA",
+                    "degree": "DO",
+                    "type": "doctor",
+                    "display_name": "Dr. Gina M Benaquista Desipio",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [
+                        "DO"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Spinal Cord Injury Medicine",
+                        "Physical Medicine and Rehabilitation"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Gina_Benaquista.html",
+                            "slug": "Dr_Gina_Benaquista.html"
+                        }
+                    },
+                    "number_of_ratings": 4,
+                    "locations": [
+                        {
+                            "city_state": "Elkins Park, PA",
+                            "city": "Elkins Park",
+                            "address1": "60 Township Line Rd",
+                            "_geoloc": {
+                                "lng": -75.10517,
+                                "lat": 40.07256
+                            },
+                            "state": "PA"
+                        },
+                        {
+                            "city_state": "Haverford, PA",
+                            "city": "Haverford",
+                            "address1": "600 Haverford Rd Ste G104",
+                            "_geoloc": {
+                                "lng": -75.314378,
+                                "lat": 40.009205
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 5,
+                    "url": "\/doctors\/Dr_Gina_Benaquista.html",
+                    "slug": "Dr_Gina_Benaquista.html"
+                },
+                "fields": {
+                    "distance": 8.90847058565757
+                },
+                "sort": [
+                    8.908910631444552
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "zxg5td_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "zxg5td",
+                    "city_state": "Haverford, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Wenonah L Nelson",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Pediatrics"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Wenonah_Nelson.html",
+                            "slug": "Dr_Wenonah_Nelson.html"
+                        }
+                    },
+                    "number_of_ratings": 7,
+                    "locations": [
+                        {
+                            "city_state": "Bryn Mawr, PA",
+                            "city": "Bryn Mawr",
+                            "address1": "864 County Line Rd",
+                            "_geoloc": {
+                                "lng": -75.323519,
+                                "lat": 40.019163
+                            },
+                            "state": "PA"
+                        },
+                        {
+                            "city_state": "Haverford, PA",
+                            "city": "Haverford",
+                            "address1": "600 Haverford Rd",
+                            "_geoloc": {
+                                "lng": -75.314378,
+                                "lat": 40.009205
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 5,
+                    "url": "\/doctors\/Dr_Wenonah_Nelson.html",
+                    "slug": "Dr_Wenonah_Nelson.html"
+                },
+                "fields": {
+                    "distance": 8.90847058565757
+                },
+                "sort": [
+                    8.908910631444552
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1pttsp_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1pttsp",
+                    "city_state": "Haverford, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Wenonah L Nelson",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Pediatrics"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Wenonah_Nelson.html",
+                            "slug": "Dr_Wenonah_Nelson.html"
+                        }
+                    },
+                    "number_of_ratings": 7,
+                    "locations": [
+                        {
+                            "city_state": "Bryn Mawr, PA",
+                            "city": "Bryn Mawr",
+                            "address1": "864 County Line Rd",
+                            "_geoloc": {
+                                "lng": -75.323519,
+                                "lat": 40.019163
+                            },
+                            "state": "PA"
+                        },
+                        {
+                            "city_state": "Haverford, PA",
+                            "city": "Haverford",
+                            "address1": "600 Haverford Rd",
+                            "_geoloc": {
+                                "lng": -75.314378,
+                                "lat": 40.009205
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 5,
+                    "url": "\/doctors\/Dr_Wenonah_Nelson.html",
+                    "slug": "Dr_Wenonah_Nelson.html"
+                },
+                "fields": {
+                    "distance": 8.90847058565757
+                },
+                "sort": [
+                    8.908910631444552
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1xznh7_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1xznh7",
+                    "years_experience": 27,
+                    "city_state": "Haverford, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Priscilla P Chiu",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1687138\/photo.jpg"
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Family Medicine"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Priscilla_Chiu.html",
+                            "slug": "Dr_Priscilla_Chiu.html"
+                        }
+                    },
+                    "number_of_ratings": 20,
+                    "locations": [
+                        {
+                            "city_state": "Newtown Square, PA",
+                            "city": "Newtown Square",
+                            "address1": "3855 W Chester Pike",
+                            "_geoloc": {
+                                "lng": -75.410557,
+                                "lat": 39.987477
+                            },
+                            "state": "PA"
+                        },
+                        {
+                            "city_state": "Bryn Mawr, PA",
+                            "city": "Bryn Mawr",
+                            "address1": "888 Glenbrook Ave Ste 2",
+                            "_geoloc": {
+                                "lng": -75.324123,
+                                "lat": 40.019056
+                            },
+                            "state": "PA"
+                        },
+                        {
+                            "city_state": "Haverford, PA",
+                            "city": "Haverford",
+                            "address1": "600 Haverford Rd Ste 205",
+                            "_geoloc": {
+                                "lng": -75.314378,
+                                "lat": 40.009205
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 4.65,
+                    "url": "\/doctors\/Dr_Priscilla_Chiu.html",
+                    "slug": "Dr_Priscilla_Chiu.html"
+                },
+                "fields": {
+                    "distance": 8.90847058565757
+                },
+                "sort": [
+                    8.908910631444552
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1z5n53_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1z5n53",
+                    "years_experience": 23,
+                    "city_state": "Haverford, PA",
+                    "degree": "DPM",
+                    "type": "doctor",
+                    "display_name": "Dr. David N Tachna",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1667399\/photo.jpg"
+                        }
+                    },
+                    "degrees": [
+                        "DPM"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Podiatry",
+                        "Foot and Ankle Surgery"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/1z5n53\/david-tachna",
+                            "slug": "1z5n53\/david-tachna"
+                        }
+                    },
+                    "number_of_ratings": 1,
+                    "locations": [
+                        {
+                            "city_state": "Haverford, PA",
+                            "city": "Haverford",
+                            "address1": "600 Haverford Rd Ste G103",
+                            "_geoloc": {
+                                "lng": -75.314378,
+                                "lat": 40.009205
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 5,
+                    "url": "\/doctors\/1z5n53\/david-tachna",
+                    "slug": "1z5n53\/david-tachna"
+                },
+                "fields": {
+                    "distance": 8.90847058565757
+                },
+                "sort": [
+                    8.908910631444552
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1nk4j6_doctor",
+                "_score": null,
+                "_source": {
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Podiatry",
+                        "Foot and Ankle Surgery"
+                    ],
+                    "vpid": "1nk4j6",
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/1nk4j6\/marc-baer",
+                            "slug": "1nk4j6\/marc-baer"
+                        }
+                    },
+                    "years_experience": 19,
+                    "city_state": "Haverford, PA",
+                    "degree": "DPM",
+                    "locations": [
+                        {
+                            "city_state": "Haverford, PA",
+                            "city": "Haverford",
+                            "address1": "600 Haverford Rd Ste G103",
+                            "_geoloc": {
+                                "lng": -75.314378,
+                                "lat": 40.009205
+                            },
+                            "state": "PA"
+                        },
+                        {
+                            "city_state": "Bryn Mawr, PA",
+                            "city": "Bryn Mawr",
+                            "address1": "931 E Haverford Rd",
+                            "_geoloc": {
+                                "lng": -75.31831,
+                                "lat": 40.014789
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "type": "doctor",
+                    "display_name": "Dr. Marc D Baer",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1683418\/photo.jpg"
+                        }
+                    },
+                    "degrees": [
+                        "DPM"
+                    ],
+                    "url": "\/doctors\/1nk4j6\/marc-baer",
+                    "slug": "1nk4j6\/marc-baer"
+                },
+                "fields": {
+                    "distance": 8.90847058565757
+                },
+                "sort": [
+                    8.908910631444552
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1w4b7p_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1w4b7p",
+                    "years_experience": 28,
+                    "city_state": "Haverford, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Steven R Growney",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1974332\/photo.jpg"
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Family Medicine"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Steven_Growney.html",
+                            "slug": "Dr_Steven_Growney.html"
+                        }
+                    },
+                    "number_of_ratings": 6,
+                    "locations": [
+                        {
+                            "city_state": "Bryn Mawr, PA",
+                            "city": "Bryn Mawr",
+                            "address1": "888 Glenbrook Ave",
+                            "_geoloc": {
+                                "lng": -75.324123,
+                                "lat": 40.019056
+                            },
+                            "state": "PA"
+                        },
+                        {
+                            "city_state": "Haverford, PA",
+                            "city": "Haverford",
+                            "address1": "600 Haverford Rd Ste 205",
+                            "_geoloc": {
+                                "lng": -75.314378,
+                                "lat": 40.009205
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 3.77777777777778,
+                    "url": "\/doctors\/Dr_Steven_Growney.html",
+                    "slug": "Dr_Steven_Growney.html"
+                },
+                "fields": {
+                    "distance": 8.90847058565757
+                },
+                "sort": [
+                    8.908910631444552
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1zh8ks_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1zh8ks",
+                    "years_experience": 21,
+                    "city_state": "Haverford, PA",
+                    "degree": "DPM",
+                    "type": "doctor",
+                    "display_name": "Dr. James J Zaccaria",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1678128\/photo.jpg"
+                        }
+                    },
+                    "degrees": [
+                        "DPM"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Podiatry",
+                        "Foot and Ankle Surgery"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/1zh8ks\/james-zaccaria",
+                            "slug": "1zh8ks\/james-zaccaria"
+                        }
+                    },
+                    "number_of_ratings": 5,
+                    "locations": [
+                        {
+                            "city_state": "Haverford, PA",
+                            "city": "Haverford",
+                            "address1": "600 Haverford Rd",
+                            "_geoloc": {
+                                "lng": -75.314378,
+                                "lat": 40.009205
+                            },
+                            "state": "PA"
+                        },
+                        {
+                            "city_state": "Bryn Mawr, PA",
+                            "city": "Bryn Mawr",
+                            "address1": "931 E Haverford Rd",
+                            "_geoloc": {
+                                "lng": -75.31831,
+                                "lat": 40.014789
+                            },
+                            "state": "PA"
+                        },
+                        {
+                            "city_state": "Haverford, PA",
+                            "city": "Haverford",
+                            "address1": "600 Haverford Rd Ste G103",
+                            "_geoloc": {
+                                "lng": -75.314378,
+                                "lat": 40.009205
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 5,
+                    "url": "\/doctors\/1zh8ks\/james-zaccaria",
+                    "slug": "1zh8ks\/james-zaccaria"
+                },
+                "fields": {
+                    "distance": 8.90847058565757
+                },
+                "sort": [
+                    8.908910631444552
+                ]
+            }
+        ]
+    },
+    "aggregations": {
+        "satisfaction.accurate_diagnosis": {
+            "buckets": {
+                "good": {
+                    "from": 3.5,
+                    "doc_count": 0
+                }
+            }
+        },
+        "overall_range": {
+            "doc_count": 7275
+        },
+        "satisfaction.bedside_manner": {
+            "buckets": {
+                "good": {
+                    "from": 3.5,
+                    "doc_count": 0
+                }
+            }
+        },
+        "satisfaction.punctuality": {
+            "buckets": {
+                "good": {
+                    "from": 3.5,
+                    "doc_count": 0
+                }
+            }
+        },
+        "display_types": {
+            "doc_count_error_upper_bound": 0,
+            "sum_other_doc_count": 0,
+            "buckets": [
+                {
+                    "key": "Doctor",
+                    "doc_count": 9616
+                },
+                {
+                    "key": "Group Practice",
+                    "doc_count": 680
+                },
+                {
+                    "key": "Chiropractor",
+                    "doc_count": 371
+                },
+                {
+                    "key": "Podiatrist",
+                    "doc_count": 310
+                },
+                {
+                    "key": "Optometrist",
+                    "doc_count": 292
+                },
+                {
+                    "key": "Psychologist",
+                    "doc_count": 279
+                },
+                {
+                    "key": "Dentist",
+                    "doc_count": 60
+                },
+                {
+                    "key": "Hospital",
+                    "doc_count": 26
+                },
+                {
+                    "key": "Nursing Home",
+                    "doc_count": 2
+                },
+                {
+                    "key": "Cancer Center",
+                    "doc_count": 1
+                },
+                {
+                    "key": "Pharmacy",
+                    "doc_count": 1
+                }
+            ]
+        },
+        "insurance_companies": {
+            "doc_count_error_upper_bound": 0,
+            "sum_other_doc_count": 0,
+            "buckets": [
+                {
+                    "key": "Aetna",
+                    "doc_count": 11304
+                },
+                {
+                    "key": "United Healthcare",
+                    "doc_count": 10301
+                },
+                {
+                    "key": "BCBS Blue Card",
+                    "doc_count": 9724
+                },
+                {
+                    "key": "IBC",
+                    "doc_count": 9616
+                },
+                {
+                    "key": "Cigna",
+                    "doc_count": 8995
+                },
+                {
+                    "key": "Coventry Health Care",
+                    "doc_count": 8567
+                },
+                {
+                    "key": "Multiplan",
+                    "doc_count": 7792
+                },
+                {
+                    "key": "Humana",
+                    "doc_count": 5854
+                },
+                {
+                    "key": "Capital Blue Cross",
+                    "doc_count": 5649
+                },
+                {
+                    "key": "Horizon BCBS",
+                    "doc_count": 5553
+                },
+                {
+                    "key": "First Health",
+                    "doc_count": 5330
+                },
+                {
+                    "key": "QualCare",
+                    "doc_count": 4110
+                },
+                {
+                    "key": "Geisinger Health Plan",
+                    "doc_count": 2742
+                },
+                {
+                    "key": "Oxford Health",
+                    "doc_count": 1840
+                },
+                {
+                    "key": "HIP of NY",
+                    "doc_count": 1484
+                },
+                {
+                    "key": "UPMC Health Plan",
+                    "doc_count": 320
+                },
+                {
+                    "key": "CareFirst BCBS",
+                    "doc_count": 288
+                },
+                {
+                    "key": "Highmark BCBS",
+                    "doc_count": 265
+                },
+                {
+                    "key": "Empire BCBS",
+                    "doc_count": 140
+                },
+                {
+                    "key": "Anthem",
+                    "doc_count": 115
+                },
+                {
+                    "key": "Capital District Physicians Health Plan",
+                    "doc_count": 104
+                },
+                {
+                    "key": "BCBS Massachusetts",
+                    "doc_count": 90
+                },
+                {
+                    "key": "Connecticare",
+                    "doc_count": 69
+                },
+                {
+                    "key": "BCBS Illinois",
+                    "doc_count": 62
+                },
+                {
+                    "key": "Assurant",
+                    "doc_count": 56
+                },
+                {
+                    "key": "Guardian Dental",
+                    "doc_count": 55
+                },
+                {
+                    "key": "Principal Dental",
+                    "doc_count": 53
+                },
+                {
+                    "key": "Cigna Dental",
+                    "doc_count": 51
+                },
+                {
+                    "key": "Delta Dental",
+                    "doc_count": 51
+                },
+                {
+                    "key": "United Concordia",
+                    "doc_count": 51
+                },
+                {
+                    "key": "Ameritas",
+                    "doc_count": 49
+                },
+                {
+                    "key": "Dental Network of America",
+                    "doc_count": 49
+                },
+                {
+                    "key": "MetLife",
+                    "doc_count": 47
+                },
+                {
+                    "key": "DenteMax",
+                    "doc_count": 44
+                },
+                {
+                    "key": "MVP Health Plan",
+                    "doc_count": 44
+                },
+                {
+                    "key": "United Healthcare Dental",
+                    "doc_count": 44
+                },
+                {
+                    "key": "CompBenefits",
+                    "doc_count": 39
+                },
+                {
+                    "key": "Harvard Pilgrim",
+                    "doc_count": 39
+                },
+                {
+                    "key": "Humana Dental",
+                    "doc_count": 38
+                },
+                {
+                    "key": "HealthFirst NY",
+                    "doc_count": 36
+                },
+                {
+                    "key": "Blue Cross California",
+                    "doc_count": 31
+                },
+                {
+                    "key": "BCBS Florida",
+                    "doc_count": 28
+                },
+                {
+                    "key": "Medical Mutual of Ohio",
+                    "doc_count": 28
+                },
+                {
+                    "key": "Health Net",
+                    "doc_count": 26
+                },
+                {
+                    "key": "Tufts Health Plan",
+                    "doc_count": 26
+                },
+                {
+                    "key": "Emblem Health",
+                    "doc_count": 23
+                },
+                {
+                    "key": "Excellus BCBS",
+                    "doc_count": 23
+                },
+                {
+                    "key": "AvMed Health",
+                    "doc_count": 17
+                },
+                {
+                    "key": "Regence Health Plans",
+                    "doc_count": 17
+                },
+                {
+                    "key": "Sagamore Health",
+                    "doc_count": 17
+                },
+                {
+                    "key": "UHC of the River Valley",
+                    "doc_count": 17
+                },
+                {
+                    "key": "Blue Shield California",
+                    "doc_count": 16
+                },
+                {
+                    "key": "ODS",
+                    "doc_count": 14
+                },
+                {
+                    "key": "Premera",
+                    "doc_count": 14
+                },
+                {
+                    "key": "Independent Health",
+                    "doc_count": 13
+                },
+                {
+                    "key": "BCBS Texas",
+                    "doc_count": 12
+                },
+                {
+                    "key": "SIHO Insurance Services",
+                    "doc_count": 12
+                },
+                {
+                    "key": "HealthSpan",
+                    "doc_count": 11
+                },
+                {
+                    "key": "BCBS North Carolina",
+                    "doc_count": 10
+                },
+                {
+                    "key": "Optima Health",
+                    "doc_count": 10
+                },
+                {
+                    "key": "BCBS Georgia",
+                    "doc_count": 9
+                },
+                {
+                    "key": "Centene",
+                    "doc_count": 9
+                },
+                {
+                    "key": "HealthLink",
+                    "doc_count": 9
+                },
+                {
+                    "key": "BCBS Michigan",
+                    "doc_count": 8
+                },
+                {
+                    "key": "Encore Health Network",
+                    "doc_count": 8
+                },
+                {
+                    "key": "Ambetter Superior Health Plan",
+                    "doc_count": 7
+                },
+                {
+                    "key": "BCBS Rhode Island",
+                    "doc_count": 7
+                },
+                {
+                    "key": "PriorityHealth",
+                    "doc_count": 7
+                },
+                {
+                    "key": "Aetna Innovation Health",
+                    "doc_count": 6
+                },
+                {
+                    "key": "Health Alliance",
+                    "doc_count": 6
+                },
+                {
+                    "key": "Premier Health Plan",
+                    "doc_count": 6
+                },
+                {
+                    "key": "Wellmark",
+                    "doc_count": 6
+                },
+                {
+                    "key": "BCBS South Carolina",
+                    "doc_count": 5
+                },
+                {
+                    "key": "Healthy Connecticut",
+                    "doc_count": 5
+                },
+                {
+                    "key": "PHP Northern IN",
+                    "doc_count": 5
+                },
+                {
+                    "key": "SummaCare",
+                    "doc_count": 5
+                },
+                {
+                    "key": "WPS",
+                    "doc_count": 5
+                },
+                {
+                    "key": "Altius",
+                    "doc_count": 4
+                },
+                {
+                    "key": "BCBS Kansas City",
+                    "doc_count": 4
+                },
+                {
+                    "key": "BCBS Minnesota",
+                    "doc_count": 4
+                },
+                {
+                    "key": "Common Ground",
+                    "doc_count": 4
+                },
+                {
+                    "key": "HAP",
+                    "doc_count": 4
+                },
+                {
+                    "key": "Molina Healthcare",
+                    "doc_count": 4
+                },
+                {
+                    "key": "PacificSource",
+                    "doc_count": 4
+                },
+                {
+                    "key": "SelectHealth",
+                    "doc_count": 4
+                },
+                {
+                    "key": "BCBS Tennessee",
+                    "doc_count": 3
+                },
+                {
+                    "key": "Providence Health System",
+                    "doc_count": 3
+                },
+                {
+                    "key": "The Health Plan of Upper OH",
+                    "doc_count": 3
+                },
+                {
+                    "key": "BCBS Alabama",
+                    "doc_count": 2
+                },
+                {
+                    "key": "BCBS New Mexico",
+                    "doc_count": 2
+                },
+                {
+                    "key": "HealthPartners - MN",
+                    "doc_count": 2
+                },
+                {
+                    "key": "Indiana University",
+                    "doc_count": 2
+                },
+                {
+                    "key": "Preferred One",
+                    "doc_count": 2
+                },
+                {
+                    "key": "Presbyterian",
+                    "doc_count": 2
+                },
+                {
+                    "key": "Aultcare",
+                    "doc_count": 1
+                },
+                {
+                    "key": "BCBS Louisiana",
+                    "doc_count": 1
+                },
+                {
+                    "key": "BCBS Oklahoma",
+                    "doc_count": 1
+                },
+                {
+                    "key": "FirstCare",
+                    "doc_count": 1
+                },
+                {
+                    "key": "FrontPath Health Coalition",
+                    "doc_count": 1
+                },
+                {
+                    "key": "Group Health Coop",
+                    "doc_count": 1
+                },
+                {
+                    "key": "Gundersen Health Plan",
+                    "doc_count": 1
+                },
+                {
+                    "key": "Health Plan of Nevada",
+                    "doc_count": 1
+                },
+                {
+                    "key": "Kaiser - MidAtlantic",
+                    "doc_count": 1
+                },
+                {
+                    "key": "LA Care Health",
+                    "doc_count": 1
+                },
+                {
+                    "key": "Network Health Plan",
+                    "doc_count": 1
+                },
+                {
+                    "key": "One Health Network",
+                    "doc_count": 1
+                },
+                {
+                    "key": "Paramount",
+                    "doc_count": 1
+                },
+                {
+                    "key": "Qualchoice",
+                    "doc_count": 1
+                },
+                {
+                    "key": "Scion Dental",
+                    "doc_count": 1
+                },
+                {
+                    "key": "Sierra Health",
+                    "doc_count": 1
+                }
+            ]
+        },
+        "ratings": {
+            "buckets": [
+                {
+                    "key": "any",
+                    "doc_count": 9616
+                },
+                {
+                    "key": "3",
+                    "from": 3,
+                    "doc_count": 6688
+                },
+                {
+                    "key": "4",
+                    "from": 4,
+                    "doc_count": 4779
+                },
+                {
+                    "key": "5",
+                    "from": 5,
+                    "doc_count": 1531
+                }
+            ]
+        },
+        "experience_range": {
+            "buckets": [
+                {
+                    "key": "Any",
+                    "doc_count": 9616
+                },
+                {
+                    "key": "0 - 5",
+                    "from": 0,
+                    "to": 6,
+                    "doc_count": 0
+                },
+                {
+                    "key": "5 - 10",
+                    "from": 5,
+                    "to": 11,
+                    "doc_count": 608
+                },
+                {
+                    "key": "11 - 15",
+                    "from": 11,
+                    "to": 16,
+                    "doc_count": 921
+                },
+                {
+                    "key": "16 - 20",
+                    "from": 16,
+                    "to": 21,
+                    "doc_count": 1028
+                },
+                {
+                    "key": "21 - 25",
+                    "from": 21,
+                    "to": 26,
+                    "doc_count": 883
+                },
+                {
+                    "key": "26 - 30",
+                    "from": 26,
+                    "to": 31,
+                    "doc_count": 760
+                },
+                {
+                    "key": "30+",
+                    "from": 30,
+                    "doc_count": 2900
+                }
+            ]
+        }
+    },
+    "status": 200,
+    "distanceLimitedNothingFound": false,
+    "query": "",
+    "radiusUsed": 25,
+    "reqNo": "1",
+    "sponsors": [
+        {
+            "campaign_name": "webmd_ep",
+            "targeting": {
+                "locations": [
+                    {
+                        "city_state": "Philadelphia, PA",
+                        "geopoint": [
+                            [
+                                -75.160429,
+                                39.94866
+                            ]
+                        ]
+                    }
+                ],
+                "sponsor_id": "xx"
+            },
+            "search": {
+                "search_city_state": "Philadelphia, PA",
+                "search_specialties": "General Dentistry",
+                "locations": [
+                    {
+                        "city_state": "Philadelphia, PA",
+                        "geopoint": [
+                            [
+                                -75.160429,
+                                39.94866
+                            ]
+                        ]
+                    }
+                ],
+                "display_name": "Shireen  Malik"
+            },
+            "npi": "1518135805",
+            "external_id": "D83325",
+            "campaign_features": [
+                {
+                    "feature_name": "serp",
+                    "feature_config": {
+                        "specialty": "General Dentistry",
+                        "webmdSpecialtyId": [
+                            29245
+                        ],
+                        "city_state": "Philadelphia, PA",
+                        "profile_url": "\/dentists\/Dr_Shireen_Malik",
+                        "type": "dentist",
+                        "display_name": "Shireen  Malik",
+                        "photos": {
+                            "host": null,
+                            "uri": null
+                        },
+                        "ctas": {
+                            "appointment_url": "https:\/\/appointments.webmd.com\/path\/wmd-path1\/61fbb52a-c844-4904-ad23-dcc296781461"
+                        },
+                        "degrees": [
+                            "DDS"
+                        ],
+                        "display_type": "Dentist",
+                        "vitalsSpecialtyId": [
+                            294,
+                            296,
+                            297,
+                            300,
+                            303,
+                            306,
+                            307
+                        ],
+                        "specialties": [
+                            "General Dentistry"
+                        ],
+                        "number_of_ratings": 13,
+                        "company_name": null,
+                        "overall_rating": 4.3076923076923075
+                    }
+                }
+            ],
+            "url": "\/dentists\/Dr_Shireen_Malik",
+            "city_state": "Philadelphia, PA",
+            "geopoint": [
+                [
+                    -75.160429,
+                    39.94866
+                ]
+            ],
+            "geo_points": [
+                -75.160429,
+                39.94866
+            ],
+            "distance": 0.3
+        },
+        {
+            "campaign_name": "webmd_ep",
+            "targeting": {
+                "locations": [
+                    {
+                        "city_state": "Philadelphia, PA",
+                        "geopoint": [
+                            [
+                                -75.1741,
+                                39.9527
+                            ]
+                        ]
+                    },
+                    {
+                        "city_state": "Upper Darby, PA",
+                        "geopoint": [
+                            [
+                                -75.2629,
+                                39.9591
+                            ]
+                        ]
+                    }
+                ],
+                "sponsor_id": "xx"
+            },
+            "search": {
+                "search_city_state": "Philadelphia, PA Upper Darby, PA",
+                "search_specialties": "Addiction Medicine Physical Medicine\/Rehab Spec",
+                "locations": [
+                    {
+                        "city_state": "Philadelphia, PA",
+                        "geopoint": [
+                            [
+                                -75.1741,
+                                39.9527
+                            ]
+                        ]
+                    },
+                    {
+                        "city_state": "Upper Darby, PA",
+                        "geopoint": [
+                            [
+                                -75.2629,
+                                39.9591
+                            ]
+                        ]
+                    }
+                ],
+                "display_name": "Denis A Boyle Jr"
+            },
+            "npi": "1205920287",
+            "external_id": "153875",
+            "campaign_features": [
+                {
+                    "feature_name": "serp",
+                    "feature_config": {
+                        "specialty": "Addiction Medicine",
+                        "webmdSpecialtyId": [
+                            29230,
+                            29309
+                        ],
+                        "city_state": "Philadelphia, PA",
+                        "profile_url": "\/doctors\/Dr_Denis_Boyle.html",
+                        "type": "doctor",
+                        "display_name": "Denis A Boyle Jr",
+                        "photos": {
+                            "host": null,
+                            "uri": null
+                        },
+                        "ctas": {
+                            "appointment_url": "https:\/\/appointments.webmd.com\/path\/wmd-path1\/fb31da85-feb0-4bf4-9dc3-01678cfc8276"
+                        },
+                        "degrees": [
+                            "MD"
+                        ],
+                        "display_type": "Doctor",
+                        "vitalsSpecialtyId": [
+                            5,
+                            23,
+                            31,
+                            141,
+                            124,
+                            126,
+                            127,
+                            2018
+                        ],
+                        "specialties": [
+                            "Addiction Medicine",
+                            "Physical Medicine\/Rehab Spec"
+                        ],
+                        "number_of_ratings": 4,
+                        "company_name": null,
+                        "overall_rating": 5
+                    }
+                }
+            ],
+            "url": "\/doctors\/Dr_Denis_Boyle.html",
+            "city_state": "Philadelphia, PA",
+            "geopoint": [
+                [
+                    -75.1741,
+                    39.9527
+                ]
+            ],
+            "geo_points": [
+                -75.1741,
+                39.9527
+            ],
+            "distance": 0.6
+        },
+        {
+            "campaign_name": "webmd_ep",
+            "targeting": {
+                "locations": [
+                    {
+                        "city_state": "Ridley Park, PA",
+                        "geopoint": [
+                            [
+                                -75.3212,
+                                39.8791
+                            ]
+                        ]
+                    }
+                ],
+                "sponsor_id": "xx"
+            },
+            "search": {
+                "search_city_state": "Ridley Park, PA",
+                "search_specialties": "Family Practitioner Internal Medicine",
+                "locations": [
+                    {
+                        "city_state": "Ridley Park, PA",
+                        "geopoint": [
+                            [
+                                -75.3212,
+                                39.8791
+                            ]
+                        ]
+                    }
+                ],
+                "display_name": "Neeraj Tripathy"
+            },
+            "npi": "1972660975",
+            "external_id": "6302324",
+            "campaign_features": [
+                {
+                    "feature_name": "serp",
+                    "feature_config": {
+                        "specialty": "Family Practitioner",
+                        "webmdSpecialtyId": [
+                            29259,
+                            29277
+                        ],
+                        "city_state": "Ridley Park, PA",
+                        "profile_url": "\/doctors\/Dr_Neeraj_Tripathy.html",
+                        "type": "doctor",
+                        "display_name": "Neeraj Tripathy",
+                        "photos": {
+                            "host": null,
+                            "uri": null
+                        },
+                        "ctas": {
+                            "appointment_url": "https:\/\/appointments.webmd.com\/path\/wmd-path1\/e5a7bcd3-e5c7-416a-b7ab-65f40d7e3015"
+                        },
+                        "degrees": [
+                            "MD"
+                        ],
+                        "display_type": "Doctor",
+                        "vitalsSpecialtyId": [
+                            22,
+                            25,
+                            26,
+                            479,
+                            667,
+                            30,
+                            36,
+                            42,
+                            672,
+                            2005
+                        ],
+                        "specialties": [
+                            "Family Practitioner",
+                            "Internal Medicine"
+                        ],
+                        "number_of_ratings": 12,
+                        "company_name": null,
+                        "overall_rating": 4.63888888888889
+                    }
+                }
+            ],
+            "url": "\/doctors\/Dr_Neeraj_Tripathy.html",
+            "city_state": "Ridley Park, PA",
+            "geopoint": [
+                [
+                    -75.3212,
+                    39.8791
+                ]
+            ],
+            "geo_points": [
+                -75.3212,
+                39.8791
+            ],
+            "distance": 9.7
+        }
+    ]
+}

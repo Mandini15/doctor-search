@@ -1,0 +1,2129 @@
+{
+    "took": 74,
+    "timed_out": false,
+    "_shards": {
+        "total": 2,
+        "successful": 2,
+        "skipped": 0,
+        "failed": 0
+    },
+    "hits": {
+        "total": 9616,
+        "max_score": null,
+        "hits": [
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1qmph4_doctor",
+                "_score": null,
+                "_source": {
+                    "display_type": "Doctor",
+                    "vpid": "1qmph4",
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Robert_Biondi.html",
+                            "slug": "Dr_Robert_Biondi.html"
+                        }
+                    },
+                    "city_state": "Mount Holly, NJ",
+                    "number_of_ratings": 1,
+                    "degree": "",
+                    "locations": [
+                        {
+                            "city_state": "Mount Holly, NJ",
+                            "city": "Mount Holly",
+                            "address1": "175 Madison Ave",
+                            "_geoloc": {
+                                "lng": -74.79503,
+                                "lat": 39.985775
+                            },
+                            "state": "NJ"
+                        }
+                    ],
+                    "overall_rating": 5,
+                    "type": "doctor",
+                    "display_name": "Robert J Biondi",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [],
+                    "url": "\/doctors\/Dr_Robert_Biondi.html",
+                    "slug": "Dr_Robert_Biondi.html"
+                },
+                "fields": {
+                    "distance": 19.668786959161856
+                },
+                "sort": [
+                    19.669760228880925
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1z26g8_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1z26g8",
+                    "years_experience": 37,
+                    "city_state": "Mount Holly, NJ",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. William L Manion",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1581468\/photo.jpg"
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Anatomic Pathology and Clinical Pathology",
+                        "Pathology",
+                        "Forensic Pathology"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_William_Manion.html",
+                            "slug": "Dr_William_Manion.html"
+                        }
+                    },
+                    "number_of_ratings": 1,
+                    "locations": [
+                        {
+                            "city_state": "Mount Holly, NJ",
+                            "city": "Mount Holly",
+                            "address1": "175 Madison Ave",
+                            "_geoloc": {
+                                "lng": -74.79503,
+                                "lat": 39.985775
+                            },
+                            "state": "NJ"
+                        }
+                    ],
+                    "overall_rating": 5,
+                    "url": "\/doctors\/Dr_William_Manion.html",
+                    "slug": "Dr_William_Manion.html"
+                },
+                "fields": {
+                    "distance": 19.668786959161856
+                },
+                "sort": [
+                    19.669760228880925
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1tkfb8_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1tkfb8",
+                    "years_experience": 35,
+                    "city_state": "Mount Holly, NJ",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Maurice J Cairoli",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Medical Oncology",
+                        "Internal Medicine"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Maurice_Cairoli.html",
+                            "slug": "Dr_Maurice_Cairoli.html"
+                        }
+                    },
+                    "number_of_ratings": 14,
+                    "locations": [
+                        {
+                            "city_state": "Mount Holly, NJ",
+                            "city": "Mount Holly",
+                            "address1": "175 Madison Ave",
+                            "_geoloc": {
+                                "lng": -74.79503,
+                                "lat": 39.985775
+                            },
+                            "state": "NJ"
+                        }
+                    ],
+                    "overall_rating": 4.380952380952382,
+                    "url": "\/doctors\/Dr_Maurice_Cairoli.html",
+                    "slug": "Dr_Maurice_Cairoli.html"
+                },
+                "fields": {
+                    "distance": 19.668786959161856
+                },
+                "sort": [
+                    19.669760228880925
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1spg99_doctor",
+                "_score": null,
+                "_source": {
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Pathology"
+                    ],
+                    "vpid": "1spg99",
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Bo_Feng.html",
+                            "slug": "Dr_Bo_Feng.html"
+                        }
+                    },
+                    "years_experience": 34,
+                    "city_state": "Mount Holly, NJ",
+                    "degree": "MD",
+                    "locations": [
+                        {
+                            "city_state": "Livingston, NJ",
+                            "city": "Livingston",
+                            "address1": "94 Old Short Hills Rd",
+                            "_geoloc": {
+                                "lng": -74.30551,
+                                "lat": 40.762176
+                            },
+                            "state": "NJ"
+                        },
+                        {
+                            "city_state": "Mount Holly, NJ",
+                            "city": "Mount Holly",
+                            "address1": "175 Madison Ave",
+                            "_geoloc": {
+                                "lng": -74.79503,
+                                "lat": 39.985775
+                            },
+                            "state": "NJ"
+                        }
+                    ],
+                    "type": "doctor",
+                    "display_name": "Dr. Bo Feng",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "url": "\/doctors\/Dr_Bo_Feng.html",
+                    "slug": "Dr_Bo_Feng.html"
+                },
+                "fields": {
+                    "distance": 19.668786959161856
+                },
+                "sort": [
+                    19.669760228880925
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1q0t74_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1q0t74",
+                    "years_experience": 36,
+                    "city_state": "Mount Holly, NJ",
+                    "degree": "DO",
+                    "type": "doctor",
+                    "display_name": "Dr. Paul P Lograsso",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [
+                        "DO"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Pathology"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Paul_Lograsso.html",
+                            "slug": "Dr_Paul_Lograsso.html"
+                        }
+                    },
+                    "number_of_ratings": 2,
+                    "locations": [
+                        {
+                            "city_state": "Mount Holly, NJ",
+                            "city": "Mount Holly",
+                            "address1": "175 Madison Ave",
+                            "_geoloc": {
+                                "lng": -74.79503,
+                                "lat": 39.985775
+                            },
+                            "state": "NJ"
+                        }
+                    ],
+                    "overall_rating": 3,
+                    "url": "\/doctors\/Dr_Paul_Lograsso.html",
+                    "slug": "Dr_Paul_Lograsso.html"
+                },
+                "fields": {
+                    "distance": 19.668786959161856
+                },
+                "sort": [
+                    19.669760228880925
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "zq3cp2_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "zq3cp2",
+                    "city_state": "Mount Holly, NJ",
+                    "degree": "DO",
+                    "type": "doctor",
+                    "display_name": "Dr. Giuseppe D Guglielmello",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [
+                        "DO"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Internal Medicine"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Giuseppe_Guglielmello.html",
+                            "slug": "Dr_Giuseppe_Guglielmello.html"
+                        }
+                    },
+                    "number_of_ratings": 1,
+                    "locations": [
+                        {
+                            "city_state": "Mount Holly, NJ",
+                            "city": "Mount Holly",
+                            "address1": "175 Madison Ave",
+                            "_geoloc": {
+                                "lng": -74.79503,
+                                "lat": 39.985775
+                            },
+                            "state": "NJ"
+                        },
+                        {
+                            "city_state": "Bethlehem, PA",
+                            "city": "Bethlehem",
+                            "address1": "709 Delaware Ave",
+                            "_geoloc": {
+                                "lng": -75.390774,
+                                "lat": 40.609063
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 1,
+                    "url": "\/doctors\/Dr_Giuseppe_Guglielmello.html",
+                    "slug": "Dr_Giuseppe_Guglielmello.html"
+                },
+                "fields": {
+                    "distance": 19.668786959161856
+                },
+                "sort": [
+                    19.669760228880925
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1sgxds_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1sgxds",
+                    "city_state": "Mount Holly, NJ",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Stephen G Wallace",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1950890\/photo.jpg"
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Hematology and Oncology",
+                        "Internal Medicine"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Stephen_Wallace.html",
+                            "slug": "Dr_Stephen_Wallace.html"
+                        }
+                    },
+                    "number_of_ratings": 7,
+                    "locations": [
+                        {
+                            "city_state": "Mount Holly, NJ",
+                            "city": "Mount Holly",
+                            "address1": "175 Madison Ave",
+                            "_geoloc": {
+                                "lng": -74.79503,
+                                "lat": 39.985775
+                            },
+                            "state": "NJ"
+                        }
+                    ],
+                    "overall_rating": 4.23809523809524,
+                    "url": "\/doctors\/Dr_Stephen_Wallace.html",
+                    "slug": "Dr_Stephen_Wallace.html"
+                },
+                "fields": {
+                    "distance": 19.668786959161856
+                },
+                "sort": [
+                    19.669760228880925
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1z5mcz_doctor",
+                "_score": null,
+                "_source": {
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Medical Oncology",
+                        "Internal Medicine"
+                    ],
+                    "vpid": "1z5mcz",
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_James_W_Lee_2.html",
+                            "slug": "Dr_James_W_Lee_2.html"
+                        }
+                    },
+                    "years_experience": 36,
+                    "city_state": "Mount Holly, NJ",
+                    "degree": "MD",
+                    "locations": [
+                        {
+                            "city_state": "Mount Holly, NJ",
+                            "city": "Mount Holly",
+                            "address1": "175 Madison Ave",
+                            "_geoloc": {
+                                "lng": -74.79503,
+                                "lat": 39.985775
+                            },
+                            "state": "NJ"
+                        }
+                    ],
+                    "type": "doctor",
+                    "display_name": "Dr. James W Lee",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "url": "\/doctors\/Dr_James_W_Lee_2.html",
+                    "slug": "Dr_James_W_Lee_2.html"
+                },
+                "fields": {
+                    "distance": 19.668786959161856
+                },
+                "sort": [
+                    19.669760228880925
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1ps1f4_doctor",
+                "_score": null,
+                "_source": {
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Medical Oncology",
+                        "Internal Medicine"
+                    ],
+                    "vpid": "1ps1f4",
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Rachel_Sterling.html",
+                            "slug": "Dr_Rachel_Sterling.html"
+                        }
+                    },
+                    "years_experience": 11,
+                    "city_state": "Mount Holly, NJ",
+                    "degree": "MD",
+                    "locations": [
+                        {
+                            "city_state": "Mount Holly, NJ",
+                            "city": "Mount Holly",
+                            "address1": "175 Madison Ave",
+                            "_geoloc": {
+                                "lng": -74.79503,
+                                "lat": 39.985775
+                            },
+                            "state": "NJ"
+                        }
+                    ],
+                    "type": "doctor",
+                    "display_name": "Dr. Rachel S Levenbach",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1950892\/photo.jpg"
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "url": "\/doctors\/Dr_Rachel_Sterling.html",
+                    "slug": "Dr_Rachel_Sterling.html"
+                },
+                "fields": {
+                    "distance": 19.668786959161856
+                },
+                "sort": [
+                    19.669760228880925
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1wgzf3_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1wgzf3",
+                    "years_experience": 25,
+                    "city_state": "Mount Holly, NJ",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Seth H Berk",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1950889\/photo.jpg"
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Hematology and Oncology",
+                        "Internal Medicine"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Seth_Berk.html",
+                            "slug": "Dr_Seth_Berk.html"
+                        }
+                    },
+                    "number_of_ratings": 6,
+                    "locations": [
+                        {
+                            "city_state": "Mount Holly, NJ",
+                            "city": "Mount Holly",
+                            "address1": "175 Madison Ave",
+                            "_geoloc": {
+                                "lng": -74.79503,
+                                "lat": 39.985775
+                            },
+                            "state": "NJ"
+                        }
+                    ],
+                    "overall_rating": 5,
+                    "url": "\/doctors\/Dr_Seth_Berk.html",
+                    "slug": "Dr_Seth_Berk.html"
+                },
+                "fields": {
+                    "distance": 19.668786959161856
+                },
+                "sort": [
+                    19.669760228880925
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1zp3w3_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1zp3w3",
+                    "years_experience": 12,
+                    "city_state": "Mount Holly, NJ",
+                    "degree": "DO",
+                    "type": "doctor",
+                    "display_name": "Dr. David J Vettori",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [
+                        "DO"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Maternal and Fetal Medicine",
+                        "Obstetrics and Gynecology"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_David_Vettori.html",
+                            "slug": "Dr_David_Vettori.html"
+                        }
+                    },
+                    "number_of_ratings": 1,
+                    "locations": [
+                        {
+                            "city_state": "Mount Holly, NJ",
+                            "city": "Mount Holly",
+                            "address1": "175 Madison Ave",
+                            "_geoloc": {
+                                "lng": -74.79503,
+                                "lat": 39.985775
+                            },
+                            "state": "NJ"
+                        }
+                    ],
+                    "overall_rating": 5,
+                    "url": "\/doctors\/Dr_David_Vettori.html",
+                    "slug": "Dr_David_Vettori.html"
+                },
+                "fields": {
+                    "distance": 19.668786959161856
+                },
+                "sort": [
+                    19.669760228880925
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1tzy9f_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1tzy9f",
+                    "years_experience": 17,
+                    "city_state": "Claymont, DE",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Lisa C Maxwell",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1735790\/photo.jpg"
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Family Medicine"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Lisa_Maxwell.html",
+                            "slug": "Dr_Lisa_Maxwell.html"
+                        }
+                    },
+                    "number_of_ratings": 2,
+                    "locations": [
+                        {
+                            "city_state": "Wilmington, DE",
+                            "city": "Wilmington",
+                            "address1": "1401 Foulk Rd Ste 100",
+                            "_geoloc": {
+                                "lng": -75.524396,
+                                "lat": 39.79959
+                            },
+                            "state": "DE"
+                        },
+                        {
+                            "city_state": "Claymont, DE",
+                            "city": "Claymont",
+                            "address1": "2401 Philadelphia Pike",
+                            "_geoloc": {
+                                "lng": -75.471131,
+                                "lat": 39.791858
+                            },
+                            "state": "DE"
+                        }
+                    ],
+                    "overall_rating": 3,
+                    "url": "\/doctors\/Dr_Lisa_Maxwell.html",
+                    "slug": "Dr_Lisa_Maxwell.html"
+                },
+                "fields": {
+                    "distance": 19.683005462953506
+                },
+                "sort": [
+                    19.6839833917986
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1srydn_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1srydn",
+                    "years_experience": 34,
+                    "city_state": "Claymont, DE",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. John R Tiffany",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1589353\/photo.jpg"
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Family Medicine"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_John_Tiffany.html",
+                            "slug": "Dr_John_Tiffany.html"
+                        }
+                    },
+                    "number_of_ratings": 13,
+                    "locations": [
+                        {
+                            "city_state": "Claymont, DE",
+                            "city": "Claymont",
+                            "address1": "2401 Philadelphia Pike",
+                            "_geoloc": {
+                                "lng": -75.471131,
+                                "lat": 39.791858
+                            },
+                            "state": "DE"
+                        }
+                    ],
+                    "overall_rating": 4.435897435897435,
+                    "url": "\/doctors\/Dr_John_Tiffany.html",
+                    "slug": "Dr_John_Tiffany.html"
+                },
+                "fields": {
+                    "distance": 19.683005462953506
+                },
+                "sort": [
+                    19.6839833917986
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1pfm33_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1pfm33",
+                    "years_experience": 43,
+                    "city_state": "Levittown, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Dennis J Bonner",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Pain Medicine",
+                        "Physical Medicine and Rehabilitation"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Dennis_Bonner.html",
+                            "slug": "Dr_Dennis_Bonner.html"
+                        }
+                    },
+                    "number_of_ratings": 24,
+                    "locations": [
+                        {
+                            "city_state": "Levittown, PA",
+                            "city": "Levittown",
+                            "address1": "1854 Veterans Hwy",
+                            "_geoloc": {
+                                "lng": -74.889183,
+                                "lat": 40.144083
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 3.6527777777777786,
+                    "url": "\/doctors\/Dr_Dennis_Bonner.html",
+                    "slug": "Dr_Dennis_Bonner.html"
+                },
+                "fields": {
+                    "distance": 19.691267976435682
+                },
+                "sort": [
+                    19.692238953938393
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1pf61t_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1pf61t",
+                    "years_experience": 31,
+                    "city_state": "Oaks, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Garo Megerian",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1850529\/photo.jpg"
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Maternal and Fetal Medicine",
+                        "Obstetrics and Gynecology"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Garo_Megerian.html",
+                            "slug": "Dr_Garo_Megerian.html"
+                        }
+                    },
+                    "number_of_ratings": 6,
+                    "locations": [
+                        {
+                            "city_state": "Oaks, PA",
+                            "city": "Oaks",
+                            "address1": "450 Cresson Blvd",
+                            "_geoloc": {
+                                "lng": -75.450789,
+                                "lat": 40.133641
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 3.8333333333333335,
+                    "url": "\/doctors\/Dr_Garo_Megerian.html",
+                    "slug": "Dr_Garo_Megerian.html"
+                },
+                "fields": {
+                    "distance": 19.711112432885766
+                },
+                "sort": [
+                    19.712088676409806
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1tp3xh_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1tp3xh",
+                    "years_experience": 26,
+                    "city_state": "Wilmington, DE",
+                    "degree": "DPM",
+                    "type": "doctor",
+                    "display_name": "Dr. Harold N Gruber",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1666137\/photo.jpg"
+                        }
+                    },
+                    "degrees": [
+                        "DPM"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Podiatry"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/1tp3xh\/harold-gruber",
+                            "slug": "1tp3xh\/harold-gruber"
+                        }
+                    },
+                    "number_of_ratings": 1,
+                    "locations": [
+                        {
+                            "city_state": "Wilmington, DE",
+                            "city": "Wilmington",
+                            "address1": "2018 Naamans Rd Bldg 1",
+                            "_geoloc": {
+                                "lng": -75.496506,
+                                "lat": 39.823259
+                            },
+                            "state": "DE"
+                        }
+                    ],
+                    "overall_rating": 5,
+                    "url": "\/doctors\/1tp3xh\/harold-gruber",
+                    "slug": "1tp3xh\/harold-gruber"
+                },
+                "fields": {
+                    "distance": 19.742058734425072
+                },
+                "sort": [
+                    19.743037650514054
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1pj6ct_doctor",
+                "_score": null,
+                "_source": {
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Psychiatry",
+                        "Neurology"
+                    ],
+                    "vpid": "1pj6ct",
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Rosalinda_Gabriel.html",
+                            "slug": "Dr_Rosalinda_Gabriel.html"
+                        }
+                    },
+                    "city_state": "Langhorne, PA",
+                    "degree": "MD",
+                    "locations": [
+                        {
+                            "city_state": "Langhorne, PA",
+                            "city": "Langhorne",
+                            "address1": "1517 Durham Rd",
+                            "_geoloc": {
+                                "lng": -74.892519,
+                                "lat": 40.147941
+                            },
+                            "state": "PA"
+                        },
+                        {
+                            "city_state": "Penndel, PA",
+                            "city": "Penndel",
+                            "address1": "Penndel Mental Health Ctr",
+                            "_geoloc": {
+                                "lng": -74.900374,
+                                "lat": 40.181003
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "type": "doctor",
+                    "display_name": "Dr. Rosalinda V Gabriel",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "url": "\/doctors\/Dr_Rosalinda_Gabriel.html",
+                    "slug": "Dr_Rosalinda_Gabriel.html"
+                },
+                "fields": {
+                    "distance": 19.743334189127832
+                },
+                "sort": [
+                    19.74430695698264
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1r5m0n_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1r5m0n",
+                    "city_state": "Langhorne, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Kalyani K Deshpande",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Child and Adolescent Psychiatry",
+                        "Psychiatry",
+                        "Neurology"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Kalyani_Deshpande.html",
+                            "slug": "Dr_Kalyani_Deshpande.html"
+                        }
+                    },
+                    "number_of_ratings": 6,
+                    "locations": [
+                        {
+                            "city_state": "Brick, NJ",
+                            "city": "Brick",
+                            "address1": "35 Beaverson Blvd Ste 1D",
+                            "_geoloc": {
+                                "lng": -74.145723,
+                                "lat": 40.031376
+                            },
+                            "state": "NJ"
+                        },
+                        {
+                            "city_state": "Langhorne, PA",
+                            "city": "Langhorne",
+                            "address1": "1517 Durham Rd",
+                            "_geoloc": {
+                                "lng": -74.892519,
+                                "lat": 40.147941
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 3.8333333333333335,
+                    "url": "\/doctors\/Dr_Kalyani_Deshpande.html",
+                    "slug": "Dr_Kalyani_Deshpande.html"
+                },
+                "fields": {
+                    "distance": 19.743334189127832
+                },
+                "sort": [
+                    19.74430695698264
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1pz3r5_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1pz3r5",
+                    "years_experience": 52,
+                    "city_state": "Levittown, PA",
+                    "degree": "DO",
+                    "type": "doctor",
+                    "display_name": "Dr. James C Rossi Sr",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [
+                        "DO"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Family Medicine"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_James_C_Rossi.html",
+                            "slug": "Dr_James_C_Rossi.html"
+                        }
+                    },
+                    "number_of_ratings": 6,
+                    "locations": [
+                        {
+                            "city_state": "Levittown, PA",
+                            "city": "Levittown",
+                            "address1": "86 Oaktree Dr",
+                            "_geoloc": {
+                                "lng": -74.835302,
+                                "lat": 40.15096
+                            },
+                            "state": "PA"
+                        },
+                        {
+                            "city_state": "Levittown, PA",
+                            "city": "Levittown",
+                            "address1": "4595 New Falls Rd Ste A",
+                            "_geoloc": {
+                                "lng": -74.880717,
+                                "lat": 40.137915
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 3.1666666666666665,
+                    "url": "\/doctors\/Dr_James_C_Rossi.html",
+                    "slug": "Dr_James_C_Rossi.html"
+                },
+                "fields": {
+                    "distance": 19.74394403492981
+                },
+                "sort": [
+                    19.744918364421814
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1zgm4n_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1zgm4n",
+                    "city_state": "Levittown, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Horacio A Hidalgo Jr",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Family Medicine"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Horacio_Hidalgo.html",
+                            "slug": "Dr_Horacio_Hidalgo.html"
+                        }
+                    },
+                    "number_of_ratings": 11,
+                    "locations": [
+                        {
+                            "city_state": "Langhorne, PA",
+                            "city": "Langhorne",
+                            "address1": "833 Durham Rd",
+                            "_geoloc": {
+                                "lng": -74.89775,
+                                "lat": 40.156224
+                            },
+                            "state": "PA"
+                        },
+                        {
+                            "city_state": "Levittown, PA",
+                            "city": "Levittown",
+                            "address1": "4595 New Falls Rd Ste A",
+                            "_geoloc": {
+                                "lng": -74.880717,
+                                "lat": 40.137915
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 4.393939393939393,
+                    "url": "\/doctors\/Dr_Horacio_Hidalgo.html",
+                    "slug": "Dr_Horacio_Hidalgo.html"
+                },
+                "fields": {
+                    "distance": 19.74394403492981
+                },
+                "sort": [
+                    19.744918364421814
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1rz4fs_doctor",
+                "_score": null,
+                "_source": {
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Pediatrics"
+                    ],
+                    "vpid": "1rz4fs",
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Pooja_Jasani.html",
+                            "slug": "Dr_Pooja_Jasani.html"
+                        }
+                    },
+                    "city_state": "Glen Mills, PA",
+                    "degree": "DO",
+                    "locations": [
+                        {
+                            "city_state": "Glen Mills, PA",
+                            "city": "Glen Mills",
+                            "address1": "819 Baltimore Pike",
+                            "_geoloc": {
+                                "lng": -75.526817,
+                                "lat": 39.886877
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "type": "doctor",
+                    "display_name": "Dr. Pooja B Jasani",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [
+                        "DO"
+                    ],
+                    "url": "\/doctors\/Dr_Pooja_Jasani.html",
+                    "slug": "Dr_Pooja_Jasani.html"
+                },
+                "fields": {
+                    "distance": 19.74885109926289
+                },
+                "sort": [
+                    19.74982928077756
+                ]
+            }
+        ]
+    },
+    "aggregations": {
+        "satisfaction.accurate_diagnosis": {
+            "buckets": {
+                "good": {
+                    "from": 3.5,
+                    "doc_count": 0
+                }
+            }
+        },
+        "overall_range": {
+            "doc_count": 7275
+        },
+        "satisfaction.bedside_manner": {
+            "buckets": {
+                "good": {
+                    "from": 3.5,
+                    "doc_count": 0
+                }
+            }
+        },
+        "satisfaction.punctuality": {
+            "buckets": {
+                "good": {
+                    "from": 3.5,
+                    "doc_count": 0
+                }
+            }
+        },
+        "display_types": {
+            "doc_count_error_upper_bound": 0,
+            "sum_other_doc_count": 0,
+            "buckets": [
+                {
+                    "key": "Doctor",
+                    "doc_count": 9616
+                },
+                {
+                    "key": "Group Practice",
+                    "doc_count": 680
+                },
+                {
+                    "key": "Chiropractor",
+                    "doc_count": 371
+                },
+                {
+                    "key": "Podiatrist",
+                    "doc_count": 310
+                },
+                {
+                    "key": "Optometrist",
+                    "doc_count": 292
+                },
+                {
+                    "key": "Psychologist",
+                    "doc_count": 279
+                },
+                {
+                    "key": "Dentist",
+                    "doc_count": 60
+                },
+                {
+                    "key": "Hospital",
+                    "doc_count": 26
+                },
+                {
+                    "key": "Nursing Home",
+                    "doc_count": 2
+                },
+                {
+                    "key": "Cancer Center",
+                    "doc_count": 1
+                },
+                {
+                    "key": "Pharmacy",
+                    "doc_count": 1
+                }
+            ]
+        },
+        "insurance_companies": {
+            "doc_count_error_upper_bound": 0,
+            "sum_other_doc_count": 0,
+            "buckets": [
+                {
+                    "key": "Aetna",
+                    "doc_count": 11304
+                },
+                {
+                    "key": "United Healthcare",
+                    "doc_count": 10301
+                },
+                {
+                    "key": "BCBS Blue Card",
+                    "doc_count": 9724
+                },
+                {
+                    "key": "IBC",
+                    "doc_count": 9616
+                },
+                {
+                    "key": "Cigna",
+                    "doc_count": 8995
+                },
+                {
+                    "key": "Coventry Health Care",
+                    "doc_count": 8567
+                },
+                {
+                    "key": "Multiplan",
+                    "doc_count": 7792
+                },
+                {
+                    "key": "Humana",
+                    "doc_count": 5854
+                },
+                {
+                    "key": "Capital Blue Cross",
+                    "doc_count": 5649
+                },
+                {
+                    "key": "Horizon BCBS",
+                    "doc_count": 5553
+                },
+                {
+                    "key": "First Health",
+                    "doc_count": 5330
+                },
+                {
+                    "key": "QualCare",
+                    "doc_count": 4110
+                },
+                {
+                    "key": "Geisinger Health Plan",
+                    "doc_count": 2742
+                },
+                {
+                    "key": "Oxford Health",
+                    "doc_count": 1840
+                },
+                {
+                    "key": "HIP of NY",
+                    "doc_count": 1484
+                },
+                {
+                    "key": "UPMC Health Plan",
+                    "doc_count": 320
+                },
+                {
+                    "key": "CareFirst BCBS",
+                    "doc_count": 288
+                },
+                {
+                    "key": "Highmark BCBS",
+                    "doc_count": 265
+                },
+                {
+                    "key": "Empire BCBS",
+                    "doc_count": 140
+                },
+                {
+                    "key": "Anthem",
+                    "doc_count": 115
+                },
+                {
+                    "key": "Capital District Physicians Health Plan",
+                    "doc_count": 104
+                },
+                {
+                    "key": "BCBS Massachusetts",
+                    "doc_count": 90
+                },
+                {
+                    "key": "Connecticare",
+                    "doc_count": 69
+                },
+                {
+                    "key": "BCBS Illinois",
+                    "doc_count": 62
+                },
+                {
+                    "key": "Assurant",
+                    "doc_count": 56
+                },
+                {
+                    "key": "Guardian Dental",
+                    "doc_count": 55
+                },
+                {
+                    "key": "Principal Dental",
+                    "doc_count": 53
+                },
+                {
+                    "key": "Cigna Dental",
+                    "doc_count": 51
+                },
+                {
+                    "key": "Delta Dental",
+                    "doc_count": 51
+                },
+                {
+                    "key": "United Concordia",
+                    "doc_count": 51
+                },
+                {
+                    "key": "Ameritas",
+                    "doc_count": 49
+                },
+                {
+                    "key": "Dental Network of America",
+                    "doc_count": 49
+                },
+                {
+                    "key": "MetLife",
+                    "doc_count": 47
+                },
+                {
+                    "key": "DenteMax",
+                    "doc_count": 44
+                },
+                {
+                    "key": "MVP Health Plan",
+                    "doc_count": 44
+                },
+                {
+                    "key": "United Healthcare Dental",
+                    "doc_count": 44
+                },
+                {
+                    "key": "CompBenefits",
+                    "doc_count": 39
+                },
+                {
+                    "key": "Harvard Pilgrim",
+                    "doc_count": 39
+                },
+                {
+                    "key": "Humana Dental",
+                    "doc_count": 38
+                },
+                {
+                    "key": "HealthFirst NY",
+                    "doc_count": 36
+                },
+                {
+                    "key": "Blue Cross California",
+                    "doc_count": 31
+                },
+                {
+                    "key": "BCBS Florida",
+                    "doc_count": 28
+                },
+                {
+                    "key": "Medical Mutual of Ohio",
+                    "doc_count": 28
+                },
+                {
+                    "key": "Health Net",
+                    "doc_count": 26
+                },
+                {
+                    "key": "Tufts Health Plan",
+                    "doc_count": 26
+                },
+                {
+                    "key": "Emblem Health",
+                    "doc_count": 23
+                },
+                {
+                    "key": "Excellus BCBS",
+                    "doc_count": 23
+                },
+                {
+                    "key": "AvMed Health",
+                    "doc_count": 17
+                },
+                {
+                    "key": "Regence Health Plans",
+                    "doc_count": 17
+                },
+                {
+                    "key": "Sagamore Health",
+                    "doc_count": 17
+                },
+                {
+                    "key": "UHC of the River Valley",
+                    "doc_count": 17
+                },
+                {
+                    "key": "Blue Shield California",
+                    "doc_count": 16
+                },
+                {
+                    "key": "ODS",
+                    "doc_count": 14
+                },
+                {
+                    "key": "Premera",
+                    "doc_count": 14
+                },
+                {
+                    "key": "Independent Health",
+                    "doc_count": 13
+                },
+                {
+                    "key": "BCBS Texas",
+                    "doc_count": 12
+                },
+                {
+                    "key": "SIHO Insurance Services",
+                    "doc_count": 12
+                },
+                {
+                    "key": "HealthSpan",
+                    "doc_count": 11
+                },
+                {
+                    "key": "BCBS North Carolina",
+                    "doc_count": 10
+                },
+                {
+                    "key": "Optima Health",
+                    "doc_count": 10
+                },
+                {
+                    "key": "BCBS Georgia",
+                    "doc_count": 9
+                },
+                {
+                    "key": "Centene",
+                    "doc_count": 9
+                },
+                {
+                    "key": "HealthLink",
+                    "doc_count": 9
+                },
+                {
+                    "key": "BCBS Michigan",
+                    "doc_count": 8
+                },
+                {
+                    "key": "Encore Health Network",
+                    "doc_count": 8
+                },
+                {
+                    "key": "Ambetter Superior Health Plan",
+                    "doc_count": 7
+                },
+                {
+                    "key": "BCBS Rhode Island",
+                    "doc_count": 7
+                },
+                {
+                    "key": "PriorityHealth",
+                    "doc_count": 7
+                },
+                {
+                    "key": "Aetna Innovation Health",
+                    "doc_count": 6
+                },
+                {
+                    "key": "Health Alliance",
+                    "doc_count": 6
+                },
+                {
+                    "key": "Premier Health Plan",
+                    "doc_count": 6
+                },
+                {
+                    "key": "Wellmark",
+                    "doc_count": 6
+                },
+                {
+                    "key": "BCBS South Carolina",
+                    "doc_count": 5
+                },
+                {
+                    "key": "Healthy Connecticut",
+                    "doc_count": 5
+                },
+                {
+                    "key": "PHP Northern IN",
+                    "doc_count": 5
+                },
+                {
+                    "key": "SummaCare",
+                    "doc_count": 5
+                },
+                {
+                    "key": "WPS",
+                    "doc_count": 5
+                },
+                {
+                    "key": "Altius",
+                    "doc_count": 4
+                },
+                {
+                    "key": "BCBS Kansas City",
+                    "doc_count": 4
+                },
+                {
+                    "key": "BCBS Minnesota",
+                    "doc_count": 4
+                },
+                {
+                    "key": "Common Ground",
+                    "doc_count": 4
+                },
+                {
+                    "key": "HAP",
+                    "doc_count": 4
+                },
+                {
+                    "key": "Molina Healthcare",
+                    "doc_count": 4
+                },
+                {
+                    "key": "PacificSource",
+                    "doc_count": 4
+                },
+                {
+                    "key": "SelectHealth",
+                    "doc_count": 4
+                },
+                {
+                    "key": "BCBS Tennessee",
+                    "doc_count": 3
+                },
+                {
+                    "key": "Providence Health System",
+                    "doc_count": 3
+                },
+                {
+                    "key": "The Health Plan of Upper OH",
+                    "doc_count": 3
+                },
+                {
+                    "key": "BCBS Alabama",
+                    "doc_count": 2
+                },
+                {
+                    "key": "BCBS New Mexico",
+                    "doc_count": 2
+                },
+                {
+                    "key": "HealthPartners - MN",
+                    "doc_count": 2
+                },
+                {
+                    "key": "Indiana University",
+                    "doc_count": 2
+                },
+                {
+                    "key": "Preferred One",
+                    "doc_count": 2
+                },
+                {
+                    "key": "Presbyterian",
+                    "doc_count": 2
+                },
+                {
+                    "key": "Aultcare",
+                    "doc_count": 1
+                },
+                {
+                    "key": "BCBS Louisiana",
+                    "doc_count": 1
+                },
+                {
+                    "key": "BCBS Oklahoma",
+                    "doc_count": 1
+                },
+                {
+                    "key": "FirstCare",
+                    "doc_count": 1
+                },
+                {
+                    "key": "FrontPath Health Coalition",
+                    "doc_count": 1
+                },
+                {
+                    "key": "Group Health Coop",
+                    "doc_count": 1
+                },
+                {
+                    "key": "Gundersen Health Plan",
+                    "doc_count": 1
+                },
+                {
+                    "key": "Health Plan of Nevada",
+                    "doc_count": 1
+                },
+                {
+                    "key": "Kaiser - MidAtlantic",
+                    "doc_count": 1
+                },
+                {
+                    "key": "LA Care Health",
+                    "doc_count": 1
+                },
+                {
+                    "key": "Network Health Plan",
+                    "doc_count": 1
+                },
+                {
+                    "key": "One Health Network",
+                    "doc_count": 1
+                },
+                {
+                    "key": "Paramount",
+                    "doc_count": 1
+                },
+                {
+                    "key": "Qualchoice",
+                    "doc_count": 1
+                },
+                {
+                    "key": "Scion Dental",
+                    "doc_count": 1
+                },
+                {
+                    "key": "Sierra Health",
+                    "doc_count": 1
+                }
+            ]
+        },
+        "ratings": {
+            "buckets": [
+                {
+                    "key": "any",
+                    "doc_count": 9616
+                },
+                {
+                    "key": "3",
+                    "from": 3,
+                    "doc_count": 6688
+                },
+                {
+                    "key": "4",
+                    "from": 4,
+                    "doc_count": 4779
+                },
+                {
+                    "key": "5",
+                    "from": 5,
+                    "doc_count": 1531
+                }
+            ]
+        },
+        "experience_range": {
+            "buckets": [
+                {
+                    "key": "Any",
+                    "doc_count": 9616
+                },
+                {
+                    "key": "0 - 5",
+                    "from": 0,
+                    "to": 6,
+                    "doc_count": 0
+                },
+                {
+                    "key": "5 - 10",
+                    "from": 5,
+                    "to": 11,
+                    "doc_count": 608
+                },
+                {
+                    "key": "11 - 15",
+                    "from": 11,
+                    "to": 16,
+                    "doc_count": 921
+                },
+                {
+                    "key": "16 - 20",
+                    "from": 16,
+                    "to": 21,
+                    "doc_count": 1028
+                },
+                {
+                    "key": "21 - 25",
+                    "from": 21,
+                    "to": 26,
+                    "doc_count": 883
+                },
+                {
+                    "key": "26 - 30",
+                    "from": 26,
+                    "to": 31,
+                    "doc_count": 760
+                },
+                {
+                    "key": "30+",
+                    "from": 30,
+                    "doc_count": 2900
+                }
+            ]
+        }
+    },
+    "status": 200,
+    "distanceLimitedNothingFound": false,
+    "query": "",
+    "radiusUsed": 25,
+    "reqNo": "1",
+    "sponsors": [
+        {
+            "campaign_name": "webmd_ep",
+            "targeting": {
+                "locations": [
+                    {
+                        "city_state": "Philadelphia, PA",
+                        "geopoint": [
+                            [
+                                -75.160429,
+                                39.94866
+                            ]
+                        ]
+                    }
+                ],
+                "sponsor_id": "xx"
+            },
+            "search": {
+                "search_city_state": "Philadelphia, PA",
+                "search_specialties": "General Dentistry",
+                "locations": [
+                    {
+                        "city_state": "Philadelphia, PA",
+                        "geopoint": [
+                            [
+                                -75.160429,
+                                39.94866
+                            ]
+                        ]
+                    }
+                ],
+                "display_name": "Shireen  Malik"
+            },
+            "npi": "1518135805",
+            "external_id": "D83325",
+            "campaign_features": [
+                {
+                    "feature_name": "serp",
+                    "feature_config": {
+                        "specialty": "General Dentistry",
+                        "webmdSpecialtyId": [
+                            29245
+                        ],
+                        "city_state": "Philadelphia, PA",
+                        "profile_url": "\/dentists\/Dr_Shireen_Malik",
+                        "type": "dentist",
+                        "display_name": "Shireen  Malik",
+                        "photos": {
+                            "host": null,
+                            "uri": null
+                        },
+                        "ctas": {
+                            "appointment_url": "https:\/\/appointments.webmd.com\/path\/wmd-path1\/61fbb52a-c844-4904-ad23-dcc296781461"
+                        },
+                        "degrees": [
+                            "DDS"
+                        ],
+                        "display_type": "Dentist",
+                        "vitalsSpecialtyId": [
+                            294,
+                            296,
+                            297,
+                            300,
+                            303,
+                            306,
+                            307
+                        ],
+                        "specialties": [
+                            "General Dentistry"
+                        ],
+                        "number_of_ratings": 13,
+                        "company_name": null,
+                        "overall_rating": 4.3076923076923075
+                    }
+                }
+            ],
+            "url": "\/dentists\/Dr_Shireen_Malik",
+            "city_state": "Philadelphia, PA",
+            "geopoint": [
+                [
+                    -75.160429,
+                    39.94866
+                ]
+            ],
+            "geo_points": [
+                -75.160429,
+                39.94866
+            ],
+            "distance": 0.3
+        },
+        {
+            "campaign_name": "webmd_ep",
+            "targeting": {
+                "locations": [
+                    {
+                        "city_state": "Philadelphia, PA",
+                        "geopoint": [
+                            [
+                                -75.1741,
+                                39.9527
+                            ]
+                        ]
+                    },
+                    {
+                        "city_state": "Upper Darby, PA",
+                        "geopoint": [
+                            [
+                                -75.2629,
+                                39.9591
+                            ]
+                        ]
+                    }
+                ],
+                "sponsor_id": "xx"
+            },
+            "search": {
+                "search_city_state": "Philadelphia, PA Upper Darby, PA",
+                "search_specialties": "Addiction Medicine Physical Medicine\/Rehab Spec",
+                "locations": [
+                    {
+                        "city_state": "Philadelphia, PA",
+                        "geopoint": [
+                            [
+                                -75.1741,
+                                39.9527
+                            ]
+                        ]
+                    },
+                    {
+                        "city_state": "Upper Darby, PA",
+                        "geopoint": [
+                            [
+                                -75.2629,
+                                39.9591
+                            ]
+                        ]
+                    }
+                ],
+                "display_name": "Denis A Boyle Jr"
+            },
+            "npi": "1205920287",
+            "external_id": "153875",
+            "campaign_features": [
+                {
+                    "feature_name": "serp",
+                    "feature_config": {
+                        "specialty": "Addiction Medicine",
+                        "webmdSpecialtyId": [
+                            29230,
+                            29309
+                        ],
+                        "city_state": "Philadelphia, PA",
+                        "profile_url": "\/doctors\/Dr_Denis_Boyle.html",
+                        "type": "doctor",
+                        "display_name": "Denis A Boyle Jr",
+                        "photos": {
+                            "host": null,
+                            "uri": null
+                        },
+                        "ctas": {
+                            "appointment_url": "https:\/\/appointments.webmd.com\/path\/wmd-path1\/fb31da85-feb0-4bf4-9dc3-01678cfc8276"
+                        },
+                        "degrees": [
+                            "MD"
+                        ],
+                        "display_type": "Doctor",
+                        "vitalsSpecialtyId": [
+                            5,
+                            23,
+                            31,
+                            141,
+                            124,
+                            126,
+                            127,
+                            2018
+                        ],
+                        "specialties": [
+                            "Addiction Medicine",
+                            "Physical Medicine\/Rehab Spec"
+                        ],
+                        "number_of_ratings": 4,
+                        "company_name": null,
+                        "overall_rating": 5
+                    }
+                }
+            ],
+            "url": "\/doctors\/Dr_Denis_Boyle.html",
+            "city_state": "Philadelphia, PA",
+            "geopoint": [
+                [
+                    -75.1741,
+                    39.9527
+                ]
+            ],
+            "geo_points": [
+                -75.1741,
+                39.9527
+            ],
+            "distance": 0.6
+        },
+        {
+            "campaign_name": "webmd_ep",
+            "targeting": {
+                "locations": [
+                    {
+                        "city_state": "Ridley Park, PA",
+                        "geopoint": [
+                            [
+                                -75.3212,
+                                39.8791
+                            ]
+                        ]
+                    }
+                ],
+                "sponsor_id": "xx"
+            },
+            "search": {
+                "search_city_state": "Ridley Park, PA",
+                "search_specialties": "Family Practitioner Internal Medicine",
+                "locations": [
+                    {
+                        "city_state": "Ridley Park, PA",
+                        "geopoint": [
+                            [
+                                -75.3212,
+                                39.8791
+                            ]
+                        ]
+                    }
+                ],
+                "display_name": "Neeraj Tripathy"
+            },
+            "npi": "1972660975",
+            "external_id": "6302324",
+            "campaign_features": [
+                {
+                    "feature_name": "serp",
+                    "feature_config": {
+                        "specialty": "Family Practitioner",
+                        "webmdSpecialtyId": [
+                            29259,
+                            29277
+                        ],
+                        "city_state": "Ridley Park, PA",
+                        "profile_url": "\/doctors\/Dr_Neeraj_Tripathy.html",
+                        "type": "doctor",
+                        "display_name": "Neeraj Tripathy",
+                        "photos": {
+                            "host": null,
+                            "uri": null
+                        },
+                        "ctas": {
+                            "appointment_url": "https:\/\/appointments.webmd.com\/path\/wmd-path1\/e5a7bcd3-e5c7-416a-b7ab-65f40d7e3015"
+                        },
+                        "degrees": [
+                            "MD"
+                        ],
+                        "display_type": "Doctor",
+                        "vitalsSpecialtyId": [
+                            22,
+                            25,
+                            26,
+                            479,
+                            667,
+                            30,
+                            36,
+                            42,
+                            672,
+                            2005
+                        ],
+                        "specialties": [
+                            "Family Practitioner",
+                            "Internal Medicine"
+                        ],
+                        "number_of_ratings": 12,
+                        "company_name": null,
+                        "overall_rating": 4.63888888888889
+                    }
+                }
+            ],
+            "url": "\/doctors\/Dr_Neeraj_Tripathy.html",
+            "city_state": "Ridley Park, PA",
+            "geopoint": [
+                [
+                    -75.3212,
+                    39.8791
+                ]
+            ],
+            "geo_points": [
+                -75.3212,
+                39.8791
+            ],
+            "distance": 9.7
+        }
+    ]
+}

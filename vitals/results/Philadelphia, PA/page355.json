@@ -1,0 +1,2110 @@
+{
+    "took": 65,
+    "timed_out": false,
+    "_shards": {
+        "total": 2,
+        "successful": 2,
+        "skipped": 0,
+        "failed": 0
+    },
+    "hits": {
+        "total": 9616,
+        "max_score": null,
+        "hits": [
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1s3950_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1s3950",
+                    "city_state": "Media, PA",
+                    "degree": "",
+                    "type": "doctor",
+                    "display_name": "Joseph P Mcfarland",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Dermatology"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Joseph_Mcfarland.html",
+                            "slug": "Dr_Joseph_Mcfarland.html"
+                        }
+                    },
+                    "number_of_ratings": 3,
+                    "locations": [
+                        {
+                            "city_state": "Media, PA",
+                            "city": "Media",
+                            "address1": "1078 W Baltimore Pike Ste 204",
+                            "_geoloc": {
+                                "lng": -75.430695,
+                                "lat": 39.911814
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 2.3333333333333335,
+                    "url": "\/doctors\/Dr_Joseph_Mcfarland.html",
+                    "slug": "Dr_Joseph_Mcfarland.html"
+                },
+                "fields": {
+                    "distance": 14.40460437438083
+                },
+                "sort": [
+                    14.405318529474984
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1rxxbx_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1rxxbx",
+                    "years_experience": 28,
+                    "city_state": "Media, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Constance C Mckelvy",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1571567\/photo.jpg"
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Internal Medicine"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Constance_Mckelvy.html",
+                            "slug": "Dr_Constance_Mckelvy.html"
+                        }
+                    },
+                    "number_of_ratings": 2,
+                    "locations": [
+                        {
+                            "city_state": "Media, PA",
+                            "city": "Media",
+                            "address1": "1078 W Baltimore Pike Ste 205",
+                            "_geoloc": {
+                                "lng": -75.430695,
+                                "lat": 39.911814
+                            },
+                            "state": "PA"
+                        },
+                        {
+                            "city_state": "Media, PA",
+                            "city": "Media",
+                            "address1": "1088 W Baltimore Pike Ste 2110",
+                            "_geoloc": {
+                                "lng": -75.431836,
+                                "lat": 39.914025
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 5,
+                    "url": "\/doctors\/Dr_Constance_Mckelvy.html",
+                    "slug": "Dr_Constance_Mckelvy.html"
+                },
+                "fields": {
+                    "distance": 14.40460437438083
+                },
+                "sort": [
+                    14.405318529474984
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1x9x9x_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1x9x9x",
+                    "years_experience": 28,
+                    "city_state": "Media, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Helen A Wolfson",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1681960\/photo.jpg"
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Internal Medicine"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Helen_Wolfson.html",
+                            "slug": "Dr_Helen_Wolfson.html"
+                        }
+                    },
+                    "number_of_ratings": 22,
+                    "locations": [
+                        {
+                            "city_state": "Media, PA",
+                            "city": "Media",
+                            "address1": "1078 W Baltimore Pike Ste 209",
+                            "_geoloc": {
+                                "lng": -75.430695,
+                                "lat": 39.911814
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 3.8181818181818183,
+                    "url": "\/doctors\/Dr_Helen_Wolfson.html",
+                    "slug": "Dr_Helen_Wolfson.html"
+                },
+                "fields": {
+                    "distance": 14.40460437438083
+                },
+                "sort": [
+                    14.405318529474984
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1r5hwx_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1r5hwx",
+                    "years_experience": 36,
+                    "city_state": "Media, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Jessie W Dinome",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1701151\/photo.jpg"
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Radiation Oncology"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Jessie_Dinome.html",
+                            "slug": "Dr_Jessie_Dinome.html"
+                        }
+                    },
+                    "number_of_ratings": 6,
+                    "locations": [
+                        {
+                            "city_state": "Media, PA",
+                            "city": "Media",
+                            "address1": "1078 W Baltimore Pike Ste 2",
+                            "_geoloc": {
+                                "lng": -75.430695,
+                                "lat": 39.911814
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 4.611111111111113,
+                    "url": "\/doctors\/Dr_Jessie_Dinome.html",
+                    "slug": "Dr_Jessie_Dinome.html"
+                },
+                "fields": {
+                    "distance": 14.40460437438083
+                },
+                "sort": [
+                    14.405318529474984
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1pgzk9_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1pgzk9",
+                    "years_experience": 10,
+                    "city_state": "Newtown Square, PA",
+                    "degree": "DO",
+                    "type": "doctor",
+                    "display_name": "Dr. Sean D Flynn",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [
+                        "DO"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Internal Medicine"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Shawn_C_Flynn.html",
+                            "slug": "Dr_Shawn_C_Flynn.html"
+                        }
+                    },
+                    "number_of_ratings": 2,
+                    "locations": [
+                        {
+                            "city_state": "Newtown Square, PA",
+                            "city": "Newtown Square",
+                            "address1": "4651 W Chester Pike",
+                            "_geoloc": {
+                                "lng": -75.434196,
+                                "lat": 39.977566
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 5,
+                    "url": "\/doctors\/Dr_Shawn_C_Flynn.html",
+                    "slug": "Dr_Shawn_C_Flynn.html"
+                },
+                "fields": {
+                    "distance": 14.429586066735732
+                },
+                "sort": [
+                    14.430302594683543
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1xmgmc_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1xmgmc",
+                    "years_experience": 35,
+                    "city_state": "Wayne, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Michele R Piccone",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1578371\/photo.jpg"
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Ophthalmology"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Michele_Piccone.html",
+                            "slug": "Dr_Michele_Piccone.html"
+                        }
+                    },
+                    "number_of_ratings": 19,
+                    "locations": [
+                        {
+                            "city_state": "Wayne, PA",
+                            "city": "Wayne",
+                            "address1": "230 Sugartown Rd Ste 218",
+                            "_geoloc": {
+                                "lng": -75.407994,
+                                "lat": 40.044689
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 4.473684210526316,
+                    "url": "\/doctors\/Dr_Michele_Piccone.html",
+                    "slug": "Dr_Michele_Piccone.html"
+                },
+                "fields": {
+                    "distance": 14.434781495453402
+                },
+                "sort": [
+                    14.435497204743186
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1zkc6j_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1zkc6j",
+                    "years_experience": 44,
+                    "city_state": "Media, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Emile H Galib",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1686456\/photo.jpg"
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Otolaryngology"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Emile_Galib.html",
+                            "slug": "Dr_Emile_Galib.html"
+                        }
+                    },
+                    "number_of_ratings": 17,
+                    "locations": [
+                        {
+                            "city_state": "Media, PA",
+                            "city": "Media",
+                            "address1": "1088 W Baltimore Pike Ste 2306",
+                            "_geoloc": {
+                                "lng": -75.431836,
+                                "lat": 39.914025
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 4.333333333333335,
+                    "url": "\/doctors\/Dr_Emile_Galib.html",
+                    "slug": "Dr_Emile_Galib.html"
+                },
+                "fields": {
+                    "distance": 14.435438788472986
+                },
+                "sort": [
+                    14.436155669590681
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1qsb04_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1qsb04",
+                    "years_experience": 31,
+                    "city_state": "Media, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Joyce D Liporace",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Neurology",
+                        "Psychiatry"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Joyce_Liporace.html",
+                            "slug": "Dr_Joyce_Liporace.html"
+                        }
+                    },
+                    "number_of_ratings": 61,
+                    "locations": [
+                        {
+                            "city_state": "Paoli, PA",
+                            "city": "Paoli",
+                            "address1": "11 Industrial Blvd Ste 204",
+                            "_geoloc": {
+                                "lng": -75.49963,
+                                "lat": 40.043718
+                            },
+                            "state": "PA"
+                        },
+                        {
+                            "city_state": "Media, PA",
+                            "city": "Media",
+                            "address1": "1088 W Baltimore Pike Ste 2205",
+                            "_geoloc": {
+                                "lng": -75.431836,
+                                "lat": 39.914025
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 4.010928961748634,
+                    "url": "\/doctors\/Dr_Joyce_Liporace.html",
+                    "slug": "Dr_Joyce_Liporace.html"
+                },
+                "fields": {
+                    "distance": 14.435438788472986
+                },
+                "sort": [
+                    14.436155669590681
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1zdpnf_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1zdpnf",
+                    "years_experience": 47,
+                    "city_state": "Media, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Richard R Mccurdy Sr",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1772994\/photo.jpg"
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Cardiovascular Disease",
+                        "Internal Medicine"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Richard_Mccurdy.html",
+                            "slug": "Dr_Richard_Mccurdy.html"
+                        }
+                    },
+                    "number_of_ratings": 2,
+                    "locations": [
+                        {
+                            "city_state": "Media, PA",
+                            "city": "Media",
+                            "address1": "1088 W Baltimore Pike Ste 2500",
+                            "_geoloc": {
+                                "lng": -75.431836,
+                                "lat": 39.914025
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 5,
+                    "url": "\/doctors\/Dr_Richard_Mccurdy.html",
+                    "slug": "Dr_Richard_Mccurdy.html"
+                },
+                "fields": {
+                    "distance": 14.435438788472986
+                },
+                "sort": [
+                    14.436155669590681
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1nm7st_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1nm7st",
+                    "years_experience": 39,
+                    "city_state": "Media, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Kenneth J Boyd",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1703955\/photo.jpg"
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Surgery",
+                        "Colon and Rectal Surgery"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Kenneth_J_Boyd.html",
+                            "slug": "Dr_Kenneth_J_Boyd.html"
+                        }
+                    },
+                    "number_of_ratings": 16,
+                    "locations": [
+                        {
+                            "city_state": "Media, PA",
+                            "city": "Media",
+                            "address1": "1088 W Baltimore Pike Ste 2101",
+                            "_geoloc": {
+                                "lng": -75.431836,
+                                "lat": 39.914025
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 4.6875,
+                    "url": "\/doctors\/Dr_Kenneth_J_Boyd.html",
+                    "slug": "Dr_Kenneth_J_Boyd.html"
+                },
+                "fields": {
+                    "distance": 14.435438788472986
+                },
+                "sort": [
+                    14.436155669590681
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1z9cgg_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1z9cgg",
+                    "years_experience": 10,
+                    "city_state": "Media, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Gopal A Patel",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1700024\/photo.jpg"
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Dermatology"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Gopal_Patel.html",
+                            "slug": "Dr_Gopal_Patel.html"
+                        }
+                    },
+                    "number_of_ratings": 15,
+                    "locations": [
+                        {
+                            "city_state": "Media, PA",
+                            "city": "Media",
+                            "address1": "1088 W Baltimore Pike Ste 2506",
+                            "_geoloc": {
+                                "lng": -75.431836,
+                                "lat": 39.914025
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 2.8666666666666645,
+                    "url": "\/doctors\/Dr_Gopal_Patel.html",
+                    "slug": "Dr_Gopal_Patel.html"
+                },
+                "fields": {
+                    "distance": 14.435438788472986
+                },
+                "sort": [
+                    14.436155669590681
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1x1cx8_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1x1cx8",
+                    "years_experience": 11,
+                    "city_state": "Media, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Amy L Basile",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1757075\/photo.jpg"
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Dermatology"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Amy_Basile.html",
+                            "slug": "Dr_Amy_Basile.html"
+                        }
+                    },
+                    "number_of_ratings": 1,
+                    "locations": [
+                        {
+                            "city_state": "Media, PA",
+                            "city": "Media",
+                            "address1": "1088 W Baltimore Pike Ste 2506",
+                            "_geoloc": {
+                                "lng": -75.431836,
+                                "lat": 39.914025
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 5,
+                    "url": "\/doctors\/Dr_Amy_Basile.html",
+                    "slug": "Dr_Amy_Basile.html"
+                },
+                "fields": {
+                    "distance": 14.435438788472986
+                },
+                "sort": [
+                    14.436155669590681
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1qx8kk_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1qx8kk",
+                    "years_experience": 31,
+                    "city_state": "Media, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Charles A Dallara",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1701165\/photo.jpg"
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Surgery"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Charles_Dallara.html",
+                            "slug": "Dr_Charles_Dallara.html"
+                        }
+                    },
+                    "number_of_ratings": 14,
+                    "locations": [
+                        {
+                            "city_state": "Media, PA",
+                            "city": "Media",
+                            "address1": "1088 W Baltimore Pike Ste 2507",
+                            "_geoloc": {
+                                "lng": -75.431836,
+                                "lat": 39.914025
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 3.9285714285714284,
+                    "url": "\/doctors\/Dr_Charles_Dallara.html",
+                    "slug": "Dr_Charles_Dallara.html"
+                },
+                "fields": {
+                    "distance": 14.435438788472986
+                },
+                "sort": [
+                    14.436155669590681
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1xspkj_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1xspkj",
+                    "years_experience": 14,
+                    "city_state": "Media, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Adam J Weinstein",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1759367\/photo.jpg"
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Neurology",
+                        "Psychiatry"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Adam_J_Weinstein_2.html",
+                            "slug": "Dr_Adam_J_Weinstein_2.html"
+                        }
+                    },
+                    "number_of_ratings": 2,
+                    "locations": [
+                        {
+                            "city_state": "Media, PA",
+                            "city": "Media",
+                            "address1": "1088 W Baltimore Pike Ste 2205",
+                            "_geoloc": {
+                                "lng": -75.431836,
+                                "lat": 39.914025
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 5,
+                    "url": "\/doctors\/Dr_Adam_J_Weinstein_2.html",
+                    "slug": "Dr_Adam_J_Weinstein_2.html"
+                },
+                "fields": {
+                    "distance": 14.435438788472986
+                },
+                "sort": [
+                    14.436155669590681
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1qx56c_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1qx56c",
+                    "years_experience": 26,
+                    "city_state": "Media, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Walter E Lewis",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Family Medicine"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Walter_E_Lewis.html",
+                            "slug": "Dr_Walter_E_Lewis.html"
+                        }
+                    },
+                    "number_of_ratings": 25,
+                    "locations": [
+                        {
+                            "city_state": "Media, PA",
+                            "city": "Media",
+                            "address1": "1088 W Baltimore Pike Ste 2206",
+                            "_geoloc": {
+                                "lng": -75.431836,
+                                "lat": 39.914025
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 4.4,
+                    "url": "\/doctors\/Dr_Walter_E_Lewis.html",
+                    "slug": "Dr_Walter_E_Lewis.html"
+                },
+                "fields": {
+                    "distance": 14.435438788472986
+                },
+                "sort": [
+                    14.436155669590681
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1ptpf9_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1ptpf9",
+                    "years_experience": 49,
+                    "city_state": "Media, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Charles R Schott",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1590888\/photo.jpg"
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Cardiovascular Disease",
+                        "Internal Medicine"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Charles_Schott.html",
+                            "slug": "Dr_Charles_Schott.html"
+                        }
+                    },
+                    "number_of_ratings": 1,
+                    "locations": [
+                        {
+                            "city_state": "Media, PA",
+                            "city": "Media",
+                            "address1": "1088 W Baltimore Pike Ste 2400",
+                            "_geoloc": {
+                                "lng": -75.431836,
+                                "lat": 39.914025
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 3.666666666666668,
+                    "url": "\/doctors\/Dr_Charles_Schott.html",
+                    "slug": "Dr_Charles_Schott.html"
+                },
+                "fields": {
+                    "distance": 14.435438788472986
+                },
+                "sort": [
+                    14.436155669590681
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1xq8c0_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1xq8c0",
+                    "years_experience": 12,
+                    "city_state": "Media, PA",
+                    "degree": "DO",
+                    "type": "doctor",
+                    "display_name": "Dr. William N Kornberg",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1761624\/photo.jpg"
+                        }
+                    },
+                    "degrees": [
+                        "DO"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Cardiovascular Disease",
+                        "Internal Medicine"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_William_Kornberg.html",
+                            "slug": "Dr_William_Kornberg.html"
+                        }
+                    },
+                    "number_of_ratings": 4,
+                    "locations": [
+                        {
+                            "city_state": "Media, PA",
+                            "city": "Media",
+                            "address1": "1088 W Baltimore Pike Ste 2500",
+                            "_geoloc": {
+                                "lng": -75.431836,
+                                "lat": 39.914025
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 4,
+                    "url": "\/doctors\/Dr_William_Kornberg.html",
+                    "slug": "Dr_William_Kornberg.html"
+                },
+                "fields": {
+                    "distance": 14.435438788472986
+                },
+                "sort": [
+                    14.436155669590681
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1sktwm_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1sktwm",
+                    "years_experience": 17,
+                    "city_state": "Media, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Shirley S Shih",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1912850\/photo.jpg"
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Colon and Rectal Surgery"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Shirley_Shih.html",
+                            "slug": "Dr_Shirley_Shih.html"
+                        }
+                    },
+                    "number_of_ratings": 14,
+                    "locations": [
+                        {
+                            "city_state": "Woodbury, NY",
+                            "city": "Woodbury",
+                            "address1": "321 Crossways Park Dr",
+                            "_geoloc": {
+                                "lng": -73.482827,
+                                "lat": 40.807081
+                            },
+                            "state": "NY"
+                        },
+                        {
+                            "city_state": "Media, PA",
+                            "city": "Media",
+                            "address1": "1088 W Baltimore Pike Ste 2101",
+                            "_geoloc": {
+                                "lng": -75.431836,
+                                "lat": 39.914025
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 4.357142857142857,
+                    "url": "\/doctors\/Dr_Shirley_Shih.html",
+                    "slug": "Dr_Shirley_Shih.html"
+                },
+                "fields": {
+                    "distance": 14.435438788472986
+                },
+                "sort": [
+                    14.436155669590681
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1q4qx5_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1q4qx5",
+                    "years_experience": 34,
+                    "city_state": "Media, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Thomas C Jacob Jr",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1700287\/photo.jpg"
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Surgery of the Hand",
+                        "Plastic Surgery"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Thomas_C_Jacob.html",
+                            "slug": "Dr_Thomas_C_Jacob.html"
+                        }
+                    },
+                    "number_of_ratings": 7,
+                    "locations": [
+                        {
+                            "city_state": "Media, PA",
+                            "city": "Media",
+                            "address1": "1088 W Baltimore Pike Ste 2405",
+                            "_geoloc": {
+                                "lng": -75.431836,
+                                "lat": 39.914025
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 3.904761904761903,
+                    "url": "\/doctors\/Dr_Thomas_C_Jacob.html",
+                    "slug": "Dr_Thomas_C_Jacob.html"
+                },
+                "fields": {
+                    "distance": 14.435438788472986
+                },
+                "sort": [
+                    14.436155669590681
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1w2n0c_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1w2n0c",
+                    "city_state": "Media, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Guy M Nardella Jr",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1686655\/photo.jpg"
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Surgery of the Hand",
+                        "Plastic Surgery"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Guy_Nardella.html",
+                            "slug": "Dr_Guy_Nardella.html"
+                        }
+                    },
+                    "number_of_ratings": 16,
+                    "locations": [
+                        {
+                            "city_state": "Media, PA",
+                            "city": "Media",
+                            "address1": "1088 W Baltimore Pike Ste 2405",
+                            "_geoloc": {
+                                "lng": -75.431836,
+                                "lat": 39.914025
+                            },
+                            "state": "PA"
+                        },
+                        {
+                            "city_state": "Media, PA",
+                            "city": "Media",
+                            "address1": "1118 W Baltimore Pike # 10",
+                            "_geoloc": {
+                                "lng": -75.433812,
+                                "lat": 39.913677
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 3.9375,
+                    "url": "\/doctors\/Dr_Guy_Nardella.html",
+                    "slug": "Dr_Guy_Nardella.html"
+                },
+                "fields": {
+                    "distance": 14.435438788472986
+                },
+                "sort": [
+                    14.436155669590681
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "zx7wf2_doctor",
+                "_score": null,
+                "_source": {
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Cardiovascular Disease",
+                        "Internal Medicine"
+                    ],
+                    "vpid": "zx7wf2",
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Marwan_Badri.html",
+                            "slug": "Dr_Marwan_Badri.html"
+                        }
+                    },
+                    "city_state": "Media, PA",
+                    "degree": "MD",
+                    "locations": [
+                        {
+                            "city_state": "Media, PA",
+                            "city": "Media",
+                            "address1": "1088 W Baltimore Pike Ste 2500",
+                            "_geoloc": {
+                                "lng": -75.431836,
+                                "lat": 39.914025
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "type": "doctor",
+                    "display_name": "Dr. Marwan Badri",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "url": "\/doctors\/Dr_Marwan_Badri.html",
+                    "slug": "Dr_Marwan_Badri.html"
+                },
+                "fields": {
+                    "distance": 14.435438788472986
+                },
+                "sort": [
+                    14.436155669590681
+                ]
+            }
+        ]
+    },
+    "aggregations": {
+        "satisfaction.accurate_diagnosis": {
+            "buckets": {
+                "good": {
+                    "from": 3.5,
+                    "doc_count": 0
+                }
+            }
+        },
+        "overall_range": {
+            "doc_count": 7275
+        },
+        "satisfaction.bedside_manner": {
+            "buckets": {
+                "good": {
+                    "from": 3.5,
+                    "doc_count": 0
+                }
+            }
+        },
+        "satisfaction.punctuality": {
+            "buckets": {
+                "good": {
+                    "from": 3.5,
+                    "doc_count": 0
+                }
+            }
+        },
+        "display_types": {
+            "doc_count_error_upper_bound": 0,
+            "sum_other_doc_count": 0,
+            "buckets": [
+                {
+                    "key": "Doctor",
+                    "doc_count": 9616
+                },
+                {
+                    "key": "Group Practice",
+                    "doc_count": 680
+                },
+                {
+                    "key": "Chiropractor",
+                    "doc_count": 371
+                },
+                {
+                    "key": "Podiatrist",
+                    "doc_count": 310
+                },
+                {
+                    "key": "Optometrist",
+                    "doc_count": 292
+                },
+                {
+                    "key": "Psychologist",
+                    "doc_count": 279
+                },
+                {
+                    "key": "Dentist",
+                    "doc_count": 60
+                },
+                {
+                    "key": "Hospital",
+                    "doc_count": 26
+                },
+                {
+                    "key": "Nursing Home",
+                    "doc_count": 2
+                },
+                {
+                    "key": "Cancer Center",
+                    "doc_count": 1
+                },
+                {
+                    "key": "Pharmacy",
+                    "doc_count": 1
+                }
+            ]
+        },
+        "insurance_companies": {
+            "doc_count_error_upper_bound": 0,
+            "sum_other_doc_count": 0,
+            "buckets": [
+                {
+                    "key": "Aetna",
+                    "doc_count": 11304
+                },
+                {
+                    "key": "United Healthcare",
+                    "doc_count": 10301
+                },
+                {
+                    "key": "BCBS Blue Card",
+                    "doc_count": 9724
+                },
+                {
+                    "key": "IBC",
+                    "doc_count": 9616
+                },
+                {
+                    "key": "Cigna",
+                    "doc_count": 8995
+                },
+                {
+                    "key": "Coventry Health Care",
+                    "doc_count": 8567
+                },
+                {
+                    "key": "Multiplan",
+                    "doc_count": 7792
+                },
+                {
+                    "key": "Humana",
+                    "doc_count": 5854
+                },
+                {
+                    "key": "Capital Blue Cross",
+                    "doc_count": 5649
+                },
+                {
+                    "key": "Horizon BCBS",
+                    "doc_count": 5553
+                },
+                {
+                    "key": "First Health",
+                    "doc_count": 5330
+                },
+                {
+                    "key": "QualCare",
+                    "doc_count": 4110
+                },
+                {
+                    "key": "Geisinger Health Plan",
+                    "doc_count": 2742
+                },
+                {
+                    "key": "Oxford Health",
+                    "doc_count": 1840
+                },
+                {
+                    "key": "HIP of NY",
+                    "doc_count": 1484
+                },
+                {
+                    "key": "UPMC Health Plan",
+                    "doc_count": 320
+                },
+                {
+                    "key": "CareFirst BCBS",
+                    "doc_count": 288
+                },
+                {
+                    "key": "Highmark BCBS",
+                    "doc_count": 265
+                },
+                {
+                    "key": "Empire BCBS",
+                    "doc_count": 140
+                },
+                {
+                    "key": "Anthem",
+                    "doc_count": 115
+                },
+                {
+                    "key": "Capital District Physicians Health Plan",
+                    "doc_count": 104
+                },
+                {
+                    "key": "BCBS Massachusetts",
+                    "doc_count": 90
+                },
+                {
+                    "key": "Connecticare",
+                    "doc_count": 69
+                },
+                {
+                    "key": "BCBS Illinois",
+                    "doc_count": 62
+                },
+                {
+                    "key": "Assurant",
+                    "doc_count": 56
+                },
+                {
+                    "key": "Guardian Dental",
+                    "doc_count": 55
+                },
+                {
+                    "key": "Principal Dental",
+                    "doc_count": 53
+                },
+                {
+                    "key": "Cigna Dental",
+                    "doc_count": 51
+                },
+                {
+                    "key": "Delta Dental",
+                    "doc_count": 51
+                },
+                {
+                    "key": "United Concordia",
+                    "doc_count": 51
+                },
+                {
+                    "key": "Ameritas",
+                    "doc_count": 49
+                },
+                {
+                    "key": "Dental Network of America",
+                    "doc_count": 49
+                },
+                {
+                    "key": "MetLife",
+                    "doc_count": 47
+                },
+                {
+                    "key": "DenteMax",
+                    "doc_count": 44
+                },
+                {
+                    "key": "MVP Health Plan",
+                    "doc_count": 44
+                },
+                {
+                    "key": "United Healthcare Dental",
+                    "doc_count": 44
+                },
+                {
+                    "key": "CompBenefits",
+                    "doc_count": 39
+                },
+                {
+                    "key": "Harvard Pilgrim",
+                    "doc_count": 39
+                },
+                {
+                    "key": "Humana Dental",
+                    "doc_count": 38
+                },
+                {
+                    "key": "HealthFirst NY",
+                    "doc_count": 36
+                },
+                {
+                    "key": "Blue Cross California",
+                    "doc_count": 31
+                },
+                {
+                    "key": "BCBS Florida",
+                    "doc_count": 28
+                },
+                {
+                    "key": "Medical Mutual of Ohio",
+                    "doc_count": 28
+                },
+                {
+                    "key": "Health Net",
+                    "doc_count": 26
+                },
+                {
+                    "key": "Tufts Health Plan",
+                    "doc_count": 26
+                },
+                {
+                    "key": "Emblem Health",
+                    "doc_count": 23
+                },
+                {
+                    "key": "Excellus BCBS",
+                    "doc_count": 23
+                },
+                {
+                    "key": "AvMed Health",
+                    "doc_count": 17
+                },
+                {
+                    "key": "Regence Health Plans",
+                    "doc_count": 17
+                },
+                {
+                    "key": "Sagamore Health",
+                    "doc_count": 17
+                },
+                {
+                    "key": "UHC of the River Valley",
+                    "doc_count": 17
+                },
+                {
+                    "key": "Blue Shield California",
+                    "doc_count": 16
+                },
+                {
+                    "key": "ODS",
+                    "doc_count": 14
+                },
+                {
+                    "key": "Premera",
+                    "doc_count": 14
+                },
+                {
+                    "key": "Independent Health",
+                    "doc_count": 13
+                },
+                {
+                    "key": "BCBS Texas",
+                    "doc_count": 12
+                },
+                {
+                    "key": "SIHO Insurance Services",
+                    "doc_count": 12
+                },
+                {
+                    "key": "HealthSpan",
+                    "doc_count": 11
+                },
+                {
+                    "key": "BCBS North Carolina",
+                    "doc_count": 10
+                },
+                {
+                    "key": "Optima Health",
+                    "doc_count": 10
+                },
+                {
+                    "key": "BCBS Georgia",
+                    "doc_count": 9
+                },
+                {
+                    "key": "Centene",
+                    "doc_count": 9
+                },
+                {
+                    "key": "HealthLink",
+                    "doc_count": 9
+                },
+                {
+                    "key": "BCBS Michigan",
+                    "doc_count": 8
+                },
+                {
+                    "key": "Encore Health Network",
+                    "doc_count": 8
+                },
+                {
+                    "key": "Ambetter Superior Health Plan",
+                    "doc_count": 7
+                },
+                {
+                    "key": "BCBS Rhode Island",
+                    "doc_count": 7
+                },
+                {
+                    "key": "PriorityHealth",
+                    "doc_count": 7
+                },
+                {
+                    "key": "Aetna Innovation Health",
+                    "doc_count": 6
+                },
+                {
+                    "key": "Health Alliance",
+                    "doc_count": 6
+                },
+                {
+                    "key": "Premier Health Plan",
+                    "doc_count": 6
+                },
+                {
+                    "key": "Wellmark",
+                    "doc_count": 6
+                },
+                {
+                    "key": "BCBS South Carolina",
+                    "doc_count": 5
+                },
+                {
+                    "key": "Healthy Connecticut",
+                    "doc_count": 5
+                },
+                {
+                    "key": "PHP Northern IN",
+                    "doc_count": 5
+                },
+                {
+                    "key": "SummaCare",
+                    "doc_count": 5
+                },
+                {
+                    "key": "WPS",
+                    "doc_count": 5
+                },
+                {
+                    "key": "Altius",
+                    "doc_count": 4
+                },
+                {
+                    "key": "BCBS Kansas City",
+                    "doc_count": 4
+                },
+                {
+                    "key": "BCBS Minnesota",
+                    "doc_count": 4
+                },
+                {
+                    "key": "Common Ground",
+                    "doc_count": 4
+                },
+                {
+                    "key": "HAP",
+                    "doc_count": 4
+                },
+                {
+                    "key": "Molina Healthcare",
+                    "doc_count": 4
+                },
+                {
+                    "key": "PacificSource",
+                    "doc_count": 4
+                },
+                {
+                    "key": "SelectHealth",
+                    "doc_count": 4
+                },
+                {
+                    "key": "BCBS Tennessee",
+                    "doc_count": 3
+                },
+                {
+                    "key": "Providence Health System",
+                    "doc_count": 3
+                },
+                {
+                    "key": "The Health Plan of Upper OH",
+                    "doc_count": 3
+                },
+                {
+                    "key": "BCBS Alabama",
+                    "doc_count": 2
+                },
+                {
+                    "key": "BCBS New Mexico",
+                    "doc_count": 2
+                },
+                {
+                    "key": "HealthPartners - MN",
+                    "doc_count": 2
+                },
+                {
+                    "key": "Indiana University",
+                    "doc_count": 2
+                },
+                {
+                    "key": "Preferred One",
+                    "doc_count": 2
+                },
+                {
+                    "key": "Presbyterian",
+                    "doc_count": 2
+                },
+                {
+                    "key": "Aultcare",
+                    "doc_count": 1
+                },
+                {
+                    "key": "BCBS Louisiana",
+                    "doc_count": 1
+                },
+                {
+                    "key": "BCBS Oklahoma",
+                    "doc_count": 1
+                },
+                {
+                    "key": "FirstCare",
+                    "doc_count": 1
+                },
+                {
+                    "key": "FrontPath Health Coalition",
+                    "doc_count": 1
+                },
+                {
+                    "key": "Group Health Coop",
+                    "doc_count": 1
+                },
+                {
+                    "key": "Gundersen Health Plan",
+                    "doc_count": 1
+                },
+                {
+                    "key": "Health Plan of Nevada",
+                    "doc_count": 1
+                },
+                {
+                    "key": "Kaiser - MidAtlantic",
+                    "doc_count": 1
+                },
+                {
+                    "key": "LA Care Health",
+                    "doc_count": 1
+                },
+                {
+                    "key": "Network Health Plan",
+                    "doc_count": 1
+                },
+                {
+                    "key": "One Health Network",
+                    "doc_count": 1
+                },
+                {
+                    "key": "Paramount",
+                    "doc_count": 1
+                },
+                {
+                    "key": "Qualchoice",
+                    "doc_count": 1
+                },
+                {
+                    "key": "Scion Dental",
+                    "doc_count": 1
+                },
+                {
+                    "key": "Sierra Health",
+                    "doc_count": 1
+                }
+            ]
+        },
+        "ratings": {
+            "buckets": [
+                {
+                    "key": "any",
+                    "doc_count": 9616
+                },
+                {
+                    "key": "3",
+                    "from": 3,
+                    "doc_count": 6688
+                },
+                {
+                    "key": "4",
+                    "from": 4,
+                    "doc_count": 4779
+                },
+                {
+                    "key": "5",
+                    "from": 5,
+                    "doc_count": 1531
+                }
+            ]
+        },
+        "experience_range": {
+            "buckets": [
+                {
+                    "key": "Any",
+                    "doc_count": 9616
+                },
+                {
+                    "key": "0 - 5",
+                    "from": 0,
+                    "to": 6,
+                    "doc_count": 0
+                },
+                {
+                    "key": "5 - 10",
+                    "from": 5,
+                    "to": 11,
+                    "doc_count": 608
+                },
+                {
+                    "key": "11 - 15",
+                    "from": 11,
+                    "to": 16,
+                    "doc_count": 921
+                },
+                {
+                    "key": "16 - 20",
+                    "from": 16,
+                    "to": 21,
+                    "doc_count": 1028
+                },
+                {
+                    "key": "21 - 25",
+                    "from": 21,
+                    "to": 26,
+                    "doc_count": 883
+                },
+                {
+                    "key": "26 - 30",
+                    "from": 26,
+                    "to": 31,
+                    "doc_count": 760
+                },
+                {
+                    "key": "30+",
+                    "from": 30,
+                    "doc_count": 2900
+                }
+            ]
+        }
+    },
+    "status": 200,
+    "distanceLimitedNothingFound": false,
+    "query": "",
+    "radiusUsed": 25,
+    "reqNo": "1",
+    "sponsors": [
+        {
+            "campaign_name": "webmd_ep",
+            "targeting": {
+                "locations": [
+                    {
+                        "city_state": "Philadelphia, PA",
+                        "geopoint": [
+                            [
+                                -75.160429,
+                                39.94866
+                            ]
+                        ]
+                    }
+                ],
+                "sponsor_id": "xx"
+            },
+            "search": {
+                "search_city_state": "Philadelphia, PA",
+                "search_specialties": "General Dentistry",
+                "locations": [
+                    {
+                        "city_state": "Philadelphia, PA",
+                        "geopoint": [
+                            [
+                                -75.160429,
+                                39.94866
+                            ]
+                        ]
+                    }
+                ],
+                "display_name": "Shireen  Malik"
+            },
+            "npi": "1518135805",
+            "external_id": "D83325",
+            "campaign_features": [
+                {
+                    "feature_name": "serp",
+                    "feature_config": {
+                        "specialty": "General Dentistry",
+                        "webmdSpecialtyId": [
+                            29245
+                        ],
+                        "city_state": "Philadelphia, PA",
+                        "profile_url": "\/dentists\/Dr_Shireen_Malik",
+                        "type": "dentist",
+                        "display_name": "Shireen  Malik",
+                        "photos": {
+                            "host": null,
+                            "uri": null
+                        },
+                        "ctas": {
+                            "appointment_url": "https:\/\/appointments.webmd.com\/path\/wmd-path1\/61fbb52a-c844-4904-ad23-dcc296781461"
+                        },
+                        "degrees": [
+                            "DDS"
+                        ],
+                        "display_type": "Dentist",
+                        "vitalsSpecialtyId": [
+                            294,
+                            296,
+                            297,
+                            300,
+                            303,
+                            306,
+                            307
+                        ],
+                        "specialties": [
+                            "General Dentistry"
+                        ],
+                        "number_of_ratings": 13,
+                        "company_name": null,
+                        "overall_rating": 4.3076923076923075
+                    }
+                }
+            ],
+            "url": "\/dentists\/Dr_Shireen_Malik",
+            "city_state": "Philadelphia, PA",
+            "geopoint": [
+                [
+                    -75.160429,
+                    39.94866
+                ]
+            ],
+            "geo_points": [
+                -75.160429,
+                39.94866
+            ],
+            "distance": 0.3
+        },
+        {
+            "campaign_name": "webmd_ep",
+            "targeting": {
+                "locations": [
+                    {
+                        "city_state": "Philadelphia, PA",
+                        "geopoint": [
+                            [
+                                -75.1741,
+                                39.9527
+                            ]
+                        ]
+                    },
+                    {
+                        "city_state": "Upper Darby, PA",
+                        "geopoint": [
+                            [
+                                -75.2629,
+                                39.9591
+                            ]
+                        ]
+                    }
+                ],
+                "sponsor_id": "xx"
+            },
+            "search": {
+                "search_city_state": "Philadelphia, PA Upper Darby, PA",
+                "search_specialties": "Addiction Medicine Physical Medicine\/Rehab Spec",
+                "locations": [
+                    {
+                        "city_state": "Philadelphia, PA",
+                        "geopoint": [
+                            [
+                                -75.1741,
+                                39.9527
+                            ]
+                        ]
+                    },
+                    {
+                        "city_state": "Upper Darby, PA",
+                        "geopoint": [
+                            [
+                                -75.2629,
+                                39.9591
+                            ]
+                        ]
+                    }
+                ],
+                "display_name": "Denis A Boyle Jr"
+            },
+            "npi": "1205920287",
+            "external_id": "153875",
+            "campaign_features": [
+                {
+                    "feature_name": "serp",
+                    "feature_config": {
+                        "specialty": "Addiction Medicine",
+                        "webmdSpecialtyId": [
+                            29230,
+                            29309
+                        ],
+                        "city_state": "Philadelphia, PA",
+                        "profile_url": "\/doctors\/Dr_Denis_Boyle.html",
+                        "type": "doctor",
+                        "display_name": "Denis A Boyle Jr",
+                        "photos": {
+                            "host": null,
+                            "uri": null
+                        },
+                        "ctas": {
+                            "appointment_url": "https:\/\/appointments.webmd.com\/path\/wmd-path1\/fb31da85-feb0-4bf4-9dc3-01678cfc8276"
+                        },
+                        "degrees": [
+                            "MD"
+                        ],
+                        "display_type": "Doctor",
+                        "vitalsSpecialtyId": [
+                            5,
+                            23,
+                            31,
+                            141,
+                            124,
+                            126,
+                            127,
+                            2018
+                        ],
+                        "specialties": [
+                            "Addiction Medicine",
+                            "Physical Medicine\/Rehab Spec"
+                        ],
+                        "number_of_ratings": 4,
+                        "company_name": null,
+                        "overall_rating": 5
+                    }
+                }
+            ],
+            "url": "\/doctors\/Dr_Denis_Boyle.html",
+            "city_state": "Philadelphia, PA",
+            "geopoint": [
+                [
+                    -75.1741,
+                    39.9527
+                ]
+            ],
+            "geo_points": [
+                -75.1741,
+                39.9527
+            ],
+            "distance": 0.6
+        },
+        {
+            "campaign_name": "webmd_ep",
+            "targeting": {
+                "locations": [
+                    {
+                        "city_state": "Ridley Park, PA",
+                        "geopoint": [
+                            [
+                                -75.3212,
+                                39.8791
+                            ]
+                        ]
+                    }
+                ],
+                "sponsor_id": "xx"
+            },
+            "search": {
+                "search_city_state": "Ridley Park, PA",
+                "search_specialties": "Family Practitioner Internal Medicine",
+                "locations": [
+                    {
+                        "city_state": "Ridley Park, PA",
+                        "geopoint": [
+                            [
+                                -75.3212,
+                                39.8791
+                            ]
+                        ]
+                    }
+                ],
+                "display_name": "Neeraj Tripathy"
+            },
+            "npi": "1972660975",
+            "external_id": "6302324",
+            "campaign_features": [
+                {
+                    "feature_name": "serp",
+                    "feature_config": {
+                        "specialty": "Family Practitioner",
+                        "webmdSpecialtyId": [
+                            29259,
+                            29277
+                        ],
+                        "city_state": "Ridley Park, PA",
+                        "profile_url": "\/doctors\/Dr_Neeraj_Tripathy.html",
+                        "type": "doctor",
+                        "display_name": "Neeraj Tripathy",
+                        "photos": {
+                            "host": null,
+                            "uri": null
+                        },
+                        "ctas": {
+                            "appointment_url": "https:\/\/appointments.webmd.com\/path\/wmd-path1\/e5a7bcd3-e5c7-416a-b7ab-65f40d7e3015"
+                        },
+                        "degrees": [
+                            "MD"
+                        ],
+                        "display_type": "Doctor",
+                        "vitalsSpecialtyId": [
+                            22,
+                            25,
+                            26,
+                            479,
+                            667,
+                            30,
+                            36,
+                            42,
+                            672,
+                            2005
+                        ],
+                        "specialties": [
+                            "Family Practitioner",
+                            "Internal Medicine"
+                        ],
+                        "number_of_ratings": 12,
+                        "company_name": null,
+                        "overall_rating": 4.63888888888889
+                    }
+                }
+            ],
+            "url": "\/doctors\/Dr_Neeraj_Tripathy.html",
+            "city_state": "Ridley Park, PA",
+            "geopoint": [
+                [
+                    -75.3212,
+                    39.8791
+                ]
+            ],
+            "geo_points": [
+                -75.3212,
+                39.8791
+            ],
+            "distance": 9.7
+        }
+    ]
+}

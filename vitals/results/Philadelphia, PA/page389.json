@@ -1,0 +1,2324 @@
+{
+    "took": 88,
+    "timed_out": false,
+    "_shards": {
+        "total": 2,
+        "successful": 2,
+        "skipped": 0,
+        "failed": 0
+    },
+    "hits": {
+        "total": 9616,
+        "max_score": null,
+        "hits": [
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1tz4py_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1tz4py",
+                    "years_experience": 12,
+                    "city_state": "Glen Mills, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Rachel E Bagelman",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1949196\/photo.jpg"
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Hospitalist"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Rachel_Bagelman.html",
+                            "slug": "Dr_Rachel_Bagelman.html"
+                        }
+                    },
+                    "number_of_ratings": 2,
+                    "locations": [
+                        {
+                            "city_state": "Wilmington, DE",
+                            "city": "Wilmington",
+                            "address1": "1600 Rockland Rd",
+                            "_geoloc": {
+                                "lng": -75.556768,
+                                "lat": 39.776825
+                            },
+                            "state": "DE"
+                        },
+                        {
+                            "city_state": "Phoenixville, PA",
+                            "city": "Phoenixville",
+                            "address1": "140 Nutt Rd",
+                            "_geoloc": {
+                                "lng": -75.538568,
+                                "lat": 40.132813
+                            },
+                            "state": "PA"
+                        },
+                        {
+                            "city_state": "Glen Mills, PA",
+                            "city": "Glen Mills",
+                            "address1": "101 Applied Bank Blvd Ste 11",
+                            "_geoloc": {
+                                "lng": -75.504342,
+                                "lat": 39.910838
+                            },
+                            "state": "PA"
+                        },
+                        {
+                            "city_state": "Westminster, MD",
+                            "city": "Westminster",
+                            "address1": "200 Memorial Ave",
+                            "_geoloc": {
+                                "lng": -76.990382,
+                                "lat": 39.558543
+                            },
+                            "state": "MD"
+                        }
+                    ],
+                    "overall_rating": 3,
+                    "url": "\/doctors\/Dr_Rachel_Bagelman.html",
+                    "slug": "Dr_Rachel_Bagelman.html"
+                },
+                "fields": {
+                    "distance": 18.26013219829784
+                },
+                "sort": [
+                    18.261037232945707
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1tyx6q_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1tyx6q",
+                    "years_experience": 47,
+                    "city_state": "Warminster, PA",
+                    "degree": "DMD",
+                    "type": "doctor",
+                    "display_name": "Dr. Edwin W Slade Jr",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1819338\/photo.jpg"
+                        }
+                    },
+                    "degrees": [
+                        "DMD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Oral and Maxillofacial Surgery",
+                        "General Dentistry"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/1tyx6q\/Edwin_Slade",
+                            "slug": "1tyx6q\/Edwin_Slade"
+                        }
+                    },
+                    "number_of_ratings": 2,
+                    "locations": [
+                        {
+                            "city_state": "Warminster, PA",
+                            "city": "Warminster",
+                            "address1": "755 York Rd Ste 206",
+                            "_geoloc": {
+                                "lng": -75.098446,
+                                "lat": 40.211833
+                            },
+                            "state": "PA"
+                        },
+                        {
+                            "city_state": "Sellersville, PA",
+                            "city": "Sellersville",
+                            "address1": "66 N Main St",
+                            "_geoloc": {
+                                "lng": -75.309164,
+                                "lat": 40.358114
+                            },
+                            "state": "PA"
+                        },
+                        {
+                            "city_state": "Quakertown, PA",
+                            "city": "Quakertown",
+                            "address1": "249 S West End Blvd",
+                            "_geoloc": {
+                                "lng": -75.353704,
+                                "lat": 40.436541
+                            },
+                            "state": "PA"
+                        },
+                        {
+                            "city_state": "Doylestown, PA",
+                            "city": "Doylestown",
+                            "address1": "101 Progress Dr",
+                            "_geoloc": {
+                                "lng": -75.143523,
+                                "lat": 40.30462
+                            },
+                            "state": "PA"
+                        },
+                        {
+                            "city_state": "Chalfont, PA",
+                            "city": "Chalfont",
+                            "address1": "1500 Horizon Dr Ste 108",
+                            "_geoloc": {
+                                "lng": -75.217461,
+                                "lat": 40.260897
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 1.5,
+                    "url": "\/doctors\/1tyx6q\/Edwin_Slade",
+                    "slug": "1tyx6q\/Edwin_Slade"
+                },
+                "fields": {
+                    "distance": 18.305841763695522
+                },
+                "sort": [
+                    18.30674717491709
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1p8h66_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1p8h66",
+                    "city_state": "Warminster, PA",
+                    "degree": "DMD",
+                    "type": "doctor",
+                    "display_name": "Dr. David W Cunning",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1592970\/photo.jpg"
+                        }
+                    },
+                    "degrees": [
+                        "DMD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Oral and Maxillofacial Surgery",
+                        "General Dentistry"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/1p8h66\/David_Cunning",
+                            "slug": "1p8h66\/David_Cunning"
+                        }
+                    },
+                    "number_of_ratings": 2,
+                    "locations": [
+                        {
+                            "city_state": "Warminster, PA",
+                            "city": "Warminster",
+                            "address1": "755 York Rd Ste 206",
+                            "_geoloc": {
+                                "lng": -75.098446,
+                                "lat": 40.211833
+                            },
+                            "state": "PA"
+                        },
+                        {
+                            "city_state": "Sellersville, PA",
+                            "city": "Sellersville",
+                            "address1": "66 N Main St",
+                            "_geoloc": {
+                                "lng": -75.309164,
+                                "lat": 40.358114
+                            },
+                            "state": "PA"
+                        },
+                        {
+                            "city_state": "Quakertown, PA",
+                            "city": "Quakertown",
+                            "address1": "249 S West End Blvd",
+                            "_geoloc": {
+                                "lng": -75.353704,
+                                "lat": 40.436541
+                            },
+                            "state": "PA"
+                        },
+                        {
+                            "city_state": "Doylestown, PA",
+                            "city": "Doylestown",
+                            "address1": "101 Progress Dr",
+                            "_geoloc": {
+                                "lng": -75.143523,
+                                "lat": 40.30462
+                            },
+                            "state": "PA"
+                        },
+                        {
+                            "city_state": "Chalfont, PA",
+                            "city": "Chalfont",
+                            "address1": "1500 Horizon Dr Ste 108",
+                            "_geoloc": {
+                                "lng": -75.217461,
+                                "lat": 40.260897
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 5,
+                    "url": "\/doctors\/1p8h66\/David_Cunning",
+                    "slug": "1p8h66\/David_Cunning"
+                },
+                "fields": {
+                    "distance": 18.305841763695522
+                },
+                "sort": [
+                    18.30674717491709
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1t49tz_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1t49tz",
+                    "city_state": "Warminster, PA",
+                    "degree": "DMD",
+                    "type": "doctor",
+                    "display_name": "Dr. Louis A Huy",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1829258\/photo.jpg"
+                        }
+                    },
+                    "degrees": [
+                        "DMD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Oral and Maxillofacial Surgery",
+                        "General Dentistry"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/1t49tz\/Louis_Huy",
+                            "slug": "1t49tz\/Louis_Huy"
+                        }
+                    },
+                    "number_of_ratings": 8,
+                    "locations": [
+                        {
+                            "city_state": "Warminster, PA",
+                            "city": "Warminster",
+                            "address1": "755 York Rd Ste 206",
+                            "_geoloc": {
+                                "lng": -75.098446,
+                                "lat": 40.211833
+                            },
+                            "state": "PA"
+                        },
+                        {
+                            "city_state": "Sellersville, PA",
+                            "city": "Sellersville",
+                            "address1": "66 N Main St",
+                            "_geoloc": {
+                                "lng": -75.309164,
+                                "lat": 40.358114
+                            },
+                            "state": "PA"
+                        },
+                        {
+                            "city_state": "Quakertown, PA",
+                            "city": "Quakertown",
+                            "address1": "249 S West End Blvd",
+                            "_geoloc": {
+                                "lng": -75.353704,
+                                "lat": 40.436541
+                            },
+                            "state": "PA"
+                        },
+                        {
+                            "city_state": "Doylestown, PA",
+                            "city": "Doylestown",
+                            "address1": "101 Progress Dr",
+                            "_geoloc": {
+                                "lng": -75.143523,
+                                "lat": 40.30462
+                            },
+                            "state": "PA"
+                        },
+                        {
+                            "city_state": "Chalfont, PA",
+                            "city": "Chalfont",
+                            "address1": "1500 Horizon Dr Ste 108",
+                            "_geoloc": {
+                                "lng": -75.217461,
+                                "lat": 40.260897
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 3.75,
+                    "url": "\/doctors\/1t49tz\/Louis_Huy",
+                    "slug": "1t49tz\/Louis_Huy"
+                },
+                "fields": {
+                    "distance": 18.305841763695522
+                },
+                "sort": [
+                    18.30674717491709
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1wrf4c_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1wrf4c",
+                    "city_state": "Warminster, PA",
+                    "degree": "DMD",
+                    "type": "doctor",
+                    "display_name": "Dr. Michael J Land",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1809697\/photo.jpg"
+                        }
+                    },
+                    "degrees": [
+                        "DMD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Oral and Maxillofacial Surgery",
+                        "General Dentistry"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/1wrf4c\/Michael_J_Land",
+                            "slug": "1wrf4c\/Michael_J_Land"
+                        }
+                    },
+                    "number_of_ratings": 4,
+                    "locations": [
+                        {
+                            "city_state": "Warminster, PA",
+                            "city": "Warminster",
+                            "address1": "755 York Rd Ste 206",
+                            "_geoloc": {
+                                "lng": -75.098446,
+                                "lat": 40.211833
+                            },
+                            "state": "PA"
+                        },
+                        {
+                            "city_state": "Sellersville, PA",
+                            "city": "Sellersville",
+                            "address1": "66 N Main St",
+                            "_geoloc": {
+                                "lng": -75.309164,
+                                "lat": 40.358114
+                            },
+                            "state": "PA"
+                        },
+                        {
+                            "city_state": "Quakertown, PA",
+                            "city": "Quakertown",
+                            "address1": "249 S West End Blvd",
+                            "_geoloc": {
+                                "lng": -75.353704,
+                                "lat": 40.436541
+                            },
+                            "state": "PA"
+                        },
+                        {
+                            "city_state": "Chalfont, PA",
+                            "city": "Chalfont",
+                            "address1": "1500 Horizon Dr Ste 108",
+                            "_geoloc": {
+                                "lng": -75.217461,
+                                "lat": 40.260897
+                            },
+                            "state": "PA"
+                        },
+                        {
+                            "city_state": "Doylestown, PA",
+                            "city": "Doylestown",
+                            "address1": "101 Progress Dr",
+                            "_geoloc": {
+                                "lng": -75.143523,
+                                "lat": 40.30462
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 3.91666666666667,
+                    "url": "\/doctors\/1wrf4c\/Michael_J_Land",
+                    "slug": "1wrf4c\/Michael_J_Land"
+                },
+                "fields": {
+                    "distance": 18.305841763695522
+                },
+                "sort": [
+                    18.30674717491709
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1syzwr_doctor",
+                "_score": null,
+                "_source": {
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Chiropractic",
+                        "Sports Medicine"
+                    ],
+                    "vpid": "1syzwr",
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/1syzwr\/albert-latronica",
+                            "slug": "1syzwr\/albert-latronica"
+                        }
+                    },
+                    "city_state": "Warminster, PA",
+                    "degree": "DC",
+                    "locations": [
+                        {
+                            "city_state": "Furlong, PA",
+                            "city": "Furlong",
+                            "address1": "740 Edison Furlong Rd",
+                            "_geoloc": {
+                                "lng": -75.085545,
+                                "lat": 40.29585
+                            },
+                            "state": "PA"
+                        },
+                        {
+                            "city_state": "Warminster, PA",
+                            "city": "Warminster",
+                            "address1": "755 York Rd Ste 103",
+                            "_geoloc": {
+                                "lng": -75.098446,
+                                "lat": 40.211833
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "type": "doctor",
+                    "display_name": "Dr. Albert V Latronica",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [
+                        "DC"
+                    ],
+                    "url": "\/doctors\/1syzwr\/albert-latronica",
+                    "slug": "1syzwr\/albert-latronica"
+                },
+                "fields": {
+                    "distance": 18.305841763695522
+                },
+                "sort": [
+                    18.30674717491709
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1nkpm8_doctor",
+                "_score": null,
+                "_source": {
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Pediatrics"
+                    ],
+                    "vpid": "1nkpm8",
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_April_D_Graham.html",
+                            "slug": "Dr_April_D_Graham.html"
+                        }
+                    },
+                    "years_experience": 8,
+                    "city_state": "Burlington, NJ",
+                    "degree": "DO",
+                    "locations": [
+                        {
+                            "city_state": "Newark, NJ",
+                            "city": "Newark",
+                            "address1": "201 Lyons Ave",
+                            "_geoloc": {
+                                "lng": -74.213603,
+                                "lat": 40.710828
+                            },
+                            "state": "NJ"
+                        },
+                        {
+                            "city_state": "Burlington, NJ",
+                            "city": "Burlington",
+                            "address1": "651 High St",
+                            "_geoloc": {
+                                "lng": -74.854248,
+                                "lat": 40.070322
+                            },
+                            "state": "NJ"
+                        },
+                        {
+                            "city_state": "Hightstown, NJ",
+                            "city": "Hightstown",
+                            "address1": "300B Princeton Hightstown Rd Ste 201",
+                            "_geoloc": {
+                                "lng": -74.540715,
+                                "lat": 40.27438
+                            },
+                            "state": "NJ"
+                        }
+                    ],
+                    "type": "doctor",
+                    "display_name": "Dr. April D Graham",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [
+                        "DO"
+                    ],
+                    "url": "\/doctors\/Dr_April_D_Graham.html",
+                    "slug": "Dr_April_D_Graham.html"
+                },
+                "fields": {
+                    "distance": 18.318789975089512
+                },
+                "sort": [
+                    18.319693344191478
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1xxhmb_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1xxhmb",
+                    "city_state": "Burlington, NJ",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Robert P Siefring",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1923121\/photo.jpg"
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Obstetrics and Gynecology"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Robert_Siefring.html",
+                            "slug": "Dr_Robert_Siefring.html"
+                        }
+                    },
+                    "number_of_ratings": 30,
+                    "locations": [
+                        {
+                            "city_state": "Burlington, NJ",
+                            "city": "Burlington",
+                            "address1": "1900 Mount Holly Rd Ste 1D",
+                            "_geoloc": {
+                                "lng": -74.843691,
+                                "lat": 40.053171
+                            },
+                            "state": "NJ"
+                        }
+                    ],
+                    "overall_rating": 4.28888888888889,
+                    "url": "\/doctors\/Dr_Robert_Siefring.html",
+                    "slug": "Dr_Robert_Siefring.html"
+                },
+                "fields": {
+                    "distance": 18.336742865762037
+                },
+                "sort": [
+                    18.33764717896223
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1srxyh_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1srxyh",
+                    "years_experience": 29,
+                    "city_state": "Burlington, NJ",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Joseph D La Motta",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1923119\/photo.jpg"
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Obstetrics and Gynecology"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Joseph_La_Motta.html",
+                            "slug": "Dr_Joseph_La_Motta.html"
+                        }
+                    },
+                    "number_of_ratings": 2,
+                    "locations": [
+                        {
+                            "city_state": "Burlington, NJ",
+                            "city": "Burlington",
+                            "address1": "1900 Mount Holly Rd Ste 1D",
+                            "_geoloc": {
+                                "lng": -74.843691,
+                                "lat": 40.053171
+                            },
+                            "state": "NJ"
+                        }
+                    ],
+                    "overall_rating": 5,
+                    "url": "\/doctors\/Dr_Joseph_La_Motta.html",
+                    "slug": "Dr_Joseph_La_Motta.html"
+                },
+                "fields": {
+                    "distance": 18.336742865762037
+                },
+                "sort": [
+                    18.33764717896223
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1s89gr_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1s89gr",
+                    "years_experience": 29,
+                    "city_state": "Paoli, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Martin C Wilson",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1693174\/photo.jpg"
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Ophthalmology"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Martin_Wilson.html",
+                            "slug": "Dr_Martin_Wilson.html"
+                        }
+                    },
+                    "number_of_ratings": 16,
+                    "locations": [
+                        {
+                            "city_state": "Paoli, PA",
+                            "city": "Paoli",
+                            "address1": "155 W Lancaster Ave",
+                            "_geoloc": {
+                                "lng": -75.489827,
+                                "lat": 40.042048
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 4.270833333333332,
+                    "url": "\/doctors\/Dr_Martin_Wilson.html",
+                    "slug": "Dr_Martin_Wilson.html"
+                },
+                "fields": {
+                    "distance": 18.351431708940115
+                },
+                "sort": [
+                    18.352343551082846
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1wsp4s_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1wsp4s",
+                    "years_experience": 23,
+                    "city_state": "Norristown, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Wellesley E Bailey",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Psychiatry",
+                        "Neurology"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Wellesley_Bailey.html",
+                            "slug": "Dr_Wellesley_Bailey.html"
+                        }
+                    },
+                    "number_of_ratings": 1,
+                    "locations": [
+                        {
+                            "city_state": "Sellersville, PA",
+                            "city": "Sellersville",
+                            "address1": "807 Lawn Ave",
+                            "_geoloc": {
+                                "lng": -75.326702,
+                                "lat": 40.365387
+                            },
+                            "state": "PA"
+                        },
+                        {
+                            "city_state": "Norristown, PA",
+                            "city": "Norristown",
+                            "address1": "1042 Nicole Dr",
+                            "_geoloc": {
+                                "lng": -75.37712,
+                                "lat": 40.16221
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 3.666666666666668,
+                    "url": "\/doctors\/Dr_Wellesley_Bailey.html",
+                    "slug": "Dr_Wellesley_Bailey.html"
+                },
+                "fields": {
+                    "distance": 18.409235888752804
+                },
+                "sort": [
+                    18.4101486027016
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1x2gz1_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1x2gz1",
+                    "years_experience": 21,
+                    "city_state": "Paoli, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Jennifer L Armstrong",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1676403\/photo.jpg"
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Medical Oncology",
+                        "Hematology and Oncology",
+                        "Internal Medicine"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Jennifer_Armstrong.html",
+                            "slug": "Dr_Jennifer_Armstrong.html"
+                        }
+                    },
+                    "number_of_ratings": 35,
+                    "locations": [
+                        {
+                            "city_state": "Paoli, PA",
+                            "city": "Paoli",
+                            "address1": "2 Industrial Blvd Ste 110",
+                            "_geoloc": {
+                                "lng": -75.49761,
+                                "lat": 40.043183
+                            },
+                            "state": "PA"
+                        },
+                        {
+                            "city_state": "Paoli, PA",
+                            "city": "Paoli",
+                            "address1": "209 W Lancaster Ave Ste 100",
+                            "_geoloc": {
+                                "lng": -75.491807,
+                                "lat": 40.041973
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 3.2380952380952386,
+                    "url": "\/doctors\/Dr_Jennifer_Armstrong.html",
+                    "slug": "Dr_Jennifer_Armstrong.html"
+                },
+                "fields": {
+                    "distance": 18.44826214017984
+                },
+                "sort": [
+                    18.44917702332777
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1rqj2b_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1rqj2b",
+                    "years_experience": 47,
+                    "city_state": "Paoli, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. James R Bollinger",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1693176\/photo.jpg"
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Urology"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_James_Bollinger.html",
+                            "slug": "Dr_James_Bollinger.html"
+                        }
+                    },
+                    "number_of_ratings": 26,
+                    "locations": [
+                        {
+                            "city_state": "Paoli, PA",
+                            "city": "Paoli",
+                            "address1": "209 W Lancaster Ave Ste 200",
+                            "_geoloc": {
+                                "lng": -75.491807,
+                                "lat": 40.041973
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 3.8974358974358974,
+                    "url": "\/doctors\/Dr_James_Bollinger.html",
+                    "slug": "Dr_James_Bollinger.html"
+                },
+                "fields": {
+                    "distance": 18.44826214017984
+                },
+                "sort": [
+                    18.44917702332777
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1qgr8n_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1qgr8n",
+                    "years_experience": 42,
+                    "city_state": "Paoli, PA",
+                    "degree": "DO",
+                    "type": "doctor",
+                    "display_name": "Dr. Barry H Burkhardt",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1714629\/photo.jpg"
+                        }
+                    },
+                    "degrees": [
+                        "DO"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "General Practice"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Barry_H_Burkhardt.html",
+                            "slug": "Dr_Barry_H_Burkhardt.html"
+                        }
+                    },
+                    "number_of_ratings": 26,
+                    "locations": [
+                        {
+                            "city_state": "Paoli, PA",
+                            "city": "Paoli",
+                            "address1": "209 W Lancaster Ave Ste 101",
+                            "_geoloc": {
+                                "lng": -75.491807,
+                                "lat": 40.041973
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 4.435897435897435,
+                    "url": "\/doctors\/Dr_Barry_H_Burkhardt.html",
+                    "slug": "Dr_Barry_H_Burkhardt.html"
+                },
+                "fields": {
+                    "distance": 18.44826214017984
+                },
+                "sort": [
+                    18.44917702332777
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1tghzk_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1tghzk",
+                    "city_state": "Paoli, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Michel C Hoessly",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1682905\/photo.jpg"
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Hematology",
+                        "Medical Oncology",
+                        "Hematology and Oncology",
+                        "Internal Medicine"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Michel_Hoessly.html",
+                            "slug": "Dr_Michel_Hoessly.html"
+                        }
+                    },
+                    "number_of_ratings": 15,
+                    "locations": [
+                        {
+                            "city_state": "Paoli, PA",
+                            "city": "Paoli",
+                            "address1": "2 Industrial Blvd Ste 110",
+                            "_geoloc": {
+                                "lng": -75.49761,
+                                "lat": 40.043183
+                            },
+                            "state": "PA"
+                        },
+                        {
+                            "city_state": "Paoli, PA",
+                            "city": "Paoli",
+                            "address1": "21 Industrial Blvd",
+                            "_geoloc": {
+                                "lng": -75.501195,
+                                "lat": 40.045506
+                            },
+                            "state": "PA"
+                        },
+                        {
+                            "city_state": "Paoli, PA",
+                            "city": "Paoli",
+                            "address1": "209 W Lancaster Ave Ste 100",
+                            "_geoloc": {
+                                "lng": -75.491807,
+                                "lat": 40.041973
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 4.466666666666668,
+                    "url": "\/doctors\/Dr_Michel_Hoessly.html",
+                    "slug": "Dr_Michel_Hoessly.html"
+                },
+                "fields": {
+                    "distance": 18.44826214017984
+                },
+                "sort": [
+                    18.44917702332777
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1rwydn_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1rwydn",
+                    "city_state": "West Chester, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Anne C Bowen",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1520164\/photo.jpg"
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Internal Medicine"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Anne_Bowen.html",
+                            "slug": "Dr_Anne_Bowen.html"
+                        }
+                    },
+                    "number_of_ratings": 17,
+                    "locations": [
+                        {
+                            "city_state": "West Chester, PA",
+                            "city": "West Chester",
+                            "address1": "1646 W Chester Pike Ste 21",
+                            "_geoloc": {
+                                "lng": -75.512086,
+                                "lat": 39.964529
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 3.68627450980392,
+                    "url": "\/doctors\/Dr_Anne_Bowen.html",
+                    "slug": "Dr_Anne_Bowen.html"
+                },
+                "fields": {
+                    "distance": 18.46575144299369
+                },
+                "sort": [
+                    18.46666836655986
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1zz1c8_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1zz1c8",
+                    "years_experience": 32,
+                    "city_state": "West Chester, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Lisa B Johnson",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Internal Medicine"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Lisa_B_Johnson.html",
+                            "slug": "Dr_Lisa_B_Johnson.html"
+                        }
+                    },
+                    "number_of_ratings": 16,
+                    "locations": [
+                        {
+                            "city_state": "West Chester, PA",
+                            "city": "West Chester",
+                            "address1": "1646 W Chester Pike Ste 21",
+                            "_geoloc": {
+                                "lng": -75.512086,
+                                "lat": 39.964529
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 4.666666666666667,
+                    "url": "\/doctors\/Dr_Lisa_B_Johnson.html",
+                    "slug": "Dr_Lisa_B_Johnson.html"
+                },
+                "fields": {
+                    "distance": 18.46575144299369
+                },
+                "sort": [
+                    18.46666836655986
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1scf27_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1scf27",
+                    "years_experience": 19,
+                    "city_state": "Burlington, NJ",
+                    "degree": "DO",
+                    "type": "doctor",
+                    "display_name": "Dr. Efrain Paz Jr",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1935799\/photo.jpg"
+                        }
+                    },
+                    "degrees": [
+                        "DO"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Orthopaedic Surgery"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Efrain_Paz.html",
+                            "slug": "Dr_Efrain_Paz.html"
+                        }
+                    },
+                    "number_of_ratings": 30,
+                    "locations": [
+                        {
+                            "city_state": "Burlington, NJ",
+                            "city": "Burlington",
+                            "address1": "2103 Mount Holly Rd",
+                            "_geoloc": {
+                                "lng": -74.8386,
+                                "lat": 40.050415
+                            },
+                            "state": "NJ"
+                        }
+                    ],
+                    "overall_rating": 3.7666666666666666,
+                    "url": "\/doctors\/Dr_Efrain_Paz.html",
+                    "slug": "Dr_Efrain_Paz.html"
+                },
+                "fields": {
+                    "distance": 18.515265761211968
+                },
+                "sort": [
+                    18.51617862870861
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1wq2kg_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1wq2kg",
+                    "years_experience": 14,
+                    "city_state": "Burlington, NJ",
+                    "degree": "DO",
+                    "type": "doctor",
+                    "display_name": "Dr. Sean D Mcmillan",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1892411\/photo.jpg"
+                        }
+                    },
+                    "degrees": [
+                        "DO"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Orthopaedic Surgery"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Sean_Mc_Millan.html",
+                            "slug": "Dr_Sean_Mc_Millan.html"
+                        }
+                    },
+                    "number_of_ratings": 23,
+                    "locations": [
+                        {
+                            "city_state": "Burlington, NJ",
+                            "city": "Burlington",
+                            "address1": "2103 Mount Holly Rd",
+                            "_geoloc": {
+                                "lng": -74.8386,
+                                "lat": 40.050415
+                            },
+                            "state": "NJ"
+                        }
+                    ],
+                    "overall_rating": 4.695652173913044,
+                    "url": "\/doctors\/Dr_Sean_Mc_Millan.html",
+                    "slug": "Dr_Sean_Mc_Millan.html"
+                },
+                "fields": {
+                    "distance": 18.515265761211968
+                },
+                "sort": [
+                    18.51617862870861
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1q981b_doctor",
+                "_score": null,
+                "_source": {
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Physical Medicine and Rehabilitation"
+                    ],
+                    "vpid": "1q981b",
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/1q981b\/scott-pfaff",
+                            "slug": "1q981b\/scott-pfaff"
+                        }
+                    },
+                    "city_state": "Bristol, PA",
+                    "degree": "MD",
+                    "locations": [
+                        {
+                            "city_state": "Bristol, PA",
+                            "city": "Bristol",
+                            "address1": "220 Commerce Cir",
+                            "_geoloc": {
+                                "lng": -74.872083,
+                                "lat": 40.102233
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "type": "doctor",
+                    "display_name": "Dr. Scott W Pfaff",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "url": "\/doctors\/1q981b\/scott-pfaff",
+                    "slug": "1q981b\/scott-pfaff"
+                },
+                "fields": {
+                    "distance": 18.61328502920783
+                },
+                "sort": [
+                    18.61420235137493
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1rs9c4_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1rs9c4",
+                    "city_state": "Norristown, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Natu R Patel",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Family Medicine"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Natu_Patel.html",
+                            "slug": "Dr_Natu_Patel.html"
+                        }
+                    },
+                    "number_of_ratings": 12,
+                    "locations": [
+                        {
+                            "city_state": "Norristown, PA",
+                            "city": "Norristown",
+                            "address1": "2792 Egypt Rd",
+                            "_geoloc": {
+                                "lng": -75.430647,
+                                "lat": 40.127883
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 4.111111111111113,
+                    "url": "\/doctors\/Dr_Natu_Patel.html",
+                    "slug": "Dr_Natu_Patel.html"
+                },
+                "fields": {
+                    "distance": 18.641093046430775
+                },
+                "sort": [
+                    18.642018143369764
+                ]
+            }
+        ]
+    },
+    "aggregations": {
+        "satisfaction.accurate_diagnosis": {
+            "buckets": {
+                "good": {
+                    "from": 3.5,
+                    "doc_count": 0
+                }
+            }
+        },
+        "overall_range": {
+            "doc_count": 7275
+        },
+        "satisfaction.bedside_manner": {
+            "buckets": {
+                "good": {
+                    "from": 3.5,
+                    "doc_count": 0
+                }
+            }
+        },
+        "satisfaction.punctuality": {
+            "buckets": {
+                "good": {
+                    "from": 3.5,
+                    "doc_count": 0
+                }
+            }
+        },
+        "display_types": {
+            "doc_count_error_upper_bound": 0,
+            "sum_other_doc_count": 0,
+            "buckets": [
+                {
+                    "key": "Doctor",
+                    "doc_count": 9616
+                },
+                {
+                    "key": "Group Practice",
+                    "doc_count": 680
+                },
+                {
+                    "key": "Chiropractor",
+                    "doc_count": 371
+                },
+                {
+                    "key": "Podiatrist",
+                    "doc_count": 310
+                },
+                {
+                    "key": "Optometrist",
+                    "doc_count": 292
+                },
+                {
+                    "key": "Psychologist",
+                    "doc_count": 279
+                },
+                {
+                    "key": "Dentist",
+                    "doc_count": 60
+                },
+                {
+                    "key": "Hospital",
+                    "doc_count": 26
+                },
+                {
+                    "key": "Nursing Home",
+                    "doc_count": 2
+                },
+                {
+                    "key": "Cancer Center",
+                    "doc_count": 1
+                },
+                {
+                    "key": "Pharmacy",
+                    "doc_count": 1
+                }
+            ]
+        },
+        "insurance_companies": {
+            "doc_count_error_upper_bound": 0,
+            "sum_other_doc_count": 0,
+            "buckets": [
+                {
+                    "key": "Aetna",
+                    "doc_count": 11304
+                },
+                {
+                    "key": "United Healthcare",
+                    "doc_count": 10301
+                },
+                {
+                    "key": "BCBS Blue Card",
+                    "doc_count": 9724
+                },
+                {
+                    "key": "IBC",
+                    "doc_count": 9616
+                },
+                {
+                    "key": "Cigna",
+                    "doc_count": 8995
+                },
+                {
+                    "key": "Coventry Health Care",
+                    "doc_count": 8567
+                },
+                {
+                    "key": "Multiplan",
+                    "doc_count": 7792
+                },
+                {
+                    "key": "Humana",
+                    "doc_count": 5854
+                },
+                {
+                    "key": "Capital Blue Cross",
+                    "doc_count": 5649
+                },
+                {
+                    "key": "Horizon BCBS",
+                    "doc_count": 5553
+                },
+                {
+                    "key": "First Health",
+                    "doc_count": 5330
+                },
+                {
+                    "key": "QualCare",
+                    "doc_count": 4110
+                },
+                {
+                    "key": "Geisinger Health Plan",
+                    "doc_count": 2742
+                },
+                {
+                    "key": "Oxford Health",
+                    "doc_count": 1840
+                },
+                {
+                    "key": "HIP of NY",
+                    "doc_count": 1484
+                },
+                {
+                    "key": "UPMC Health Plan",
+                    "doc_count": 320
+                },
+                {
+                    "key": "CareFirst BCBS",
+                    "doc_count": 288
+                },
+                {
+                    "key": "Highmark BCBS",
+                    "doc_count": 265
+                },
+                {
+                    "key": "Empire BCBS",
+                    "doc_count": 140
+                },
+                {
+                    "key": "Anthem",
+                    "doc_count": 115
+                },
+                {
+                    "key": "Capital District Physicians Health Plan",
+                    "doc_count": 104
+                },
+                {
+                    "key": "BCBS Massachusetts",
+                    "doc_count": 90
+                },
+                {
+                    "key": "Connecticare",
+                    "doc_count": 69
+                },
+                {
+                    "key": "BCBS Illinois",
+                    "doc_count": 62
+                },
+                {
+                    "key": "Assurant",
+                    "doc_count": 56
+                },
+                {
+                    "key": "Guardian Dental",
+                    "doc_count": 55
+                },
+                {
+                    "key": "Principal Dental",
+                    "doc_count": 53
+                },
+                {
+                    "key": "Cigna Dental",
+                    "doc_count": 51
+                },
+                {
+                    "key": "Delta Dental",
+                    "doc_count": 51
+                },
+                {
+                    "key": "United Concordia",
+                    "doc_count": 51
+                },
+                {
+                    "key": "Ameritas",
+                    "doc_count": 49
+                },
+                {
+                    "key": "Dental Network of America",
+                    "doc_count": 49
+                },
+                {
+                    "key": "MetLife",
+                    "doc_count": 47
+                },
+                {
+                    "key": "DenteMax",
+                    "doc_count": 44
+                },
+                {
+                    "key": "MVP Health Plan",
+                    "doc_count": 44
+                },
+                {
+                    "key": "United Healthcare Dental",
+                    "doc_count": 44
+                },
+                {
+                    "key": "CompBenefits",
+                    "doc_count": 39
+                },
+                {
+                    "key": "Harvard Pilgrim",
+                    "doc_count": 39
+                },
+                {
+                    "key": "Humana Dental",
+                    "doc_count": 38
+                },
+                {
+                    "key": "HealthFirst NY",
+                    "doc_count": 36
+                },
+                {
+                    "key": "Blue Cross California",
+                    "doc_count": 31
+                },
+                {
+                    "key": "BCBS Florida",
+                    "doc_count": 28
+                },
+                {
+                    "key": "Medical Mutual of Ohio",
+                    "doc_count": 28
+                },
+                {
+                    "key": "Health Net",
+                    "doc_count": 26
+                },
+                {
+                    "key": "Tufts Health Plan",
+                    "doc_count": 26
+                },
+                {
+                    "key": "Emblem Health",
+                    "doc_count": 23
+                },
+                {
+                    "key": "Excellus BCBS",
+                    "doc_count": 23
+                },
+                {
+                    "key": "AvMed Health",
+                    "doc_count": 17
+                },
+                {
+                    "key": "Regence Health Plans",
+                    "doc_count": 17
+                },
+                {
+                    "key": "Sagamore Health",
+                    "doc_count": 17
+                },
+                {
+                    "key": "UHC of the River Valley",
+                    "doc_count": 17
+                },
+                {
+                    "key": "Blue Shield California",
+                    "doc_count": 16
+                },
+                {
+                    "key": "ODS",
+                    "doc_count": 14
+                },
+                {
+                    "key": "Premera",
+                    "doc_count": 14
+                },
+                {
+                    "key": "Independent Health",
+                    "doc_count": 13
+                },
+                {
+                    "key": "BCBS Texas",
+                    "doc_count": 12
+                },
+                {
+                    "key": "SIHO Insurance Services",
+                    "doc_count": 12
+                },
+                {
+                    "key": "HealthSpan",
+                    "doc_count": 11
+                },
+                {
+                    "key": "BCBS North Carolina",
+                    "doc_count": 10
+                },
+                {
+                    "key": "Optima Health",
+                    "doc_count": 10
+                },
+                {
+                    "key": "BCBS Georgia",
+                    "doc_count": 9
+                },
+                {
+                    "key": "Centene",
+                    "doc_count": 9
+                },
+                {
+                    "key": "HealthLink",
+                    "doc_count": 9
+                },
+                {
+                    "key": "BCBS Michigan",
+                    "doc_count": 8
+                },
+                {
+                    "key": "Encore Health Network",
+                    "doc_count": 8
+                },
+                {
+                    "key": "Ambetter Superior Health Plan",
+                    "doc_count": 7
+                },
+                {
+                    "key": "BCBS Rhode Island",
+                    "doc_count": 7
+                },
+                {
+                    "key": "PriorityHealth",
+                    "doc_count": 7
+                },
+                {
+                    "key": "Aetna Innovation Health",
+                    "doc_count": 6
+                },
+                {
+                    "key": "Health Alliance",
+                    "doc_count": 6
+                },
+                {
+                    "key": "Premier Health Plan",
+                    "doc_count": 6
+                },
+                {
+                    "key": "Wellmark",
+                    "doc_count": 6
+                },
+                {
+                    "key": "BCBS South Carolina",
+                    "doc_count": 5
+                },
+                {
+                    "key": "Healthy Connecticut",
+                    "doc_count": 5
+                },
+                {
+                    "key": "PHP Northern IN",
+                    "doc_count": 5
+                },
+                {
+                    "key": "SummaCare",
+                    "doc_count": 5
+                },
+                {
+                    "key": "WPS",
+                    "doc_count": 5
+                },
+                {
+                    "key": "Altius",
+                    "doc_count": 4
+                },
+                {
+                    "key": "BCBS Kansas City",
+                    "doc_count": 4
+                },
+                {
+                    "key": "BCBS Minnesota",
+                    "doc_count": 4
+                },
+                {
+                    "key": "Common Ground",
+                    "doc_count": 4
+                },
+                {
+                    "key": "HAP",
+                    "doc_count": 4
+                },
+                {
+                    "key": "Molina Healthcare",
+                    "doc_count": 4
+                },
+                {
+                    "key": "PacificSource",
+                    "doc_count": 4
+                },
+                {
+                    "key": "SelectHealth",
+                    "doc_count": 4
+                },
+                {
+                    "key": "BCBS Tennessee",
+                    "doc_count": 3
+                },
+                {
+                    "key": "Providence Health System",
+                    "doc_count": 3
+                },
+                {
+                    "key": "The Health Plan of Upper OH",
+                    "doc_count": 3
+                },
+                {
+                    "key": "BCBS Alabama",
+                    "doc_count": 2
+                },
+                {
+                    "key": "BCBS New Mexico",
+                    "doc_count": 2
+                },
+                {
+                    "key": "HealthPartners - MN",
+                    "doc_count": 2
+                },
+                {
+                    "key": "Indiana University",
+                    "doc_count": 2
+                },
+                {
+                    "key": "Preferred One",
+                    "doc_count": 2
+                },
+                {
+                    "key": "Presbyterian",
+                    "doc_count": 2
+                },
+                {
+                    "key": "Aultcare",
+                    "doc_count": 1
+                },
+                {
+                    "key": "BCBS Louisiana",
+                    "doc_count": 1
+                },
+                {
+                    "key": "BCBS Oklahoma",
+                    "doc_count": 1
+                },
+                {
+                    "key": "FirstCare",
+                    "doc_count": 1
+                },
+                {
+                    "key": "FrontPath Health Coalition",
+                    "doc_count": 1
+                },
+                {
+                    "key": "Group Health Coop",
+                    "doc_count": 1
+                },
+                {
+                    "key": "Gundersen Health Plan",
+                    "doc_count": 1
+                },
+                {
+                    "key": "Health Plan of Nevada",
+                    "doc_count": 1
+                },
+                {
+                    "key": "Kaiser - MidAtlantic",
+                    "doc_count": 1
+                },
+                {
+                    "key": "LA Care Health",
+                    "doc_count": 1
+                },
+                {
+                    "key": "Network Health Plan",
+                    "doc_count": 1
+                },
+                {
+                    "key": "One Health Network",
+                    "doc_count": 1
+                },
+                {
+                    "key": "Paramount",
+                    "doc_count": 1
+                },
+                {
+                    "key": "Qualchoice",
+                    "doc_count": 1
+                },
+                {
+                    "key": "Scion Dental",
+                    "doc_count": 1
+                },
+                {
+                    "key": "Sierra Health",
+                    "doc_count": 1
+                }
+            ]
+        },
+        "ratings": {
+            "buckets": [
+                {
+                    "key": "any",
+                    "doc_count": 9616
+                },
+                {
+                    "key": "3",
+                    "from": 3,
+                    "doc_count": 6688
+                },
+                {
+                    "key": "4",
+                    "from": 4,
+                    "doc_count": 4779
+                },
+                {
+                    "key": "5",
+                    "from": 5,
+                    "doc_count": 1531
+                }
+            ]
+        },
+        "experience_range": {
+            "buckets": [
+                {
+                    "key": "Any",
+                    "doc_count": 9616
+                },
+                {
+                    "key": "0 - 5",
+                    "from": 0,
+                    "to": 6,
+                    "doc_count": 0
+                },
+                {
+                    "key": "5 - 10",
+                    "from": 5,
+                    "to": 11,
+                    "doc_count": 608
+                },
+                {
+                    "key": "11 - 15",
+                    "from": 11,
+                    "to": 16,
+                    "doc_count": 921
+                },
+                {
+                    "key": "16 - 20",
+                    "from": 16,
+                    "to": 21,
+                    "doc_count": 1028
+                },
+                {
+                    "key": "21 - 25",
+                    "from": 21,
+                    "to": 26,
+                    "doc_count": 883
+                },
+                {
+                    "key": "26 - 30",
+                    "from": 26,
+                    "to": 31,
+                    "doc_count": 760
+                },
+                {
+                    "key": "30+",
+                    "from": 30,
+                    "doc_count": 2900
+                }
+            ]
+        }
+    },
+    "status": 200,
+    "distanceLimitedNothingFound": false,
+    "query": "",
+    "radiusUsed": 25,
+    "reqNo": "1",
+    "sponsors": [
+        {
+            "campaign_name": "webmd_ep",
+            "targeting": {
+                "locations": [
+                    {
+                        "city_state": "Philadelphia, PA",
+                        "geopoint": [
+                            [
+                                -75.160429,
+                                39.94866
+                            ]
+                        ]
+                    }
+                ],
+                "sponsor_id": "xx"
+            },
+            "search": {
+                "search_city_state": "Philadelphia, PA",
+                "search_specialties": "General Dentistry",
+                "locations": [
+                    {
+                        "city_state": "Philadelphia, PA",
+                        "geopoint": [
+                            [
+                                -75.160429,
+                                39.94866
+                            ]
+                        ]
+                    }
+                ],
+                "display_name": "Shireen  Malik"
+            },
+            "npi": "1518135805",
+            "external_id": "D83325",
+            "campaign_features": [
+                {
+                    "feature_name": "serp",
+                    "feature_config": {
+                        "specialty": "General Dentistry",
+                        "webmdSpecialtyId": [
+                            29245
+                        ],
+                        "city_state": "Philadelphia, PA",
+                        "profile_url": "\/dentists\/Dr_Shireen_Malik",
+                        "type": "dentist",
+                        "display_name": "Shireen  Malik",
+                        "photos": {
+                            "host": null,
+                            "uri": null
+                        },
+                        "ctas": {
+                            "appointment_url": "https:\/\/appointments.webmd.com\/path\/wmd-path1\/61fbb52a-c844-4904-ad23-dcc296781461"
+                        },
+                        "degrees": [
+                            "DDS"
+                        ],
+                        "display_type": "Dentist",
+                        "vitalsSpecialtyId": [
+                            294,
+                            296,
+                            297,
+                            300,
+                            303,
+                            306,
+                            307
+                        ],
+                        "specialties": [
+                            "General Dentistry"
+                        ],
+                        "number_of_ratings": 13,
+                        "company_name": null,
+                        "overall_rating": 4.3076923076923075
+                    }
+                }
+            ],
+            "url": "\/dentists\/Dr_Shireen_Malik",
+            "city_state": "Philadelphia, PA",
+            "geopoint": [
+                [
+                    -75.160429,
+                    39.94866
+                ]
+            ],
+            "geo_points": [
+                -75.160429,
+                39.94866
+            ],
+            "distance": 0.3
+        },
+        {
+            "campaign_name": "webmd_ep",
+            "targeting": {
+                "locations": [
+                    {
+                        "city_state": "Philadelphia, PA",
+                        "geopoint": [
+                            [
+                                -75.1741,
+                                39.9527
+                            ]
+                        ]
+                    },
+                    {
+                        "city_state": "Upper Darby, PA",
+                        "geopoint": [
+                            [
+                                -75.2629,
+                                39.9591
+                            ]
+                        ]
+                    }
+                ],
+                "sponsor_id": "xx"
+            },
+            "search": {
+                "search_city_state": "Philadelphia, PA Upper Darby, PA",
+                "search_specialties": "Addiction Medicine Physical Medicine\/Rehab Spec",
+                "locations": [
+                    {
+                        "city_state": "Philadelphia, PA",
+                        "geopoint": [
+                            [
+                                -75.1741,
+                                39.9527
+                            ]
+                        ]
+                    },
+                    {
+                        "city_state": "Upper Darby, PA",
+                        "geopoint": [
+                            [
+                                -75.2629,
+                                39.9591
+                            ]
+                        ]
+                    }
+                ],
+                "display_name": "Denis A Boyle Jr"
+            },
+            "npi": "1205920287",
+            "external_id": "153875",
+            "campaign_features": [
+                {
+                    "feature_name": "serp",
+                    "feature_config": {
+                        "specialty": "Addiction Medicine",
+                        "webmdSpecialtyId": [
+                            29230,
+                            29309
+                        ],
+                        "city_state": "Philadelphia, PA",
+                        "profile_url": "\/doctors\/Dr_Denis_Boyle.html",
+                        "type": "doctor",
+                        "display_name": "Denis A Boyle Jr",
+                        "photos": {
+                            "host": null,
+                            "uri": null
+                        },
+                        "ctas": {
+                            "appointment_url": "https:\/\/appointments.webmd.com\/path\/wmd-path1\/fb31da85-feb0-4bf4-9dc3-01678cfc8276"
+                        },
+                        "degrees": [
+                            "MD"
+                        ],
+                        "display_type": "Doctor",
+                        "vitalsSpecialtyId": [
+                            5,
+                            23,
+                            31,
+                            141,
+                            124,
+                            126,
+                            127,
+                            2018
+                        ],
+                        "specialties": [
+                            "Addiction Medicine",
+                            "Physical Medicine\/Rehab Spec"
+                        ],
+                        "number_of_ratings": 4,
+                        "company_name": null,
+                        "overall_rating": 5
+                    }
+                }
+            ],
+            "url": "\/doctors\/Dr_Denis_Boyle.html",
+            "city_state": "Philadelphia, PA",
+            "geopoint": [
+                [
+                    -75.1741,
+                    39.9527
+                ]
+            ],
+            "geo_points": [
+                -75.1741,
+                39.9527
+            ],
+            "distance": 0.6
+        },
+        {
+            "campaign_name": "webmd_ep",
+            "targeting": {
+                "locations": [
+                    {
+                        "city_state": "Ridley Park, PA",
+                        "geopoint": [
+                            [
+                                -75.3212,
+                                39.8791
+                            ]
+                        ]
+                    }
+                ],
+                "sponsor_id": "xx"
+            },
+            "search": {
+                "search_city_state": "Ridley Park, PA",
+                "search_specialties": "Family Practitioner Internal Medicine",
+                "locations": [
+                    {
+                        "city_state": "Ridley Park, PA",
+                        "geopoint": [
+                            [
+                                -75.3212,
+                                39.8791
+                            ]
+                        ]
+                    }
+                ],
+                "display_name": "Neeraj Tripathy"
+            },
+            "npi": "1972660975",
+            "external_id": "6302324",
+            "campaign_features": [
+                {
+                    "feature_name": "serp",
+                    "feature_config": {
+                        "specialty": "Family Practitioner",
+                        "webmdSpecialtyId": [
+                            29259,
+                            29277
+                        ],
+                        "city_state": "Ridley Park, PA",
+                        "profile_url": "\/doctors\/Dr_Neeraj_Tripathy.html",
+                        "type": "doctor",
+                        "display_name": "Neeraj Tripathy",
+                        "photos": {
+                            "host": null,
+                            "uri": null
+                        },
+                        "ctas": {
+                            "appointment_url": "https:\/\/appointments.webmd.com\/path\/wmd-path1\/e5a7bcd3-e5c7-416a-b7ab-65f40d7e3015"
+                        },
+                        "degrees": [
+                            "MD"
+                        ],
+                        "display_type": "Doctor",
+                        "vitalsSpecialtyId": [
+                            22,
+                            25,
+                            26,
+                            479,
+                            667,
+                            30,
+                            36,
+                            42,
+                            672,
+                            2005
+                        ],
+                        "specialties": [
+                            "Family Practitioner",
+                            "Internal Medicine"
+                        ],
+                        "number_of_ratings": 12,
+                        "company_name": null,
+                        "overall_rating": 4.63888888888889
+                    }
+                }
+            ],
+            "url": "\/doctors\/Dr_Neeraj_Tripathy.html",
+            "city_state": "Ridley Park, PA",
+            "geopoint": [
+                [
+                    -75.3212,
+                    39.8791
+                ]
+            ],
+            "geo_points": [
+                -75.3212,
+                39.8791
+            ],
+            "distance": 9.7
+        }
+    ]
+}

@@ -1,0 +1,2124 @@
+{
+    "took": 105,
+    "timed_out": false,
+    "_shards": {
+        "total": 2,
+        "successful": 2,
+        "skipped": 0,
+        "failed": 0
+    },
+    "hits": {
+        "total": 9616,
+        "max_score": null,
+        "hits": [
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1pgg1y_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1pgg1y",
+                    "years_experience": 45,
+                    "city_state": "Abington, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Bruce C Berger",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1476504\/photo.jpg"
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Cardiovascular Disease",
+                        "Internal Medicine"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Bruce_C_Berger.html",
+                            "slug": "Dr_Bruce_C_Berger.html"
+                        }
+                    },
+                    "number_of_ratings": 2,
+                    "locations": [
+                        {
+                            "city_state": "Abington, PA",
+                            "city": "Abington",
+                            "address1": "1235 Old York Rd Ste 222",
+                            "_geoloc": {
+                                "lng": -75.11893,
+                                "lat": 40.11792
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 4.5,
+                    "url": "\/doctors\/Dr_Bruce_C_Berger.html",
+                    "slug": "Dr_Bruce_C_Berger.html"
+                },
+                "fields": {
+                    "distance": 11.731076817456264
+                },
+                "sort": [
+                    11.731654995235598
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1twqn1_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1twqn1",
+                    "years_experience": 44,
+                    "city_state": "Abington, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Richard A Goldstein",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1551118\/photo.jpg"
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Cardiovascular Disease",
+                        "Internal Medicine"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Richard_Goldstein.html",
+                            "slug": "Dr_Richard_Goldstein.html"
+                        }
+                    },
+                    "number_of_ratings": 15,
+                    "locations": [
+                        {
+                            "city_state": "Abington, PA",
+                            "city": "Abington",
+                            "address1": "1235 Old York Rd Ste 222",
+                            "_geoloc": {
+                                "lng": -75.11893,
+                                "lat": 40.11792
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 4.333333333333333,
+                    "url": "\/doctors\/Dr_Richard_Goldstein.html",
+                    "slug": "Dr_Richard_Goldstein.html"
+                },
+                "fields": {
+                    "distance": 11.731076817456264
+                },
+                "sort": [
+                    11.731654995235598
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1wjzz8_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1wjzz8",
+                    "city_state": "Abington, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Rajesh R Patel",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1510243\/photo.jpg"
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Diagnostic Radiology",
+                        "Pulmonary Disease",
+                        "Sleep Medicine"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Rajesh_R_Patel.html",
+                            "slug": "Dr_Rajesh_R_Patel.html"
+                        }
+                    },
+                    "number_of_ratings": 4,
+                    "locations": [
+                        {
+                            "city_state": "Abington, PA",
+                            "city": "Abington",
+                            "address1": "1235 Old York Rd Ste 121",
+                            "_geoloc": {
+                                "lng": -75.11893,
+                                "lat": 40.11792
+                            },
+                            "state": "PA"
+                        },
+                        {
+                            "city_state": "Blue Bell, PA",
+                            "city": "Blue Bell",
+                            "address1": "686 Dekalb Pike Ste 201",
+                            "_geoloc": {
+                                "lng": -75.28468,
+                                "lat": 40.170741
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 5,
+                    "url": "\/doctors\/Dr_Rajesh_R_Patel.html",
+                    "slug": "Dr_Rajesh_R_Patel.html"
+                },
+                "fields": {
+                    "distance": 11.731076817456264
+                },
+                "sort": [
+                    11.731654995235598
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1tmg4x_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1tmg4x",
+                    "years_experience": 38,
+                    "city_state": "Abington, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Charles D Gottlieb",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1595095\/photo.jpg"
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Cardiovascular Disease",
+                        "Clinical Cardiac Electrophysiology"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Charles_Gottlieb.html",
+                            "slug": "Dr_Charles_Gottlieb.html"
+                        }
+                    },
+                    "number_of_ratings": 18,
+                    "locations": [
+                        {
+                            "city_state": "Abington, PA",
+                            "city": "Abington",
+                            "address1": "1235 Old York Rd Ste 222",
+                            "_geoloc": {
+                                "lng": -75.11893,
+                                "lat": 40.11792
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 5,
+                    "url": "\/doctors\/Dr_Charles_Gottlieb.html",
+                    "slug": "Dr_Charles_Gottlieb.html"
+                },
+                "fields": {
+                    "distance": 11.731076817456264
+                },
+                "sort": [
+                    11.731654995235598
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1tbzwm_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1tbzwm",
+                    "years_experience": 32,
+                    "city_state": "Abington, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Yasushi F Shibutani",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1958980\/photo.jpg"
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Urology"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Yasushi_Shibutani.html",
+                            "slug": "Dr_Yasushi_Shibutani.html"
+                        }
+                    },
+                    "number_of_ratings": 18,
+                    "locations": [
+                        {
+                            "city_state": "Abington, PA",
+                            "city": "Abington",
+                            "address1": "1235 Old York Rd Ste 210",
+                            "_geoloc": {
+                                "lng": -75.11893,
+                                "lat": 40.11792
+                            },
+                            "state": "PA"
+                        },
+                        {
+                            "city_state": "Huntingdon Valley, PA",
+                            "city": "Huntingdon Valley",
+                            "address1": "1800 Byberry Rd Ste 1203",
+                            "_geoloc": {
+                                "lng": -75.075543,
+                                "lat": 40.154875
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 4.074074074074074,
+                    "url": "\/doctors\/Dr_Yasushi_Shibutani.html",
+                    "slug": "Dr_Yasushi_Shibutani.html"
+                },
+                "fields": {
+                    "distance": 11.731076817456264
+                },
+                "sort": [
+                    11.731654995235598
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1r19sh_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1r19sh",
+                    "city_state": "Abington, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. George R Green",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1539105\/photo.jpg"
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Allergy and Immunology",
+                        "Internal Medicine"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_George_R_Green.html",
+                            "slug": "Dr_George_R_Green.html"
+                        }
+                    },
+                    "number_of_ratings": 1,
+                    "locations": [
+                        {
+                            "city_state": "Abington, PA",
+                            "city": "Abington",
+                            "address1": "1235 Old York Rd Ste 222",
+                            "_geoloc": {
+                                "lng": -75.11893,
+                                "lat": 40.11792
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 5,
+                    "url": "\/doctors\/Dr_George_R_Green.html",
+                    "slug": "Dr_George_R_Green.html"
+                },
+                "fields": {
+                    "distance": 11.731076817456264
+                },
+                "sort": [
+                    11.731654995235598
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1x2ytp_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1x2ytp",
+                    "years_experience": 17,
+                    "city_state": "Abington, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Ankur G Shah",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1591000\/photo.jpg"
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Internal Medicine"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Ankur_G_Shah.html",
+                            "slug": "Dr_Ankur_G_Shah.html"
+                        }
+                    },
+                    "number_of_ratings": 11,
+                    "locations": [
+                        {
+                            "city_state": "Abington, PA",
+                            "city": "Abington",
+                            "address1": "1235 Old York Rd Ste 113",
+                            "_geoloc": {
+                                "lng": -75.11893,
+                                "lat": 40.11792
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 2.4545454545454546,
+                    "url": "\/doctors\/Dr_Ankur_G_Shah.html",
+                    "slug": "Dr_Ankur_G_Shah.html"
+                },
+                "fields": {
+                    "distance": 11.731076817456264
+                },
+                "sort": [
+                    11.731654995235598
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1wyz1y_doctor",
+                "_score": null,
+                "_source": {
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Infectious Disease",
+                        "Internal Medicine"
+                    ],
+                    "vpid": "1wyz1y",
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Joseph_Hassey.html",
+                            "slug": "Dr_Joseph_Hassey.html"
+                        }
+                    },
+                    "years_experience": 28,
+                    "city_state": "Abington, PA",
+                    "degree": "MD",
+                    "locations": [
+                        {
+                            "city_state": "Abington, PA",
+                            "city": "Abington",
+                            "address1": "1235 Old York Rd Ste 220",
+                            "_geoloc": {
+                                "lng": -75.11893,
+                                "lat": 40.11792
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "type": "doctor",
+                    "display_name": "Dr. Joseph A Hassey",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1709111\/photo.jpg"
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "url": "\/doctors\/Dr_Joseph_Hassey.html",
+                    "slug": "Dr_Joseph_Hassey.html"
+                },
+                "fields": {
+                    "distance": 11.731076817456264
+                },
+                "sort": [
+                    11.731654995235598
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1q0893_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1q0893",
+                    "years_experience": 24,
+                    "city_state": "Abington, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. James W Mahoney",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1548530\/photo.jpg"
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Internal Medicine"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_James_W_Mahoney.html",
+                            "slug": "Dr_James_W_Mahoney.html"
+                        }
+                    },
+                    "number_of_ratings": 15,
+                    "locations": [
+                        {
+                            "city_state": "Abington, PA",
+                            "city": "Abington",
+                            "address1": "1235 Old York Rd Ste 113",
+                            "_geoloc": {
+                                "lng": -75.11893,
+                                "lat": 40.11792
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 4.222222222222221,
+                    "url": "\/doctors\/Dr_James_W_Mahoney.html",
+                    "slug": "Dr_James_W_Mahoney.html"
+                },
+                "fields": {
+                    "distance": 11.731076817456264
+                },
+                "sort": [
+                    11.731654995235598
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1p4rg0_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1p4rg0",
+                    "years_experience": 15,
+                    "city_state": "Abington, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Anne C Tenthoff",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1516550\/photo.jpg"
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Hospice and Palliative Medicine",
+                        "Family Medicine"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Anne_Wiedemann.html",
+                            "slug": "Dr_Anne_Wiedemann.html"
+                        }
+                    },
+                    "number_of_ratings": 52,
+                    "locations": [
+                        {
+                            "city_state": "Willow Grove, PA",
+                            "city": "Willow Grove",
+                            "address1": "221 Davisville Rd",
+                            "_geoloc": {
+                                "lng": -75.113076,
+                                "lat": 40.144066
+                            },
+                            "state": "PA"
+                        },
+                        {
+                            "city_state": "Abington, PA",
+                            "city": "Abington",
+                            "address1": "1235 Old York Rd Ste 210",
+                            "_geoloc": {
+                                "lng": -75.11893,
+                                "lat": 40.11792
+                            },
+                            "state": "PA"
+                        },
+                        {
+                            "city_state": "Abington, PA",
+                            "city": "Abington",
+                            "address1": "1235 Old York Rd Ste 210",
+                            "_geoloc": {
+                                "lng": -75.11893,
+                                "lat": 40.11792
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 4.243589743589744,
+                    "url": "\/doctors\/Dr_Anne_Wiedemann.html",
+                    "slug": "Dr_Anne_Wiedemann.html"
+                },
+                "fields": {
+                    "distance": 11.731076817456264
+                },
+                "sort": [
+                    11.731654995235598
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1rhr6k_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1rhr6k",
+                    "years_experience": 17,
+                    "city_state": "Abington, PA",
+                    "degree": "DO",
+                    "type": "doctor",
+                    "display_name": "Dr. Michelle S Gorbos-Spina",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1701740\/photo.jpg"
+                        }
+                    },
+                    "degrees": [
+                        "DO"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Internal Medicine"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Michelle_Gorbos-Spina.html",
+                            "slug": "Dr_Michelle_Gorbos-Spina.html"
+                        }
+                    },
+                    "number_of_ratings": 9,
+                    "locations": [
+                        {
+                            "city_state": "Abington, PA",
+                            "city": "Abington",
+                            "address1": "1235 Old York Rd Ste 113",
+                            "_geoloc": {
+                                "lng": -75.11893,
+                                "lat": 40.11792
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 4.037037037037038,
+                    "url": "\/doctors\/Dr_Michelle_Gorbos-Spina.html",
+                    "slug": "Dr_Michelle_Gorbos-Spina.html"
+                },
+                "fields": {
+                    "distance": 11.731076817456264
+                },
+                "sort": [
+                    11.731654995235598
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1s6hjr_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1s6hjr",
+                    "years_experience": 28,
+                    "city_state": "Abington, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Steven J Hirshberg",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1958975\/photo.jpg"
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Urology"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Steren_Hirshberg.html",
+                            "slug": "Dr_Steren_Hirshberg.html"
+                        }
+                    },
+                    "number_of_ratings": 14,
+                    "locations": [
+                        {
+                            "city_state": "Abington, PA",
+                            "city": "Abington",
+                            "address1": "1235 Old York Rd Ste 210",
+                            "_geoloc": {
+                                "lng": -75.11893,
+                                "lat": 40.11792
+                            },
+                            "state": "PA"
+                        },
+                        {
+                            "city_state": "Huntingdon Valley, PA",
+                            "city": "Huntingdon Valley",
+                            "address1": "1800 Byberry Rd",
+                            "_geoloc": {
+                                "lng": -75.075543,
+                                "lat": 40.154875
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 3.8095238095238093,
+                    "url": "\/doctors\/Dr_Steren_Hirshberg.html",
+                    "slug": "Dr_Steren_Hirshberg.html"
+                },
+                "fields": {
+                    "distance": 11.731076817456264
+                },
+                "sort": [
+                    11.731654995235598
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1w9bft_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1w9bft",
+                    "years_experience": 22,
+                    "city_state": "Abington, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Adam M Cohen",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1480846\/photo.jpg"
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Cardiovascular Disease",
+                        "Internal Medicine"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Adam_M_Cohen.html",
+                            "slug": "Dr_Adam_M_Cohen.html"
+                        }
+                    },
+                    "number_of_ratings": 10,
+                    "locations": [
+                        {
+                            "city_state": "Abington, PA",
+                            "city": "Abington",
+                            "address1": "1235 Old York Rd Ste 222",
+                            "_geoloc": {
+                                "lng": -75.11893,
+                                "lat": 40.11792
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 4.866666666666667,
+                    "url": "\/doctors\/Dr_Adam_M_Cohen.html",
+                    "slug": "Dr_Adam_M_Cohen.html"
+                },
+                "fields": {
+                    "distance": 11.731076817456264
+                },
+                "sort": [
+                    11.731654995235598
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1qxy20_doctor",
+                "_score": null,
+                "_source": {
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Infectious Disease",
+                        "Internal Medicine"
+                    ],
+                    "vpid": "1qxy20",
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Jaclyn_Baker.html",
+                            "slug": "Dr_Jaclyn_Baker.html"
+                        }
+                    },
+                    "years_experience": 16,
+                    "city_state": "Abington, PA",
+                    "degree": "MD",
+                    "locations": [
+                        {
+                            "city_state": "Abington, PA",
+                            "city": "Abington",
+                            "address1": "1235 Old York Rd Ste 220",
+                            "_geoloc": {
+                                "lng": -75.11893,
+                                "lat": 40.11792
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "type": "doctor",
+                    "display_name": "Dr. Jaclyn A Rosenzweig",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1690169\/photo.jpg"
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "url": "\/doctors\/Dr_Jaclyn_Baker.html",
+                    "slug": "Dr_Jaclyn_Baker.html"
+                },
+                "fields": {
+                    "distance": 11.731076817456264
+                },
+                "sort": [
+                    11.731654995235598
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1sf893_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1sf893",
+                    "years_experience": 22,
+                    "city_state": "Abington, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Soo Y Kim",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1922653\/photo.jpg"
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Surgery"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Soo_Y_Kim_2.html",
+                            "slug": "Dr_Soo_Y_Kim_2.html"
+                        }
+                    },
+                    "number_of_ratings": 22,
+                    "locations": [
+                        {
+                            "city_state": "Abington, PA",
+                            "city": "Abington",
+                            "address1": "1235 Old York Rd Ste G20",
+                            "_geoloc": {
+                                "lng": -75.11893,
+                                "lat": 40.11792
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 4.303030303030304,
+                    "url": "\/doctors\/Dr_Soo_Y_Kim_2.html",
+                    "slug": "Dr_Soo_Y_Kim_2.html"
+                },
+                "fields": {
+                    "distance": 11.731076817456264
+                },
+                "sort": [
+                    11.731654995235598
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1wsr85_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1wsr85",
+                    "years_experience": 24,
+                    "city_state": "Abington, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Steven A Fassler",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1508470\/photo.jpg"
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Surgery",
+                        "Colon and Rectal Surgery"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Steven_Fassler.html",
+                            "slug": "Dr_Steven_Fassler.html"
+                        }
+                    },
+                    "number_of_ratings": 55,
+                    "locations": [
+                        {
+                            "city_state": "Abington, PA",
+                            "city": "Abington",
+                            "address1": "1235 Old York Rd Ste G20",
+                            "_geoloc": {
+                                "lng": -75.11893,
+                                "lat": 40.11792
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 4.503030303030303,
+                    "url": "\/doctors\/Dr_Steven_Fassler.html",
+                    "slug": "Dr_Steven_Fassler.html"
+                },
+                "fields": {
+                    "distance": 11.731076817456264
+                },
+                "sort": [
+                    11.731654995235598
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1p56s2_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1p56s2",
+                    "years_experience": 31,
+                    "city_state": "Abington, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Andrew S Fireman",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1578636\/photo.jpg"
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Cardiovascular Disease",
+                        "Internal Medicine"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Andrew_Fireman.html",
+                            "slug": "Dr_Andrew_Fireman.html"
+                        }
+                    },
+                    "number_of_ratings": 25,
+                    "locations": [
+                        {
+                            "city_state": "Abington, PA",
+                            "city": "Abington",
+                            "address1": "1235 Old York Rd Ste 222",
+                            "_geoloc": {
+                                "lng": -75.11893,
+                                "lat": 40.11792
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 4.6,
+                    "url": "\/doctors\/Dr_Andrew_Fireman.html",
+                    "slug": "Dr_Andrew_Fireman.html"
+                },
+                "fields": {
+                    "distance": 11.731076817456264
+                },
+                "sort": [
+                    11.731654995235598
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1qtz5g_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1qtz5g",
+                    "years_experience": 37,
+                    "city_state": "Abington, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Robert A Watson III",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1538819\/photo.jpg"
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Cardiovascular Disease",
+                        "Internal Medicine"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Robert_A_Watson_2.html",
+                            "slug": "Dr_Robert_A_Watson_2.html"
+                        }
+                    },
+                    "number_of_ratings": 19,
+                    "locations": [
+                        {
+                            "city_state": "Abington, PA",
+                            "city": "Abington",
+                            "address1": "1235 Old York Rd Ste 222",
+                            "_geoloc": {
+                                "lng": -75.11893,
+                                "lat": 40.11792
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 4.877192982456141,
+                    "url": "\/doctors\/Dr_Robert_A_Watson_2.html",
+                    "slug": "Dr_Robert_A_Watson_2.html"
+                },
+                "fields": {
+                    "distance": 11.731076817456264
+                },
+                "sort": [
+                    11.731654995235598
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1pb65c_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1pb65c",
+                    "city_state": "Abington, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Frank J Craparo",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1491891\/photo.jpg"
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Obstetrics and Gynecology",
+                        "Maternal and Fetal Medicine"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Frank_Craparo.html",
+                            "slug": "Dr_Frank_Craparo.html"
+                        }
+                    },
+                    "number_of_ratings": 9,
+                    "locations": [
+                        {
+                            "city_state": "Abington, PA",
+                            "city": "Abington",
+                            "address1": "1235 Old York Rd Ste 119",
+                            "_geoloc": {
+                                "lng": -75.11893,
+                                "lat": 40.11792
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 4.259259259259259,
+                    "url": "\/doctors\/Dr_Frank_Craparo.html",
+                    "slug": "Dr_Frank_Craparo.html"
+                },
+                "fields": {
+                    "distance": 11.731076817456264
+                },
+                "sort": [
+                    11.731654995235598
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1nmb96_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1nmb96",
+                    "years_experience": 30,
+                    "city_state": "Abington, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. David M Zebley",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Surgery",
+                        "Colon and Rectal Surgery"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Mark_Zebley.html",
+                            "slug": "Dr_Mark_Zebley.html"
+                        }
+                    },
+                    "number_of_ratings": 25,
+                    "locations": [
+                        {
+                            "city_state": "Abington, PA",
+                            "city": "Abington",
+                            "address1": "1235 Old York Rd Ste G20",
+                            "_geoloc": {
+                                "lng": -75.11893,
+                                "lat": 40.11792
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 3.306666666666668,
+                    "url": "\/doctors\/Dr_Mark_Zebley.html",
+                    "slug": "Dr_Mark_Zebley.html"
+                },
+                "fields": {
+                    "distance": 11.731076817456264
+                },
+                "sort": [
+                    11.731654995235598
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1w9s0d_doctor",
+                "_score": null,
+                "_source": {
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Infectious Disease",
+                        "Internal Medicine"
+                    ],
+                    "vpid": "1w9s0d",
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Maureen_Cassin.html",
+                            "slug": "Dr_Maureen_Cassin.html"
+                        }
+                    },
+                    "city_state": "Abington, PA",
+                    "degree": "MD",
+                    "locations": [
+                        {
+                            "city_state": "Abington, PA",
+                            "city": "Abington",
+                            "address1": "1235 Old York Rd Ste 220",
+                            "_geoloc": {
+                                "lng": -75.11893,
+                                "lat": 40.11792
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "type": "doctor",
+                    "display_name": "Dr. Maureen Cassin",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1674833\/photo.jpg"
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "url": "\/doctors\/Dr_Maureen_Cassin.html",
+                    "slug": "Dr_Maureen_Cassin.html"
+                },
+                "fields": {
+                    "distance": 11.731076817456264
+                },
+                "sort": [
+                    11.731654995235598
+                ]
+            }
+        ]
+    },
+    "aggregations": {
+        "satisfaction.accurate_diagnosis": {
+            "buckets": {
+                "good": {
+                    "from": 3.5,
+                    "doc_count": 0
+                }
+            }
+        },
+        "overall_range": {
+            "doc_count": 7275
+        },
+        "satisfaction.bedside_manner": {
+            "buckets": {
+                "good": {
+                    "from": 3.5,
+                    "doc_count": 0
+                }
+            }
+        },
+        "satisfaction.punctuality": {
+            "buckets": {
+                "good": {
+                    "from": 3.5,
+                    "doc_count": 0
+                }
+            }
+        },
+        "display_types": {
+            "doc_count_error_upper_bound": 0,
+            "sum_other_doc_count": 0,
+            "buckets": [
+                {
+                    "key": "Doctor",
+                    "doc_count": 9616
+                },
+                {
+                    "key": "Group Practice",
+                    "doc_count": 680
+                },
+                {
+                    "key": "Chiropractor",
+                    "doc_count": 371
+                },
+                {
+                    "key": "Podiatrist",
+                    "doc_count": 310
+                },
+                {
+                    "key": "Optometrist",
+                    "doc_count": 292
+                },
+                {
+                    "key": "Psychologist",
+                    "doc_count": 279
+                },
+                {
+                    "key": "Dentist",
+                    "doc_count": 60
+                },
+                {
+                    "key": "Hospital",
+                    "doc_count": 26
+                },
+                {
+                    "key": "Nursing Home",
+                    "doc_count": 2
+                },
+                {
+                    "key": "Cancer Center",
+                    "doc_count": 1
+                },
+                {
+                    "key": "Pharmacy",
+                    "doc_count": 1
+                }
+            ]
+        },
+        "insurance_companies": {
+            "doc_count_error_upper_bound": 0,
+            "sum_other_doc_count": 0,
+            "buckets": [
+                {
+                    "key": "Aetna",
+                    "doc_count": 11304
+                },
+                {
+                    "key": "United Healthcare",
+                    "doc_count": 10301
+                },
+                {
+                    "key": "BCBS Blue Card",
+                    "doc_count": 9724
+                },
+                {
+                    "key": "IBC",
+                    "doc_count": 9616
+                },
+                {
+                    "key": "Cigna",
+                    "doc_count": 8995
+                },
+                {
+                    "key": "Coventry Health Care",
+                    "doc_count": 8567
+                },
+                {
+                    "key": "Multiplan",
+                    "doc_count": 7792
+                },
+                {
+                    "key": "Humana",
+                    "doc_count": 5854
+                },
+                {
+                    "key": "Capital Blue Cross",
+                    "doc_count": 5649
+                },
+                {
+                    "key": "Horizon BCBS",
+                    "doc_count": 5553
+                },
+                {
+                    "key": "First Health",
+                    "doc_count": 5330
+                },
+                {
+                    "key": "QualCare",
+                    "doc_count": 4110
+                },
+                {
+                    "key": "Geisinger Health Plan",
+                    "doc_count": 2742
+                },
+                {
+                    "key": "Oxford Health",
+                    "doc_count": 1840
+                },
+                {
+                    "key": "HIP of NY",
+                    "doc_count": 1484
+                },
+                {
+                    "key": "UPMC Health Plan",
+                    "doc_count": 320
+                },
+                {
+                    "key": "CareFirst BCBS",
+                    "doc_count": 288
+                },
+                {
+                    "key": "Highmark BCBS",
+                    "doc_count": 265
+                },
+                {
+                    "key": "Empire BCBS",
+                    "doc_count": 140
+                },
+                {
+                    "key": "Anthem",
+                    "doc_count": 115
+                },
+                {
+                    "key": "Capital District Physicians Health Plan",
+                    "doc_count": 104
+                },
+                {
+                    "key": "BCBS Massachusetts",
+                    "doc_count": 90
+                },
+                {
+                    "key": "Connecticare",
+                    "doc_count": 69
+                },
+                {
+                    "key": "BCBS Illinois",
+                    "doc_count": 62
+                },
+                {
+                    "key": "Assurant",
+                    "doc_count": 56
+                },
+                {
+                    "key": "Guardian Dental",
+                    "doc_count": 55
+                },
+                {
+                    "key": "Principal Dental",
+                    "doc_count": 53
+                },
+                {
+                    "key": "Cigna Dental",
+                    "doc_count": 51
+                },
+                {
+                    "key": "Delta Dental",
+                    "doc_count": 51
+                },
+                {
+                    "key": "United Concordia",
+                    "doc_count": 51
+                },
+                {
+                    "key": "Ameritas",
+                    "doc_count": 49
+                },
+                {
+                    "key": "Dental Network of America",
+                    "doc_count": 49
+                },
+                {
+                    "key": "MetLife",
+                    "doc_count": 47
+                },
+                {
+                    "key": "DenteMax",
+                    "doc_count": 44
+                },
+                {
+                    "key": "MVP Health Plan",
+                    "doc_count": 44
+                },
+                {
+                    "key": "United Healthcare Dental",
+                    "doc_count": 44
+                },
+                {
+                    "key": "CompBenefits",
+                    "doc_count": 39
+                },
+                {
+                    "key": "Harvard Pilgrim",
+                    "doc_count": 39
+                },
+                {
+                    "key": "Humana Dental",
+                    "doc_count": 38
+                },
+                {
+                    "key": "HealthFirst NY",
+                    "doc_count": 36
+                },
+                {
+                    "key": "Blue Cross California",
+                    "doc_count": 31
+                },
+                {
+                    "key": "BCBS Florida",
+                    "doc_count": 28
+                },
+                {
+                    "key": "Medical Mutual of Ohio",
+                    "doc_count": 28
+                },
+                {
+                    "key": "Health Net",
+                    "doc_count": 26
+                },
+                {
+                    "key": "Tufts Health Plan",
+                    "doc_count": 26
+                },
+                {
+                    "key": "Emblem Health",
+                    "doc_count": 23
+                },
+                {
+                    "key": "Excellus BCBS",
+                    "doc_count": 23
+                },
+                {
+                    "key": "AvMed Health",
+                    "doc_count": 17
+                },
+                {
+                    "key": "Regence Health Plans",
+                    "doc_count": 17
+                },
+                {
+                    "key": "Sagamore Health",
+                    "doc_count": 17
+                },
+                {
+                    "key": "UHC of the River Valley",
+                    "doc_count": 17
+                },
+                {
+                    "key": "Blue Shield California",
+                    "doc_count": 16
+                },
+                {
+                    "key": "ODS",
+                    "doc_count": 14
+                },
+                {
+                    "key": "Premera",
+                    "doc_count": 14
+                },
+                {
+                    "key": "Independent Health",
+                    "doc_count": 13
+                },
+                {
+                    "key": "BCBS Texas",
+                    "doc_count": 12
+                },
+                {
+                    "key": "SIHO Insurance Services",
+                    "doc_count": 12
+                },
+                {
+                    "key": "HealthSpan",
+                    "doc_count": 11
+                },
+                {
+                    "key": "BCBS North Carolina",
+                    "doc_count": 10
+                },
+                {
+                    "key": "Optima Health",
+                    "doc_count": 10
+                },
+                {
+                    "key": "BCBS Georgia",
+                    "doc_count": 9
+                },
+                {
+                    "key": "Centene",
+                    "doc_count": 9
+                },
+                {
+                    "key": "HealthLink",
+                    "doc_count": 9
+                },
+                {
+                    "key": "BCBS Michigan",
+                    "doc_count": 8
+                },
+                {
+                    "key": "Encore Health Network",
+                    "doc_count": 8
+                },
+                {
+                    "key": "Ambetter Superior Health Plan",
+                    "doc_count": 7
+                },
+                {
+                    "key": "BCBS Rhode Island",
+                    "doc_count": 7
+                },
+                {
+                    "key": "PriorityHealth",
+                    "doc_count": 7
+                },
+                {
+                    "key": "Aetna Innovation Health",
+                    "doc_count": 6
+                },
+                {
+                    "key": "Health Alliance",
+                    "doc_count": 6
+                },
+                {
+                    "key": "Premier Health Plan",
+                    "doc_count": 6
+                },
+                {
+                    "key": "Wellmark",
+                    "doc_count": 6
+                },
+                {
+                    "key": "BCBS South Carolina",
+                    "doc_count": 5
+                },
+                {
+                    "key": "Healthy Connecticut",
+                    "doc_count": 5
+                },
+                {
+                    "key": "PHP Northern IN",
+                    "doc_count": 5
+                },
+                {
+                    "key": "SummaCare",
+                    "doc_count": 5
+                },
+                {
+                    "key": "WPS",
+                    "doc_count": 5
+                },
+                {
+                    "key": "Altius",
+                    "doc_count": 4
+                },
+                {
+                    "key": "BCBS Kansas City",
+                    "doc_count": 4
+                },
+                {
+                    "key": "BCBS Minnesota",
+                    "doc_count": 4
+                },
+                {
+                    "key": "Common Ground",
+                    "doc_count": 4
+                },
+                {
+                    "key": "HAP",
+                    "doc_count": 4
+                },
+                {
+                    "key": "Molina Healthcare",
+                    "doc_count": 4
+                },
+                {
+                    "key": "PacificSource",
+                    "doc_count": 4
+                },
+                {
+                    "key": "SelectHealth",
+                    "doc_count": 4
+                },
+                {
+                    "key": "BCBS Tennessee",
+                    "doc_count": 3
+                },
+                {
+                    "key": "Providence Health System",
+                    "doc_count": 3
+                },
+                {
+                    "key": "The Health Plan of Upper OH",
+                    "doc_count": 3
+                },
+                {
+                    "key": "BCBS Alabama",
+                    "doc_count": 2
+                },
+                {
+                    "key": "BCBS New Mexico",
+                    "doc_count": 2
+                },
+                {
+                    "key": "HealthPartners - MN",
+                    "doc_count": 2
+                },
+                {
+                    "key": "Indiana University",
+                    "doc_count": 2
+                },
+                {
+                    "key": "Preferred One",
+                    "doc_count": 2
+                },
+                {
+                    "key": "Presbyterian",
+                    "doc_count": 2
+                },
+                {
+                    "key": "Aultcare",
+                    "doc_count": 1
+                },
+                {
+                    "key": "BCBS Louisiana",
+                    "doc_count": 1
+                },
+                {
+                    "key": "BCBS Oklahoma",
+                    "doc_count": 1
+                },
+                {
+                    "key": "FirstCare",
+                    "doc_count": 1
+                },
+                {
+                    "key": "FrontPath Health Coalition",
+                    "doc_count": 1
+                },
+                {
+                    "key": "Group Health Coop",
+                    "doc_count": 1
+                },
+                {
+                    "key": "Gundersen Health Plan",
+                    "doc_count": 1
+                },
+                {
+                    "key": "Health Plan of Nevada",
+                    "doc_count": 1
+                },
+                {
+                    "key": "Kaiser - MidAtlantic",
+                    "doc_count": 1
+                },
+                {
+                    "key": "LA Care Health",
+                    "doc_count": 1
+                },
+                {
+                    "key": "Network Health Plan",
+                    "doc_count": 1
+                },
+                {
+                    "key": "One Health Network",
+                    "doc_count": 1
+                },
+                {
+                    "key": "Paramount",
+                    "doc_count": 1
+                },
+                {
+                    "key": "Qualchoice",
+                    "doc_count": 1
+                },
+                {
+                    "key": "Scion Dental",
+                    "doc_count": 1
+                },
+                {
+                    "key": "Sierra Health",
+                    "doc_count": 1
+                }
+            ]
+        },
+        "ratings": {
+            "buckets": [
+                {
+                    "key": "any",
+                    "doc_count": 9616
+                },
+                {
+                    "key": "3",
+                    "from": 3,
+                    "doc_count": 6688
+                },
+                {
+                    "key": "4",
+                    "from": 4,
+                    "doc_count": 4779
+                },
+                {
+                    "key": "5",
+                    "from": 5,
+                    "doc_count": 1531
+                }
+            ]
+        },
+        "experience_range": {
+            "buckets": [
+                {
+                    "key": "Any",
+                    "doc_count": 9616
+                },
+                {
+                    "key": "0 - 5",
+                    "from": 0,
+                    "to": 6,
+                    "doc_count": 0
+                },
+                {
+                    "key": "5 - 10",
+                    "from": 5,
+                    "to": 11,
+                    "doc_count": 608
+                },
+                {
+                    "key": "11 - 15",
+                    "from": 11,
+                    "to": 16,
+                    "doc_count": 921
+                },
+                {
+                    "key": "16 - 20",
+                    "from": 16,
+                    "to": 21,
+                    "doc_count": 1028
+                },
+                {
+                    "key": "21 - 25",
+                    "from": 21,
+                    "to": 26,
+                    "doc_count": 883
+                },
+                {
+                    "key": "26 - 30",
+                    "from": 26,
+                    "to": 31,
+                    "doc_count": 760
+                },
+                {
+                    "key": "30+",
+                    "from": 30,
+                    "doc_count": 2900
+                }
+            ]
+        }
+    },
+    "status": 200,
+    "distanceLimitedNothingFound": false,
+    "query": "",
+    "radiusUsed": 25,
+    "reqNo": "1",
+    "sponsors": [
+        {
+            "campaign_name": "webmd_ep",
+            "targeting": {
+                "locations": [
+                    {
+                        "city_state": "Philadelphia, PA",
+                        "geopoint": [
+                            [
+                                -75.160429,
+                                39.94866
+                            ]
+                        ]
+                    }
+                ],
+                "sponsor_id": "xx"
+            },
+            "search": {
+                "search_city_state": "Philadelphia, PA",
+                "search_specialties": "General Dentistry",
+                "locations": [
+                    {
+                        "city_state": "Philadelphia, PA",
+                        "geopoint": [
+                            [
+                                -75.160429,
+                                39.94866
+                            ]
+                        ]
+                    }
+                ],
+                "display_name": "Shireen  Malik"
+            },
+            "npi": "1518135805",
+            "external_id": "D83325",
+            "campaign_features": [
+                {
+                    "feature_name": "serp",
+                    "feature_config": {
+                        "specialty": "General Dentistry",
+                        "webmdSpecialtyId": [
+                            29245
+                        ],
+                        "city_state": "Philadelphia, PA",
+                        "profile_url": "\/dentists\/Dr_Shireen_Malik",
+                        "type": "dentist",
+                        "display_name": "Shireen  Malik",
+                        "photos": {
+                            "host": null,
+                            "uri": null
+                        },
+                        "ctas": {
+                            "appointment_url": "https:\/\/appointments.webmd.com\/path\/wmd-path1\/61fbb52a-c844-4904-ad23-dcc296781461"
+                        },
+                        "degrees": [
+                            "DDS"
+                        ],
+                        "display_type": "Dentist",
+                        "vitalsSpecialtyId": [
+                            294,
+                            296,
+                            297,
+                            300,
+                            303,
+                            306,
+                            307
+                        ],
+                        "specialties": [
+                            "General Dentistry"
+                        ],
+                        "number_of_ratings": 13,
+                        "company_name": null,
+                        "overall_rating": 4.3076923076923075
+                    }
+                }
+            ],
+            "url": "\/dentists\/Dr_Shireen_Malik",
+            "city_state": "Philadelphia, PA",
+            "geopoint": [
+                [
+                    -75.160429,
+                    39.94866
+                ]
+            ],
+            "geo_points": [
+                -75.160429,
+                39.94866
+            ],
+            "distance": 0.3
+        },
+        {
+            "campaign_name": "webmd_ep",
+            "targeting": {
+                "locations": [
+                    {
+                        "city_state": "Philadelphia, PA",
+                        "geopoint": [
+                            [
+                                -75.1741,
+                                39.9527
+                            ]
+                        ]
+                    },
+                    {
+                        "city_state": "Upper Darby, PA",
+                        "geopoint": [
+                            [
+                                -75.2629,
+                                39.9591
+                            ]
+                        ]
+                    }
+                ],
+                "sponsor_id": "xx"
+            },
+            "search": {
+                "search_city_state": "Philadelphia, PA Upper Darby, PA",
+                "search_specialties": "Addiction Medicine Physical Medicine\/Rehab Spec",
+                "locations": [
+                    {
+                        "city_state": "Philadelphia, PA",
+                        "geopoint": [
+                            [
+                                -75.1741,
+                                39.9527
+                            ]
+                        ]
+                    },
+                    {
+                        "city_state": "Upper Darby, PA",
+                        "geopoint": [
+                            [
+                                -75.2629,
+                                39.9591
+                            ]
+                        ]
+                    }
+                ],
+                "display_name": "Denis A Boyle Jr"
+            },
+            "npi": "1205920287",
+            "external_id": "153875",
+            "campaign_features": [
+                {
+                    "feature_name": "serp",
+                    "feature_config": {
+                        "specialty": "Addiction Medicine",
+                        "webmdSpecialtyId": [
+                            29230,
+                            29309
+                        ],
+                        "city_state": "Philadelphia, PA",
+                        "profile_url": "\/doctors\/Dr_Denis_Boyle.html",
+                        "type": "doctor",
+                        "display_name": "Denis A Boyle Jr",
+                        "photos": {
+                            "host": null,
+                            "uri": null
+                        },
+                        "ctas": {
+                            "appointment_url": "https:\/\/appointments.webmd.com\/path\/wmd-path1\/fb31da85-feb0-4bf4-9dc3-01678cfc8276"
+                        },
+                        "degrees": [
+                            "MD"
+                        ],
+                        "display_type": "Doctor",
+                        "vitalsSpecialtyId": [
+                            5,
+                            23,
+                            31,
+                            141,
+                            124,
+                            126,
+                            127,
+                            2018
+                        ],
+                        "specialties": [
+                            "Addiction Medicine",
+                            "Physical Medicine\/Rehab Spec"
+                        ],
+                        "number_of_ratings": 4,
+                        "company_name": null,
+                        "overall_rating": 5
+                    }
+                }
+            ],
+            "url": "\/doctors\/Dr_Denis_Boyle.html",
+            "city_state": "Philadelphia, PA",
+            "geopoint": [
+                [
+                    -75.1741,
+                    39.9527
+                ]
+            ],
+            "geo_points": [
+                -75.1741,
+                39.9527
+            ],
+            "distance": 0.6
+        },
+        {
+            "campaign_name": "webmd_ep",
+            "targeting": {
+                "locations": [
+                    {
+                        "city_state": "Ridley Park, PA",
+                        "geopoint": [
+                            [
+                                -75.3212,
+                                39.8791
+                            ]
+                        ]
+                    }
+                ],
+                "sponsor_id": "xx"
+            },
+            "search": {
+                "search_city_state": "Ridley Park, PA",
+                "search_specialties": "Family Practitioner Internal Medicine",
+                "locations": [
+                    {
+                        "city_state": "Ridley Park, PA",
+                        "geopoint": [
+                            [
+                                -75.3212,
+                                39.8791
+                            ]
+                        ]
+                    }
+                ],
+                "display_name": "Neeraj Tripathy"
+            },
+            "npi": "1972660975",
+            "external_id": "6302324",
+            "campaign_features": [
+                {
+                    "feature_name": "serp",
+                    "feature_config": {
+                        "specialty": "Family Practitioner",
+                        "webmdSpecialtyId": [
+                            29259,
+                            29277
+                        ],
+                        "city_state": "Ridley Park, PA",
+                        "profile_url": "\/doctors\/Dr_Neeraj_Tripathy.html",
+                        "type": "doctor",
+                        "display_name": "Neeraj Tripathy",
+                        "photos": {
+                            "host": null,
+                            "uri": null
+                        },
+                        "ctas": {
+                            "appointment_url": "https:\/\/appointments.webmd.com\/path\/wmd-path1\/e5a7bcd3-e5c7-416a-b7ab-65f40d7e3015"
+                        },
+                        "degrees": [
+                            "MD"
+                        ],
+                        "display_type": "Doctor",
+                        "vitalsSpecialtyId": [
+                            22,
+                            25,
+                            26,
+                            479,
+                            667,
+                            30,
+                            36,
+                            42,
+                            672,
+                            2005
+                        ],
+                        "specialties": [
+                            "Family Practitioner",
+                            "Internal Medicine"
+                        ],
+                        "number_of_ratings": 12,
+                        "company_name": null,
+                        "overall_rating": 4.63888888888889
+                    }
+                }
+            ],
+            "url": "\/doctors\/Dr_Neeraj_Tripathy.html",
+            "city_state": "Ridley Park, PA",
+            "geopoint": [
+                [
+                    -75.3212,
+                    39.8791
+                ]
+            ],
+            "geo_points": [
+                -75.3212,
+                39.8791
+            ],
+            "distance": 9.7
+        }
+    ]
+}

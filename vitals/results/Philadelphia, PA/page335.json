@@ -1,0 +1,2222 @@
+{
+    "took": 86,
+    "timed_out": false,
+    "_shards": {
+        "total": 2,
+        "successful": 2,
+        "skipped": 0,
+        "failed": 0
+    },
+    "hits": {
+        "total": 9616,
+        "max_score": null,
+        "hits": [
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1pm0dj_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1pm0dj",
+                    "city_state": "Philadelphia, PA",
+                    "degree": "DO",
+                    "type": "doctor",
+                    "display_name": "Dr. Leila K Karimpoor",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [
+                        "DO"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Internal Medicine"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Leila_Karimpoor.html",
+                            "slug": "Dr_Leila_Karimpoor.html"
+                        }
+                    },
+                    "number_of_ratings": 2,
+                    "locations": [
+                        {
+                            "city_state": "Philadelphia, PA",
+                            "city": "Philadelphia",
+                            "address1": "10800 Knights Rd",
+                            "_geoloc": {
+                                "lng": -74.98307,
+                                "lat": 40.07117
+                            },
+                            "state": "PA"
+                        },
+                        {
+                            "city_state": "Santa Monica, CA",
+                            "city": "Santa Monica",
+                            "address1": "2121 Santa Monica Blvd",
+                            "_geoloc": {
+                                "lng": -118.479324,
+                                "lat": 34.030672
+                            },
+                            "state": "CA"
+                        }
+                    ],
+                    "overall_rating": 3,
+                    "url": "\/doctors\/Dr_Leila_Karimpoor.html",
+                    "slug": "Dr_Leila_Karimpoor.html"
+                },
+                "fields": {
+                    "distance": 12.636210773209879
+                },
+                "sort": [
+                    12.636834235817824
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1zj3c9_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1zj3c9",
+                    "years_experience": 18,
+                    "city_state": "Philadelphia, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Patricia O Dechellis",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Hospitalist",
+                        "Internal Medicine"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Patricia_Dechellis.html",
+                            "slug": "Dr_Patricia_Dechellis.html"
+                        }
+                    },
+                    "number_of_ratings": 5,
+                    "locations": [
+                        {
+                            "city_state": "Philadelphia, PA",
+                            "city": "Philadelphia",
+                            "address1": "10800 Knights Rd",
+                            "_geoloc": {
+                                "lng": -74.98307,
+                                "lat": 40.07117
+                            },
+                            "state": "PA"
+                        },
+                        {
+                            "city_state": "Langhorne, PA",
+                            "city": "Langhorne",
+                            "address1": "1205 Langhorne Newtown Rd Ste 400",
+                            "_geoloc": {
+                                "lng": -74.929469,
+                                "lat": 40.201717
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 1,
+                    "url": "\/doctors\/Dr_Patricia_Dechellis.html",
+                    "slug": "Dr_Patricia_Dechellis.html"
+                },
+                "fields": {
+                    "distance": 12.636210773209879
+                },
+                "sort": [
+                    12.636834235817824
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1psrnw_doctor",
+                "_score": null,
+                "_source": {
+                    "display_type": "Doctor",
+                    "vpid": "1psrnw",
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Norma_Toll.html",
+                            "slug": "Dr_Norma_Toll.html"
+                        }
+                    },
+                    "city_state": "Huntingdon Valley, PA",
+                    "degree": "",
+                    "locations": [
+                        {
+                            "city_state": "Huntingdon Valley, PA",
+                            "city": "Huntingdon Valley",
+                            "address1": "2054 Waller Dr",
+                            "_geoloc": {
+                                "lng": -75.087487,
+                                "lat": 40.124965
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "type": "doctor",
+                    "display_name": "Norma S Toll",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [],
+                    "url": "\/doctors\/Dr_Norma_Toll.html",
+                    "slug": "Dr_Norma_Toll.html"
+                },
+                "fields": {
+                    "distance": 12.637285774530403
+                },
+                "sort": [
+                    12.637908488940177
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1xnyc2_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1xnyc2",
+                    "years_experience": 14,
+                    "city_state": "Huntingdon Valley, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Sarah G Coleman",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1921622\/photo.jpg"
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Rheumatology",
+                        "Internal Medicine"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Sarah_Coleman_2.html",
+                            "slug": "Dr_Sarah_Coleman_2.html"
+                        }
+                    },
+                    "number_of_ratings": 11,
+                    "locations": [
+                        {
+                            "city_state": "Willow Grove, PA",
+                            "city": "Willow Grove",
+                            "address1": "2360 Maryland Rd",
+                            "_geoloc": {
+                                "lng": -75.133963,
+                                "lat": 40.161407
+                            },
+                            "state": "PA"
+                        },
+                        {
+                            "city_state": "Huntingdon Valley, PA",
+                            "city": "Huntingdon Valley",
+                            "address1": "2301 Huntingdon Pike Fl 1",
+                            "_geoloc": {
+                                "lng": -75.067179,
+                                "lat": 40.119444
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 3.909090909090909,
+                    "url": "\/doctors\/Dr_Sarah_Coleman_2.html",
+                    "slug": "Dr_Sarah_Coleman_2.html"
+                },
+                "fields": {
+                    "distance": 12.670449216048532
+                },
+                "sort": [
+                    12.671072560124124
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1wr5fm_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1wr5fm",
+                    "years_experience": 35,
+                    "city_state": "Huntingdon Valley, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Barry S Friter",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Dermatology"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Barry_Friter.html",
+                            "slug": "Dr_Barry_Friter.html"
+                        }
+                    },
+                    "number_of_ratings": 23,
+                    "locations": [
+                        {
+                            "city_state": "Huntingdon Valley, PA",
+                            "city": "Huntingdon Valley",
+                            "address1": "2301 Huntingdon Pike Ste 202",
+                            "_geoloc": {
+                                "lng": -75.067179,
+                                "lat": 40.119444
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 2.898550724637681,
+                    "url": "\/doctors\/Dr_Barry_Friter.html",
+                    "slug": "Dr_Barry_Friter.html"
+                },
+                "fields": {
+                    "distance": 12.670449216048532
+                },
+                "sort": [
+                    12.671072560124124
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1q8t4g_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1q8t4g",
+                    "city_state": "Huntingdon Valley, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Jeffrey D Reich",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1958979\/photo.jpg"
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Urology"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Jeffrey_Reich.html",
+                            "slug": "Dr_Jeffrey_Reich.html"
+                        }
+                    },
+                    "number_of_ratings": 20,
+                    "locations": [
+                        {
+                            "city_state": "Huntingdon Valley, PA",
+                            "city": "Huntingdon Valley",
+                            "address1": "2301 Huntingdon Pike Ste 201",
+                            "_geoloc": {
+                                "lng": -75.067179,
+                                "lat": 40.119444
+                            },
+                            "state": "PA"
+                        },
+                        {
+                            "city_state": "Huntingdon Valley, PA",
+                            "city": "Huntingdon Valley",
+                            "address1": "1800 Byberry Rd Ste 1203",
+                            "_geoloc": {
+                                "lng": -75.075543,
+                                "lat": 40.154875
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 4.3166666666666655,
+                    "url": "\/doctors\/Dr_Jeffrey_Reich.html",
+                    "slug": "Dr_Jeffrey_Reich.html"
+                },
+                "fields": {
+                    "distance": 12.670449216048532
+                },
+                "sort": [
+                    12.671072560124124
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1xwqjk_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1xwqjk",
+                    "years_experience": 17,
+                    "city_state": "Huntingdon Valley, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Samuel L Chachkin",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Dermatology"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Samuel_Chachkin.html",
+                            "slug": "Dr_Samuel_Chachkin.html"
+                        }
+                    },
+                    "number_of_ratings": 9,
+                    "locations": [
+                        {
+                            "city_state": "Huntingdon Valley, PA",
+                            "city": "Huntingdon Valley",
+                            "address1": "2301 Huntingdon Pike Ste 202",
+                            "_geoloc": {
+                                "lng": -75.067179,
+                                "lat": 40.119444
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 4.888888888888889,
+                    "url": "\/doctors\/Dr_Samuel_Chachkin.html",
+                    "slug": "Dr_Samuel_Chachkin.html"
+                },
+                "fields": {
+                    "distance": 12.670449216048532
+                },
+                "sort": [
+                    12.671072560124124
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1qdym0_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1qdym0",
+                    "years_experience": 13,
+                    "city_state": "Huntingdon Valley, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. David R Enis",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Dermatology"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_David_Enis.html",
+                            "slug": "Dr_David_Enis.html"
+                        }
+                    },
+                    "number_of_ratings": 3,
+                    "locations": [
+                        {
+                            "city_state": "Huntingdon Valley, PA",
+                            "city": "Huntingdon Valley",
+                            "address1": "2301 Huntingdon Pike Ste 202",
+                            "_geoloc": {
+                                "lng": -75.067179,
+                                "lat": 40.119444
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 5,
+                    "url": "\/doctors\/Dr_David_Enis.html",
+                    "slug": "Dr_David_Enis.html"
+                },
+                "fields": {
+                    "distance": 12.670449216048532
+                },
+                "sort": [
+                    12.671072560124124
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1z68pd_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1z68pd",
+                    "years_experience": 36,
+                    "city_state": "Huntingdon Valley, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Charles H Pritchard",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1916571\/photo.jpg"
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Rheumatology",
+                        "Internal Medicine"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Charles_Pritchard.html",
+                            "slug": "Dr_Charles_Pritchard.html"
+                        }
+                    },
+                    "number_of_ratings": 35,
+                    "locations": [
+                        {
+                            "city_state": "Willow Grove, PA",
+                            "city": "Willow Grove",
+                            "address1": "2360 Maryland Rd",
+                            "_geoloc": {
+                                "lng": -75.133963,
+                                "lat": 40.161407
+                            },
+                            "state": "PA"
+                        },
+                        {
+                            "city_state": "Huntingdon Valley, PA",
+                            "city": "Huntingdon Valley",
+                            "address1": "2301 Huntingdon Pike Fl 1",
+                            "_geoloc": {
+                                "lng": -75.067179,
+                                "lat": 40.119444
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 3.7714285714285714,
+                    "url": "\/doctors\/Dr_Charles_Pritchard.html",
+                    "slug": "Dr_Charles_Pritchard.html"
+                },
+                "fields": {
+                    "distance": 12.670449216048532
+                },
+                "sort": [
+                    12.671072560124124
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1qqf4z_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1qqf4z",
+                    "years_experience": 38,
+                    "city_state": "Pine Hill, NJ",
+                    "degree": "DPM",
+                    "type": "doctor",
+                    "display_name": "Dr. Barry A Klein",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1664706\/photo.jpg"
+                        }
+                    },
+                    "degrees": [
+                        "DPM"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Podiatry"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/1qqf4z\/barry-klein",
+                            "slug": "1qqf4z\/barry-klein"
+                        }
+                    },
+                    "number_of_ratings": 3,
+                    "locations": [
+                        {
+                            "city_state": "Pine Hill, NJ",
+                            "city": "Pine Hill",
+                            "address1": "1130 Blackwood Clementon Rd",
+                            "_geoloc": {
+                                "lng": -75.02206,
+                                "lat": 39.803821
+                            },
+                            "state": "NJ"
+                        },
+                        {
+                            "city_state": "Florence, NJ",
+                            "city": "Florence",
+                            "address1": "315 Broad St",
+                            "_geoloc": {
+                                "lng": -74.805767,
+                                "lat": 40.119929
+                            },
+                            "state": "NJ"
+                        }
+                    ],
+                    "overall_rating": 2,
+                    "url": "\/doctors\/1qqf4z\/barry-klein",
+                    "slug": "1qqf4z\/barry-klein"
+                },
+                "fields": {
+                    "distance": 12.680059098193583
+                },
+                "sort": [
+                    12.680686451078433
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1s2bfg_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1s2bfg",
+                    "years_experience": 38,
+                    "city_state": "Pine Hill, NJ",
+                    "degree": "DPM",
+                    "type": "doctor",
+                    "display_name": "Dr. Debra B Klein",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1665363\/photo.jpg"
+                        }
+                    },
+                    "degrees": [
+                        "DPM"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Podiatry"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/1s2bfg\/debra-klein",
+                            "slug": "1s2bfg\/debra-klein"
+                        }
+                    },
+                    "number_of_ratings": 1,
+                    "locations": [
+                        {
+                            "city_state": "Pine Hill, NJ",
+                            "city": "Pine Hill",
+                            "address1": "1130 Blackwood Clementon Rd",
+                            "_geoloc": {
+                                "lng": -75.02206,
+                                "lat": 39.803821
+                            },
+                            "state": "NJ"
+                        },
+                        {
+                            "city_state": "Florence, NJ",
+                            "city": "Florence",
+                            "address1": "315 Broad St",
+                            "_geoloc": {
+                                "lng": -74.805767,
+                                "lat": 40.119929
+                            },
+                            "state": "NJ"
+                        }
+                    ],
+                    "overall_rating": 5,
+                    "url": "\/doctors\/1s2bfg\/debra-klein",
+                    "slug": "1s2bfg\/debra-klein"
+                },
+                "fields": {
+                    "distance": 12.680059098193583
+                },
+                "sort": [
+                    12.680686451078433
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1xmd4m_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1xmd4m",
+                    "years_experience": 33,
+                    "city_state": "Philadelphia, PA",
+                    "degree": "DO",
+                    "type": "doctor",
+                    "display_name": "Dr. Louis D Petrellis",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [
+                        "DO"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Family Medicine"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Louis_Petrellis.html",
+                            "slug": "Dr_Louis_Petrellis.html"
+                        }
+                    },
+                    "number_of_ratings": 40,
+                    "locations": [
+                        {
+                            "city_state": "Philadelphia, PA",
+                            "city": "Philadelphia",
+                            "address1": "723 Red Lion Rd",
+                            "_geoloc": {
+                                "lng": -75.033773,
+                                "lat": 40.106035
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 2.608333333333334,
+                    "url": "\/doctors\/Dr_Louis_Petrellis.html",
+                    "slug": "Dr_Louis_Petrellis.html"
+                },
+                "fields": {
+                    "distance": 12.693092967823416
+                },
+                "sort": [
+                    12.69371963843662
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1rnfwy_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1rnfwy",
+                    "city_state": "Huntingdon Valley, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Roberto P Panis",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Internal Medicine"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Roberto_Panis.html",
+                            "slug": "Dr_Roberto_Panis.html"
+                        }
+                    },
+                    "number_of_ratings": 10,
+                    "locations": [
+                        {
+                            "city_state": "Huntingdon Valley, PA",
+                            "city": "Huntingdon Valley",
+                            "address1": "2352 Philmont Ave",
+                            "_geoloc": {
+                                "lng": -75.06528,
+                                "lat": 40.11926
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 3.4666666666666677,
+                    "url": "\/doctors\/Dr_Roberto_Panis.html",
+                    "slug": "Dr_Roberto_Panis.html"
+                },
+                "fields": {
+                    "distance": 12.699715934859586
+                },
+                "sort": [
+                    12.700341875130459
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1sysp6_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1sysp6",
+                    "city_state": "Huntingdon Valley, PA",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. William H Mcmicken",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Internal Medicine"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_William_Mcmicken.html",
+                            "slug": "Dr_William_Mcmicken.html"
+                        }
+                    },
+                    "number_of_ratings": 3,
+                    "locations": [
+                        {
+                            "city_state": "Hatboro, PA",
+                            "city": "Hatboro",
+                            "address1": "419 N York Rd",
+                            "_geoloc": {
+                                "lng": -75.104371,
+                                "lat": 40.185231
+                            },
+                            "state": "PA"
+                        },
+                        {
+                            "city_state": "Huntingdon Valley, PA",
+                            "city": "Huntingdon Valley",
+                            "address1": "2335 Huntingdon Pike",
+                            "_geoloc": {
+                                "lng": -75.066284,
+                                "lat": 40.120294
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 5,
+                    "url": "\/doctors\/Dr_William_Mcmicken.html",
+                    "slug": "Dr_William_Mcmicken.html"
+                },
+                "fields": {
+                    "distance": 12.743286467203054
+                },
+                "sort": [
+                    12.743914387316279
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1q4grm_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1q4grm",
+                    "years_experience": 11,
+                    "city_state": "Mount Laurel, NJ",
+                    "degree": "DO",
+                    "type": "doctor",
+                    "display_name": "Dr. Beth A Chekemian",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [
+                        "DO"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Anesthesiology",
+                        "Pain Medicine"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Beth_Chekemian.html",
+                            "slug": "Dr_Beth_Chekemian.html"
+                        }
+                    },
+                    "number_of_ratings": 7,
+                    "locations": [
+                        {
+                            "city_state": "Mount Laurel, NJ",
+                            "city": "Mount Laurel",
+                            "address1": "15000 Midlantic Dr Ste 102",
+                            "_geoloc": {
+                                "lng": -74.923156,
+                                "lat": 39.960997
+                            },
+                            "state": "NJ"
+                        },
+                        {
+                            "city_state": "Langhorne, PA",
+                            "city": "Langhorne",
+                            "address1": "280 Middletown Blvd",
+                            "_geoloc": {
+                                "lng": -74.885147,
+                                "lat": 40.181071
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 4.190476190476189,
+                    "url": "\/doctors\/Dr_Beth_Chekemian.html",
+                    "slug": "Dr_Beth_Chekemian.html"
+                },
+                "fields": {
+                    "distance": 12.761279659056823
+                },
+                "sort": [
+                    12.761909890246235
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1x93ds_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1x93ds",
+                    "city_state": "Mount Laurel, NJ",
+                    "degree": "DO",
+                    "type": "doctor",
+                    "display_name": "Dr. John A Volpe Jr",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [
+                        "DO"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Gastroenterology",
+                        "Internal Medicine"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_John_A_Volpe.html",
+                            "slug": "Dr_John_A_Volpe.html"
+                        }
+                    },
+                    "number_of_ratings": 19,
+                    "locations": [
+                        {
+                            "city_state": "Mount Laurel, NJ",
+                            "city": "Mount Laurel",
+                            "address1": "15000 Midlantic Dr Ste 110",
+                            "_geoloc": {
+                                "lng": -74.923156,
+                                "lat": 39.960997
+                            },
+                            "state": "NJ"
+                        },
+                        {
+                            "city_state": "Langhorne, PA",
+                            "city": "Langhorne",
+                            "address1": "1203 Langhorne Newtown Rd Ste 234",
+                            "_geoloc": {
+                                "lng": -74.929465,
+                                "lat": 40.201647
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 4.456140350877194,
+                    "url": "\/doctors\/Dr_John_A_Volpe.html",
+                    "slug": "Dr_John_A_Volpe.html"
+                },
+                "fields": {
+                    "distance": 12.761279659056823
+                },
+                "sort": [
+                    12.761909890246235
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1ws3wp_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1ws3wp",
+                    "years_experience": 47,
+                    "city_state": "Mount Laurel, NJ",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. John J Kravitz",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Gastroenterology",
+                        "Internal Medicine"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_John_Kravitz.html",
+                            "slug": "Dr_John_Kravitz.html"
+                        }
+                    },
+                    "number_of_ratings": 15,
+                    "locations": [
+                        {
+                            "city_state": "Mount Laurel, NJ",
+                            "city": "Mount Laurel",
+                            "address1": "15000 Midlantic Dr Ste 110",
+                            "_geoloc": {
+                                "lng": -74.923156,
+                                "lat": 39.960997
+                            },
+                            "state": "NJ"
+                        },
+                        {
+                            "city_state": "Medford, NJ",
+                            "city": "Medford",
+                            "address1": "103 Old Marlton Pike Ste 102",
+                            "_geoloc": {
+                                "lng": -74.833567,
+                                "lat": 39.898779
+                            },
+                            "state": "NJ"
+                        },
+                        {
+                            "city_state": "Langhorne, PA",
+                            "city": "Langhorne",
+                            "address1": "1203 Langhorne Newtown Rd Ste 234",
+                            "_geoloc": {
+                                "lng": -74.929465,
+                                "lat": 40.201647
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 4.4444444444444455,
+                    "url": "\/doctors\/Dr_John_Kravitz.html",
+                    "slug": "Dr_John_Kravitz.html"
+                },
+                "fields": {
+                    "distance": 12.761279659056823
+                },
+                "sort": [
+                    12.761909890246235
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1wj1cz_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1wj1cz",
+                    "city_state": "Mount Laurel, NJ",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Scott J Pello",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Neurology",
+                        "Pain Medicine"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Scott_Pello.html",
+                            "slug": "Dr_Scott_Pello.html"
+                        }
+                    },
+                    "number_of_ratings": 113,
+                    "locations": [
+                        {
+                            "city_state": "Mount Laurel, NJ",
+                            "city": "Mount Laurel",
+                            "address1": "15000 Midlantic Dr",
+                            "_geoloc": {
+                                "lng": -74.923156,
+                                "lat": 39.960997
+                            },
+                            "state": "NJ"
+                        }
+                    ],
+                    "overall_rating": 4.75811209439528,
+                    "url": "\/doctors\/Dr_Scott_Pello.html",
+                    "slug": "Dr_Scott_Pello.html"
+                },
+                "fields": {
+                    "distance": 12.761279659056823
+                },
+                "sort": [
+                    12.761909890246235
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1t4wt5_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1t4wt5",
+                    "years_experience": 20,
+                    "city_state": "Mount Laurel, NJ",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Scott A Modena",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Gastroenterology",
+                        "Internal Medicine"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Scott_Modena.html",
+                            "slug": "Dr_Scott_Modena.html"
+                        }
+                    },
+                    "number_of_ratings": 7,
+                    "locations": [
+                        {
+                            "city_state": "Mount Laurel, NJ",
+                            "city": "Mount Laurel",
+                            "address1": "15000 Midlantic Dr Ste 110",
+                            "_geoloc": {
+                                "lng": -74.923156,
+                                "lat": 39.960997
+                            },
+                            "state": "NJ"
+                        },
+                        {
+                            "city_state": "Langhorne, PA",
+                            "city": "Langhorne",
+                            "address1": "1203 Langhorne Newtown Rd Ste 234",
+                            "_geoloc": {
+                                "lng": -74.929465,
+                                "lat": 40.201647
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 2.76190476190476,
+                    "url": "\/doctors\/Dr_Scott_Modena.html",
+                    "slug": "Dr_Scott_Modena.html"
+                },
+                "fields": {
+                    "distance": 12.761279659056823
+                },
+                "sort": [
+                    12.761909890246235
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1rxs4p_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1rxs4p",
+                    "years_experience": 33,
+                    "city_state": "Mount Laurel, NJ",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. David R Salowe",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Gastroenterology",
+                        "Internal Medicine"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_David_Salowe.html",
+                            "slug": "Dr_David_Salowe.html"
+                        }
+                    },
+                    "number_of_ratings": 11,
+                    "locations": [
+                        {
+                            "city_state": "Mount Laurel, NJ",
+                            "city": "Mount Laurel",
+                            "address1": "15000 Midlantic Dr Ste 110",
+                            "_geoloc": {
+                                "lng": -74.923156,
+                                "lat": 39.960997
+                            },
+                            "state": "NJ"
+                        },
+                        {
+                            "city_state": "Medford, NJ",
+                            "city": "Medford",
+                            "address1": "103 Old Marlton Pike Ste 102",
+                            "_geoloc": {
+                                "lng": -74.833567,
+                                "lat": 39.898779
+                            },
+                            "state": "NJ"
+                        },
+                        {
+                            "city_state": "Langhorne, PA",
+                            "city": "Langhorne",
+                            "address1": "1203 Langhorne Newtown Rd Ste 234",
+                            "_geoloc": {
+                                "lng": -74.929465,
+                                "lat": 40.201647
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "overall_rating": 4.818181818181818,
+                    "url": "\/doctors\/Dr_David_Salowe.html",
+                    "slug": "Dr_David_Salowe.html"
+                },
+                "fields": {
+                    "distance": 12.761279659056823
+                },
+                "sort": [
+                    12.761909890246235
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1wwj4g_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1wwj4g",
+                    "city_state": "Mount Laurel, NJ",
+                    "degree": "DO",
+                    "type": "doctor",
+                    "display_name": "Dr. Burhan D Haleem",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [
+                        "DO"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Pain Medicine"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Burhan_Haleem.html",
+                            "slug": "Dr_Burhan_Haleem.html"
+                        }
+                    },
+                    "number_of_ratings": 8,
+                    "locations": [
+                        {
+                            "city_state": "Mount Laurel, NJ",
+                            "city": "Mount Laurel",
+                            "address1": "15000 Midlantic Dr Ste 102",
+                            "_geoloc": {
+                                "lng": -74.923156,
+                                "lat": 39.960997
+                            },
+                            "state": "NJ"
+                        },
+                        {
+                            "city_state": "East Meadow, NY",
+                            "city": "East Meadow",
+                            "address1": "2201 Hempstead Tpke",
+                            "_geoloc": {
+                                "lng": -73.55342,
+                                "lat": 40.726831
+                            },
+                            "state": "NY"
+                        }
+                    ],
+                    "overall_rating": 3.75,
+                    "url": "\/doctors\/Dr_Burhan_Haleem.html",
+                    "slug": "Dr_Burhan_Haleem.html"
+                },
+                "fields": {
+                    "distance": 12.761279659056823
+                },
+                "sort": [
+                    12.761909890246235
+                ]
+            }
+        ]
+    },
+    "aggregations": {
+        "satisfaction.accurate_diagnosis": {
+            "buckets": {
+                "good": {
+                    "from": 3.5,
+                    "doc_count": 0
+                }
+            }
+        },
+        "overall_range": {
+            "doc_count": 7275
+        },
+        "satisfaction.bedside_manner": {
+            "buckets": {
+                "good": {
+                    "from": 3.5,
+                    "doc_count": 0
+                }
+            }
+        },
+        "satisfaction.punctuality": {
+            "buckets": {
+                "good": {
+                    "from": 3.5,
+                    "doc_count": 0
+                }
+            }
+        },
+        "display_types": {
+            "doc_count_error_upper_bound": 0,
+            "sum_other_doc_count": 0,
+            "buckets": [
+                {
+                    "key": "Doctor",
+                    "doc_count": 9616
+                },
+                {
+                    "key": "Group Practice",
+                    "doc_count": 680
+                },
+                {
+                    "key": "Chiropractor",
+                    "doc_count": 371
+                },
+                {
+                    "key": "Podiatrist",
+                    "doc_count": 310
+                },
+                {
+                    "key": "Optometrist",
+                    "doc_count": 292
+                },
+                {
+                    "key": "Psychologist",
+                    "doc_count": 279
+                },
+                {
+                    "key": "Dentist",
+                    "doc_count": 60
+                },
+                {
+                    "key": "Hospital",
+                    "doc_count": 26
+                },
+                {
+                    "key": "Nursing Home",
+                    "doc_count": 2
+                },
+                {
+                    "key": "Cancer Center",
+                    "doc_count": 1
+                },
+                {
+                    "key": "Pharmacy",
+                    "doc_count": 1
+                }
+            ]
+        },
+        "insurance_companies": {
+            "doc_count_error_upper_bound": 0,
+            "sum_other_doc_count": 0,
+            "buckets": [
+                {
+                    "key": "Aetna",
+                    "doc_count": 11304
+                },
+                {
+                    "key": "United Healthcare",
+                    "doc_count": 10301
+                },
+                {
+                    "key": "BCBS Blue Card",
+                    "doc_count": 9724
+                },
+                {
+                    "key": "IBC",
+                    "doc_count": 9616
+                },
+                {
+                    "key": "Cigna",
+                    "doc_count": 8995
+                },
+                {
+                    "key": "Coventry Health Care",
+                    "doc_count": 8567
+                },
+                {
+                    "key": "Multiplan",
+                    "doc_count": 7792
+                },
+                {
+                    "key": "Humana",
+                    "doc_count": 5854
+                },
+                {
+                    "key": "Capital Blue Cross",
+                    "doc_count": 5649
+                },
+                {
+                    "key": "Horizon BCBS",
+                    "doc_count": 5553
+                },
+                {
+                    "key": "First Health",
+                    "doc_count": 5330
+                },
+                {
+                    "key": "QualCare",
+                    "doc_count": 4110
+                },
+                {
+                    "key": "Geisinger Health Plan",
+                    "doc_count": 2742
+                },
+                {
+                    "key": "Oxford Health",
+                    "doc_count": 1840
+                },
+                {
+                    "key": "HIP of NY",
+                    "doc_count": 1484
+                },
+                {
+                    "key": "UPMC Health Plan",
+                    "doc_count": 320
+                },
+                {
+                    "key": "CareFirst BCBS",
+                    "doc_count": 288
+                },
+                {
+                    "key": "Highmark BCBS",
+                    "doc_count": 265
+                },
+                {
+                    "key": "Empire BCBS",
+                    "doc_count": 140
+                },
+                {
+                    "key": "Anthem",
+                    "doc_count": 115
+                },
+                {
+                    "key": "Capital District Physicians Health Plan",
+                    "doc_count": 104
+                },
+                {
+                    "key": "BCBS Massachusetts",
+                    "doc_count": 90
+                },
+                {
+                    "key": "Connecticare",
+                    "doc_count": 69
+                },
+                {
+                    "key": "BCBS Illinois",
+                    "doc_count": 62
+                },
+                {
+                    "key": "Assurant",
+                    "doc_count": 56
+                },
+                {
+                    "key": "Guardian Dental",
+                    "doc_count": 55
+                },
+                {
+                    "key": "Principal Dental",
+                    "doc_count": 53
+                },
+                {
+                    "key": "Cigna Dental",
+                    "doc_count": 51
+                },
+                {
+                    "key": "Delta Dental",
+                    "doc_count": 51
+                },
+                {
+                    "key": "United Concordia",
+                    "doc_count": 51
+                },
+                {
+                    "key": "Ameritas",
+                    "doc_count": 49
+                },
+                {
+                    "key": "Dental Network of America",
+                    "doc_count": 49
+                },
+                {
+                    "key": "MetLife",
+                    "doc_count": 47
+                },
+                {
+                    "key": "DenteMax",
+                    "doc_count": 44
+                },
+                {
+                    "key": "MVP Health Plan",
+                    "doc_count": 44
+                },
+                {
+                    "key": "United Healthcare Dental",
+                    "doc_count": 44
+                },
+                {
+                    "key": "CompBenefits",
+                    "doc_count": 39
+                },
+                {
+                    "key": "Harvard Pilgrim",
+                    "doc_count": 39
+                },
+                {
+                    "key": "Humana Dental",
+                    "doc_count": 38
+                },
+                {
+                    "key": "HealthFirst NY",
+                    "doc_count": 36
+                },
+                {
+                    "key": "Blue Cross California",
+                    "doc_count": 31
+                },
+                {
+                    "key": "BCBS Florida",
+                    "doc_count": 28
+                },
+                {
+                    "key": "Medical Mutual of Ohio",
+                    "doc_count": 28
+                },
+                {
+                    "key": "Health Net",
+                    "doc_count": 26
+                },
+                {
+                    "key": "Tufts Health Plan",
+                    "doc_count": 26
+                },
+                {
+                    "key": "Emblem Health",
+                    "doc_count": 23
+                },
+                {
+                    "key": "Excellus BCBS",
+                    "doc_count": 23
+                },
+                {
+                    "key": "AvMed Health",
+                    "doc_count": 17
+                },
+                {
+                    "key": "Regence Health Plans",
+                    "doc_count": 17
+                },
+                {
+                    "key": "Sagamore Health",
+                    "doc_count": 17
+                },
+                {
+                    "key": "UHC of the River Valley",
+                    "doc_count": 17
+                },
+                {
+                    "key": "Blue Shield California",
+                    "doc_count": 16
+                },
+                {
+                    "key": "ODS",
+                    "doc_count": 14
+                },
+                {
+                    "key": "Premera",
+                    "doc_count": 14
+                },
+                {
+                    "key": "Independent Health",
+                    "doc_count": 13
+                },
+                {
+                    "key": "BCBS Texas",
+                    "doc_count": 12
+                },
+                {
+                    "key": "SIHO Insurance Services",
+                    "doc_count": 12
+                },
+                {
+                    "key": "HealthSpan",
+                    "doc_count": 11
+                },
+                {
+                    "key": "BCBS North Carolina",
+                    "doc_count": 10
+                },
+                {
+                    "key": "Optima Health",
+                    "doc_count": 10
+                },
+                {
+                    "key": "BCBS Georgia",
+                    "doc_count": 9
+                },
+                {
+                    "key": "Centene",
+                    "doc_count": 9
+                },
+                {
+                    "key": "HealthLink",
+                    "doc_count": 9
+                },
+                {
+                    "key": "BCBS Michigan",
+                    "doc_count": 8
+                },
+                {
+                    "key": "Encore Health Network",
+                    "doc_count": 8
+                },
+                {
+                    "key": "Ambetter Superior Health Plan",
+                    "doc_count": 7
+                },
+                {
+                    "key": "BCBS Rhode Island",
+                    "doc_count": 7
+                },
+                {
+                    "key": "PriorityHealth",
+                    "doc_count": 7
+                },
+                {
+                    "key": "Aetna Innovation Health",
+                    "doc_count": 6
+                },
+                {
+                    "key": "Health Alliance",
+                    "doc_count": 6
+                },
+                {
+                    "key": "Premier Health Plan",
+                    "doc_count": 6
+                },
+                {
+                    "key": "Wellmark",
+                    "doc_count": 6
+                },
+                {
+                    "key": "BCBS South Carolina",
+                    "doc_count": 5
+                },
+                {
+                    "key": "Healthy Connecticut",
+                    "doc_count": 5
+                },
+                {
+                    "key": "PHP Northern IN",
+                    "doc_count": 5
+                },
+                {
+                    "key": "SummaCare",
+                    "doc_count": 5
+                },
+                {
+                    "key": "WPS",
+                    "doc_count": 5
+                },
+                {
+                    "key": "Altius",
+                    "doc_count": 4
+                },
+                {
+                    "key": "BCBS Kansas City",
+                    "doc_count": 4
+                },
+                {
+                    "key": "BCBS Minnesota",
+                    "doc_count": 4
+                },
+                {
+                    "key": "Common Ground",
+                    "doc_count": 4
+                },
+                {
+                    "key": "HAP",
+                    "doc_count": 4
+                },
+                {
+                    "key": "Molina Healthcare",
+                    "doc_count": 4
+                },
+                {
+                    "key": "PacificSource",
+                    "doc_count": 4
+                },
+                {
+                    "key": "SelectHealth",
+                    "doc_count": 4
+                },
+                {
+                    "key": "BCBS Tennessee",
+                    "doc_count": 3
+                },
+                {
+                    "key": "Providence Health System",
+                    "doc_count": 3
+                },
+                {
+                    "key": "The Health Plan of Upper OH",
+                    "doc_count": 3
+                },
+                {
+                    "key": "BCBS Alabama",
+                    "doc_count": 2
+                },
+                {
+                    "key": "BCBS New Mexico",
+                    "doc_count": 2
+                },
+                {
+                    "key": "HealthPartners - MN",
+                    "doc_count": 2
+                },
+                {
+                    "key": "Indiana University",
+                    "doc_count": 2
+                },
+                {
+                    "key": "Preferred One",
+                    "doc_count": 2
+                },
+                {
+                    "key": "Presbyterian",
+                    "doc_count": 2
+                },
+                {
+                    "key": "Aultcare",
+                    "doc_count": 1
+                },
+                {
+                    "key": "BCBS Louisiana",
+                    "doc_count": 1
+                },
+                {
+                    "key": "BCBS Oklahoma",
+                    "doc_count": 1
+                },
+                {
+                    "key": "FirstCare",
+                    "doc_count": 1
+                },
+                {
+                    "key": "FrontPath Health Coalition",
+                    "doc_count": 1
+                },
+                {
+                    "key": "Group Health Coop",
+                    "doc_count": 1
+                },
+                {
+                    "key": "Gundersen Health Plan",
+                    "doc_count": 1
+                },
+                {
+                    "key": "Health Plan of Nevada",
+                    "doc_count": 1
+                },
+                {
+                    "key": "Kaiser - MidAtlantic",
+                    "doc_count": 1
+                },
+                {
+                    "key": "LA Care Health",
+                    "doc_count": 1
+                },
+                {
+                    "key": "Network Health Plan",
+                    "doc_count": 1
+                },
+                {
+                    "key": "One Health Network",
+                    "doc_count": 1
+                },
+                {
+                    "key": "Paramount",
+                    "doc_count": 1
+                },
+                {
+                    "key": "Qualchoice",
+                    "doc_count": 1
+                },
+                {
+                    "key": "Scion Dental",
+                    "doc_count": 1
+                },
+                {
+                    "key": "Sierra Health",
+                    "doc_count": 1
+                }
+            ]
+        },
+        "ratings": {
+            "buckets": [
+                {
+                    "key": "any",
+                    "doc_count": 9616
+                },
+                {
+                    "key": "3",
+                    "from": 3,
+                    "doc_count": 6688
+                },
+                {
+                    "key": "4",
+                    "from": 4,
+                    "doc_count": 4779
+                },
+                {
+                    "key": "5",
+                    "from": 5,
+                    "doc_count": 1531
+                }
+            ]
+        },
+        "experience_range": {
+            "buckets": [
+                {
+                    "key": "Any",
+                    "doc_count": 9616
+                },
+                {
+                    "key": "0 - 5",
+                    "from": 0,
+                    "to": 6,
+                    "doc_count": 0
+                },
+                {
+                    "key": "5 - 10",
+                    "from": 5,
+                    "to": 11,
+                    "doc_count": 608
+                },
+                {
+                    "key": "11 - 15",
+                    "from": 11,
+                    "to": 16,
+                    "doc_count": 921
+                },
+                {
+                    "key": "16 - 20",
+                    "from": 16,
+                    "to": 21,
+                    "doc_count": 1028
+                },
+                {
+                    "key": "21 - 25",
+                    "from": 21,
+                    "to": 26,
+                    "doc_count": 883
+                },
+                {
+                    "key": "26 - 30",
+                    "from": 26,
+                    "to": 31,
+                    "doc_count": 760
+                },
+                {
+                    "key": "30+",
+                    "from": 30,
+                    "doc_count": 2900
+                }
+            ]
+        }
+    },
+    "status": 200,
+    "distanceLimitedNothingFound": false,
+    "query": "",
+    "radiusUsed": 25,
+    "reqNo": "1",
+    "sponsors": [
+        {
+            "campaign_name": "webmd_ep",
+            "targeting": {
+                "locations": [
+                    {
+                        "city_state": "Philadelphia, PA",
+                        "geopoint": [
+                            [
+                                -75.160429,
+                                39.94866
+                            ]
+                        ]
+                    }
+                ],
+                "sponsor_id": "xx"
+            },
+            "search": {
+                "search_city_state": "Philadelphia, PA",
+                "search_specialties": "General Dentistry",
+                "locations": [
+                    {
+                        "city_state": "Philadelphia, PA",
+                        "geopoint": [
+                            [
+                                -75.160429,
+                                39.94866
+                            ]
+                        ]
+                    }
+                ],
+                "display_name": "Shireen  Malik"
+            },
+            "npi": "1518135805",
+            "external_id": "D83325",
+            "campaign_features": [
+                {
+                    "feature_name": "serp",
+                    "feature_config": {
+                        "specialty": "General Dentistry",
+                        "webmdSpecialtyId": [
+                            29245
+                        ],
+                        "city_state": "Philadelphia, PA",
+                        "profile_url": "\/dentists\/Dr_Shireen_Malik",
+                        "type": "dentist",
+                        "display_name": "Shireen  Malik",
+                        "photos": {
+                            "host": null,
+                            "uri": null
+                        },
+                        "ctas": {
+                            "appointment_url": "https:\/\/appointments.webmd.com\/path\/wmd-path1\/61fbb52a-c844-4904-ad23-dcc296781461"
+                        },
+                        "degrees": [
+                            "DDS"
+                        ],
+                        "display_type": "Dentist",
+                        "vitalsSpecialtyId": [
+                            294,
+                            296,
+                            297,
+                            300,
+                            303,
+                            306,
+                            307
+                        ],
+                        "specialties": [
+                            "General Dentistry"
+                        ],
+                        "number_of_ratings": 13,
+                        "company_name": null,
+                        "overall_rating": 4.3076923076923075
+                    }
+                }
+            ],
+            "url": "\/dentists\/Dr_Shireen_Malik",
+            "city_state": "Philadelphia, PA",
+            "geopoint": [
+                [
+                    -75.160429,
+                    39.94866
+                ]
+            ],
+            "geo_points": [
+                -75.160429,
+                39.94866
+            ],
+            "distance": 0.3
+        },
+        {
+            "campaign_name": "webmd_ep",
+            "targeting": {
+                "locations": [
+                    {
+                        "city_state": "Philadelphia, PA",
+                        "geopoint": [
+                            [
+                                -75.1741,
+                                39.9527
+                            ]
+                        ]
+                    },
+                    {
+                        "city_state": "Upper Darby, PA",
+                        "geopoint": [
+                            [
+                                -75.2629,
+                                39.9591
+                            ]
+                        ]
+                    }
+                ],
+                "sponsor_id": "xx"
+            },
+            "search": {
+                "search_city_state": "Philadelphia, PA Upper Darby, PA",
+                "search_specialties": "Addiction Medicine Physical Medicine\/Rehab Spec",
+                "locations": [
+                    {
+                        "city_state": "Philadelphia, PA",
+                        "geopoint": [
+                            [
+                                -75.1741,
+                                39.9527
+                            ]
+                        ]
+                    },
+                    {
+                        "city_state": "Upper Darby, PA",
+                        "geopoint": [
+                            [
+                                -75.2629,
+                                39.9591
+                            ]
+                        ]
+                    }
+                ],
+                "display_name": "Denis A Boyle Jr"
+            },
+            "npi": "1205920287",
+            "external_id": "153875",
+            "campaign_features": [
+                {
+                    "feature_name": "serp",
+                    "feature_config": {
+                        "specialty": "Addiction Medicine",
+                        "webmdSpecialtyId": [
+                            29230,
+                            29309
+                        ],
+                        "city_state": "Philadelphia, PA",
+                        "profile_url": "\/doctors\/Dr_Denis_Boyle.html",
+                        "type": "doctor",
+                        "display_name": "Denis A Boyle Jr",
+                        "photos": {
+                            "host": null,
+                            "uri": null
+                        },
+                        "ctas": {
+                            "appointment_url": "https:\/\/appointments.webmd.com\/path\/wmd-path1\/fb31da85-feb0-4bf4-9dc3-01678cfc8276"
+                        },
+                        "degrees": [
+                            "MD"
+                        ],
+                        "display_type": "Doctor",
+                        "vitalsSpecialtyId": [
+                            5,
+                            23,
+                            31,
+                            141,
+                            124,
+                            126,
+                            127,
+                            2018
+                        ],
+                        "specialties": [
+                            "Addiction Medicine",
+                            "Physical Medicine\/Rehab Spec"
+                        ],
+                        "number_of_ratings": 4,
+                        "company_name": null,
+                        "overall_rating": 5
+                    }
+                }
+            ],
+            "url": "\/doctors\/Dr_Denis_Boyle.html",
+            "city_state": "Philadelphia, PA",
+            "geopoint": [
+                [
+                    -75.1741,
+                    39.9527
+                ]
+            ],
+            "geo_points": [
+                -75.1741,
+                39.9527
+            ],
+            "distance": 0.6
+        },
+        {
+            "campaign_name": "webmd_ep",
+            "targeting": {
+                "locations": [
+                    {
+                        "city_state": "Ridley Park, PA",
+                        "geopoint": [
+                            [
+                                -75.3212,
+                                39.8791
+                            ]
+                        ]
+                    }
+                ],
+                "sponsor_id": "xx"
+            },
+            "search": {
+                "search_city_state": "Ridley Park, PA",
+                "search_specialties": "Family Practitioner Internal Medicine",
+                "locations": [
+                    {
+                        "city_state": "Ridley Park, PA",
+                        "geopoint": [
+                            [
+                                -75.3212,
+                                39.8791
+                            ]
+                        ]
+                    }
+                ],
+                "display_name": "Neeraj Tripathy"
+            },
+            "npi": "1972660975",
+            "external_id": "6302324",
+            "campaign_features": [
+                {
+                    "feature_name": "serp",
+                    "feature_config": {
+                        "specialty": "Family Practitioner",
+                        "webmdSpecialtyId": [
+                            29259,
+                            29277
+                        ],
+                        "city_state": "Ridley Park, PA",
+                        "profile_url": "\/doctors\/Dr_Neeraj_Tripathy.html",
+                        "type": "doctor",
+                        "display_name": "Neeraj Tripathy",
+                        "photos": {
+                            "host": null,
+                            "uri": null
+                        },
+                        "ctas": {
+                            "appointment_url": "https:\/\/appointments.webmd.com\/path\/wmd-path1\/e5a7bcd3-e5c7-416a-b7ab-65f40d7e3015"
+                        },
+                        "degrees": [
+                            "MD"
+                        ],
+                        "display_type": "Doctor",
+                        "vitalsSpecialtyId": [
+                            22,
+                            25,
+                            26,
+                            479,
+                            667,
+                            30,
+                            36,
+                            42,
+                            672,
+                            2005
+                        ],
+                        "specialties": [
+                            "Family Practitioner",
+                            "Internal Medicine"
+                        ],
+                        "number_of_ratings": 12,
+                        "company_name": null,
+                        "overall_rating": 4.63888888888889
+                    }
+                }
+            ],
+            "url": "\/doctors\/Dr_Neeraj_Tripathy.html",
+            "city_state": "Ridley Park, PA",
+            "geopoint": [
+                [
+                    -75.3212,
+                    39.8791
+                ]
+            ],
+            "geo_points": [
+                -75.3212,
+                39.8791
+            ],
+            "distance": 9.7
+        }
+    ]
+}

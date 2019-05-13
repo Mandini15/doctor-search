@@ -1,0 +1,2170 @@
+{
+    "took": 91,
+    "timed_out": false,
+    "_shards": {
+        "total": 2,
+        "successful": 2,
+        "skipped": 0,
+        "failed": 0
+    },
+    "hits": {
+        "total": 9616,
+        "max_score": null,
+        "hits": [
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1qwk9m_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1qwk9m",
+                    "years_experience": 19,
+                    "city_state": "Camden, NJ",
+                    "degree": "DO",
+                    "type": "doctor",
+                    "display_name": "Dr. Kathleen M Schaeffer",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [
+                        "DO"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Obstetrics and Gynecology"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Kathleen_Schaeffer.html",
+                            "slug": "Dr_Kathleen_Schaeffer.html"
+                        }
+                    },
+                    "number_of_ratings": 19,
+                    "locations": [
+                        {
+                            "city_state": "Camden, NJ",
+                            "city": "Camden",
+                            "address1": "3 Cooper Plz",
+                            "_geoloc": {
+                                "lng": -75.115767,
+                                "lat": 39.940903
+                            },
+                            "state": "NJ"
+                        }
+                    ],
+                    "overall_rating": 4.2105263157894735,
+                    "url": "\/doctors\/Dr_Kathleen_Schaeffer.html",
+                    "slug": "Dr_Kathleen_Schaeffer.html"
+                },
+                "fields": {
+                    "distance": 2.6505233877427075
+                },
+                "sort": [
+                    2.650652621694334
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1sqjkf_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1sqjkf",
+                    "years_experience": 13,
+                    "city_state": "Camden, NJ",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Jeffrey J Tomaszewski",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Urology"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Jeffrey_J_Tomaszewski.html",
+                            "slug": "Dr_Jeffrey_J_Tomaszewski.html"
+                        }
+                    },
+                    "number_of_ratings": 6,
+                    "locations": [
+                        {
+                            "city_state": "Pittsburgh, PA",
+                            "city": "Pittsburgh",
+                            "address1": "3471 5th Ave Ste 1103",
+                            "_geoloc": {
+                                "lng": -79.960664,
+                                "lat": 40.440472
+                            },
+                            "state": "PA"
+                        },
+                        {
+                            "city_state": "Jenkintown, PA",
+                            "city": "Jenkintown",
+                            "address1": "8 Huntingdon Pike Fl 3",
+                            "_geoloc": {
+                                "lng": -75.087036,
+                                "lat": 40.078624
+                            },
+                            "state": "PA"
+                        },
+                        {
+                            "city_state": "Camden, NJ",
+                            "city": "Camden",
+                            "address1": "3 Cooper Plz",
+                            "_geoloc": {
+                                "lng": -75.115767,
+                                "lat": 39.940903
+                            },
+                            "state": "NJ"
+                        }
+                    ],
+                    "overall_rating": 4.5,
+                    "url": "\/doctors\/Dr_Jeffrey_J_Tomaszewski.html",
+                    "slug": "Dr_Jeffrey_J_Tomaszewski.html"
+                },
+                "fields": {
+                    "distance": 2.6505233877427075
+                },
+                "sort": [
+                    2.650652621694334
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1qqw31_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1qqw31",
+                    "years_experience": 10,
+                    "city_state": "Camden, NJ",
+                    "degree": "DO",
+                    "type": "doctor",
+                    "display_name": "Dr. Evan G Graber",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1734696\/photo.jpg"
+                        }
+                    },
+                    "degrees": [
+                        "DO"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Pediatrics",
+                        "Pediatric Endocrinology"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Evan_Graber.html",
+                            "slug": "Dr_Evan_Graber.html"
+                        }
+                    },
+                    "number_of_ratings": 1,
+                    "locations": [
+                        {
+                            "city_state": "Wilmington, DE",
+                            "city": "Wilmington",
+                            "address1": "1600 Rockland Rd",
+                            "_geoloc": {
+                                "lng": -75.556768,
+                                "lat": 39.776825
+                            },
+                            "state": "DE"
+                        },
+                        {
+                            "city_state": "Camden, NJ",
+                            "city": "Camden",
+                            "address1": "3 Cooper Plz",
+                            "_geoloc": {
+                                "lng": -75.115767,
+                                "lat": 39.940903
+                            },
+                            "state": "NJ"
+                        }
+                    ],
+                    "overall_rating": 5,
+                    "url": "\/doctors\/Dr_Evan_Graber.html",
+                    "slug": "Dr_Evan_Graber.html"
+                },
+                "fields": {
+                    "distance": 2.6505233877427075
+                },
+                "sort": [
+                    2.650652621694334
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1wsymw_doctor",
+                "_score": null,
+                "_source": {
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Pediatrics"
+                    ],
+                    "vpid": "1wsymw",
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/1wsymw\/lia-cruz",
+                            "slug": "1wsymw\/lia-cruz"
+                        }
+                    },
+                    "city_state": "Camden, NJ",
+                    "degree": "DO",
+                    "locations": [
+                        {
+                            "city_state": "Camden, NJ",
+                            "city": "Camden",
+                            "address1": "3 Cooper Plz",
+                            "_geoloc": {
+                                "lng": -75.115767,
+                                "lat": 39.940903
+                            },
+                            "state": "NJ"
+                        },
+                        {
+                            "city_state": "Philadelphia, PA",
+                            "city": "Philadelphia",
+                            "address1": "160 E Erie Ave",
+                            "_geoloc": {
+                                "lng": -75.12561,
+                                "lat": 40.00732
+                            },
+                            "state": "PA"
+                        }
+                    ],
+                    "type": "doctor",
+                    "display_name": "Dr. Lia C Cruz",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [
+                        "DO"
+                    ],
+                    "url": "\/doctors\/1wsymw\/lia-cruz",
+                    "slug": "1wsymw\/lia-cruz"
+                },
+                "fields": {
+                    "distance": 2.6505233877427075
+                },
+                "sort": [
+                    2.650652621694334
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1xq58t_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1xq58t",
+                    "years_experience": 22,
+                    "city_state": "Camden, NJ",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Ala S Stanford",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1584045\/photo.jpg"
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Pediatric Surgery",
+                        "Surgery"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Ala_Frey.html",
+                            "slug": "Dr_Ala_Frey.html"
+                        }
+                    },
+                    "number_of_ratings": 19,
+                    "locations": [
+                        {
+                            "city_state": "Camden, NJ",
+                            "city": "Camden",
+                            "address1": "3 Cooper Plz Rm 518",
+                            "_geoloc": {
+                                "lng": -75.115767,
+                                "lat": 39.940903
+                            },
+                            "state": "NJ"
+                        },
+                        {
+                            "city_state": "Jenkintown, PA",
+                            "city": "Jenkintown",
+                            "address1": "1349 Meadowbrook Rd",
+                            "_geoloc": {
+                                "lng": -75.098084,
+                                "lat": 40.119033
+                            },
+                            "state": "PA"
+                        },
+                        {
+                            "city_state": "Manchester, NH",
+                            "city": "Manchester",
+                            "address1": "1 Elliot Way",
+                            "_geoloc": {
+                                "lng": -71.437325,
+                                "lat": 42.984139
+                            },
+                            "state": "NH"
+                        },
+                        {
+                            "city_state": "New Brunswick, NJ",
+                            "city": "New Brunswick",
+                            "address1": "254 Easton Ave",
+                            "_geoloc": {
+                                "lng": -74.460152,
+                                "lat": 40.500664
+                            },
+                            "state": "NJ"
+                        }
+                    ],
+                    "overall_rating": 4.175438596491227,
+                    "url": "\/doctors\/Dr_Ala_Frey.html",
+                    "slug": "Dr_Ala_Frey.html"
+                },
+                "fields": {
+                    "distance": 2.6505233877427075
+                },
+                "sort": [
+                    2.650652621694334
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1q9wjm_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1q9wjm",
+                    "years_experience": 34,
+                    "city_state": "Camden, NJ",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. John D Baxter",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1492237\/photo.jpg"
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Internal Medicine",
+                        "Infectious Disease"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_John_D_Baxter.html",
+                            "slug": "Dr_John_D_Baxter.html"
+                        }
+                    },
+                    "number_of_ratings": 1,
+                    "locations": [
+                        {
+                            "city_state": "Camden, NJ",
+                            "city": "Camden",
+                            "address1": "3 Cooper Plz",
+                            "_geoloc": {
+                                "lng": -75.115767,
+                                "lat": 39.940903
+                            },
+                            "state": "NJ"
+                        }
+                    ],
+                    "overall_rating": 5,
+                    "url": "\/doctors\/Dr_John_D_Baxter.html",
+                    "slug": "Dr_John_D_Baxter.html"
+                },
+                "fields": {
+                    "distance": 2.6505233877427075
+                },
+                "sort": [
+                    2.650652621694334
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1sb56x_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1sb56x",
+                    "years_experience": 28,
+                    "city_state": "Camden, NJ",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Michelle A Iavicoli",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Obstetrics and Gynecology"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Michelle_Iavicoli.html",
+                            "slug": "Dr_Michelle_Iavicoli.html"
+                        }
+                    },
+                    "number_of_ratings": 35,
+                    "locations": [
+                        {
+                            "city_state": "Cherry Hill, NJ",
+                            "city": "Cherry Hill",
+                            "address1": "1103 Kings Hwy N Ste 201",
+                            "_geoloc": {
+                                "lng": -75.002849,
+                                "lat": 39.919773
+                            },
+                            "state": "NJ"
+                        },
+                        {
+                            "city_state": "Camden, NJ",
+                            "city": "Camden",
+                            "address1": "3 Cooper Plz Rm 221",
+                            "_geoloc": {
+                                "lng": -75.115767,
+                                "lat": 39.940903
+                            },
+                            "state": "NJ"
+                        }
+                    ],
+                    "overall_rating": 2.961904761904762,
+                    "url": "\/doctors\/Dr_Michelle_Iavicoli.html",
+                    "slug": "Dr_Michelle_Iavicoli.html"
+                },
+                "fields": {
+                    "distance": 2.6505233877427075
+                },
+                "sort": [
+                    2.650652621694334
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1xjmnc_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1xjmnc",
+                    "years_experience": 12,
+                    "city_state": "Camden, NJ",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Nathan A Deckard",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Otolaryngology"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Nathan_Deckard.html",
+                            "slug": "Dr_Nathan_Deckard.html"
+                        }
+                    },
+                    "number_of_ratings": 1,
+                    "locations": [
+                        {
+                            "city_state": "Camden, NJ",
+                            "city": "Camden",
+                            "address1": "3 Cooper Plz Ste 404",
+                            "_geoloc": {
+                                "lng": -75.115767,
+                                "lat": 39.940903
+                            },
+                            "state": "NJ"
+                        },
+                        {
+                            "city_state": "Hagerstown, MD",
+                            "city": "Hagerstown",
+                            "address1": "1800 Dual Hwy Ste 303",
+                            "_geoloc": {
+                                "lng": -77.689223,
+                                "lat": 39.613564
+                            },
+                            "state": "MD"
+                        }
+                    ],
+                    "overall_rating": 5,
+                    "url": "\/doctors\/Dr_Nathan_Deckard.html",
+                    "slug": "Dr_Nathan_Deckard.html"
+                },
+                "fields": {
+                    "distance": 2.6505233877427075
+                },
+                "sort": [
+                    2.650652621694334
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1pgmpx_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1pgmpx",
+                    "years_experience": 23,
+                    "city_state": "Camden, NJ",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Frank W Bowen III",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Vascular Surgery",
+                        "Cardiovascular Disease"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Frank_Bowen.html",
+                            "slug": "Dr_Frank_Bowen.html"
+                        }
+                    },
+                    "number_of_ratings": 7,
+                    "locations": [
+                        {
+                            "city_state": "Camden, NJ",
+                            "city": "Camden",
+                            "address1": "3 Cooper Plz",
+                            "_geoloc": {
+                                "lng": -75.115767,
+                                "lat": 39.940903
+                            },
+                            "state": "NJ"
+                        }
+                    ],
+                    "overall_rating": 4.714285714285714,
+                    "url": "\/doctors\/Dr_Frank_Bowen.html",
+                    "slug": "Dr_Frank_Bowen.html"
+                },
+                "fields": {
+                    "distance": 2.6505233877427075
+                },
+                "sort": [
+                    2.650652621694334
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "zqxq03_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "zqxq03",
+                    "years_experience": 20,
+                    "city_state": "Camden, NJ",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Lisa M Reid",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Surgery"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Lisa_Reid.html",
+                            "slug": "Dr_Lisa_Reid.html"
+                        }
+                    },
+                    "number_of_ratings": 17,
+                    "locations": [
+                        {
+                            "city_state": "Camden, NJ",
+                            "city": "Camden",
+                            "address1": "3 Cooper Plz",
+                            "_geoloc": {
+                                "lng": -75.115767,
+                                "lat": 39.940903
+                            },
+                            "state": "NJ"
+                        }
+                    ],
+                    "overall_rating": 4.490196078431372,
+                    "url": "\/doctors\/Dr_Lisa_Reid.html",
+                    "slug": "Dr_Lisa_Reid.html"
+                },
+                "fields": {
+                    "distance": 2.6505233877427075
+                },
+                "sort": [
+                    2.650652621694334
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1z6bqr_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1z6bqr",
+                    "years_experience": 33,
+                    "city_state": "Camden, NJ",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Jeffrey P Carpenter",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Vascular Surgery"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Jeffrey_P_Carpenter.html",
+                            "slug": "Dr_Jeffrey_P_Carpenter.html"
+                        }
+                    },
+                    "number_of_ratings": 4,
+                    "locations": [
+                        {
+                            "city_state": "Camden, NJ",
+                            "city": "Camden",
+                            "address1": "3 Cooper Plz",
+                            "_geoloc": {
+                                "lng": -75.115767,
+                                "lat": 39.940903
+                            },
+                            "state": "NJ"
+                        }
+                    ],
+                    "overall_rating": 3.33333333333333,
+                    "url": "\/doctors\/Dr_Jeffrey_P_Carpenter.html",
+                    "slug": "Dr_Jeffrey_P_Carpenter.html"
+                },
+                "fields": {
+                    "distance": 2.6505233877427075
+                },
+                "sort": [
+                    2.650652621694334
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1s8xjc_doctor",
+                "_score": null,
+                "_source": {
+                    "display_type": "Doctor",
+                    "vpid": "1s8xjc",
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Robert_L_Hunter.html",
+                            "slug": "Dr_Robert_L_Hunter.html"
+                        }
+                    },
+                    "city_state": "Camden, NJ",
+                    "number_of_ratings": 3,
+                    "degree": "",
+                    "locations": [
+                        {
+                            "city_state": "Camden, NJ",
+                            "city": "Camden",
+                            "address1": "3 Cooper Plz Rm 221",
+                            "_geoloc": {
+                                "lng": -75.115767,
+                                "lat": 39.940903
+                            },
+                            "state": "NJ"
+                        }
+                    ],
+                    "overall_rating": 3.6666666666666665,
+                    "type": "doctor",
+                    "display_name": "Robert L Hunter",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [],
+                    "url": "\/doctors\/Dr_Robert_L_Hunter.html",
+                    "slug": "Dr_Robert_L_Hunter.html"
+                },
+                "fields": {
+                    "distance": 2.6505233877427075
+                },
+                "sort": [
+                    2.650652621694334
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1xnsfr_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1xnsfr",
+                    "years_experience": 22,
+                    "city_state": "Camden, NJ",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Kenneth W Graf Jr",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Orthopaedic Surgery"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Kenneth_Graf",
+                            "slug": "Dr_Kenneth_Graf"
+                        }
+                    },
+                    "number_of_ratings": 25,
+                    "locations": [
+                        {
+                            "city_state": "Camden, NJ",
+                            "city": "Camden",
+                            "address1": "3 Cooper Plz",
+                            "_geoloc": {
+                                "lng": -75.115767,
+                                "lat": 39.940903
+                            },
+                            "state": "NJ"
+                        },
+                        {
+                            "city_state": "Camden, NJ",
+                            "city": "Camden",
+                            "address1": "3 Cooper Plz",
+                            "_geoloc": {
+                                "lng": -75.115767,
+                                "lat": 39.940903
+                            },
+                            "state": "NJ"
+                        }
+                    ],
+                    "overall_rating": 4.64,
+                    "url": "\/doctors\/Dr_Kenneth_Graf",
+                    "slug": "Dr_Kenneth_Graf"
+                },
+                "fields": {
+                    "distance": 2.6505233877427075
+                },
+                "sort": [
+                    2.650652621694334
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1pwqmg_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1pwqmg",
+                    "city_state": "Camden, NJ",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Isadore G Ances",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Obstetrics and Gynecology"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_G_Ances.html",
+                            "slug": "Dr_G_Ances.html"
+                        }
+                    },
+                    "number_of_ratings": 15,
+                    "locations": [
+                        {
+                            "city_state": "Camden, NJ",
+                            "city": "Camden",
+                            "address1": "3 Cooper Plz",
+                            "_geoloc": {
+                                "lng": -75.115767,
+                                "lat": 39.940903
+                            },
+                            "state": "NJ"
+                        }
+                    ],
+                    "overall_rating": 4.177777777777779,
+                    "url": "\/doctors\/Dr_G_Ances.html",
+                    "slug": "Dr_G_Ances.html"
+                },
+                "fields": {
+                    "distance": 2.6505233877427075
+                },
+                "sort": [
+                    2.650652621694334
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1xx2qn_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1xx2qn",
+                    "years_experience": 17,
+                    "city_state": "Camden, NJ",
+                    "degree": "DO",
+                    "type": "doctor",
+                    "display_name": "Dr. Jonathan D Bussey",
+                    "photos": {
+                        "browse": {
+                            "host": "mdxvitals-res.cloudinary.com",
+                            "uri": "\/private_images\/%transform%\/professionals\/1862924\/photo.jpg"
+                        }
+                    },
+                    "degrees": [
+                        "DO"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Neurological Surgery"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Jonathan_Bussey.html",
+                            "slug": "Dr_Jonathan_Bussey.html"
+                        }
+                    },
+                    "number_of_ratings": 34,
+                    "locations": [
+                        {
+                            "city_state": "Marlton, NJ",
+                            "city": "Marlton",
+                            "address1": "750 Route 73 S Ste 301",
+                            "_geoloc": {
+                                "lng": -74.921653,
+                                "lat": 39.867883
+                            },
+                            "state": "NJ"
+                        },
+                        {
+                            "city_state": "Camden, NJ",
+                            "city": "Camden",
+                            "address1": "3 Cooper Plz",
+                            "_geoloc": {
+                                "lng": -75.115767,
+                                "lat": 39.940903
+                            },
+                            "state": "NJ"
+                        }
+                    ],
+                    "overall_rating": 4.1078431372549025,
+                    "url": "\/doctors\/Dr_Jonathan_Bussey.html",
+                    "slug": "Dr_Jonathan_Bussey.html"
+                },
+                "fields": {
+                    "distance": 2.6505233877427075
+                },
+                "sort": [
+                    2.650652621694334
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1skjjk_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1skjjk",
+                    "years_experience": 24,
+                    "city_state": "Camden, NJ",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Kristin L Brill",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Surgical Oncology",
+                        "Surgery"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Kristin_Brill.html",
+                            "slug": "Dr_Kristin_Brill.html"
+                        }
+                    },
+                    "number_of_ratings": 20,
+                    "locations": [
+                        {
+                            "city_state": "Camden, NJ",
+                            "city": "Camden",
+                            "address1": "3 Cooper Plz",
+                            "_geoloc": {
+                                "lng": -75.115767,
+                                "lat": 39.940903
+                            },
+                            "state": "NJ"
+                        }
+                    ],
+                    "overall_rating": 3.95,
+                    "url": "\/doctors\/Dr_Kristin_Brill.html",
+                    "slug": "Dr_Kristin_Brill.html"
+                },
+                "fields": {
+                    "distance": 2.6505233877427075
+                },
+                "sort": [
+                    2.650652621694334
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1td403_doctor",
+                "_score": null,
+                "_source": {
+                    "vpid": "1td403",
+                    "city_state": "Camden, NJ",
+                    "degree": "MD",
+                    "type": "doctor",
+                    "display_name": "Dr. Nicole M Leopardi",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Pediatrics"
+                    ],
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Nicole_Leopardi.html",
+                            "slug": "Dr_Nicole_Leopardi.html"
+                        }
+                    },
+                    "number_of_ratings": 3,
+                    "locations": [
+                        {
+                            "city_state": "Camden, NJ",
+                            "city": "Camden",
+                            "address1": "3 Cooper Plz",
+                            "_geoloc": {
+                                "lng": -75.115767,
+                                "lat": 39.940903
+                            },
+                            "state": "NJ"
+                        }
+                    ],
+                    "overall_rating": 4.666666666666667,
+                    "url": "\/doctors\/Dr_Nicole_Leopardi.html",
+                    "slug": "Dr_Nicole_Leopardi.html"
+                },
+                "fields": {
+                    "distance": 2.6505233877427075
+                },
+                "sort": [
+                    2.650652621694334
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1qhsqn_doctor",
+                "_score": null,
+                "_source": {
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Internal Medicine",
+                        "Hematology and Oncology"
+                    ],
+                    "vpid": "1qhsqn",
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Linda_Devereux.html",
+                            "slug": "Dr_Linda_Devereux.html"
+                        }
+                    },
+                    "years_experience": 45,
+                    "city_state": "Camden, NJ",
+                    "degree": "MD",
+                    "locations": [
+                        {
+                            "city_state": "Camden, NJ",
+                            "city": "Camden",
+                            "address1": "3 Cooper Plz",
+                            "_geoloc": {
+                                "lng": -75.115767,
+                                "lat": 39.940903
+                            },
+                            "state": "NJ"
+                        }
+                    ],
+                    "type": "doctor",
+                    "display_name": "Dr. Linda Devereux",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "url": "\/doctors\/Dr_Linda_Devereux.html",
+                    "slug": "Dr_Linda_Devereux.html"
+                },
+                "fields": {
+                    "distance": 2.6505233877427075
+                },
+                "sort": [
+                    2.650652621694334
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1qcwpr_doctor",
+                "_score": null,
+                "_source": {
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Psychiatry",
+                        "Neurology"
+                    ],
+                    "vpid": "1qcwpr",
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Ruksana_Iftekhar.html",
+                            "slug": "Dr_Ruksana_Iftekhar.html"
+                        }
+                    },
+                    "city_state": "Camden, NJ",
+                    "degree": "MD",
+                    "locations": [
+                        {
+                            "city_state": "Camden, NJ",
+                            "city": "Camden",
+                            "address1": "3 Cooper Plz",
+                            "_geoloc": {
+                                "lng": -75.115767,
+                                "lat": 39.940903
+                            },
+                            "state": "NJ"
+                        },
+                        {
+                            "city_state": "Camden, NJ",
+                            "city": "Camden",
+                            "address1": "Cooper Health System",
+                            "_geoloc": {
+                                "lng": -75.10824,
+                                "lat": 39.9315
+                            },
+                            "state": "NJ"
+                        }
+                    ],
+                    "type": "doctor",
+                    "display_name": "Dr. Ruksana Iftekhar",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "url": "\/doctors\/Dr_Ruksana_Iftekhar.html",
+                    "slug": "Dr_Ruksana_Iftekhar.html"
+                },
+                "fields": {
+                    "distance": 2.6505233877427075
+                },
+                "sort": [
+                    2.650652621694334
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1qmykf_doctor",
+                "_score": null,
+                "_source": {
+                    "display_type": "Doctor",
+                    "specialties": [
+                        "Neurology"
+                    ],
+                    "vpid": "1qmykf",
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Michael__Weston.html",
+                            "slug": "Dr_Michael__Weston.html"
+                        }
+                    },
+                    "city_state": "Camden, NJ",
+                    "degree": "MD",
+                    "locations": [
+                        {
+                            "city_state": "Camden, NJ",
+                            "city": "Camden",
+                            "address1": "3 Cooper Plz Rm 320",
+                            "_geoloc": {
+                                "lng": -75.115767,
+                                "lat": 39.940903
+                            },
+                            "state": "NJ"
+                        }
+                    ],
+                    "type": "doctor",
+                    "display_name": "Dr. Michael F Weston",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [
+                        "MD"
+                    ],
+                    "url": "\/doctors\/Dr_Michael__Weston.html",
+                    "slug": "Dr_Michael__Weston.html"
+                },
+                "fields": {
+                    "distance": 2.6505233877427075
+                },
+                "sort": [
+                    2.650652621694334
+                ]
+            },
+            {
+                "_index": "profile_1.1.0",
+                "_type": "provider",
+                "_id": "1s99ty_doctor",
+                "_score": null,
+                "_source": {
+                    "display_type": "Doctor",
+                    "vpid": "1s99ty",
+                    "site": {
+                        "vitals": {
+                            "url": "\/doctors\/Dr_Alan_Turtz.html",
+                            "slug": "Dr_Alan_Turtz.html"
+                        }
+                    },
+                    "city_state": "Camden, NJ",
+                    "number_of_ratings": 21,
+                    "degree": "",
+                    "locations": [
+                        {
+                            "city_state": "Camden, NJ",
+                            "city": "Camden",
+                            "address1": "3 Cooper Plz",
+                            "_geoloc": {
+                                "lng": -75.115767,
+                                "lat": 39.940903
+                            },
+                            "state": "NJ"
+                        }
+                    ],
+                    "overall_rating": 4.523809523809524,
+                    "type": "doctor",
+                    "display_name": "Alan R Turtz",
+                    "photos": {
+                        "browse": {
+                            "host": null,
+                            "uri": null
+                        }
+                    },
+                    "degrees": [],
+                    "url": "\/doctors\/Dr_Alan_Turtz.html",
+                    "slug": "Dr_Alan_Turtz.html"
+                },
+                "fields": {
+                    "distance": 2.6505233877427075
+                },
+                "sort": [
+                    2.650652621694334
+                ]
+            }
+        ]
+    },
+    "aggregations": {
+        "satisfaction.accurate_diagnosis": {
+            "buckets": {
+                "good": {
+                    "from": 3.5,
+                    "doc_count": 0
+                }
+            }
+        },
+        "overall_range": {
+            "doc_count": 7275
+        },
+        "satisfaction.bedside_manner": {
+            "buckets": {
+                "good": {
+                    "from": 3.5,
+                    "doc_count": 0
+                }
+            }
+        },
+        "satisfaction.punctuality": {
+            "buckets": {
+                "good": {
+                    "from": 3.5,
+                    "doc_count": 0
+                }
+            }
+        },
+        "display_types": {
+            "doc_count_error_upper_bound": 0,
+            "sum_other_doc_count": 0,
+            "buckets": [
+                {
+                    "key": "Doctor",
+                    "doc_count": 9616
+                },
+                {
+                    "key": "Group Practice",
+                    "doc_count": 680
+                },
+                {
+                    "key": "Chiropractor",
+                    "doc_count": 371
+                },
+                {
+                    "key": "Podiatrist",
+                    "doc_count": 310
+                },
+                {
+                    "key": "Optometrist",
+                    "doc_count": 292
+                },
+                {
+                    "key": "Psychologist",
+                    "doc_count": 279
+                },
+                {
+                    "key": "Dentist",
+                    "doc_count": 60
+                },
+                {
+                    "key": "Hospital",
+                    "doc_count": 26
+                },
+                {
+                    "key": "Nursing Home",
+                    "doc_count": 2
+                },
+                {
+                    "key": "Cancer Center",
+                    "doc_count": 1
+                },
+                {
+                    "key": "Pharmacy",
+                    "doc_count": 1
+                }
+            ]
+        },
+        "insurance_companies": {
+            "doc_count_error_upper_bound": 0,
+            "sum_other_doc_count": 0,
+            "buckets": [
+                {
+                    "key": "Aetna",
+                    "doc_count": 11304
+                },
+                {
+                    "key": "United Healthcare",
+                    "doc_count": 10301
+                },
+                {
+                    "key": "BCBS Blue Card",
+                    "doc_count": 9724
+                },
+                {
+                    "key": "IBC",
+                    "doc_count": 9616
+                },
+                {
+                    "key": "Cigna",
+                    "doc_count": 8995
+                },
+                {
+                    "key": "Coventry Health Care",
+                    "doc_count": 8567
+                },
+                {
+                    "key": "Multiplan",
+                    "doc_count": 7792
+                },
+                {
+                    "key": "Humana",
+                    "doc_count": 5854
+                },
+                {
+                    "key": "Capital Blue Cross",
+                    "doc_count": 5649
+                },
+                {
+                    "key": "Horizon BCBS",
+                    "doc_count": 5553
+                },
+                {
+                    "key": "First Health",
+                    "doc_count": 5330
+                },
+                {
+                    "key": "QualCare",
+                    "doc_count": 4110
+                },
+                {
+                    "key": "Geisinger Health Plan",
+                    "doc_count": 2742
+                },
+                {
+                    "key": "Oxford Health",
+                    "doc_count": 1840
+                },
+                {
+                    "key": "HIP of NY",
+                    "doc_count": 1484
+                },
+                {
+                    "key": "UPMC Health Plan",
+                    "doc_count": 320
+                },
+                {
+                    "key": "CareFirst BCBS",
+                    "doc_count": 288
+                },
+                {
+                    "key": "Highmark BCBS",
+                    "doc_count": 265
+                },
+                {
+                    "key": "Empire BCBS",
+                    "doc_count": 140
+                },
+                {
+                    "key": "Anthem",
+                    "doc_count": 115
+                },
+                {
+                    "key": "Capital District Physicians Health Plan",
+                    "doc_count": 104
+                },
+                {
+                    "key": "BCBS Massachusetts",
+                    "doc_count": 90
+                },
+                {
+                    "key": "Connecticare",
+                    "doc_count": 69
+                },
+                {
+                    "key": "BCBS Illinois",
+                    "doc_count": 62
+                },
+                {
+                    "key": "Assurant",
+                    "doc_count": 56
+                },
+                {
+                    "key": "Guardian Dental",
+                    "doc_count": 55
+                },
+                {
+                    "key": "Principal Dental",
+                    "doc_count": 53
+                },
+                {
+                    "key": "Cigna Dental",
+                    "doc_count": 51
+                },
+                {
+                    "key": "Delta Dental",
+                    "doc_count": 51
+                },
+                {
+                    "key": "United Concordia",
+                    "doc_count": 51
+                },
+                {
+                    "key": "Ameritas",
+                    "doc_count": 49
+                },
+                {
+                    "key": "Dental Network of America",
+                    "doc_count": 49
+                },
+                {
+                    "key": "MetLife",
+                    "doc_count": 47
+                },
+                {
+                    "key": "DenteMax",
+                    "doc_count": 44
+                },
+                {
+                    "key": "MVP Health Plan",
+                    "doc_count": 44
+                },
+                {
+                    "key": "United Healthcare Dental",
+                    "doc_count": 44
+                },
+                {
+                    "key": "CompBenefits",
+                    "doc_count": 39
+                },
+                {
+                    "key": "Harvard Pilgrim",
+                    "doc_count": 39
+                },
+                {
+                    "key": "Humana Dental",
+                    "doc_count": 38
+                },
+                {
+                    "key": "HealthFirst NY",
+                    "doc_count": 36
+                },
+                {
+                    "key": "Blue Cross California",
+                    "doc_count": 31
+                },
+                {
+                    "key": "BCBS Florida",
+                    "doc_count": 28
+                },
+                {
+                    "key": "Medical Mutual of Ohio",
+                    "doc_count": 28
+                },
+                {
+                    "key": "Health Net",
+                    "doc_count": 26
+                },
+                {
+                    "key": "Tufts Health Plan",
+                    "doc_count": 26
+                },
+                {
+                    "key": "Emblem Health",
+                    "doc_count": 23
+                },
+                {
+                    "key": "Excellus BCBS",
+                    "doc_count": 23
+                },
+                {
+                    "key": "AvMed Health",
+                    "doc_count": 17
+                },
+                {
+                    "key": "Regence Health Plans",
+                    "doc_count": 17
+                },
+                {
+                    "key": "Sagamore Health",
+                    "doc_count": 17
+                },
+                {
+                    "key": "UHC of the River Valley",
+                    "doc_count": 17
+                },
+                {
+                    "key": "Blue Shield California",
+                    "doc_count": 16
+                },
+                {
+                    "key": "ODS",
+                    "doc_count": 14
+                },
+                {
+                    "key": "Premera",
+                    "doc_count": 14
+                },
+                {
+                    "key": "Independent Health",
+                    "doc_count": 13
+                },
+                {
+                    "key": "BCBS Texas",
+                    "doc_count": 12
+                },
+                {
+                    "key": "SIHO Insurance Services",
+                    "doc_count": 12
+                },
+                {
+                    "key": "HealthSpan",
+                    "doc_count": 11
+                },
+                {
+                    "key": "BCBS North Carolina",
+                    "doc_count": 10
+                },
+                {
+                    "key": "Optima Health",
+                    "doc_count": 10
+                },
+                {
+                    "key": "BCBS Georgia",
+                    "doc_count": 9
+                },
+                {
+                    "key": "Centene",
+                    "doc_count": 9
+                },
+                {
+                    "key": "HealthLink",
+                    "doc_count": 9
+                },
+                {
+                    "key": "BCBS Michigan",
+                    "doc_count": 8
+                },
+                {
+                    "key": "Encore Health Network",
+                    "doc_count": 8
+                },
+                {
+                    "key": "Ambetter Superior Health Plan",
+                    "doc_count": 7
+                },
+                {
+                    "key": "BCBS Rhode Island",
+                    "doc_count": 7
+                },
+                {
+                    "key": "PriorityHealth",
+                    "doc_count": 7
+                },
+                {
+                    "key": "Aetna Innovation Health",
+                    "doc_count": 6
+                },
+                {
+                    "key": "Health Alliance",
+                    "doc_count": 6
+                },
+                {
+                    "key": "Premier Health Plan",
+                    "doc_count": 6
+                },
+                {
+                    "key": "Wellmark",
+                    "doc_count": 6
+                },
+                {
+                    "key": "BCBS South Carolina",
+                    "doc_count": 5
+                },
+                {
+                    "key": "Healthy Connecticut",
+                    "doc_count": 5
+                },
+                {
+                    "key": "PHP Northern IN",
+                    "doc_count": 5
+                },
+                {
+                    "key": "SummaCare",
+                    "doc_count": 5
+                },
+                {
+                    "key": "WPS",
+                    "doc_count": 5
+                },
+                {
+                    "key": "Altius",
+                    "doc_count": 4
+                },
+                {
+                    "key": "BCBS Kansas City",
+                    "doc_count": 4
+                },
+                {
+                    "key": "BCBS Minnesota",
+                    "doc_count": 4
+                },
+                {
+                    "key": "Common Ground",
+                    "doc_count": 4
+                },
+                {
+                    "key": "HAP",
+                    "doc_count": 4
+                },
+                {
+                    "key": "Molina Healthcare",
+                    "doc_count": 4
+                },
+                {
+                    "key": "PacificSource",
+                    "doc_count": 4
+                },
+                {
+                    "key": "SelectHealth",
+                    "doc_count": 4
+                },
+                {
+                    "key": "BCBS Tennessee",
+                    "doc_count": 3
+                },
+                {
+                    "key": "Providence Health System",
+                    "doc_count": 3
+                },
+                {
+                    "key": "The Health Plan of Upper OH",
+                    "doc_count": 3
+                },
+                {
+                    "key": "BCBS Alabama",
+                    "doc_count": 2
+                },
+                {
+                    "key": "BCBS New Mexico",
+                    "doc_count": 2
+                },
+                {
+                    "key": "HealthPartners - MN",
+                    "doc_count": 2
+                },
+                {
+                    "key": "Indiana University",
+                    "doc_count": 2
+                },
+                {
+                    "key": "Preferred One",
+                    "doc_count": 2
+                },
+                {
+                    "key": "Presbyterian",
+                    "doc_count": 2
+                },
+                {
+                    "key": "Aultcare",
+                    "doc_count": 1
+                },
+                {
+                    "key": "BCBS Louisiana",
+                    "doc_count": 1
+                },
+                {
+                    "key": "BCBS Oklahoma",
+                    "doc_count": 1
+                },
+                {
+                    "key": "FirstCare",
+                    "doc_count": 1
+                },
+                {
+                    "key": "FrontPath Health Coalition",
+                    "doc_count": 1
+                },
+                {
+                    "key": "Group Health Coop",
+                    "doc_count": 1
+                },
+                {
+                    "key": "Gundersen Health Plan",
+                    "doc_count": 1
+                },
+                {
+                    "key": "Health Plan of Nevada",
+                    "doc_count": 1
+                },
+                {
+                    "key": "Kaiser - MidAtlantic",
+                    "doc_count": 1
+                },
+                {
+                    "key": "LA Care Health",
+                    "doc_count": 1
+                },
+                {
+                    "key": "Network Health Plan",
+                    "doc_count": 1
+                },
+                {
+                    "key": "One Health Network",
+                    "doc_count": 1
+                },
+                {
+                    "key": "Paramount",
+                    "doc_count": 1
+                },
+                {
+                    "key": "Qualchoice",
+                    "doc_count": 1
+                },
+                {
+                    "key": "Scion Dental",
+                    "doc_count": 1
+                },
+                {
+                    "key": "Sierra Health",
+                    "doc_count": 1
+                }
+            ]
+        },
+        "ratings": {
+            "buckets": [
+                {
+                    "key": "any",
+                    "doc_count": 9616
+                },
+                {
+                    "key": "3",
+                    "from": 3,
+                    "doc_count": 6688
+                },
+                {
+                    "key": "4",
+                    "from": 4,
+                    "doc_count": 4779
+                },
+                {
+                    "key": "5",
+                    "from": 5,
+                    "doc_count": 1531
+                }
+            ]
+        },
+        "experience_range": {
+            "buckets": [
+                {
+                    "key": "Any",
+                    "doc_count": 9616
+                },
+                {
+                    "key": "0 - 5",
+                    "from": 0,
+                    "to": 6,
+                    "doc_count": 0
+                },
+                {
+                    "key": "5 - 10",
+                    "from": 5,
+                    "to": 11,
+                    "doc_count": 608
+                },
+                {
+                    "key": "11 - 15",
+                    "from": 11,
+                    "to": 16,
+                    "doc_count": 921
+                },
+                {
+                    "key": "16 - 20",
+                    "from": 16,
+                    "to": 21,
+                    "doc_count": 1028
+                },
+                {
+                    "key": "21 - 25",
+                    "from": 21,
+                    "to": 26,
+                    "doc_count": 883
+                },
+                {
+                    "key": "26 - 30",
+                    "from": 26,
+                    "to": 31,
+                    "doc_count": 760
+                },
+                {
+                    "key": "30+",
+                    "from": 30,
+                    "doc_count": 2900
+                }
+            ]
+        }
+    },
+    "status": 200,
+    "distanceLimitedNothingFound": false,
+    "query": "",
+    "radiusUsed": 25,
+    "reqNo": "1",
+    "sponsors": [
+        {
+            "campaign_name": "webmd_ep",
+            "targeting": {
+                "locations": [
+                    {
+                        "city_state": "Philadelphia, PA",
+                        "geopoint": [
+                            [
+                                -75.160429,
+                                39.94866
+                            ]
+                        ]
+                    }
+                ],
+                "sponsor_id": "xx"
+            },
+            "search": {
+                "search_city_state": "Philadelphia, PA",
+                "search_specialties": "General Dentistry",
+                "locations": [
+                    {
+                        "city_state": "Philadelphia, PA",
+                        "geopoint": [
+                            [
+                                -75.160429,
+                                39.94866
+                            ]
+                        ]
+                    }
+                ],
+                "display_name": "Shireen  Malik"
+            },
+            "npi": "1518135805",
+            "external_id": "D83325",
+            "campaign_features": [
+                {
+                    "feature_name": "serp",
+                    "feature_config": {
+                        "specialty": "General Dentistry",
+                        "webmdSpecialtyId": [
+                            29245
+                        ],
+                        "city_state": "Philadelphia, PA",
+                        "profile_url": "\/dentists\/Dr_Shireen_Malik",
+                        "type": "dentist",
+                        "display_name": "Shireen  Malik",
+                        "photos": {
+                            "host": null,
+                            "uri": null
+                        },
+                        "ctas": {
+                            "appointment_url": "https:\/\/appointments.webmd.com\/path\/wmd-path1\/61fbb52a-c844-4904-ad23-dcc296781461"
+                        },
+                        "degrees": [
+                            "DDS"
+                        ],
+                        "display_type": "Dentist",
+                        "vitalsSpecialtyId": [
+                            294,
+                            296,
+                            297,
+                            300,
+                            303,
+                            306,
+                            307
+                        ],
+                        "specialties": [
+                            "General Dentistry"
+                        ],
+                        "number_of_ratings": 13,
+                        "company_name": null,
+                        "overall_rating": 4.3076923076923075
+                    }
+                }
+            ],
+            "url": "\/dentists\/Dr_Shireen_Malik",
+            "city_state": "Philadelphia, PA",
+            "geopoint": [
+                [
+                    -75.160429,
+                    39.94866
+                ]
+            ],
+            "geo_points": [
+                -75.160429,
+                39.94866
+            ],
+            "distance": 0.3
+        },
+        {
+            "campaign_name": "webmd_ep",
+            "targeting": {
+                "locations": [
+                    {
+                        "city_state": "Philadelphia, PA",
+                        "geopoint": [
+                            [
+                                -75.1741,
+                                39.9527
+                            ]
+                        ]
+                    },
+                    {
+                        "city_state": "Upper Darby, PA",
+                        "geopoint": [
+                            [
+                                -75.2629,
+                                39.9591
+                            ]
+                        ]
+                    }
+                ],
+                "sponsor_id": "xx"
+            },
+            "search": {
+                "search_city_state": "Philadelphia, PA Upper Darby, PA",
+                "search_specialties": "Addiction Medicine Physical Medicine\/Rehab Spec",
+                "locations": [
+                    {
+                        "city_state": "Philadelphia, PA",
+                        "geopoint": [
+                            [
+                                -75.1741,
+                                39.9527
+                            ]
+                        ]
+                    },
+                    {
+                        "city_state": "Upper Darby, PA",
+                        "geopoint": [
+                            [
+                                -75.2629,
+                                39.9591
+                            ]
+                        ]
+                    }
+                ],
+                "display_name": "Denis A Boyle Jr"
+            },
+            "npi": "1205920287",
+            "external_id": "153875",
+            "campaign_features": [
+                {
+                    "feature_name": "serp",
+                    "feature_config": {
+                        "specialty": "Addiction Medicine",
+                        "webmdSpecialtyId": [
+                            29230,
+                            29309
+                        ],
+                        "city_state": "Philadelphia, PA",
+                        "profile_url": "\/doctors\/Dr_Denis_Boyle.html",
+                        "type": "doctor",
+                        "display_name": "Denis A Boyle Jr",
+                        "photos": {
+                            "host": null,
+                            "uri": null
+                        },
+                        "ctas": {
+                            "appointment_url": "https:\/\/appointments.webmd.com\/path\/wmd-path1\/fb31da85-feb0-4bf4-9dc3-01678cfc8276"
+                        },
+                        "degrees": [
+                            "MD"
+                        ],
+                        "display_type": "Doctor",
+                        "vitalsSpecialtyId": [
+                            5,
+                            23,
+                            31,
+                            141,
+                            124,
+                            126,
+                            127,
+                            2018
+                        ],
+                        "specialties": [
+                            "Addiction Medicine",
+                            "Physical Medicine\/Rehab Spec"
+                        ],
+                        "number_of_ratings": 4,
+                        "company_name": null,
+                        "overall_rating": 5
+                    }
+                }
+            ],
+            "url": "\/doctors\/Dr_Denis_Boyle.html",
+            "city_state": "Philadelphia, PA",
+            "geopoint": [
+                [
+                    -75.1741,
+                    39.9527
+                ]
+            ],
+            "geo_points": [
+                -75.1741,
+                39.9527
+            ],
+            "distance": 0.6
+        },
+        {
+            "campaign_name": "webmd_ep",
+            "targeting": {
+                "locations": [
+                    {
+                        "city_state": "Ridley Park, PA",
+                        "geopoint": [
+                            [
+                                -75.3212,
+                                39.8791
+                            ]
+                        ]
+                    }
+                ],
+                "sponsor_id": "xx"
+            },
+            "search": {
+                "search_city_state": "Ridley Park, PA",
+                "search_specialties": "Family Practitioner Internal Medicine",
+                "locations": [
+                    {
+                        "city_state": "Ridley Park, PA",
+                        "geopoint": [
+                            [
+                                -75.3212,
+                                39.8791
+                            ]
+                        ]
+                    }
+                ],
+                "display_name": "Neeraj Tripathy"
+            },
+            "npi": "1972660975",
+            "external_id": "6302324",
+            "campaign_features": [
+                {
+                    "feature_name": "serp",
+                    "feature_config": {
+                        "specialty": "Family Practitioner",
+                        "webmdSpecialtyId": [
+                            29259,
+                            29277
+                        ],
+                        "city_state": "Ridley Park, PA",
+                        "profile_url": "\/doctors\/Dr_Neeraj_Tripathy.html",
+                        "type": "doctor",
+                        "display_name": "Neeraj Tripathy",
+                        "photos": {
+                            "host": null,
+                            "uri": null
+                        },
+                        "ctas": {
+                            "appointment_url": "https:\/\/appointments.webmd.com\/path\/wmd-path1\/e5a7bcd3-e5c7-416a-b7ab-65f40d7e3015"
+                        },
+                        "degrees": [
+                            "MD"
+                        ],
+                        "display_type": "Doctor",
+                        "vitalsSpecialtyId": [
+                            22,
+                            25,
+                            26,
+                            479,
+                            667,
+                            30,
+                            36,
+                            42,
+                            672,
+                            2005
+                        ],
+                        "specialties": [
+                            "Family Practitioner",
+                            "Internal Medicine"
+                        ],
+                        "number_of_ratings": 12,
+                        "company_name": null,
+                        "overall_rating": 4.63888888888889
+                    }
+                }
+            ],
+            "url": "\/doctors\/Dr_Neeraj_Tripathy.html",
+            "city_state": "Ridley Park, PA",
+            "geopoint": [
+                [
+                    -75.3212,
+                    39.8791
+                ]
+            ],
+            "geo_points": [
+                -75.3212,
+                39.8791
+            ],
+            "distance": 9.7
+        }
+    ]
+}
